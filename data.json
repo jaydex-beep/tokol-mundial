@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "Radar de partidos — Mundial 2026",
+    "timezone": "America/Mexico_City",
+    "lastUpdated": "2026-06-29T13:45:00-06:00",
+    "refreshSeconds": 60,
+    "sourceNote": "Datos de demostración basados en el último análisis de esta conversación. Confirma cuotas y alineaciones antes de apostar."
+  },
+  "matches": [
+    {
+      "id": "bra-jpn-20260629",
+      "teams": [
+        "Brasil",
+        "Japón"
+      ],
+      "kickoff": "2026-06-29T11:00:00-06:00",
+      "status": "En vivo",
+      "score": "1–1",
+      "classification": "evitar",
+      "market": "Clasifica",
+      "odds": [
+        {
+          "book": "Referencia mercado",
+          "home": "-310",
+          "away": "+240"
+        }
+      ],
+      "probability": {
+        "home": 72.0,
+        "away": 28.0
+      },
+      "reasonsFor": [
+        "Brasil conserva mayor profundidad y calidad individual.",
+        "La cuota de clasificación refleja favoritismo fuerte."
+      ],
+      "reasonsAgainst": [
+        "El partido ya está en vivo y cambió respecto al análisis previo.",
+        "Entrar tarde puede significar aceptar una cuota sin valor.",
+        "Japón ha mostrado capacidad para defender y competir."
+      ],
+      "injuries": [
+        "Brasil: Raphinha reportado con lesión; Neymar en recuperación.",
+        "Japón: Kubo con molestias de tobillo."
+      ],
+      "lineups": "Consulta la fuente en vivo antes de apostar.",
+      "form": "Partido en curso; la forma previa ya no basta para decidir.",
+      "marketChange": "Cambio significativo: marcador 1–1 en vivo."
+    },
+    {
+      "id": "ger-par-20260629",
+      "teams": [
+        "Alemania",
+        "Paraguay"
+      ],
+      "kickoff": "2026-06-29T14:30:00-06:00",
+      "status": "Próximo",
+      "classification": "esperar",
+      "market": "Clasifica",
+      "odds": [
+        {
+          "book": "Referencia mercado",
+          "home": "-750",
+          "away": "+490"
+        }
+      ],
+      "probability": {
+        "home": 83.9,
+        "away": 16.1
+      },
+      "reasonsFor": [
+        "Alemania tiene mayor profundidad ofensiva.",
+        "Paraguay produjo poco gol en la fase de grupos."
+      ],
+      "reasonsAgainst": [
+        "La cuota de Alemania es demasiado baja para tomarla como valor automático.",
+        "Una selección tan favorita puede aportar poco a un parlay y mantener riesgo real."
+      ],
+      "injuries": [
+        "Alemania: Nico Schlotterbeck ausente.",
+        "Paraguay: Diego Gómez suspendido; Alderete con duda física."
+      ],
+      "lineups": "Esperar confirmación oficial.",
+      "form": "Alemania llega como favorita amplia; Paraguay necesita un partido cerrado.",
+      "marketChange": "Sin cambio fuerte confirmado en esta muestra."
+    },
+    {
+      "id": "ned-mar-20260629",
+      "teams": [
+        "Países Bajos",
+        "Marruecos"
+      ],
+      "kickoff": "2026-06-29T19:00:00-06:00",
+      "status": "Próximo",
+      "classification": "considerar",
+      "market": "Clasifica",
+      "odds": [
+        {
+          "book": "Referencia mercado",
+          "home": "-156",
+          "away": "+128"
+        }
+      ],
+      "probability": {
+        "home": 58.1,
+        "away": 41.9
+      },
+      "reasonsFor": [
+        "Es un mercado más equilibrado y permite comparar valor real.",
+        "Países Bajos posee mayor capacidad ofensiva."
+      ],
+      "reasonsAgainst": [
+        "Marruecos llega competitivo y puede castigar una defensa adelantada.",
+        "No es un favorito suficientemente fuerte para llamarlo seguro."
+      ],
+      "injuries": [
+        "Revisar reporte final antes del inicio."
+      ],
+      "lineups": "Esperar alineaciones confirmadas.",
+      "form": "Marruecos llega con buen rendimiento colectivo; Países Bajos con mejor producción ofensiva.",
+      "marketChange": "Vigilar si la cuota neerlandesa baja demasiado."
+    },
+    {
+      "id": "civ-nor-20260630",
+      "teams": [
+        "Costa de Marfil",
+        "Noruega"
+      ],
+      "kickoff": "2026-06-30T11:00:00-06:00",
+      "status": "Próximo",
+      "classification": "esperar",
+      "market": "Clasifica",
+      "odds": [
+        {
+          "book": "Referencia mercado",
+          "home": "+152",
+          "away": "-186"
+        }
+      ],
+      "probability": {
+        "home": 37.9,
+        "away": 62.1
+      },
+      "reasonsFor": [
+        "Noruega parte como favorita y tiene mayor amenaza ofensiva."
+      ],
+      "reasonsAgainst": [
+        "62% no es suficiente para usarla como selección segura.",
+        "Conviene esperar titulares y cualquier cambio de cuota."
+      ],
+      "injuries": [
+        "Revisar bajas oficiales el día del partido."
+      ],
+      "lineups": "No confirmadas en esta muestra.",
+      "form": "Noruega favorita moderada; Costa de Marfil mantiene probabilidad real de sorpresa.",
+      "marketChange": "Esperar movimiento cercano a la alineación."
+    },
+    {
+      "id": "fra-swe-20260630",
+      "teams": [
+        "Francia",
+        "Suecia"
+      ],
+      "kickoff": "2026-06-30T15:00:00-06:00",
+      "status": "Próximo",
+      "classification": "evitar",
+      "market": "Clasifica",
+      "odds": [
+        {
+          "book": "Referencia mercado",
+          "home": "-1000",
+          "away": "+620"
+        }
+      ],
+      "probability": {
+        "home": 86.7,
+        "away": 13.3
+      },
+      "reasonsFor": [
+        "Francia es favorita muy amplia por calidad y profundidad."
+      ],
+      "reasonsAgainst": [
+        "La cuota ofrece retorno bajo frente al riesgo residual.",
+        "Agregarla a un parlay no elimina el peligro de una sorpresa."
+      ],
+      "injuries": [
+        "Esperar reporte médico y rotaciones."
+      ],
+      "lineups": "No confirmadas en esta muestra.",
+      "form": "Partido potencialmente abierto; la defensa y las rotaciones pueden cambiar el mercado.",
+      "marketChange": "La cuota francesa ya está muy comprimida."
+    },
+    {
+      "id": "mex-ecu-20260630",
+      "teams": [
+        "México",
+        "Ecuador"
+      ],
+      "kickoff": "2026-06-30T19:00:00-06:00",
+      "status": "Próximo",
+      "classification": "esperar",
+      "market": "Clasifica",
+      "odds": [
+        {
+          "book": "Referencia mercado",
+          "home": "-182",
+          "away": "+148"
+        }
+      ],
+      "probability": {
+        "home": 61.5,
+        "away": 38.5
+      },
+      "reasonsFor": [
+        "México juega como local y llega con mejor defensa reciente.",
+        "El mercado le concede ventaja moderada para avanzar."
+      ],
+      "reasonsAgainst": [
+        "Ecuador tiene suficiente calidad para convertir el partido en uno cerrado.",
+        "La cuota puede no compensar el riesgo si cae demasiado."
+      ],
+      "injuries": [
+        "Confirmar bajas y estado de titulares antes del inicio."
+      ],
+      "lineups": "Esperar alineaciones oficiales.",
+      "form": "México llega invicto en la muestra analizada; Ecuador viene de mostrar capacidad de remontada.",
+      "marketChange": "Considerar solo si la cuota mejora; evitar perseguir una caída del precio."
+    }
+  ]
+}

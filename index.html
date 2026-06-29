@@ -1,0 +1,397 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b1220" />
+  <title>Radar de partidos — Mundial 2026</title>
+  <style>
+    :root{
+      --bg:#08111f;--panel:#101c2f;--panel2:#15243a;--text:#f6f8fb;--muted:#a9b4c5;
+      --line:#263750;--accent:#46d39a;--warn:#ffca62;--danger:#ff7c7c;--info:#78a9ff;
+      --shadow:0 18px 50px rgba(0,0,0,.28);--radius:20px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:linear-gradient(180deg,#07101d,#0b1626 45%,#08111f);color:var(--text);
+      font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+    button,input,select{font:inherit}
+    .wrap{max-width:1180px;margin:auto;padding:24px}
+    header{display:grid;grid-template-columns:1fr auto;gap:18px;align-items:end;margin:18px 0 24px}
+    h1{font-size:clamp(1.8rem,4vw,3.5rem);line-height:1;margin:0 0 10px}
+    .subtitle{color:var(--muted);max-width:760px;line-height:1.55}
+    .toolbar{display:flex;flex-wrap:wrap;gap:10px;justify-content:flex-end}
+    .btn,.control{border:1px solid var(--line);background:rgba(21,36,58,.9);color:var(--text);
+      padding:11px 14px;border-radius:12px}
+    .btn{cursor:pointer}
+    .btn:hover,.btn:focus{border-color:var(--accent);outline:none}
+    .summary{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:20px 0}
+    .metric{background:rgba(16,28,47,.84);border:1px solid var(--line);border-radius:16px;padding:16px}
+    .metric b{font-size:1.65rem;display:block}.metric span{color:var(--muted);font-size:.92rem}
+    .notice{border:1px solid #67542b;background:#2a2415;color:#f7e9bd;padding:14px 16px;border-radius:14px;margin:16px 0}
+    .filters{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 24px}
+    .filters input{min-width:240px;flex:1}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+    .card{background:linear-gradient(180deg,rgba(21,36,58,.98),rgba(12,24,41,.98));
+      border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
+    .topline{display:flex;justify-content:space-between;gap:14px;align-items:flex-start}
+    .teams{font-size:1.25rem;font-weight:800}.meta{color:var(--muted);font-size:.9rem;margin-top:4px}
+    .badge{font-weight:800;text-transform:uppercase;font-size:.72rem;letter-spacing:.07em;padding:7px 10px;border-radius:999px;white-space:nowrap}
+    .considerar{background:rgba(70,211,154,.16);color:#8af0c3;border:1px solid rgba(70,211,154,.4)}
+    .esperar{background:rgba(255,202,98,.14);color:#ffe2a2;border:1px solid rgba(255,202,98,.4)}
+    .evitar{background:rgba(255,124,124,.14);color:#ffaaaa;border:1px solid rgba(255,124,124,.4)}
+    .prob{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:16px 0}
+    .prob.three{grid-template-columns:repeat(3,1fr)}
+    .prob div{background:#0b1729;border:1px solid var(--line);border-radius:13px;padding:12px}
+    .prob strong{font-size:1.35rem;display:block}.prob small{color:var(--muted)}
+    details{border-top:1px solid var(--line);padding-top:12px;margin-top:12px}
+    summary{cursor:pointer;font-weight:750}
+    ul{padding-left:19px;color:#d9e0ea;line-height:1.48}
+    .section-title{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:15px}
+    .books{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+    .book{background:#0a1627;border:1px solid var(--line);border-radius:10px;padding:8px 10px;font-size:.86rem}
+    footer{color:var(--muted);font-size:.88rem;line-height:1.5;margin:28px 0 10px}
+    .empty{grid-column:1/-1;border:1px dashed var(--line);border-radius:16px;padding:30px;text-align:center;color:var(--muted)}
+
+    /* Tokol: asistente local sin claves externas */
+    .tokol-launcher{
+      position:fixed;right:20px;bottom:20px;z-index:60;border:0;border-radius:999px;
+      background:var(--accent);color:#052016;font-weight:900;padding:14px 18px;
+      box-shadow:0 18px 45px rgba(0,0,0,.36);cursor:pointer
+    }
+    .tokol-launcher:focus,.tokol-launcher:hover{outline:3px solid rgba(70,211,154,.28)}
+    .tokol-panel{
+      position:fixed;right:20px;bottom:82px;z-index:59;width:min(390px,calc(100vw - 24px));
+      max-height:min(650px,calc(100vh - 110px));display:none;grid-template-rows:auto 1fr auto;
+      border:1px solid var(--line);border-radius:20px;background:#0b1729;
+      box-shadow:0 24px 80px rgba(0,0,0,.55);overflow:hidden
+    }
+    .tokol-panel.open{display:grid}
+    .tokol-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 16px;background:#13243a;border-bottom:1px solid var(--line)}
+    .tokol-name{font-weight:900}.tokol-sub{font-size:.78rem;color:var(--muted);margin-top:2px}
+    .tokol-close{border:0;background:transparent;color:var(--text);font-size:1.35rem;cursor:pointer}
+    .tokol-messages{padding:14px;overflow:auto;display:flex;flex-direction:column;gap:10px;scroll-behavior:smooth}
+    .tokol-msg{max-width:88%;padding:11px 12px;border-radius:14px;line-height:1.42;white-space:pre-wrap;font-size:.92rem}
+    .tokol-msg.bot{align-self:flex-start;background:#172943;border:1px solid #294261}
+    .tokol-msg.user{align-self:flex-end;background:#174532;border:1px solid #28634c}
+    .tokol-quick{display:flex;gap:7px;overflow:auto;padding:0 14px 10px}
+    .tokol-chip{border:1px solid var(--line);background:#12223a;color:var(--text);border-radius:999px;padding:8px 10px;white-space:nowrap;cursor:pointer;font-size:.8rem}
+    .tokol-form{display:grid;grid-template-columns:1fr auto;gap:8px;padding:12px;border-top:1px solid var(--line);background:#0a1424}
+    .tokol-input{min-width:0;border:1px solid var(--line);background:#101d31;color:var(--text);border-radius:12px;padding:11px}
+    .tokol-send{border:0;border-radius:12px;background:var(--accent);color:#052016;font-weight:900;padding:0 14px;cursor:pointer}
+    .tokol-note{font-size:.73rem;color:var(--muted);padding:0 14px 10px;background:#0a1424}
+
+    @media(max-width:780px){
+      .wrap{padding:16px}header{grid-template-columns:1fr}.toolbar{justify-content:flex-start}
+      .summary{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}
+      .filters{position:sticky;top:0;background:rgba(8,17,31,.94);backdrop-filter:blur(12px);padding:10px 0;z-index:10}
+      .tokol-launcher{right:12px;bottom:12px}.tokol-panel{right:12px;bottom:72px}
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <div>
+        <h1 id="title">Radar de partidos</h1>
+        <div class="subtitle">Cuotas, probabilidades sin margen y razones objetivas para considerar, esperar o evitar. Ninguna selección es segura.</div>
+      </div>
+      <div class="toolbar">
+        <button class="btn" id="reloadBtn">Actualizar</button>
+        <button class="btn" id="copyBtn">Copiar enlace</button>
+      </div>
+    </header>
+
+    <div class="notice" id="staleNotice" hidden></div>
+
+    <section class="summary" aria-label="Resumen">
+      <div class="metric"><b id="totalCount">0</b><span>Partidos</span></div>
+      <div class="metric"><b id="considerCount">0</b><span>Considerar</span></div>
+      <div class="metric"><b id="waitCount">0</b><span>Esperar</span></div>
+      <div class="metric"><b id="avoidCount">0</b><span>Evitar</span></div>
+    </section>
+
+    <section class="filters" aria-label="Filtros">
+      <input class="control" id="searchInput" type="search" placeholder="Buscar selección..." />
+      <select class="control" id="statusFilter" aria-label="Filtrar por decisión">
+        <option value="todos">Todas las decisiones</option>
+        <option value="considerar">Considerar</option>
+        <option value="esperar">Esperar</option>
+        <option value="evitar">Evitar</option>
+      </select>
+    </section>
+
+    <section class="grid" id="cards"></section>
+
+    <footer>
+      <div id="updatedAt"></div>
+      <p>Este sitio es informativo. Las cuotas cambian, las alineaciones pueden modificarse y una probabilidad alta no garantiza un resultado. Verifica los datos en la casa de apuestas antes de realizar cualquier operación.</p>
+    </footer>
+  </main>
+
+  <button class="tokol-launcher" id="tokolLauncher" aria-controls="tokolPanel" aria-expanded="false">Tokol</button>
+  <aside class="tokol-panel" id="tokolPanel" aria-label="Asistente Tokol">
+    <div class="tokol-head">
+      <div>
+        <div class="tokol-name">Tokol</div>
+        <div class="tokol-sub">Asistente local del radar</div>
+      </div>
+      <button class="tokol-close" id="tokolClose" aria-label="Cerrar Tokol">×</button>
+    </div>
+    <div>
+      <div class="tokol-messages" id="tokolMessages" aria-live="polite"></div>
+      <div class="tokol-quick">
+        <button class="tokol-chip" data-question="¿Qué partidos debo considerar?">Considerar</button>
+        <button class="tokol-chip" data-question="¿Cuáles debo evitar?">Evitar</button>
+        <button class="tokol-chip" data-question="¿Cuál es el próximo partido?">Próximo</button>
+        <button class="tokol-chip" data-question="¿Cuándo se actualizaron los datos?">Actualización</button>
+      </div>
+    </div>
+    <div>
+      <form class="tokol-form" id="tokolForm">
+        <input class="tokol-input" id="tokolInput" autocomplete="off" placeholder="Pregunta por un partido o selección" />
+        <button class="tokol-send" type="submit">Enviar</button>
+      </form>
+      <div class="tokol-note">Tokol usa los datos visibles de esta página. No garantiza resultados ni realiza apuestas.</div>
+    </div>
+  </aside>
+
+<script>
+const fallbackData = {"meta":{"title":"Radar de partidos — Mundial 2026","timezone":"America/Mexico_City","lastUpdated":"2026-06-29T13:45:00-06:00","refreshSeconds":60,"sourceNote":"Datos de demostración basados en el último análisis de esta conversación. Confirma cuotas y alineaciones antes de apostar."},"matches":[{"id":"bra-jpn-20260629","teams":["Brasil","Japón"],"kickoff":"2026-06-29T11:00:00-06:00","status":"En vivo","score":"1–1","classification":"evitar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-310","away":"+240"}],"probability":{"home":72.0,"away":28.0},"reasonsFor":["Brasil conserva mayor profundidad y calidad individual.","La cuota de clasificación refleja favoritismo fuerte."],"reasonsAgainst":["El partido ya está en vivo y cambió respecto al análisis previo.","Entrar tarde puede significar aceptar una cuota sin valor.","Japón ha mostrado capacidad para defender y competir."],"injuries":["Brasil: Raphinha reportado con lesión; Neymar en recuperación.","Japón: Kubo con molestias de tobillo."],"lineups":"Consulta la fuente en vivo antes de apostar.","form":"Partido en curso; la forma previa ya no basta para decidir.","marketChange":"Cambio significativo: marcador 1–1 en vivo."},{"id":"ger-par-20260629","teams":["Alemania","Paraguay"],"kickoff":"2026-06-29T14:30:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-750","away":"+490"}],"probability":{"home":83.9,"away":16.1},"reasonsFor":["Alemania tiene mayor profundidad ofensiva.","Paraguay produjo poco gol en la fase de grupos."],"reasonsAgainst":["La cuota de Alemania es demasiado baja para tomarla como valor automático.","Una selección tan favorita puede aportar poco a un parlay y mantener riesgo real."],"injuries":["Alemania: Nico Schlotterbeck ausente.","Paraguay: Diego Gómez suspendido; Alderete con duda física."],"lineups":"Esperar confirmación oficial.","form":"Alemania llega como favorita amplia; Paraguay necesita un partido cerrado.","marketChange":"Sin cambio fuerte confirmado en esta muestra."},{"id":"ned-mar-20260629","teams":["Países Bajos","Marruecos"],"kickoff":"2026-06-29T19:00:00-06:00","status":"Próximo","classification":"considerar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-156","away":"+128"}],"probability":{"home":58.1,"away":41.9},"reasonsFor":["Es un mercado más equilibrado y permite comparar valor real.","Países Bajos posee mayor capacidad ofensiva."],"reasonsAgainst":["Marruecos llega competitivo y puede castigar una defensa adelantada.","No es un favorito suficientemente fuerte para llamarlo seguro."],"injuries":["Revisar reporte final antes del inicio."],"lineups":"Esperar alineaciones confirmadas.","form":"Marruecos llega con buen rendimiento colectivo; Países Bajos con mejor producción ofensiva.","marketChange":"Vigilar si la cuota neerlandesa baja demasiado."},{"id":"civ-nor-20260630","teams":["Costa de Marfil","Noruega"],"kickoff":"2026-06-30T11:00:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"+152","away":"-186"}],"probability":{"home":37.9,"away":62.1},"reasonsFor":["Noruega parte como favorita y tiene mayor amenaza ofensiva."],"reasonsAgainst":["62% no es suficiente para usarla como selección segura.","Conviene esperar titulares y cualquier cambio de cuota."],"injuries":["Revisar bajas oficiales el día del partido."],"lineups":"No confirmadas en esta muestra.","form":"Noruega favorita moderada; Costa de Marfil mantiene probabilidad real de sorpresa.","marketChange":"Esperar movimiento cercano a la alineación."},{"id":"fra-swe-20260630","teams":["Francia","Suecia"],"kickoff":"2026-06-30T15:00:00-06:00","status":"Próximo","classification":"evitar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-1000","away":"+620"}],"probability":{"home":86.7,"away":13.3},"reasonsFor":["Francia es favorita muy amplia por calidad y profundidad."],"reasonsAgainst":["La cuota ofrece retorno bajo frente al riesgo residual.","Agregarla a un parlay no elimina el peligro de una sorpresa."],"injuries":["Esperar reporte médico y rotaciones."],"lineups":"No confirmadas en esta muestra.","form":"Partido potencialmente abierto; la defensa y las rotaciones pueden cambiar el mercado.","marketChange":"La cuota francesa ya está muy comprimida."},{"id":"mex-ecu-20260630","teams":["México","Ecuador"],"kickoff":"2026-06-30T19:00:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-182","away":"+148"}],"probability":{"home":61.5,"away":38.5},"reasonsFor":["México juega como local y llega con mejor defensa reciente.","El mercado le concede ventaja moderada para avanzar."],"reasonsAgainst":["Ecuador tiene suficiente calidad para convertir el partido en uno cerrado.","La cuota puede no compensar el riesgo si cae demasiado."],"injuries":["Confirmar bajas y estado de titulares antes del inicio."],"lineups":"Esperar alineaciones oficiales.","form":"México llega invicto en la muestra analizada; Ecuador viene de mostrar capacidad de remontada.","marketChange":"Considerar solo si la cuota mejora; evitar perseguir una caída del precio."}]};
+let appData = fallbackData;
+
+const fmtDate = iso => new Intl.DateTimeFormat('es-MX',{
+  timeZone:'America/Mexico_City', weekday:'short', day:'numeric', month:'short',
+  hour:'numeric', minute:'2-digit'
+}).format(new Date(iso));
+
+function updateUrl(){
+  const u = new URL(location.href);
+  const state = document.getElementById('statusFilter').value;
+  const q = document.getElementById('searchInput').value.trim();
+  state === 'todos' ? u.searchParams.delete('estado') : u.searchParams.set('estado',state);
+  q ? u.searchParams.set('q',q) : u.searchParams.delete('q');
+  history.replaceState(null,'',u);
+}
+
+function restoreUrl(){
+  const u = new URL(location.href);
+  document.getElementById('statusFilter').value = u.searchParams.get('estado') || 'todos';
+  document.getElementById('searchInput').value = u.searchParams.get('q') || '';
+}
+
+function render(){
+  const cards = document.getElementById('cards');
+  const status = document.getElementById('statusFilter').value;
+  const q = document.getElementById('searchInput').value.toLowerCase().trim();
+  const items = appData.matches
+    .filter(m => status === 'todos' || m.classification === status)
+    .filter(m => !q || m.teams.join(' ').toLowerCase().includes(q))
+    .sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff));
+
+  cards.innerHTML = items.length ? items.map(m => `
+    <article class="card">
+      <div class="topline">
+        <div>
+          <div class="teams">${m.teams[0]} vs. ${m.teams[1]}</div>
+          <div class="meta">${fmtDate(m.kickoff)} · ${m.status}${m.score ? ` · ${m.score}` : ''}</div>
+        </div>
+        <span class="badge ${m.classification}">${m.classification}</span>
+      </div>
+
+      <div class="prob ${Number.isFinite(m.probability?.draw) ? 'three' : ''}">
+        <div><strong>${Number.isFinite(m.probability?.home) ? m.probability.home.toFixed(1) + '%' : '—'}</strong><small>${m.teams[0]}</small></div>
+        ${Number.isFinite(m.probability?.draw) ? `<div><strong>${m.probability.draw.toFixed(1)}%</strong><small>Empate</small></div>` : ''}
+        <div><strong>${Number.isFinite(m.probability?.away) ? m.probability.away.toFixed(1) + '%' : '—'}</strong><small>${m.teams[1]}</small></div>
+      </div>
+
+      <div class="section-title">${m.market || 'Mercado pendiente'}${m.oddsSource ? ` · ${m.oddsSource}` : ''}</div>
+      <div class="books">${m.odds?.length
+        ? m.odds.map(o=>`<span class="book">${o.book}: ${m.teams[0]} ${o.home}${o.draw ? ` · Empate ${o.draw}` : ''} · ${m.teams[1]} ${o.away}</span>`).join('')
+        : '<span class="book">Sin cuotas registradas</span>'}</div>
+
+      <details>
+        <summary>Ver análisis completo</summary>
+        <div class="section-title">Razones para considerar</div>
+        <ul>${m.reasonsFor.map(x=>`<li>${x}</li>`).join('')}</ul>
+        <div class="section-title">Razones para evitar o esperar</div>
+        <ul>${m.reasonsAgainst.map(x=>`<li>${x}</li>`).join('')}</ul>
+        <div class="section-title">Bajas</div>
+        <ul>${m.injuries.map(x=>`<li>${x}</li>`).join('')}</ul>
+        <div class="section-title">Alineaciones</div><p>${m.lineups}</p>
+        <div class="section-title">Forma reciente</div><p>${m.form}</p>
+        <div class="section-title">Cambio de mercado</div><p>${m.marketChange}</p>
+      </details>
+    </article>
+  `).join('') : `<div class="empty">No hay partidos que coincidan con el filtro.</div>`;
+
+  document.getElementById('totalCount').textContent = appData.matches.length;
+  document.getElementById('considerCount').textContent = appData.matches.filter(x=>x.classification==='considerar').length;
+  document.getElementById('waitCount').textContent = appData.matches.filter(x=>x.classification==='esperar').length;
+  document.getElementById('avoidCount').textContent = appData.matches.filter(x=>x.classification==='evitar').length;
+  document.getElementById('title').textContent = appData.meta.title;
+  document.getElementById('updatedAt').textContent =
+    `Última actualización registrada: ${fmtDate(appData.meta.lastUpdated)} · ${appData.meta.sourceNote}`;
+
+  const ageHours = (Date.now() - new Date(appData.meta.lastUpdated).getTime()) / 36e5;
+  const notice = document.getElementById('staleNotice');
+  if(ageHours > 6){
+    notice.hidden = false;
+    notice.textContent = `Atención: estos datos tienen ${Math.floor(ageHours)} horas o más. Confirma cuotas, bajas y alineaciones antes de apostar.`;
+  } else {
+    notice.hidden = true;
+  }
+  updateUrl();
+}
+
+async function loadData(){
+  try{
+    const res = await fetch(`data.json?ts=${Date.now()}`, {cache:'no-store'});
+    if(!res.ok) throw new Error('No se pudo cargar data.json');
+    appData = await res.json();
+  }catch(e){
+    appData = fallbackData;
+  }
+  render();
+}
+
+document.getElementById('statusFilter').addEventListener('change', render);
+document.getElementById('searchInput').addEventListener('input', render);
+document.getElementById('reloadBtn').addEventListener('click', loadData);
+document.getElementById('copyBtn').addEventListener('click', async ()=>{
+  updateUrl();
+  try{
+    await navigator.clipboard.writeText(location.href);
+    document.getElementById('copyBtn').textContent='Enlace copiado';
+    setTimeout(()=>document.getElementById('copyBtn').textContent='Copiar enlace',1500);
+  }catch{
+    prompt('Copia este enlace:',location.href);
+  }
+});
+
+restoreUrl();
+loadData();
+setInterval(loadData, (fallbackData.meta.refreshSeconds || 60) * 1000);
+
+function tokolNormalize(value=''){
+  return value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
+}
+
+function tokolFormatMatch(m){
+  const homeProb = Number.isFinite(m.probability?.home) ? `${m.probability.home.toFixed(1)}%` : 'sin cálculo';
+  const drawProb = Number.isFinite(m.probability?.draw) ? ` / empate ${m.probability.draw.toFixed(1)}%` : '';
+  const awayProb = Number.isFinite(m.probability?.away) ? `${m.probability.away.toFixed(1)}%` : 'sin cálculo';
+  return `${m.teams[0]} vs. ${m.teams[1]} — ${fmtDate(m.kickoff)} — ${m.classification.toUpperCase()} — ${homeProb}${drawProb} / ${awayProb}`;
+}
+
+function tokolReply(question){
+  const q = tokolNormalize(question);
+  const matches = appData.matches || [];
+  const byTeam = matches.find(m => m.teams.some(team => q.includes(tokolNormalize(team))));
+
+  if(!q) return 'Escribe una pregunta sobre un partido, una selección, cuotas, bajas o la actualización de los datos.';
+
+  if(/hola|buenas|quien eres|qué eres|que eres/.test(q)){
+    return 'Soy Tokol. Leo los datos del radar, incluidas cuotas 1X2 y probabilidades sin margen cuando The Odds API las actualiza. Te ayudo a identificar riesgos; no puedo garantizar ganancias.';
+  }
+
+  if(/actualiz|ultima vez|última vez|datos nuevos/.test(q)){
+    return `La última actualización registrada es ${fmtDate(appData.meta.lastUpdated)}.\n${appData.meta.sourceNote || ''}`;
+  }
+
+  if(/proximo|próximo|siguiente|hora/.test(q) && !byTeam){
+    const upcoming = matches
+      .filter(m => new Date(m.kickoff) >= new Date() && tokolNormalize(m.status) !== 'final')
+      .sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff))[0];
+    return upcoming ? `El próximo registrado es:\n${tokolFormatMatch(upcoming)}` : 'No hay un próximo partido registrado en los datos actuales.';
+  }
+
+  if(/considerar|mejor opcion|mejor opción/.test(q) && !byTeam){
+    const items = matches.filter(m => m.classification === 'considerar');
+    return items.length
+      ? `Partidos marcados como CONSIDERAR:\n${items.map(tokolFormatMatch).join('\n')}\n\n“Considerar” no significa apuesta segura.`
+      : 'Actualmente no hay partidos marcados como considerar.';
+  }
+
+  if(/evitar|no apostar|peligroso/.test(q) && !byTeam){
+    const items = matches.filter(m => m.classification === 'evitar');
+    return items.length
+      ? `Partidos marcados como EVITAR:\n${items.map(tokolFormatMatch).join('\n')}`
+      : 'Actualmente no hay partidos marcados como evitar.';
+  }
+
+  if(/esperar|alineacion|alineación/.test(q) && !byTeam){
+    const items = matches.filter(m => m.classification === 'esperar');
+    return items.length
+      ? `Partidos marcados como ESPERAR:\n${items.map(tokolFormatMatch).join('\n')}`
+      : 'Actualmente no hay partidos marcados como esperar.';
+  }
+
+  if(/parlay|parley|combinada/.test(q)){
+    return 'No recomendaría armar una combinada solo con la etiqueta del radar. Una sola selección puede perder todo el boleto. Primero confirma cuotas, alineaciones y probabilidad conjunta.';
+  }
+
+  if(byTeam){
+    const odds = byTeam.odds?.length
+      ? byTeam.odds.map(o => `${o.book}: ${byTeam.teams[0]} ${o.home}${o.draw ? `, empate ${o.draw}` : ''}, ${byTeam.teams[1]} ${o.away}`).join('\n')
+      : 'Sin cuotas registradas.';
+    const injuries = byTeam.injuries?.length ? byTeam.injuries.join('\n') : 'Sin bajas registradas.';
+    return `${tokolFormatMatch(byTeam)}
+Estado: ${byTeam.status}${byTeam.score ? `, marcador ${byTeam.score}` : ''}
+Mercado: ${byTeam.market || 'pendiente'}
+Cuotas:
+${odds}
+Bajas:
+${injuries}
+Alineaciones: ${byTeam.lineups || 'sin información'}
+Motivo principal para esperar o evitar: ${(byTeam.reasonsAgainst || ['sin análisis registrado'])[0]}`;
+  }
+
+  if(/cuota|probabilidad|porcentaje/.test(q)){
+    const withProb = matches.filter(m => Number.isFinite(m.probability?.home));
+    return withProb.length
+      ? `Probabilidades registradas:\n${withProb.map(tokolFormatMatch).join('\n')}`
+      : 'Todavía no hay probabilidades registradas.';
+  }
+
+  return 'No encontré ese dato exacto. Prueba con el nombre de una selección, “considerar”, “evitar”, “próximo partido”, “cuotas” o “actualización”.';
+}
+
+function tokolAddMessage(text, who='bot'){
+  const box = document.getElementById('tokolMessages');
+  const msg = document.createElement('div');
+  msg.className = `tokol-msg ${who}`;
+  msg.textContent = text;
+  box.appendChild(msg);
+  box.scrollTop = box.scrollHeight;
+}
+
+function tokolAsk(question){
+  if(!question.trim()) return;
+  tokolAddMessage(question, 'user');
+  const answer = tokolReply(question);
+  setTimeout(()=>tokolAddMessage(answer, 'bot'), 120);
+}
+
+const tokolPanel = document.getElementById('tokolPanel');
+const tokolLauncher = document.getElementById('tokolLauncher');
+function tokolSetOpen(open){
+  tokolPanel.classList.toggle('open', open);
+  tokolLauncher.setAttribute('aria-expanded', String(open));
+  if(open) document.getElementById('tokolInput').focus();
+}
+tokolLauncher.addEventListener('click', ()=>tokolSetOpen(!tokolPanel.classList.contains('open')));
+document.getElementById('tokolClose').addEventListener('click', ()=>tokolSetOpen(false));
+document.getElementById('tokolForm').addEventListener('submit', e=>{
+  e.preventDefault();
+  const input = document.getElementById('tokolInput');
+  tokolAsk(input.value);
+  input.value='';
+});
+document.querySelectorAll('.tokol-chip').forEach(btn=>{
+  btn.addEventListener('click', ()=>tokolAsk(btn.dataset.question || btn.textContent));
+});
+tokolAddMessage('Hola, soy Tokol. Puedo resumirte partidos, cuotas 1X2, probabilidades sin margen, horarios, bajas y riesgos usando los datos de esta página.');
+
+</script>
+</body>
+</html>
