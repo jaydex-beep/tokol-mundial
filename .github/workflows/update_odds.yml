@@ -1,0 +1,50 @@
+name: Actualizar cuotas con The Odds API
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Cada 6 horas, después del workflow de partidos. GitHub usa UTC.
+    - cron: "42 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tokol-data-update
+  cancel-in-progress: false
+
+jobs:
+  update-odds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Consultar The Odds API y actualizar data.json
+        env:
+          THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
+          THE_ODDS_SPORT_KEY: ${{ vars.THE_ODDS_SPORT_KEY }}
+          THE_ODDS_REGIONS: ${{ vars.THE_ODDS_REGIONS }}
+          THE_ODDS_MARKETS: "h2h"
+        run: python scripts/update_odds.py
+
+      - name: Guardar cambios
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "No hubo cambios en data.json"
+            exit 0
+          fi
+          git config user.name "tokol-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Actualizar cuotas automáticamente"
+          git push
