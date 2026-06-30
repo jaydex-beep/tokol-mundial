@@ -1,7 +1,9 @@
-name: Actualizar partidos con API-Football
+ name: Actualizar marcadores con The Odds API
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -23,14 +25,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Instalar dependencias
-        run: pip install -r requirements.txt
-
-      - name: Consultar API-Football y actualizar data.json
+      - name: Actualizar marcadores y partidos
         env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          API_FOOTBALL_LEAGUE_ID: ${{ vars.API_FOOTBALL_LEAGUE_ID }}
-          API_FOOTBALL_SEASON: ${{ vars.API_FOOTBALL_SEASON }}
+          THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
+          THE_ODDS_SPORT_KEY: ${{ vars.THE_ODDS_SPORT_KEY }}
         run: python scripts/update_data.py
 
       - name: Guardar cambios
@@ -43,5 +41,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Actualizar partidos automáticamente"
+          git commit -m "Actualizar marcadores automáticamente"
           git push
