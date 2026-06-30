@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Actualiza data.json con calendario, estado y marcador de API-Football v3.
+Actualiza data.json con marcadores reales usando The Odds API Scores.
 
-La versión económica realiza una sola solicitud por ejecución.
-No inventa cuotas, probabilidades, lesiones ni alineaciones.
-Los análisis manuales existentes se conservan cuando el partido coincide.
+No usa API-Football.
+No inventa cuotas, lesiones ni alineaciones.
+Conserva análisis/cuotas existentes cuando el partido coincide.
 """
 
 from __future__ import annotations
@@ -13,248 +13,315 @@ import json
 import os
 import sys
 import unicodedata
-from datetime import datetime, timedelta
+import urllib.parse
+import urllib.request
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
-from zoneinfo import ZoneInfo
 
-import requests
-
-API_URL = "https://v3.football.api-sports.io/fixtures"
-ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = ROOT / "data.json"
+DATA_PATH = Path("data.json")
+API_HOST = "https://api.the-odds-api.com"
 TIMEZONE = "America/Mexico_City"
 
-TEAM_TRANSLATIONS = {
-    "Brazil": "Brasil",
-    "Japan": "Japón",
-    "Germany": "Alemania",
-    "Paraguay": "Paraguay",
-    "Netherlands": "Países Bajos",
-    "Morocco": "Marruecos",
-    "Ivory Coast": "Costa de Marfil",
-    "Norway": "Noruega",
-    "France": "Francia",
-    "Sweden": "Suecia",
-    "Mexico": "México",
-    "Ecuador": "Ecuador",
-    "England": "Inglaterra",
-    "DR Congo": "RD del Congo",
-    "Belgium": "Bélgica",
-    "Senegal": "Senegal",
-    "United States": "Estados Unidos",
-    "Bosnia and Herzegovina": "Bosnia y Herzegovina",
-    "Spain": "España",
-    "Austria": "Austria",
-    "Portugal": "Portugal",
-    "Croatia": "Croacia",
-    "Switzerland": "Suiza",
-    "Algeria": "Argelia",
-    "Australia": "Australia",
-    "Egypt": "Egipto",
-    "Argentina": "Argentina",
-    "Cape Verde": "Cabo Verde",
-    "Colombia": "Colombia",
-    "Ghana": "Ghana",
-    "Canada": "Canadá",
-    "South Africa": "Sudáfrica",
-}
 
-LIVE_CODES = {"1H", "HT", "2H", "ET", "BT", "P", "LIVE"}
-FINAL_CODES = {"FT", "AET", "PEN"}
-UPCOMING_CODES = {"TBD", "NS"}
-DELAYED_CODES = {"PST": "Pospuesto", "CANC": "Cancelado", "ABD": "Suspendido",
-                 "INT": "Interrumpido", "SUSP": "Suspendido"}
+def now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
 
-def normalize(value: str) -> str:
-    normalized = unicodedata.normalize("NFD", value or "")
-    return "".join(ch for ch in normalized if unicodedata.category(ch) != "Mn").lower().strip()
+def normalize(value: str | None) -> str:
+    text = value or ""
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+    text = "".join(ch.lower() if ch.isalnum() else " " for ch in text)
+    return " ".join(text.split())
 
 
-def translated_team(name: str) -> str:
-    return TEAM_TRANSLATIONS.get(name, name)
-
-
-def status_label(code: str, long_name: str | None = None) -> str:
-    if code in LIVE_CODES:
-        return "En vivo"
-    if code in FINAL_CODES:
-        return "Final"
-    if code in UPCOMING_CODES:
-        return "Próximo"
-    if code in DELAYED_CODES:
-        return DELAYED_CODES[code]
-    return long_name or code or "Sin estado"
-
-
-def match_key(home: str, away: str) -> tuple[str, str]:
-    return normalize(home), normalize(away)
-
-
-def load_existing() -> dict[str, Any]:
+def load_data() -> dict[str, Any]:
     if not DATA_PATH.exists():
         return {
             "meta": {
                 "title": "Radar de partidos — Mundial 2026",
                 "timezone": TIMEZONE,
+                "lastUpdated": now_iso(),
                 "refreshSeconds": 60,
+                "sourceNote": "Datos creados con The Odds API Scores.",
             },
             "matches": [],
         }
-    return json.loads(DATA_PATH.read_text(encoding="utf-8"))
 
+    with DATA_PATH.open("r", encoding="utf-8") as file:
+        data = json.load(file)
 
-def default_match(fixture_id: int, home: str, away: str, kickoff: str,
-                  status: str, score: str | None) -> dict[str, Any]:
-    classification = "evitar" if status in {"En vivo", "Final", "Cancelado", "Suspendido"} else "esperar"
-    return {
-        "id": f"api-{fixture_id}",
-        "apiFixtureId": fixture_id,
-        "source": "API-Football",
-        "teams": [home, away],
-        "kickoff": kickoff,
-        "status": status,
-        "score": score,
-        "classification": classification,
-        "market": "Análisis pendiente",
-        "odds": [],
-        "probability": {"home": None, "away": None},
-        "reasonsFor": [
-            "Partido agregado automáticamente desde API-Football."
-        ],
-        "reasonsAgainst": [
-            "Todavía no existen cuotas ni un análisis estadístico verificado para este partido."
-        ],
-        "injuries": [
-            "La opción económica no consulta lesiones automáticamente."
-        ],
-        "lineups": "La opción económica no consulta alineaciones automáticamente.",
-        "form": "Pendiente de análisis.",
-        "marketChange": "Sin comparación de cuotas en esta versión."
-    }
-
-
-def main() -> int:
-    api_key = os.environ.get("API_FOOTBALL_KEY", "").strip()
-    if not api_key:
-        print("Falta el secreto API_FOOTBALL_KEY.", file=sys.stderr)
-        return 2
-
-    league_id = os.environ.get("API_FOOTBALL_LEAGUE_ID", "1").strip() or "1"
-    season = os.environ.get("API_FOOTBALL_SEASON", "2026").strip() or "2026"
-    days_ahead = int(os.environ.get("API_FOOTBALL_DAYS_AHEAD", "14"))
-
-    now = datetime.now(ZoneInfo(TIMEZONE))
-    params = {
-        "league": league_id,
-        "season": season,
-        "from": (now.date() - timedelta(days=1)).isoformat(),
-        "to": (now.date() + timedelta(days=days_ahead)).isoformat(),
-        "timezone": TIMEZONE,
-    }
-
-    response = requests.get(
-        API_URL,
-        headers={"x-apisports-key": api_key},
-        params=params,
-        timeout=30,
-    )
-    response.raise_for_status()
-    payload = response.json()
-
-    if payload.get("errors"):
-        print(f"API-Football devolvió errores: {payload['errors']}", file=sys.stderr)
-        return 3
-
-    fixtures = payload.get("response") or []
-    if not fixtures:
-        print(
-            "La API no devolvió partidos. No se modificó data.json. "
-            "Verifica API_FOOTBALL_LEAGUE_ID y API_FOOTBALL_SEASON."
-        )
-        return 0
-
-    data = load_existing()
-    existing_matches = data.get("matches", [])
-    existing_by_api = {
-        str(m.get("apiFixtureId")): m for m in existing_matches if m.get("apiFixtureId") is not None
-    }
-    existing_by_teams = {
-        match_key(m["teams"][0], m["teams"][1]): m
-        for m in existing_matches
-        if isinstance(m.get("teams"), list) and len(m["teams"]) == 2
-    }
-
-    merged: list[dict[str, Any]] = []
-
-    for item in fixtures:
-        fixture = item.get("fixture") or {}
-        teams = item.get("teams") or {}
-        goals = item.get("goals") or {}
-        fixture_id = int(fixture["id"])
-        home = translated_team((teams.get("home") or {}).get("name", "Local"))
-        away = translated_team((teams.get("away") or {}).get("name", "Visitante"))
-        kickoff = fixture.get("date")
-        status_info = fixture.get("status") or {}
-        status = status_label(status_info.get("short", ""), status_info.get("long"))
-
-        home_goals = goals.get("home")
-        away_goals = goals.get("away")
-        score = None
-        if home_goals is not None and away_goals is not None:
-            score = f"{home_goals}–{away_goals}"
-
-        current = (
-            existing_by_api.get(str(fixture_id))
-            or existing_by_teams.get(match_key(home, away))
-            or default_match(fixture_id, home, away, kickoff, status, score)
-        )
-
-        current["apiFixtureId"] = fixture_id
-        current["source"] = "API-Football"
-        current["teams"] = [home, away]
-        current["kickoff"] = kickoff
-        current["status"] = status
-        current["score"] = score
-
-        if status in {"En vivo", "Final", "Cancelado", "Suspendido", "Interrumpido"}:
-            current["classification"] = "evitar"
-        elif current.get("classification") not in {"considerar", "esperar", "evitar"}:
-            current["classification"] = "esperar"
-
-        merged.append(current)
-
-    merged.sort(key=lambda m: m.get("kickoff") or "")
-    data["matches"] = merged
     data.setdefault("meta", {})
-    data["meta"].update({
-        "title": data["meta"].get("title", "Radar de partidos — Mundial 2026"),
-        "timezone": TIMEZONE,
-        "lastUpdated": now.isoformat(),
-        "refreshSeconds": 60,
-        "sourceNote": (
-            "Calendario, estado y marcador actualizados mediante API-Football. "
-            + (
-                "Cuotas 1X2 y probabilidades sin margen disponibles mediante The Odds API. "
-                if data.get("meta", {}).get("theOddsApi", {}).get("enabled")
-                else "Cuotas y probabilidades pendientes de The Odds API. "
-            )
-            + "Lesiones y alineaciones todavía requieren otra fuente o revisión manual."
-        ),
-        "apiFootball": {
-            "enabled": True,
-            "leagueId": league_id,
-            "season": season,
-            "requestCountThisRun": 1,
-        },
-    })
+    data.setdefault("matches", [])
+    return data
 
+
+def save_data(data: dict[str, Any]) -> None:
     DATA_PATH.write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(f"Actualizados {len(merged)} partidos en {DATA_PATH.name}.")
+
+
+def request_json(url: str, timeout: int = 30) -> tuple[Any, dict[str, str]]:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "Accept": "application/json",
+            "User-Agent": "tokol-github-actions/1.0",
+        },
+    )
+
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            body = response.read().decode("utf-8")
+            headers = {k.lower(): v for k, v in response.headers.items()}
+            return json.loads(body), headers
+    except urllib.error.HTTPError as error:
+        body = error.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"The Odds API devolvió HTTP {error.code}: {body}") from error
+
+
+def score_map(event: dict[str, Any]) -> dict[str, str]:
+    result: dict[str, str] = {}
+    for row in event.get("scores") or []:
+        name = normalize(row.get("name"))
+        score = row.get("score")
+        if name and score is not None:
+            result[name] = str(score)
+    return result
+
+
+def score_for_team(scores: dict[str, str], team: str) -> str | None:
+    normalized = normalize(team)
+    if normalized in scores:
+        return scores[normalized]
+
+    # Tolerancia básica por nombres abreviados.
+    for key, value in scores.items():
+        if normalized in key or key in normalized:
+            return value
+
+    return None
+
+
+def event_score(event: dict[str, Any]) -> tuple[str | None, str | None, str | None]:
+    scores = score_map(event)
+    home = event.get("home_team") or ""
+    away = event.get("away_team") or ""
+
+    home_score = score_for_team(scores, home)
+    away_score = score_for_team(scores, away)
+
+    if home_score is None or away_score is None:
+        return None, home_score, away_score
+
+    return f"{home_score}–{away_score}", home_score, away_score
+
+
+def parse_time(value: str | None) -> datetime | None:
+    if not value:
+        return None
+
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+
+
+def event_status(event: dict[str, Any], score: str | None) -> str:
+    if event.get("completed") is True:
+        return "Final"
+
+    kickoff = parse_time(event.get("commence_time"))
+    if score and kickoff and kickoff <= datetime.now(timezone.utc):
+        return "En vivo"
+
+    if kickoff and kickoff <= datetime.now(timezone.utc) and not event.get("completed"):
+        return "En vivo"
+
+    return "Próximo"
+
+
+def team_key(home: str, away: str) -> str:
+    return f"{normalize(home)}::{normalize(away)}"
+
+
+def reverse_team_key(home: str, away: str) -> str:
+    return f"{normalize(away)}::{normalize(home)}"
+
+
+def index_existing(matches: list[dict[str, Any]]) -> tuple[dict[str, dict[str, Any]], dict[str, dict[str, Any]]]:
+    by_id: dict[str, dict[str, Any]] = {}
+    by_teams: dict[str, dict[str, Any]] = {}
+
+    for match in matches:
+        if match.get("id"):
+            by_id[str(match["id"])] = match
+
+        teams = match.get("teams") or []
+        if len(teams) >= 2:
+            by_teams[team_key(str(teams[0]), str(teams[1]))] = match
+            by_teams[reverse_team_key(str(teams[0]), str(teams[1]))] = match
+
+    return by_id, by_teams
+
+
+def default_probability(score: str | None) -> dict[str, float | None]:
+    return {"home": None, "draw": None, "away": None}
+
+
+def final_info(event: dict[str, Any], score: str | None) -> dict[str, Any] | None:
+    if event.get("completed") is not True:
+        return None
+
+    home = event.get("home_team") or "Local"
+    away = event.get("away_team") or "Visitante"
+
+    return {
+        "summary": f"{home} {score or 'resultado no disponible'} {away}",
+        "method": "Final",
+        "source": "The Odds API Scores",
+    }
+
+
+def merge_event(existing: dict[str, Any] | None, event: dict[str, Any]) -> dict[str, Any]:
+    home = event.get("home_team") or "Local"
+    away = event.get("away_team") or "Visitante"
+    score, home_score, away_score = event_score(event)
+    status = event_status(event, score)
+    event_id = str(event.get("id") or team_key(home, away))
+
+    base = dict(existing or {})
+
+    base["id"] = event_id
+    base["teams"] = [home, away]
+    base["kickoff"] = event.get("commence_time") or base.get("kickoff") or now_iso()
+    base["status"] = status
+    base["statusCode"] = "FT" if status == "Final" else ("LIVE" if status == "En vivo" else "NS")
+    base["statusLong"] = "Final" if status == "Final" else ("En curso" if status == "En vivo" else "Programado")
+    base["elapsed"] = None
+    base["score"] = score
+    base["homeScore"] = home_score
+    base["awayScore"] = away_score
+    base["completed"] = bool(event.get("completed"))
+    base["finalInfo"] = final_info(event, score)
+    base["isFinal"] = status == "Final"
+    base["updatedAt"] = event.get("last_update") or now_iso()
+    base["fixtureSource"] = "The Odds API Scores"
+    base["analysisSource"] = "Tokol"
+
+    # Conserva datos ya enriquecidos por otros procesos.
+    base.setdefault("classification", "esperar")
+    base.setdefault("market", "Resultado / marcador")
+    base.setdefault("odds", [])
+    base.setdefault("probability", default_probability(score))
+    base.setdefault("reasonsFor", [])
+    base.setdefault("reasonsAgainst", [])
+    base.setdefault("injuries", ["The Odds API Scores no entrega bajas ni lesiones."])
+    base.setdefault("lineups", "The Odds API Scores no entrega alineaciones.")
+    base.setdefault("form", "Dato no disponible en The Odds API Scores.")
+    base.setdefault("marketChange", "Sin movimiento registrado en este actualizador.")
+
+    if not base["reasonsFor"]:
+        base["reasonsFor"] = ["Partido actualizado desde The Odds API Scores."]
+    if not base["reasonsAgainst"]:
+        base["reasonsAgainst"] = ["Verifica cuotas y contexto antes de tomar decisiones."]
+
+    if status == "En vivo":
+        base["classification"] = "esperar"
+        base["marketChange"] = "Partido en vivo; revisar marcador antes de decidir."
+    elif status == "Final":
+        base["classification"] = "evitar"
+        base["marketChange"] = "Partido finalizado."
+
+    return base
+
+
+def main() -> int:
+    api_key = os.environ.get("THE_ODDS_API_KEY", "").strip()
+    sport_key = os.environ.get("THE_ODDS_SPORT_KEY", "soccer_fifa_world_cup").strip()
+
+    if not api_key:
+        print("Falta THE_ODDS_API_KEY en Actions secrets.", file=sys.stderr)
+        return 2
+
+    params = {
+        "apiKey": api_key,
+        "daysFrom": "3",
+        "dateFormat": "iso",
+    }
+
+    url = (
+        f"{API_HOST}/v4/sports/{urllib.parse.quote(sport_key)}/scores/"
+        f"?{urllib.parse.urlencode(params)}"
+    )
+
+    events, headers = request_json(url)
+
+    if not isinstance(events, list):
+        print(f"Respuesta inesperada de The Odds API: {events}", file=sys.stderr)
+        return 3
+
+    data = load_data()
+    old_matches: list[dict[str, Any]] = data.get("matches") or []
+    by_id, by_teams = index_existing(old_matches)
+
+    updated: list[dict[str, Any]] = []
+    seen_ids: set[str] = set()
+
+    for event in events:
+        if not isinstance(event, dict):
+            continue
+
+        home = event.get("home_team") or ""
+        away = event.get("away_team") or ""
+        event_id = str(event.get("id") or "")
+        existing = by_id.get(event_id) or by_teams.get(team_key(home, away))
+        merged = merge_event(existing, event)
+        updated.append(merged)
+        seen_ids.add(merged["id"])
+
+    # Conserva favoritos/datos enriquecidos que no aparecieron en la ventana actual,
+    # pero empújalos al final.
+    for match in old_matches:
+        if str(match.get("id")) not in seen_ids:
+            updated.append(match)
+
+    def sort_key(match: dict[str, Any]) -> tuple[int, str]:
+        rank = {"En vivo": 0, "Próximo": 1, "Final": 2}.get(match.get("status"), 3)
+        return rank, str(match.get("kickoff") or "")
+
+    updated.sort(key=sort_key)
+
+    data["matches"] = updated
+    data["meta"].update({
+        "title": data.get("meta", {}).get("title") or "Radar de partidos — Mundial 2026",
+        "timezone": data.get("meta", {}).get("timezone") or TIMEZONE,
+        "lastUpdated": now_iso(),
+        "refreshSeconds": 60,
+        "sourceNote": (
+            "Marcadores actualizados con The Odds API Scores. "
+            "Cuotas actualizadas con The Odds API Odds. "
+            "The Odds API Scores no entrega minuto exacto para todos los deportes."
+        ),
+    })
+
+    save_data(data)
+
+    remaining = headers.get("x-requests-remaining", "desconocido")
+    cost = headers.get("x-requests-last", "desconocido")
+
+    live_count = sum(1 for match in updated if match.get("status") == "En vivo")
+    final_count = sum(1 for match in updated if match.get("status") == "Final")
+
+    print(
+        f"Marcadores recibidos: {len(events)}; "
+        f"partidos guardados: {len(updated)}; "
+        f"en vivo: {live_count}; finalizados: {final_count}."
+    )
+    print(f"Créditos restantes: {remaining} | costo: {cost}")
     return 0
 
 
