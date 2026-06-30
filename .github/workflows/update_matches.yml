@@ -1,16 +1,10 @@
- name: Actualizar marcadores con The Odds API
+name: Actualizar marcadores con The Odds API
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
-
-concurrency:
-  group: tokol-data-update
-  cancel-in-progress: false
 
 jobs:
   update-matches:
