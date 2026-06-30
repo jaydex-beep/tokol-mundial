@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 """
 Actualiza data.json con marcadores reales usando The Odds API Scores.
 
@@ -283,10 +283,16 @@ def main() -> int:
         updated.append(merged)
         seen_ids.add(merged["id"])
 
-    # Conserva favoritos/datos enriquecidos que no aparecieron en la ventana actual,
-    # pero empújalos al final.
+    # Conserva únicamente partidos anteriores que ya provengan de una fuente real.
+    # Esto elimina los partidos de demostración incluidos en la primera versión.
+    trusted_sources = {"the odds api scores", "api football"}
+
     for match in old_matches:
-        if str(match.get("id")) not in seen_ids:
+        if str(match.get("id")) in seen_ids:
+            continue
+
+        source_name = normalize(str(match.get("fixtureSource") or ""))
+        if source_name in trusted_sources:
             updated.append(match)
 
     def sort_key(match: dict[str, Any]) -> tuple[int, str]:
