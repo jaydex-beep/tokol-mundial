@@ -2,9 +2,9 @@
   "meta": {
     "title": "Radar de partidos — Mundial 2026",
     "timezone": "America/Mexico_City",
-    "lastUpdated": "2026-06-29T23:19:16.582822-06:00",
+    "lastUpdated": "2026-06-30T09:39:51.872816Z",
     "refreshSeconds": 60,
-    "sourceNote": "Calendario y marcadores: API-Football. Cuotas 1X2 y probabilidades sin margen: The Odds API. Las probabilidades reflejan el consenso del mercado, no una garantía ni un modelo propio.",
+    "sourceNote": "Marcadores actualizados con The Odds API Scores. Cuotas actualizadas con The Odds API Odds. The Odds API Scores no entrega minuto exacto para todos los deportes.",
     "theOddsApi": {
       "enabled": true,
       "sportKey": "soccer_fifa_world_cup",
@@ -795,6 +795,47 @@
       "oddsUpdatedAt": "2026-06-30T05:19:11Z"
     },
     {
+      "id": "ce017bea1a26252278053ce759e2416b",
+      "teams": [
+        "Ivory Coast",
+        "Norway"
+      ],
+      "kickoff": "2026-06-30T17:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
       "id": "mex-ecu-20260630",
       "teams": [
         "México",
@@ -1118,6 +1159,1244 @@
       "oddsSource": "The Odds API",
       "oddsEventId": "f58c55a9da96af562c31b7c5cca40187",
       "oddsUpdatedAt": "2026-06-30T05:19:11Z"
+    },
+    {
+      "id": "0b5491529142c9bcc3f88bf45ccb0a7b",
+      "teams": [
+        "France",
+        "Sweden"
+      ],
+      "kickoff": "2026-06-30T21:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "f58c55a9da96af562c31b7c5cca40187",
+      "teams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "kickoff": "2026-07-01T01:00:00Z",
+      "status": "Próximo",
+      "classification": "esperar",
+      "market": "1X2 (90 minutos)",
+      "odds": [
+        {
+          "book": "Unibet (SE)",
+          "bookKey": "unibet_se",
+          "home": "+133",
+          "draw": "+180",
+          "away": "+325",
+          "homeDecimal": 2.33,
+          "drawDecimal": 2.8,
+          "awayDecimal": 4.25,
+          "lastUpdate": "2026-06-30T05:18:46Z"
+        },
+        {
+          "book": "LeoVegas (SE)",
+          "bookKey": "leovegas_se",
+          "home": "+128",
+          "draw": "+175",
+          "away": "+310",
+          "homeDecimal": 2.28,
+          "drawDecimal": 2.75,
+          "awayDecimal": 4.1,
+          "lastUpdate": "2026-06-30T05:18:34Z"
+        },
+        {
+          "book": "Unibet (NL)",
+          "bookKey": "unibet_nl",
+          "home": "+133",
+          "draw": "+180",
+          "away": "+325",
+          "homeDecimal": 2.33,
+          "drawDecimal": 2.8,
+          "awayDecimal": 4.25,
+          "lastUpdate": "2026-06-30T05:18:56Z"
+        },
+        {
+          "book": "PMU (FR)",
+          "bookKey": "pmu_fr",
+          "home": "+123",
+          "draw": "+180",
+          "away": "+320",
+          "homeDecimal": 2.23,
+          "drawDecimal": 2.8,
+          "awayDecimal": 4.2,
+          "lastUpdate": "2026-06-30T05:18:56Z"
+        },
+        {
+          "book": "Coolbet",
+          "bookKey": "coolbet",
+          "home": "+130",
+          "draw": "+190",
+          "away": "+310",
+          "homeDecimal": 2.3,
+          "drawDecimal": 2.9,
+          "awayDecimal": 4.1,
+          "lastUpdate": "2026-06-30T05:18:12Z"
+        },
+        {
+          "book": "Unibet (FR)",
+          "bookKey": "unibet_fr",
+          "home": "+120",
+          "draw": "+195",
+          "away": "+310",
+          "homeDecimal": 2.2,
+          "drawDecimal": 2.95,
+          "awayDecimal": 4.1,
+          "lastUpdate": "2026-06-30T05:18:56Z"
+        },
+        {
+          "book": "Betclic (FR)",
+          "bookKey": "betclic_fr",
+          "home": "+120",
+          "draw": "+200",
+          "away": "+310",
+          "homeDecimal": 2.2,
+          "drawDecimal": 3.0,
+          "awayDecimal": 4.1,
+          "lastUpdate": "2026-06-30T05:19:00Z"
+        },
+        {
+          "book": "MyBookie.ag",
+          "bookKey": "mybookieag",
+          "home": "+118",
+          "draw": "+190",
+          "away": "+290",
+          "homeDecimal": 2.18,
+          "drawDecimal": 2.9,
+          "awayDecimal": 3.9,
+          "lastUpdate": "2026-06-30T05:17:36Z"
+        },
+        {
+          "book": "Betfair",
+          "bookKey": "betfair_ex_eu",
+          "home": "+132",
+          "draw": "+198",
+          "away": "+320",
+          "homeDecimal": 2.32,
+          "drawDecimal": 2.98,
+          "awayDecimal": 4.2,
+          "lastUpdate": "2026-06-30T05:18:56Z"
+        },
+        {
+          "book": "1xBet",
+          "bookKey": "onexbet",
+          "home": "+124",
+          "draw": "+208",
+          "away": "+309",
+          "homeDecimal": 2.24,
+          "drawDecimal": 3.08,
+          "awayDecimal": 4.09,
+          "lastUpdate": "2026-06-30T05:18:33Z"
+        },
+        {
+          "book": "888sport",
+          "bookKey": "sport888",
+          "home": "+110",
+          "draw": "+188",
+          "away": "+270",
+          "homeDecimal": 2.1,
+          "drawDecimal": 2.88,
+          "awayDecimal": 3.7,
+          "lastUpdate": "2026-06-30T05:18:56Z"
+        },
+        {
+          "book": "William Hill",
+          "bookKey": "williamhill",
+          "home": "+115",
+          "draw": "+190",
+          "away": "+280",
+          "homeDecimal": 2.15,
+          "drawDecimal": 2.9,
+          "awayDecimal": 3.8,
+          "lastUpdate": "2026-06-30T05:19:07Z"
+        },
+        {
+          "book": "Matchbook",
+          "bookKey": "matchbook",
+          "home": "+130",
+          "draw": "+198",
+          "away": "+320",
+          "homeDecimal": 2.3,
+          "drawDecimal": 2.98,
+          "awayDecimal": 4.2,
+          "lastUpdate": "2026-06-30T05:19:07Z"
+        },
+        {
+          "book": "Tipico",
+          "bookKey": "tipico_de",
+          "home": "+120",
+          "draw": "+190",
+          "away": "+300",
+          "homeDecimal": 2.2,
+          "drawDecimal": 2.9,
+          "awayDecimal": 4.0,
+          "lastUpdate": "2026-06-30T05:19:08Z"
+        },
+        {
+          "book": "GTbets",
+          "bookKey": "gtbets",
+          "home": "+123",
+          "draw": "+192",
+          "away": "+288",
+          "homeDecimal": 2.23,
+          "drawDecimal": 2.92,
+          "awayDecimal": 3.88,
+          "lastUpdate": "2026-06-30T05:19:09Z"
+        },
+        {
+          "book": "Winamax (FR)",
+          "bookKey": "winamax_fr",
+          "home": "+115",
+          "draw": "+195",
+          "away": "+290",
+          "homeDecimal": 2.15,
+          "drawDecimal": 2.95,
+          "awayDecimal": 3.9,
+          "lastUpdate": "2026-06-30T05:19:09Z"
+        },
+        {
+          "book": "Winamax (DE)",
+          "bookKey": "winamax_de",
+          "home": "+115",
+          "draw": "+195",
+          "away": "+295",
+          "homeDecimal": 2.15,
+          "drawDecimal": 2.95,
+          "awayDecimal": 3.95,
+          "lastUpdate": "2026-06-30T05:18:57Z"
+        },
+        {
+          "book": "Pinnacle",
+          "bookKey": "pinnacle",
+          "home": "+124",
+          "draw": "+191",
+          "away": "+310",
+          "homeDecimal": 2.24,
+          "drawDecimal": 2.91,
+          "awayDecimal": 4.1,
+          "lastUpdate": "2026-06-30T05:19:10Z"
+        },
+        {
+          "book": "Marathon Bet",
+          "bookKey": "marathonbet",
+          "home": "+122",
+          "draw": "+205",
+          "away": "+305",
+          "homeDecimal": 2.22,
+          "drawDecimal": 3.05,
+          "awayDecimal": 4.05,
+          "lastUpdate": "2026-06-30T05:18:57Z"
+        },
+        {
+          "book": "Betsson",
+          "bookKey": "betsson",
+          "home": "+128",
+          "draw": "+192",
+          "away": "+295",
+          "homeDecimal": 2.28,
+          "drawDecimal": 2.92,
+          "awayDecimal": 3.95,
+          "lastUpdate": "2026-06-30T05:18:45Z"
+        },
+        {
+          "book": "Nordic Bet",
+          "bookKey": "nordicbet",
+          "home": "+128",
+          "draw": "+192",
+          "away": "+295",
+          "homeDecimal": 2.28,
+          "drawDecimal": 2.92,
+          "awayDecimal": 3.95,
+          "lastUpdate": "2026-06-30T05:18:45Z"
+        },
+        {
+          "book": "BetOnline.ag",
+          "bookKey": "betonlineag",
+          "home": "+123",
+          "draw": "+192",
+          "away": "+317",
+          "homeDecimal": 2.23,
+          "drawDecimal": 2.92,
+          "awayDecimal": 4.17,
+          "lastUpdate": "2026-06-30T05:18:47Z"
+        },
+        {
+          "book": "Everygame",
+          "bookKey": "everygame",
+          "home": "+120",
+          "draw": "+190",
+          "away": "+300",
+          "homeDecimal": 2.2,
+          "drawDecimal": 2.9,
+          "awayDecimal": 4.0,
+          "lastUpdate": "2026-06-30T05:18:59Z"
+        },
+        {
+          "book": "Codere (IT)",
+          "bookKey": "codere_it",
+          "home": "+120",
+          "draw": "+195",
+          "away": "+295",
+          "homeDecimal": 2.2,
+          "drawDecimal": 2.95,
+          "awayDecimal": 3.95,
+          "lastUpdate": "2026-06-30T05:18:34Z"
+        },
+        {
+          "book": "BetAnything",
+          "bookKey": "betanysports",
+          "home": "+120",
+          "draw": "+190",
+          "away": "+295",
+          "homeDecimal": 2.2,
+          "drawDecimal": 2.9,
+          "awayDecimal": 3.95,
+          "lastUpdate": "2026-06-30T05:19:11Z"
+        }
+      ],
+      "probability": {
+        "home": 43.1,
+        "draw": 33.0,
+        "away": 23.9
+      },
+      "reasonsFor": [
+        "México juega como local y llega con mejor defensa reciente.",
+        "El mercado le concede ventaja moderada para avanzar."
+      ],
+      "reasonsAgainst": [
+        "Ecuador tiene suficiente calidad para convertir el partido en uno cerrado.",
+        "La cuota puede no compensar el riesgo si cae demasiado."
+      ],
+      "injuries": [
+        "Confirmar bajas y estado de titulares antes del inicio."
+      ],
+      "lineups": "Esperar alineaciones oficiales.",
+      "form": "México llega invicto en la muestra analizada; Ecuador viene de mostrar capacidad de remontada.",
+      "marketChange": "Primera lectura automática del mercado 1X2.",
+      "bestOdds": {
+        "home": {
+          "decimal": 2.33,
+          "american": "+133"
+        },
+        "draw": {
+          "decimal": 3.08,
+          "american": "+208"
+        },
+        "away": {
+          "decimal": 4.25,
+          "american": "+325"
+        }
+      },
+      "bookmakerCount": 25,
+      "oddsSource": "The Odds API",
+      "oddsEventId": "f58c55a9da96af562c31b7c5cca40187",
+      "oddsUpdatedAt": "2026-06-30T05:19:11Z",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol"
+    },
+    {
+      "id": "5ff7744314f224c18d1604ee9cc19263",
+      "teams": [
+        "England",
+        "DR Congo"
+      ],
+      "kickoff": "2026-07-01T16:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "658ac8cbf214ca3cc150109b4ddc1e74",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "kickoff": "2026-07-01T20:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "9eeb4876001f5a52ce3c3641bd5f1f2f",
+      "teams": [
+        "USA",
+        "Bosnia & Herzegovina"
+      ],
+      "kickoff": "2026-07-02T00:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "a518ac20df8f5c732b881e213ae0c230",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "kickoff": "2026-07-02T19:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "852b4baf0be4b9eef2a30596a8d39249",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "kickoff": "2026-07-02T23:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "c17fe2e46190d7ab6af01504ff240e82",
+      "teams": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "kickoff": "2026-07-03T03:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "fb270a3dac2b682c861bd674a5ff4a04",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "kickoff": "2026-07-03T18:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "3e161b2448ed76d6b0c0f5bda6fd5bf2",
+      "teams": [
+        "Argentina",
+        "Cape Verde"
+      ],
+      "kickoff": "2026-07-03T22:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "88e032a2b2e5042d26db3f0da1df924a",
+      "teams": [
+        "Colombia",
+        "Ghana"
+      ],
+      "kickoff": "2026-07-04T01:30:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "9c7073ae2c29ee4881bb695f92168c68",
+      "teams": [
+        "Canada",
+        "Morocco"
+      ],
+      "kickoff": "2026-07-04T17:00:00Z",
+      "status": "Próximo",
+      "statusCode": "NS",
+      "statusLong": "Programado",
+      "elapsed": null,
+      "score": null,
+      "homeScore": null,
+      "awayScore": null,
+      "completed": false,
+      "finalInfo": null,
+      "isFinal": false,
+      "updatedAt": "2026-06-30T09:39:51.872777Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "esperar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Sin movimiento registrado en este actualizador."
+    },
+    {
+      "id": "537c0997cd899394f47f16545b7068b2",
+      "teams": [
+        "Croatia",
+        "Ghana"
+      ],
+      "kickoff": "2026-06-27T21:00:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "2–1",
+      "homeScore": "2",
+      "awayScore": "1",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Croatia 2–1 Ghana",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-29T02:10:50Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "4be17c8e1ccfecb0f2a5ef79e045c415",
+      "teams": [
+        "Panama",
+        "England"
+      ],
+      "kickoff": "2026-06-27T21:00:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "0–2",
+      "homeScore": "0",
+      "awayScore": "2",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Panama 0–2 England",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-29T02:10:50Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "67ae5751c401a98409b8566ae4897069",
+      "teams": [
+        "Colombia",
+        "Portugal"
+      ],
+      "kickoff": "2026-06-27T23:30:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "0–0",
+      "homeScore": "0",
+      "awayScore": "0",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Colombia 0–0 Portugal",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-29T02:10:50Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "13eab94a136b9c264ba974cf437a5f71",
+      "teams": [
+        "DR Congo",
+        "Uzbekistan"
+      ],
+      "kickoff": "2026-06-27T23:30:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "3–1",
+      "homeScore": "3",
+      "awayScore": "1",
+      "completed": true,
+      "finalInfo": {
+        "summary": "DR Congo 3–1 Uzbekistan",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-29T02:10:50Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "8756200e539155e571557c4f2e0d7f05",
+      "teams": [
+        "Algeria",
+        "Austria"
+      ],
+      "kickoff": "2026-06-28T02:00:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "3–3",
+      "homeScore": "3",
+      "awayScore": "3",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Algeria 3–3 Austria",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-29T02:10:50Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "54697f453437ab26276d773be1d72e9b",
+      "teams": [
+        "Jordan",
+        "Argentina"
+      ],
+      "kickoff": "2026-06-28T02:00:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "1–3",
+      "homeScore": "1",
+      "awayScore": "3",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Jordan 1–3 Argentina",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-29T02:10:50Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "def55b09ef3d6854e3c01e74b5c63415",
+      "teams": [
+        "South Africa",
+        "Canada"
+      ],
+      "kickoff": "2026-06-28T19:00:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "0–1",
+      "homeScore": "0",
+      "awayScore": "1",
+      "completed": true,
+      "finalInfo": {
+        "summary": "South Africa 0–1 Canada",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "4f3d72fba877939d36a5315618184093",
+      "teams": [
+        "Brazil",
+        "Japan"
+      ],
+      "kickoff": "2026-06-29T17:00:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "2–1",
+      "homeScore": "2",
+      "awayScore": "1",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Brazil 2–1 Japan",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "4930db8e83436874d09e59bd0e29c1a5",
+      "teams": [
+        "Germany",
+        "Paraguay"
+      ],
+      "kickoff": "2026-06-29T20:30:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "1–1",
+      "homeScore": "1",
+      "awayScore": "1",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Germany 1–1 Paraguay",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
+    },
+    {
+      "id": "5a34afe2de99513ba48360b983cfe80c",
+      "teams": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "kickoff": "2026-06-30T00:59:00Z",
+      "status": "Final",
+      "statusCode": "FT",
+      "statusLong": "Final",
+      "elapsed": null,
+      "score": "1–1",
+      "homeScore": "1",
+      "awayScore": "1",
+      "completed": true,
+      "finalInfo": {
+        "summary": "Netherlands 1–1 Morocco",
+        "method": "Final",
+        "source": "The Odds API Scores"
+      },
+      "isFinal": true,
+      "updatedAt": "2026-06-30T09:07:39Z",
+      "fixtureSource": "The Odds API Scores",
+      "analysisSource": "Tokol",
+      "classification": "evitar",
+      "market": "Resultado / marcador",
+      "odds": [],
+      "probability": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "reasonsFor": [
+        "Partido actualizado desde The Odds API Scores."
+      ],
+      "reasonsAgainst": [
+        "Verifica cuotas y contexto antes de tomar decisiones."
+      ],
+      "injuries": [
+        "The Odds API Scores no entrega bajas ni lesiones."
+      ],
+      "lineups": "The Odds API Scores no entrega alineaciones.",
+      "form": "Dato no disponible en The Odds API Scores.",
+      "marketChange": "Partido finalizado."
     }
   ]
 }
