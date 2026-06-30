@@ -127,11 +127,32 @@
     }
 
     .metric{
-      min-height:94px;
+      min-height:118px;
       padding:16px;
       border:1px solid var(--line);
       border-radius:15px;
       background:var(--panel);
+      color:var(--text);
+      text-align:left;
+    }
+
+    button.metric{
+      cursor:pointer;
+      transition:transform .18s cubic-bezier(.2,.75,.25,1.12),border-color .18s ease,background .18s ease,box-shadow .18s ease;
+    }
+
+    button.metric:hover,
+    button.metric:focus-visible{
+      transform:translateY(-3px) scale(1.018);
+      border-color:var(--accent);
+      background:var(--panel-raised);
+      box-shadow:0 10px 24px rgba(0,0,0,.20),0 0 16px rgba(47,140,255,.10);
+      outline:none;
+    }
+
+    button.metric.is-active{
+      border-color:var(--accent);
+      background:rgba(47,140,255,.10);
     }
 
     .metric b{
@@ -144,11 +165,19 @@
     .metric span{
       display:block;
       margin-top:6px;
+      color:#dce9f8;
+      font-size:.73rem;
+      font-weight:800;
+      letter-spacing:.07em;
+      text-transform:uppercase;
+    }
+
+    .metric small{
+      display:block;
+      margin-top:7px;
       color:var(--muted);
       font-size:.72rem;
-      font-weight:700;
-      letter-spacing:.09em;
-      text-transform:uppercase;
+      line-height:1.35;
     }
 
     .notice{
@@ -2082,6 +2111,132 @@
       }
     }
 
+
+    .internet-panel{
+      margin:0 0 18px;
+      border:1px solid var(--line);
+      border-radius:15px;
+      background:var(--panel-soft);
+      overflow:hidden;
+    }
+
+    .internet-panel summary{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      padding:13px 15px;
+      cursor:pointer;
+      color:#dce9f8;
+      font-size:.84rem;
+      font-weight:800;
+      list-style:none;
+    }
+
+    .internet-panel summary::-webkit-details-marker{display:none}
+
+    .internet-panel summary::after{
+      content:'＋';
+      color:var(--accent-strong);
+      font-size:1rem;
+    }
+
+    .internet-panel[open] summary::after{content:'−'}
+
+    .internet-news-list{
+      display:grid;
+      gap:8px;
+      padding:0 13px 13px;
+    }
+
+    .internet-news-item{
+      display:grid;
+      gap:4px;
+      padding:11px 12px;
+      border:1px solid var(--line-soft);
+      border-radius:11px;
+      background:#081522;
+      color:var(--text);
+      text-decoration:none;
+      transition:border-color .16s ease,background .16s ease,transform .16s ease;
+    }
+
+    .internet-news-item:hover,
+    .internet-news-item:focus-visible{
+      border-color:var(--accent);
+      background:#0c1c2d;
+      transform:translateY(-1px);
+      outline:none;
+    }
+
+    .internet-news-item strong{
+      font-size:.82rem;
+      line-height:1.38;
+    }
+
+    .internet-news-meta{
+      color:var(--muted);
+      font-size:.68rem;
+    }
+
+    .internet-empty{
+      padding:11px 12px;
+      color:var(--muted);
+      font-size:.78rem;
+    }
+
+    .web-context{
+      display:grid;
+      gap:7px;
+      margin-top:9px;
+    }
+
+    .web-context-link{
+      display:grid;
+      gap:3px;
+      padding:10px 11px;
+      border:1px solid var(--line-soft);
+      border-radius:11px;
+      background:#081522;
+      color:#dce9f8;
+      text-decoration:none;
+    }
+
+    .web-context-link:hover,
+    .web-context-link:focus-visible{
+      border-color:var(--accent);
+      background:#0c1c2d;
+      outline:none;
+    }
+
+    .web-context-link strong{
+      font-size:.78rem;
+      line-height:1.35;
+    }
+
+    .web-context-link span{
+      color:var(--muted);
+      font-size:.66rem;
+    }
+
+    .web-context-note{
+      margin-top:8px;
+      color:#7f91a8;
+      font-size:.67rem;
+      line-height:1.4;
+    }
+
+    .web-badge{
+      border-color:rgba(47,140,255,.34);
+      background:rgba(47,140,255,.08);
+      color:#a9d5ff;
+    }
+
+    @media(max-width:780px){
+      .summary{grid-template-columns:repeat(2,1fr)}
+      .metric{min-height:112px}
+    }
+
 </style>
 </head>
 
@@ -2148,28 +2303,38 @@
       <button class="btn compact-btn" id="clearSharedBtn" type="button">Ver todos</button>
     </div>
 
-    <section class="summary" aria-label="Resumen">
-      <div class="metric"><b id="totalCount">0</b><span>Partidos</span></div>
-      <div class="metric"><b id="considerCount">0</b><span>✓ Considerar</span></div>
-      <div class="metric"><b id="waitCount">0</b><span>⏳ Esperar</span></div>
-      <div class="metric"><b id="avoidCount">0</b><span>! Evitar</span></div>
-      <div class="metric"><b id="finalCount">0</b><span>● Finalizados</span></div>
+    <section class="summary" aria-label="Resumen interactivo">
+      <button class="metric" type="button" data-summary="all">
+        <b id="totalCount">0</b><span>Partidos monitoreados</span><small>Ver todos los encuentros cargados.</small>
+      </button>
+      <button class="metric" type="button" data-summary="considerar">
+        <b id="considerCount">0</b><span>Opciones para revisar</span><small>Señales favorables que aún deben verificarse.</small>
+      </button>
+      <button class="metric" type="button" data-summary="esperar">
+        <b id="waitCount">0</b><span>Mejor esperar</span><small>Falta contexto, confirmación o movimiento.</small>
+      </button>
+      <button class="metric" type="button" data-summary="evitar">
+        <b id="avoidCount">0</b><span>No conviene ahora</span><small>Señales menos favorables en este momento.</small>
+      </button>
+      <button class="metric" type="button" data-summary="finales">
+        <b id="finalCount">0</b><span>Partidos terminados</span><small>Abrir resultados y marcadores finales.</small>
+      </button>
     </section>
 
     <section class="filters" id="matchesSection" aria-label="Filtros">
       <input class="control" id="searchInput" type="search" placeholder="Buscar selección, aunque tenga un error..." />
       <select class="control" id="statusFilter" aria-label="Filtrar por decisión">
-        <option value="todos">Todas las decisiones</option>
-        <option value="considerar">✓ Considerar</option>
-        <option value="esperar">⏳ Esperar</option>
-        <option value="evitar">! Evitar</option>
+        <option value="todos">Todas las evaluaciones</option>
+        <option value="considerar">✓ Opciones para revisar</option>
+        <option value="esperar">⏳ Mejor esperar</option>
+        <option value="evitar">! No conviene ahora</option>
       </select>
 
       <select class="control" id="matchStatusFilter" aria-label="Filtrar por estado del partido">
         <option value="todos">Todos los estados</option>
         <option value="Próximo">Próximos</option>
         <option value="En vivo">En vivo</option>
-        <option value="Final">Finalizados</option>
+        <option value="Final">Partidos terminados</option>
       </select>
 
       <select class="control" id="quickFilter" aria-label="Filtro rápido">
@@ -2177,7 +2342,7 @@
         <option value="hoy">Hoy</option>
         <option value="manana">Mañana</option>
         <option value="en-vivo">En vivo</option>
-        <option value="finales">Finalizados</option>
+        <option value="finales">Partidos terminados</option>
         <option value="favoritos">Mis favoritos</option>
         <option value="alineaciones">Alineación confirmada</option>
         <option value="movimiento">Con movimiento de cuota</option>
@@ -2189,11 +2354,18 @@
       <span class="favorite-summary"><span id="favoriteCount">0</span> favoritos guardados en este dispositivo</span>
     </div>
 
+    <details class="internet-panel" id="internetPanel">
+      <summary><span>Contexto reciente de internet</span><span id="internetCount">0 noticias</span></summary>
+      <div class="internet-news-list" id="internetNewsList">
+        <div class="internet-empty">El contexto web todavía no se ha actualizado.</div>
+      </div>
+    </details>
+
     <section class="grid" id="cards" aria-live="polite"></section>
 
     <footer>
       <div id="updatedAt"></div>
-      <p>Fuentes utilizadas por la integración: API-Football para partidos y resultados; The Odds API para cuotas. Las probabilidades y etiquetas son estimaciones informativas. Verifica los datos antes de tomar una decisión.</p>
+      <p>Datos estructurados: The Odds API para partidos, marcadores y cuotas. Contexto público: noticias localizadas en internet mediante GDELT. Las menciones web no confirman por sí solas lesiones, alineaciones o rumores; abre la fuente y verifica antes de decidir.</p>
     </footer>
   </main>
 
@@ -2225,6 +2397,7 @@
 
       <div class="tokol-quick" id="tokolQuickActions" tabindex="0" aria-label="Acciones rápidas de Tokol; desliza horizontalmente">
         <button class="tokol-chip" data-question="¿Qué cambió hoy?">Cambios de hoy</button>
+        <button class="tokol-chip" data-question="¿Qué noticias recientes hay?">Noticias web</button>
         <button class="tokol-chip" data-question="¿Cuál partido es más riesgoso?">Más riesgoso</button>
         <button class="tokol-chip" data-question="¿Qué alineaciones ya están confirmadas?">Alineaciones</button>
         <button class="tokol-chip" data-question="¿Qué cuotas tuvieron movimiento?">Movimientos</button>
@@ -2367,6 +2540,7 @@
 <script>
 const fallbackData = {"meta":{"title":"Radar de partidos — Mundial 2026","timezone":"America/Mexico_City","lastUpdated":"2026-06-29T13:45:00-06:00","refreshSeconds":60,"sourceNote":"Datos de demostración basados en el último análisis de esta conversación. Confirma cuotas y alineaciones antes de apostar."},"matches":[{"id":"bra-jpn-20260629","teams":["Brasil","Japón"],"kickoff":"2026-06-29T11:00:00-06:00","status":"En vivo","score":"1–1","classification":"evitar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-310","away":"+240"}],"probability":{"home":72.0,"away":28.0},"reasonsFor":["Brasil conserva mayor profundidad y calidad individual.","La cuota de clasificación refleja favoritismo fuerte."],"reasonsAgainst":["El partido ya está en vivo y cambió respecto al análisis previo.","Entrar tarde puede significar aceptar una cuota sin valor.","Japón ha mostrado capacidad para defender y competir."],"injuries":["Brasil: Raphinha reportado con lesión; Neymar en recuperación.","Japón: Kubo con molestias de tobillo."],"lineups":"Consulta la fuente en vivo antes de apostar.","form":"Partido en curso; la forma previa ya no basta para decidir.","marketChange":"Cambio significativo: marcador 1–1 en vivo."},{"id":"ger-par-20260629","teams":["Alemania","Paraguay"],"kickoff":"2026-06-29T14:30:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-750","away":"+490"}],"probability":{"home":83.9,"away":16.1},"reasonsFor":["Alemania tiene mayor profundidad ofensiva.","Paraguay produjo poco gol en la fase de grupos."],"reasonsAgainst":["La cuota de Alemania es demasiado baja para tomarla como valor automático.","Una selección tan favorita puede aportar poco a un parlay y mantener riesgo real."],"injuries":["Alemania: Nico Schlotterbeck ausente.","Paraguay: Diego Gómez suspendido; Alderete con duda física."],"lineups":"Esperar confirmación oficial.","form":"Alemania llega como favorita amplia; Paraguay necesita un partido cerrado.","marketChange":"Sin cambio fuerte confirmado en esta muestra."},{"id":"ned-mar-20260629","teams":["Países Bajos","Marruecos"],"kickoff":"2026-06-29T19:00:00-06:00","status":"Próximo","classification":"considerar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-156","away":"+128"}],"probability":{"home":58.1,"away":41.9},"reasonsFor":["Es un mercado más equilibrado y permite comparar valor real.","Países Bajos posee mayor capacidad ofensiva."],"reasonsAgainst":["Marruecos llega competitivo y puede castigar una defensa adelantada.","No es un favorito suficientemente fuerte para llamarlo seguro."],"injuries":["Revisar reporte final antes del inicio."],"lineups":"Esperar alineaciones confirmadas.","form":"Marruecos llega con buen rendimiento colectivo; Países Bajos con mejor producción ofensiva.","marketChange":"Vigilar si la cuota neerlandesa baja demasiado."},{"id":"civ-nor-20260630","teams":["Costa de Marfil","Noruega"],"kickoff":"2026-06-30T11:00:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"+152","away":"-186"}],"probability":{"home":37.9,"away":62.1},"reasonsFor":["Noruega parte como favorita y tiene mayor amenaza ofensiva."],"reasonsAgainst":["62% no es suficiente para usarla como selección segura.","Conviene esperar titulares y cualquier cambio de cuota."],"injuries":["Revisar bajas oficiales el día del partido."],"lineups":"No confirmadas en esta muestra.","form":"Noruega favorita moderada; Costa de Marfil mantiene probabilidad real de sorpresa.","marketChange":"Esperar movimiento cercano a la alineación."},{"id":"fra-swe-20260630","teams":["Francia","Suecia"],"kickoff":"2026-06-30T15:00:00-06:00","status":"Próximo","classification":"evitar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-1000","away":"+620"}],"probability":{"home":86.7,"away":13.3},"reasonsFor":["Francia es favorita muy amplia por calidad y profundidad."],"reasonsAgainst":["La cuota ofrece retorno bajo frente al riesgo residual.","Agregarla a un parlay no elimina el peligro de una sorpresa."],"injuries":["Esperar reporte médico y rotaciones."],"lineups":"No confirmadas en esta muestra.","form":"Partido potencialmente abierto; la defensa y las rotaciones pueden cambiar el mercado.","marketChange":"La cuota francesa ya está muy comprimida."},{"id":"mex-ecu-20260630","teams":["México","Ecuador"],"kickoff":"2026-06-30T19:00:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-182","away":"+148"}],"probability":{"home":61.5,"away":38.5},"reasonsFor":["México juega como local y llega con mejor defensa reciente.","El mercado le concede ventaja moderada para avanzar."],"reasonsAgainst":["Ecuador tiene suficiente calidad para convertir el partido en uno cerrado.","La cuota puede no compensar el riesgo si cae demasiado."],"injuries":["Confirmar bajas y estado de titulares antes del inicio."],"lineups":"Esperar alineaciones oficiales.","form":"México llega invicto en la muestra analizada; Ecuador viene de mostrar capacidad de remontada.","marketChange":"Considerar solo si la cuota mejora; evitar perseguir una caída del precio."}]};
 let appData = fallbackData;
+let contextData = {meta:{}, articles:[], matches:{}};
 
 const STORAGE = {
   favorites: 'tokol:favorites:v2',
@@ -2399,6 +2573,68 @@ function escapeHTML(value=''){
     .replaceAll('>','&gt;')
     .replaceAll('"','&quot;')
     .replaceAll("'",'&#039;');
+}
+
+function safeHttpUrl(value=''){
+  try{
+    const url = new URL(String(value));
+    return ['http:','https:'].includes(url.protocol) ? url.href : '';
+  }catch{
+    return '';
+  }
+}
+
+function contextArticlesForMatch(matchId){
+  const rows = contextData?.matches?.[matchId];
+  return Array.isArray(rows) ? rows : [];
+}
+
+function parseWebDate(value=''){
+  const raw = String(value);
+  const compact = raw.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})(\d{2})(\d{2})Z?$/);
+  if(compact){
+    return new Date(`${compact[1]}-${compact[2]}-${compact[3]}T${compact[4]}:${compact[5]}:${compact[6]}Z`);
+  }
+  const date = new Date(raw);
+  return Number.isNaN(date.getTime()) ? null : date;
+}
+
+function webDateLabel(value=''){
+  const date = parseWebDate(value);
+  if(!date) return 'fecha no disponible';
+  return relativeAge(date.toISOString());
+}
+
+function contextArticleHtml(article, compact=false){
+  const url = safeHttpUrl(article?.url);
+  if(!url) return '';
+  const title = escapeHTML(article?.title || 'Abrir noticia');
+  const domain = escapeHTML(article?.domain || 'fuente web');
+  const date = escapeHTML(webDateLabel(article?.seenDate || article?.seendate || article?.date));
+  const tags = Array.isArray(article?.tags) && article.tags.length
+    ? ` · ${escapeHTML(article.tags.join(', '))}`
+    : '';
+  const cls = compact ? 'web-context-link' : 'internet-news-item';
+  return `<a class="${cls}" href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer"><strong>${title}</strong><span class="internet-news-meta">${domain} · ${date}${tags}</span></a>`;
+}
+
+function renderInternetPanel(){
+  const articles = Array.isArray(contextData?.articles) ? contextData.articles.slice(0,8) : [];
+  const list = document.getElementById('internetNewsList');
+  const count = document.getElementById('internetCount');
+  if(!list || !count) return;
+  count.textContent = `${articles.length} noticia${articles.length===1?'':'s'}`;
+  list.innerHTML = articles.length
+    ? articles.map(article=>contextArticleHtml(article,false)).filter(Boolean).join('')
+    : '<div class="internet-empty">Todavía no hay noticias web relacionadas. Ejecuta el workflow de contexto de internet.</div>';
+}
+
+function renderMatchInternetContext(matchId){
+  const articles = contextArticlesForMatch(matchId).slice(0,5);
+  if(!articles.length){
+    return '<p class="web-context-note">No se localizaron menciones recientes relacionadas con este partido.</p>';
+  }
+  return `<div class="web-context">${articles.map(article=>contextArticleHtml(article,true)).filter(Boolean).join('')}</div><p class="web-context-note">Estas son menciones de noticias encontradas en internet. Abre la fuente para comprobar el contexto completo.</p>`;
 }
 
 function safeId(value=''){
@@ -2613,6 +2849,12 @@ function classificationIcon(value){
   return value === 'considerar' ? '✓' : value === 'esperar' ? '⏳' : '!';
 }
 
+function classificationLabel(value){
+  if(value === 'considerar') return 'Revisar';
+  if(value === 'evitar') return 'No conviene ahora';
+  return 'Mejor esperar';
+}
+
 function resultDetails(m){
   const info = m.finalInfo;
   if(!info) return '';
@@ -2712,11 +2954,12 @@ function renderCard(m){
   const favorite = favorites.has(m.id);
   const updated = m.updatedAt || m.oddsUpdatedAt || appData.meta.lastUpdated;
   const oddsSource = m.oddsSource || 'The Odds API';
-  const fixtureSource = m.fixtureSource || 'API-Football';
+  const fixtureSource = m.fixtureSource || 'The Odds API Scores';
   const analysisSource = m.analysisSource || 'Tokol';
   const reasonsFor = Array.isArray(m.reasonsFor) ? m.reasonsFor : [];
   const reasonsAgainst = Array.isArray(m.reasonsAgainst) ? m.reasonsAgainst : [];
   const injuries = Array.isArray(m.injuries) ? m.injuries : [];
+  const webArticles = contextArticlesForMatch(m.id);
 
   return `
     <article class="card ${isFinal(m) ? 'final-card' : ''} ${m.id === focusMatchId ? 'focused' : ''}"
@@ -2743,8 +2986,9 @@ function renderCard(m){
 
         <div class="badges" style="justify-content:flex-start;margin-top:12px">
           <span class="status-badge ${statusClass(m.status)}">${escapeHTML(m.status || 'Sin estado')}</span>
-          <span class="badge ${escapeHTML(m.classification || 'esperar')}">${classificationIcon(m.classification)} ${escapeHTML(m.classification || 'esperar')}</span>
+          <span class="badge ${escapeHTML(m.classification || 'esperar')}">${classificationIcon(m.classification)} ${escapeHTML(classificationLabel(m.classification))}</span>
           ${lineupsConfirmed(m) ? '<span class="status-badge status-final">Alineación confirmada</span>' : ''}
+          ${webArticles.length ? `<span class="status-badge web-badge">${webArticles.length} noticia${webArticles.length===1?'':'s'} web</span>` : ''}
         </div>
 
         ${resultDetails(m)}
@@ -2793,6 +3037,9 @@ function renderCard(m){
 
           <div class="section-title">Cambio de mercado</div>
           <p>${escapeHTML(m.marketChange || 'Sin cambio registrado')}</p>
+
+          <div class="section-title">Contexto reciente de internet</div>
+          ${renderMatchInternetContext(m.id)}
         </details>
 
         <div class="source-row advanced-only">
@@ -2953,6 +3200,15 @@ function render(){
   document.getElementById('drawerFavoriteCount').textContent = favorites.size;
   document.getElementById('title').textContent = appData.meta.title || 'Radar de partidos';
   renderLiveScore();
+  renderInternetPanel();
+  document.querySelectorAll('[data-summary]').forEach(button=>{
+    const key = button.dataset.summary;
+    const active =
+      (key === 'all' && document.getElementById('statusFilter').value === 'todos' && document.getElementById('matchStatusFilter').value === 'todos') ||
+      (['considerar','esperar','evitar'].includes(key) && document.getElementById('statusFilter').value === key) ||
+      (key === 'finales' && document.getElementById('matchStatusFilter').value === 'Final');
+    button.classList.toggle('is-active',active);
+  });
 
   document.getElementById('updatedAt').textContent =
     `Última actualización general: ${fmtDate(appData.meta.lastUpdated)} (${relativeAge(appData.meta.lastUpdated)}). ${appData.meta.sourceNote || ''}`;
@@ -2978,13 +3234,22 @@ function render(){
 }
 
 async function loadData(){
+  const stamp = Date.now();
   try{
-    const res = await fetch(`data.json?ts=${Date.now()}`,{cache:'no-store'});
+    const res = await fetch(`data.json?ts=${stamp}`,{cache:'no-store'});
     if(!res.ok) throw new Error('No se pudo cargar data.json');
     appData = await res.json();
   }catch{
     appData = fallbackData;
   }
+
+  try{
+    const contextRes = await fetch(`context.json?ts=${stamp}`,{cache:'no-store'});
+    if(contextRes.ok) contextData = await contextRes.json();
+  }catch{
+    contextData = {meta:{}, articles:[], matches:{}};
+  }
+
   render();
 }
 
@@ -3054,6 +3319,34 @@ function probabilityExplanation(label,value){
   const rounded = Math.round(value);
   showToast(`${label}: ${value.toFixed(1)}%. Es una estimación equivalente a cerca de ${rounded} de cada 100 escenarios; no es una garantía.`);
 }
+
+document.querySelectorAll('[data-summary]').forEach(button=>{
+  button.addEventListener('click',()=>{
+    const action = button.dataset.summary;
+    focusMatchId = '';
+    document.getElementById('searchInput').value = '';
+    document.getElementById('statusFilter').value = 'todos';
+    document.getElementById('matchStatusFilter').value = 'todos';
+    document.getElementById('quickFilter').value = 'todos';
+
+    if(['considerar','esperar','evitar'].includes(action)){
+      document.getElementById('statusFilter').value = action;
+    }else if(action === 'finales'){
+      document.getElementById('matchStatusFilter').value = 'Final';
+    }
+
+    render();
+    const messages = {
+      all:'Mostrando todos los partidos monitoreados.',
+      considerar:'Mostrando las opciones para revisar.',
+      esperar:'Mostrando los partidos donde es mejor esperar.',
+      evitar:'Mostrando los partidos que no convienen ahora.',
+      finales:'Mostrando los partidos terminados.'
+    };
+    showToast(messages[action] || 'Filtro actualizado');
+    document.getElementById('matchesSection').scrollIntoView({behavior:'smooth',block:'start'});
+  });
+});
 
 document.getElementById('cards').addEventListener('click',event=>{
   const probability = event.target.closest('.prob-item');
@@ -3232,6 +3525,36 @@ function tokolReply(question){
     return {text:'Soy Tokol. Leo los datos del radar y te ayudo a encontrar partidos, cambios, cuotas, resultados y riesgos. No garantizo ganancias.'};
   }
 
+  if(/noticia|noticias|internet|contexto web|contexto de internet/.test(q)){
+    const articles = byTeam
+      ? contextArticlesForMatch(byTeam.id)
+      : (Array.isArray(contextData?.articles) ? contextData.articles : []);
+    const title = byTeam ? `Noticias relacionadas con ${byTeam.teams.join(' vs. ')}` : 'Noticias recientes relacionadas con el torneo';
+    return {
+      matchId: byTeam?.id,
+      text: articles.length
+        ? `${title}:\n${articles.slice(0,6).map(article=>`• ${article.title} — ${article.domain || 'fuente web'}`).join('\n')}\n\nSon menciones encontradas en internet; abre la fuente para verificar el contexto completo.`
+        : 'Todavía no hay noticias web relacionadas. Ejecuta el workflow de contexto de internet.'
+    };
+  }
+
+  if(/lesion|lesiones|baja|bajas|suspension|suspendido|alineacion|alineaciones|titulares/.test(q)){
+    const pool = byTeam
+      ? contextArticlesForMatch(byTeam.id)
+      : (Array.isArray(contextData?.articles) ? contextData.articles : []);
+    const relevant = pool.filter(article=>{
+      const tags = Array.isArray(article.tags) ? article.tags.join(' ') : '';
+      const text = normalizeText(`${article.title || ''} ${tags}`);
+      return /lesion|injur|baja|suspend|alineacion|lineup|titular|starting xi|team news/.test(text);
+    });
+    if(relevant.length){
+      return {
+        matchId: byTeam?.id,
+        text:`Menciones web relacionadas:\n${relevant.slice(0,6).map(article=>`• ${article.title} — ${article.domain || 'fuente web'}`).join('\n')}\n\nUna mención no significa que el dato esté confirmado; abre la fuente y compáralo con información oficial.`
+      };
+    }
+  }
+
   if(/que cambio hoy|cambios de hoy|cambio hoy/.test(q)){
     const changed = matches.filter(hasMarketMovement);
     return {
@@ -3349,7 +3672,8 @@ ${odds}
 Bajas:
 ${injuries}
 Alineaciones: ${byTeam.lineups || 'sin información'}
-Motivo principal: ${mainReason(byTeam)}`
+Motivo principal: ${mainReason(byTeam)}
+${contextArticlesForMatch(byTeam.id).length ? `Contexto web reciente:\n${contextArticlesForMatch(byTeam.id).slice(0,3).map(article=>`• ${article.title} — ${article.domain || 'fuente web'}`).join('\n')}` : 'Contexto web reciente: sin menciones localizadas.'}`
     };
   }
 
