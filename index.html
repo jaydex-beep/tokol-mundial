@@ -3,394 +3,3573 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#0b1220" />
-  <title>Radar de partidos — Mundial 2026</title>
+  <meta name="theme-color" content="#05070b" />
+  <title>Tokol — Radar Mundial 2026</title>
   <style>
-    :root{
-      --bg:#08111f;--panel:#101c2f;--panel2:#15243a;--text:#f6f8fb;--muted:#a9b4c5;
-      --line:#263750;--accent:#46d39a;--warn:#ffca62;--danger:#ff7c7c;--info:#78a9ff;
-      --shadow:0 18px 50px rgba(0,0,0,.28);--radius:20px;
-    }
-    *{box-sizing:border-box}
-    body{margin:0;background:linear-gradient(180deg,#07101d,#0b1626 45%,#08111f);color:var(--text);
-      font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
-    button,input,select{font:inherit}
-    .wrap{max-width:1180px;margin:auto;padding:24px}
-    header{display:grid;grid-template-columns:1fr auto;gap:18px;align-items:end;margin:18px 0 24px}
-    h1{font-size:clamp(1.8rem,4vw,3.5rem);line-height:1;margin:0 0 10px}
-    .subtitle{color:var(--muted);max-width:760px;line-height:1.55}
-    .toolbar{display:flex;flex-wrap:wrap;gap:10px;justify-content:flex-end}
-    .btn,.control{border:1px solid var(--line);background:rgba(21,36,58,.9);color:var(--text);
-      padding:11px 14px;border-radius:12px}
-    .btn{cursor:pointer}
-    .btn:hover,.btn:focus{border-color:var(--accent);outline:none}
-    .summary{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:20px 0}
-    .metric{background:rgba(16,28,47,.84);border:1px solid var(--line);border-radius:16px;padding:16px}
-    .metric b{font-size:1.65rem;display:block}.metric span{color:var(--muted);font-size:.92rem}
-    .notice{border:1px solid #67542b;background:#2a2415;color:#f7e9bd;padding:14px 16px;border-radius:14px;margin:16px 0}
-    .filters{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 24px}
-    .filters input{min-width:240px;flex:1}
-    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
-    .card{background:linear-gradient(180deg,rgba(21,36,58,.98),rgba(12,24,41,.98));
-      border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
-    .topline{display:flex;justify-content:space-between;gap:14px;align-items:flex-start}
-    .teams{font-size:1.25rem;font-weight:800}.meta{color:var(--muted);font-size:.9rem;margin-top:4px}
-    .badge{font-weight:800;text-transform:uppercase;font-size:.72rem;letter-spacing:.07em;padding:7px 10px;border-radius:999px;white-space:nowrap}
-    .considerar{background:rgba(70,211,154,.16);color:#8af0c3;border:1px solid rgba(70,211,154,.4)}
-    .esperar{background:rgba(255,202,98,.14);color:#ffe2a2;border:1px solid rgba(255,202,98,.4)}
-    .evitar{background:rgba(255,124,124,.14);color:#ffaaaa;border:1px solid rgba(255,124,124,.4)}
-    .prob{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:16px 0}
-    .prob.three{grid-template-columns:repeat(3,1fr)}
-    .prob div{background:#0b1729;border:1px solid var(--line);border-radius:13px;padding:12px}
-    .prob strong{font-size:1.35rem;display:block}.prob small{color:var(--muted)}
-    details{border-top:1px solid var(--line);padding-top:12px;margin-top:12px}
-    summary{cursor:pointer;font-weight:750}
-    ul{padding-left:19px;color:#d9e0ea;line-height:1.48}
-    .section-title{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:15px}
-    .books{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
-    .book{background:#0a1627;border:1px solid var(--line);border-radius:10px;padding:8px 10px;font-size:.86rem}
-    footer{color:var(--muted);font-size:.88rem;line-height:1.5;margin:28px 0 10px}
-    .empty{grid-column:1/-1;border:1px dashed var(--line);border-radius:16px;padding:30px;text-align:center;color:var(--muted)}
 
-    /* Tokol: asistente local sin claves externas */
+    :root{
+      --bg:#05070b;
+      --bg-soft:#09111d;
+      --panel:#0b1624;
+      --panel-raised:#101e30;
+      --panel-soft:#0a1320;
+      --text:#edf4ff;
+      --muted:#91a0b5;
+      --line:#1b2a3d;
+      --line-soft:#142235;
+      --accent:#2f8cff;
+      --accent-strong:#68b5ff;
+      --accent-soft:rgba(47,140,255,.10);
+      --success:#6fc6a5;
+      --warn:#d0ad68;
+      --danger:#d47b7b;
+      --info:#68b5ff;
+      --shadow:0 12px 30px rgba(0,0,0,.20);
+      --radius:18px;
+    }
+
+    *{box-sizing:border-box}
+
+    html{
+      color-scheme:dark;
+      scroll-behavior:smooth;
+    }
+
+    body{
+      margin:0;
+      min-height:100vh;
+      background:
+        radial-gradient(circle at 88% 4%,rgba(47,140,255,.07),transparent 22rem),
+        linear-gradient(180deg,#05070b 0%,#07101a 55%,#05070b 100%);
+      color:var(--text);
+      font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+    }
+
+    button,input,select{font:inherit}
+
+    button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{
+      outline:2px solid var(--accent);
+      outline-offset:2px;
+    }
+
+    .wrap{
+      width:min(1180px,100%);
+      margin:auto;
+      padding:28px 24px 22px;
+    }
+
+    header{
+      display:grid;
+      grid-template-columns:minmax(0,1fr) auto;
+      gap:20px;
+      align-items:end;
+      margin:10px 0 22px;
+      padding:20px 0 22px;
+      border-bottom:1px solid var(--line);
+    }
+
+    h1{
+      margin:0 0 10px;
+      max-width:820px;
+      font-size:clamp(2rem,4.8vw,4.4rem);
+      font-weight:700;
+      line-height:.98;
+      letter-spacing:-.045em;
+      text-wrap:balance;
+    }
+
+    h1::before{
+      content:"TOKOL / MATCH INTELLIGENCE";
+      display:block;
+      margin-bottom:12px;
+      color:var(--accent-strong);
+      font-size:.66rem;
+      font-weight:800;
+      letter-spacing:.20em;
+    }
+
+    .subtitle{
+      max-width:760px;
+      color:var(--muted);
+      font-size:.96rem;
+      line-height:1.6;
+    }
+
+    .toolbar{
+      display:flex;
+      flex-wrap:wrap;
+      gap:8px;
+      justify-content:flex-end;
+      align-items:center;
+    }
+
+    .btn,.control{
+      border:1px solid var(--line);
+      background:var(--panel);
+      color:var(--text);
+      padding:10px 14px;
+      border-radius:12px;
+      transition:border-color .16s ease,background .16s ease;
+    }
+
+    .btn{cursor:pointer}
+
+    .btn:hover{
+      border-color:var(--accent);
+      background:var(--panel-raised);
+    }
+
+    .summary{
+      display:grid;
+      grid-template-columns:repeat(5,minmax(0,1fr));
+      gap:10px;
+      margin:18px 0;
+    }
+
+    .metric{
+      min-height:94px;
+      padding:16px;
+      border:1px solid var(--line);
+      border-radius:15px;
+      background:var(--panel);
+    }
+
+    .metric b{
+      display:block;
+      font-size:1.8rem;
+      font-weight:700;
+      letter-spacing:-.03em;
+    }
+
+    .metric span{
+      display:block;
+      margin-top:6px;
+      color:var(--muted);
+      font-size:.72rem;
+      font-weight:700;
+      letter-spacing:.09em;
+      text-transform:uppercase;
+    }
+
+    .notice{
+      margin:15px 0;
+      padding:13px 15px;
+      border:1px solid rgba(47,140,255,.28);
+      border-radius:13px;
+      background:rgba(47,140,255,.07);
+      color:#c9e2ff;
+      line-height:1.45;
+    }
+
+    .filters{
+      display:flex;
+      flex-wrap:wrap;
+      gap:9px;
+      margin:18px 0 22px;
+    }
+
+    .filters input{
+      min-width:240px;
+      flex:1;
+    }
+
+    .filters .control{
+      min-height:42px;
+      background:var(--panel-soft);
+    }
+
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      gap:14px;
+    }
+
+    .card{
+      padding:18px;
+      border:1px solid var(--line);
+      border-radius:var(--radius);
+      background:var(--panel);
+      box-shadow:none;
+      transition:border-color .16s ease,background .16s ease;
+    }
+
+    .card:hover{
+      border-color:#294565;
+      background:#0d1928;
+    }
+
+    .topline{
+      display:flex;
+      justify-content:space-between;
+      gap:14px;
+      align-items:flex-start;
+    }
+
+    .teams{
+      font-size:1.26rem;
+      font-weight:700;
+      line-height:1.2;
+      letter-spacing:-.02em;
+    }
+
+    .meta{
+      margin-top:5px;
+      color:var(--muted);
+      font-size:.82rem;
+      line-height:1.42;
+    }
+
+    .badges{
+      display:flex;
+      flex-wrap:wrap;
+      gap:6px;
+      justify-content:flex-end;
+    }
+
+    .badge,.status-badge{
+      padding:6px 9px;
+      border:1px solid var(--line);
+      border-radius:999px;
+      white-space:nowrap;
+      font-size:.64rem;
+      font-weight:800;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+    }
+
+    .considerar{
+      border-color:rgba(111,198,165,.35);
+      background:rgba(111,198,165,.08);
+      color:#9ed7c0;
+    }
+
+    .esperar{
+      border-color:rgba(208,173,104,.34);
+      background:rgba(208,173,104,.08);
+      color:#dcc28f;
+    }
+
+    .evitar{
+      border-color:rgba(212,123,123,.34);
+      background:rgba(212,123,123,.08);
+      color:#dfa4a4;
+    }
+
+    .status-badge{
+      background:var(--panel-soft);
+      color:var(--muted);
+    }
+
+    .status-final{
+      border-color:rgba(104,181,255,.36);
+      background:rgba(104,181,255,.08);
+      color:#abd5ff;
+    }
+
+    .status-live{
+      border-color:rgba(212,123,123,.42);
+      background:rgba(212,123,123,.10);
+      color:#e3a9a9;
+    }
+
+    .status-next{
+      border-color:rgba(47,140,255,.36);
+      background:rgba(47,140,255,.08);
+      color:#9fceff;
+    }
+
+    .result-box{
+      margin:14px 0;
+      padding:13px 14px;
+      border:1px solid rgba(104,181,255,.24);
+      border-radius:13px;
+      background:rgba(104,181,255,.06);
+    }
+
+    .result-score{
+      margin-bottom:5px;
+      font-size:1.35rem;
+      font-weight:700;
+    }
+
+    .result-meta{
+      color:var(--muted);
+      font-size:.82rem;
+      line-height:1.5;
+    }
+
+    .prob{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:8px;
+      margin:15px 0;
+    }
+
+    .prob.three{
+      grid-template-columns:repeat(3,1fr);
+    }
+
+    .prob div{
+      min-width:0;
+      padding:12px;
+      border:1px solid var(--line-soft);
+      border-radius:12px;
+      background:var(--panel-soft);
+    }
+
+    .prob strong{
+      display:block;
+      font-size:1.28rem;
+      font-weight:700;
+      color:var(--accent-strong);
+    }
+
+    .prob small{
+      display:block;
+      margin-top:3px;
+      overflow:hidden;
+      color:var(--muted);
+      font-size:.74rem;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+    }
+
+    details{
+      margin-top:13px;
+      padding-top:12px;
+      border-top:1px solid var(--line-soft);
+    }
+
+    summary{
+      color:#d8e7f8;
+      cursor:pointer;
+      font-size:.86rem;
+      font-weight:700;
+    }
+
+    summary::marker{color:var(--accent)}
+
+    ul{
+      padding-left:19px;
+      color:#c8d2df;
+      line-height:1.5;
+    }
+
+    .section-title{
+      margin-top:15px;
+      color:var(--accent-strong);
+      font-size:.67rem;
+      font-weight:800;
+      letter-spacing:.11em;
+      text-transform:uppercase;
+    }
+
+    .books{
+      display:flex;
+      flex-wrap:wrap;
+      gap:7px;
+      margin-top:8px;
+    }
+
+    .book{
+      padding:7px 10px;
+      border:1px solid var(--line-soft);
+      border-radius:999px;
+      background:var(--panel-soft);
+      color:#cfd8e4;
+      font-size:.76rem;
+    }
+
+    footer{
+      margin:28px 0 10px;
+      padding-top:18px;
+      border-top:1px solid var(--line-soft);
+      color:var(--muted);
+      font-size:.82rem;
+      line-height:1.55;
+    }
+
+    .empty{
+      grid-column:1/-1;
+      padding:36px 22px;
+      border:1px dashed #26384f;
+      border-radius:15px;
+      color:var(--muted);
+      text-align:center;
+      background:var(--panel-soft);
+    }
+
+    /* Tokol */
     .tokol-launcher{
-      position:fixed;right:20px;bottom:20px;z-index:60;border:0;border-radius:999px;
-      background:var(--accent);color:#052016;font-weight:900;padding:14px 18px;
-      box-shadow:0 18px 45px rgba(0,0,0,.36);cursor:pointer
+      position:fixed;
+      right:18px;
+      bottom:18px;
+      z-index:60;
+      min-width:104px;
+      padding:12px 16px;
+      border:1px solid rgba(47,140,255,.55);
+      border-radius:999px;
+      background:#09111d;
+      color:#a8d4ff;
+      font-weight:800;
+      box-shadow:0 10px 24px rgba(0,0,0,.28);
+      cursor:pointer;
     }
-    .tokol-launcher:focus,.tokol-launcher:hover{outline:3px solid rgba(70,211,154,.28)}
+
+    .tokol-launcher:hover{
+      border-color:var(--accent-strong);
+      background:#0c1726;
+    }
+
     .tokol-panel{
-      position:fixed;right:20px;bottom:82px;z-index:59;width:min(390px,calc(100vw - 24px));
-      max-height:min(650px,calc(100vh - 110px));display:none;grid-template-rows:auto 1fr auto;
-      border:1px solid var(--line);border-radius:20px;background:#0b1729;
-      box-shadow:0 24px 80px rgba(0,0,0,.55);overflow:hidden
+      position:fixed;
+      right:18px;
+      bottom:76px;
+      z-index:59;
+      display:none;
+      grid-template-rows:auto 1fr auto;
+      width:min(410px,calc(100vw - 24px));
+      max-height:min(680px,calc(100vh - 98px));
+      overflow:hidden;
+      border:1px solid var(--line);
+      border-radius:20px;
+      background:#08111d;
+      box-shadow:0 18px 46px rgba(0,0,0,.36);
     }
+
     .tokol-panel.open{display:grid}
-    .tokol-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 16px;background:#13243a;border-bottom:1px solid var(--line)}
-    .tokol-name{font-weight:900}.tokol-sub{font-size:.78rem;color:var(--muted);margin-top:2px}
-    .tokol-close{border:0;background:transparent;color:var(--text);font-size:1.35rem;cursor:pointer}
-    .tokol-messages{padding:14px;overflow:auto;display:flex;flex-direction:column;gap:10px;scroll-behavior:smooth}
-    .tokol-msg{max-width:88%;padding:11px 12px;border-radius:14px;line-height:1.42;white-space:pre-wrap;font-size:.92rem}
-    .tokol-msg.bot{align-self:flex-start;background:#172943;border:1px solid #294261}
-    .tokol-msg.user{align-self:flex-end;background:#174532;border:1px solid #28634c}
-    .tokol-quick{display:flex;gap:7px;overflow:auto;padding:0 14px 10px}
-    .tokol-chip{border:1px solid var(--line);background:#12223a;color:var(--text);border-radius:999px;padding:8px 10px;white-space:nowrap;cursor:pointer;font-size:.8rem}
-    .tokol-form{display:grid;grid-template-columns:1fr auto;gap:8px;padding:12px;border-top:1px solid var(--line);background:#0a1424}
-    .tokol-input{min-width:0;border:1px solid var(--line);background:#101d31;color:var(--text);border-radius:12px;padding:11px}
-    .tokol-send{border:0;border-radius:12px;background:var(--accent);color:#052016;font-weight:900;padding:0 14px;cursor:pointer}
-    .tokol-note{font-size:.73rem;color:var(--muted);padding:0 14px 10px;background:#0a1424}
+
+    .tokol-head{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      padding:15px 16px;
+      border-bottom:1px solid var(--line);
+      background:#0c1726;
+    }
+
+    .tokol-name{
+      font-size:1.05rem;
+      font-weight:800;
+    }
+
+    .tokol-sub{
+      margin-top:2px;
+      color:var(--muted);
+      font-size:.71rem;
+    }
+
+    .tokol-close{
+      width:34px;
+      height:34px;
+      border:1px solid transparent;
+      border-radius:50%;
+      background:transparent;
+      color:var(--muted);
+      font-size:1.2rem;
+      cursor:pointer;
+    }
+
+    .tokol-close:hover{
+      border-color:var(--line);
+      background:var(--panel-raised);
+      color:var(--text);
+    }
+
+    .tokol-body{
+      position:relative;
+      display:grid;
+      grid-template-rows:minmax(0,1fr) auto;
+      min-height:0;
+      overflow:hidden;
+    }
+
+    .tokol-messages{
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+      min-height:0;
+      padding:16px 42px 16px 14px;
+      overflow-x:hidden;
+      overflow-y:scroll;
+      scroll-behavior:smooth;
+      overscroll-behavior:contain;
+      scrollbar-width:thin;
+      scrollbar-color:var(--accent) transparent;
+    }
+
+    .tokol-messages::-webkit-scrollbar{width:7px}
+    .tokol-messages::-webkit-scrollbar-track{background:transparent}
+    .tokol-messages::-webkit-scrollbar-thumb{
+      border-radius:999px;
+      background:var(--accent);
+    }
+
+    .tokol-scroll-controls{
+      position:absolute;
+      top:50%;
+      right:8px;
+      z-index:3;
+      display:flex;
+      flex-direction:column;
+      gap:6px;
+      transform:translateY(-50%);
+    }
+
+    .tokol-scroll-btn{
+      width:28px;
+      height:30px;
+      border:1px solid var(--line);
+      border-radius:9px;
+      background:#0d1928;
+      color:var(--accent-strong);
+      font-size:.64rem;
+      cursor:pointer;
+    }
+
+    .tokol-scroll-btn:hover{
+      border-color:var(--accent);
+    }
+
+    .tokol-msg{
+      max-width:88%;
+      padding:11px 12px;
+      border-radius:14px;
+      font-size:.88rem;
+      line-height:1.48;
+      white-space:pre-wrap;
+      box-shadow:none;
+    }
+
+    .tokol-msg.bot{
+      align-self:flex-start;
+      border:1px solid var(--line);
+      border-bottom-left-radius:5px;
+      background:#0e1a2a;
+      color:#dce8f6;
+    }
+
+    .tokol-msg.user{
+      align-self:flex-end;
+      border:1px solid rgba(47,140,255,.28);
+      border-bottom-right-radius:5px;
+      background:#10223a;
+      color:#e6f2ff;
+    }
+
+    .tokol-quick{
+      display:flex;
+      gap:7px;
+      padding:0 12px 10px;
+      overflow-x:auto;
+      overflow-y:hidden;
+      cursor:grab;
+      user-select:none;
+      scroll-behavior:smooth;
+      overscroll-behavior-x:contain;
+      scrollbar-width:none;
+      -ms-overflow-style:none;
+      touch-action:pan-x pan-y;
+    }
+
+    .tokol-quick::-webkit-scrollbar{display:none}
+    .tokol-quick.dragging{cursor:grabbing;scroll-behavior:auto}
+
+    .tokol-chip{
+      flex:0 0 auto;
+      padding:7px 10px;
+      border:1px solid var(--line);
+      border-radius:999px;
+      background:#0c1726;
+      color:#c9d8e9;
+      font-size:.74rem;
+      cursor:pointer;
+    }
+
+    .tokol-chip:hover{
+      border-color:var(--accent);
+      color:#b9dcff;
+    }
+
+    .tokol-form{
+      display:grid;
+      grid-template-columns:1fr auto;
+      gap:8px;
+      padding:12px;
+      border-top:1px solid var(--line);
+      background:#07101a;
+    }
+
+    .tokol-input{
+      min-width:0;
+      padding:11px 12px;
+      border:1px solid var(--line);
+      border-radius:12px;
+      background:#0d1928;
+      color:var(--text);
+    }
+
+    .tokol-send{
+      padding:0 14px;
+      border:1px solid rgba(47,140,255,.55);
+      border-radius:12px;
+      background:#0d1d32;
+      color:#a9d5ff;
+      font-weight:800;
+      cursor:pointer;
+    }
+
+    .tokol-send:hover{
+      background:#102844;
+    }
+
+    .tokol-note{
+      padding:0 12px 10px;
+      background:#07101a;
+      color:#77869a;
+      font-size:.67rem;
+      line-height:1.4;
+    }
+
+    @media(max-width:980px){
+      .summary{grid-template-columns:repeat(3,1fr)}
+    }
 
     @media(max-width:780px){
-      .wrap{padding:16px}header{grid-template-columns:1fr}.toolbar{justify-content:flex-start}
-      .summary{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}
-      .filters{position:sticky;top:0;background:rgba(8,17,31,.94);backdrop-filter:blur(12px);padding:10px 0;z-index:10}
-      .tokol-launcher{right:12px;bottom:12px}.tokol-panel{right:12px;bottom:72px}
+      .wrap{padding:16px 14px 20px}
+      header{grid-template-columns:1fr;align-items:start}
+      h1{font-size:clamp(2.1rem,12vw,3.9rem)}
+      .toolbar{justify-content:flex-start}
+      .summary{grid-template-columns:repeat(2,1fr)}
+      .grid{grid-template-columns:1fr}
+      .filters{
+        position:sticky;
+        top:0;
+        z-index:10;
+        padding:9px 0;
+        background:rgba(5,7,11,.94);
+        backdrop-filter:blur(12px);
+      }
+      .filters .control{width:100%}
+      .tokol-launcher{right:10px;bottom:10px}
+      .tokol-panel{right:10px;bottom:66px;max-height:calc(100vh - 78px)}
     }
-  </style>
+
+    @media(max-width:460px){
+      .summary{grid-template-columns:1fr 1fr}
+      .prob.three{grid-template-columns:1fr}
+      .topline{flex-direction:column}
+      .badges{justify-content:flex-start}
+      .tokol-panel{width:calc(100vw - 14px);right:7px}
+    }
+
+
+    /* Efecto tipo Dock de macOS para elementos interactivos */
+    :is(
+      .btn,
+      .tokol-launcher,
+      .tokol-close,
+      .tokol-scroll-btn,
+      .tokol-chip,
+      .tokol-send,
+      summary,
+      select.control
+    ){
+      position:relative;
+      transform:translateZ(0) scale(1);
+      transform-origin:center;
+      will-change:transform;
+      transition:
+        transform .18s cubic-bezier(.2,.75,.25,1.15),
+        border-color .18s ease,
+        background-color .18s ease,
+        box-shadow .18s ease,
+        color .18s ease;
+    }
+
+    @media (hover:hover) and (pointer:fine){
+      :is(
+        .btn,
+        .tokol-launcher,
+        .tokol-close,
+        .tokol-scroll-btn,
+        .tokol-chip,
+        .tokol-send,
+        summary,
+        select.control
+      ):hover{
+        z-index:5;
+        transform:translateY(-2px) scale(1.045);
+        border-color:var(--accent);
+        box-shadow:
+          0 8px 18px rgba(0,0,0,.20),
+          0 0 16px rgba(47,140,255,.13);
+      }
+
+      .card:hover{
+        transform:translateY(-2px) scale(1.008);
+      }
+
+      .metric:hover{
+        transform:translateY(-2px) scale(1.018);
+        border-color:#294565;
+        box-shadow:0 8px 18px rgba(0,0,0,.16);
+      }
+
+      .tokol-chip:hover{
+        transform:translateY(-2px) scale(1.07);
+      }
+
+      .tokol-launcher:hover{
+        transform:translateY(-3px) scale(1.06);
+      }
+    }
+
+    :is(
+      .btn,
+      .tokol-launcher,
+      .tokol-close,
+      .tokol-scroll-btn,
+      .tokol-chip,
+      .tokol-send,
+      summary,
+      select.control
+    ):active{
+      transform:translateY(0) scale(.97);
+      transition-duration:.08s;
+    }
+
+    .card,.metric{
+      transform:translateZ(0) scale(1);
+      transform-origin:center;
+      transition:
+        transform .18s cubic-bezier(.2,.75,.25,1.08),
+        border-color .18s ease,
+        background-color .18s ease,
+        box-shadow .18s ease;
+    }
+
+    @media(prefers-reduced-motion:reduce){
+      :is(
+        .btn,
+        .tokol-launcher,
+        .tokol-close,
+        .tokol-scroll-btn,
+        .tokol-chip,
+        .tokol-send,
+        summary,
+        select.control,
+        .card,
+        .metric
+      ){
+        transform:none!important;
+      }
+    }
+
+    @media(prefers-reduced-motion:reduce){
+      *,*::before,*::after{
+        scroll-behavior:auto!important;
+        transition:none!important;
+      }
+    }
+
+  
+    /* Funciones públicas y táctiles */
+    :root{--ui-scale:1}
+
+    html{font-size:calc(16px * var(--ui-scale))}
+
+    .touch-btn,
+    .icon-btn,
+    .seg-btn,
+    .mobile-nav button,
+    .tokol-mini-btn{
+      min-width:44px;
+      min-height:44px;
+    }
+
+    .toolbar-group{
+      display:flex;
+      align-items:center;
+      gap:6px;
+      padding:4px;
+      border:1px solid var(--line);
+      border-radius:14px;
+      background:var(--panel-soft);
+    }
+
+    .segmented{
+      display:flex;
+      gap:4px;
+    }
+
+    .seg-btn,
+    .icon-btn,
+    .tokol-mini-btn{
+      border:1px solid transparent;
+      border-radius:10px;
+      background:transparent;
+      color:var(--muted);
+      cursor:pointer;
+      transition:
+        transform .18s cubic-bezier(.2,.75,.25,1.15),
+        border-color .18s ease,
+        background .18s ease,
+        color .18s ease,
+        box-shadow .18s ease;
+    }
+
+    .seg-btn{
+      padding:9px 12px;
+      min-height:38px;
+      font-size:.78rem;
+      font-weight:800;
+    }
+
+    .seg-btn[aria-pressed="true"]{
+      border-color:rgba(47,140,255,.42);
+      background:rgba(47,140,255,.12);
+      color:#b9dcff;
+    }
+
+    .compact-btn{
+      min-height:38px;
+      padding:8px 11px;
+      font-size:.78rem;
+    }
+
+    .simple-mode .advanced-only{display:none!important}
+    .advanced-mode .simple-only{display:none!important}
+
+    .filter-help{
+      display:flex;
+      justify-content:space-between;
+      gap:12px;
+      align-items:center;
+      margin:-12px 0 18px;
+      color:var(--muted);
+      font-size:.76rem;
+    }
+
+    .favorite-summary{
+      color:var(--accent-strong);
+      font-weight:800;
+    }
+
+    .card{
+      position:relative;
+      scroll-margin-top:90px;
+    }
+
+    .card.focused{
+      border-color:var(--accent);
+      box-shadow:0 0 0 2px rgba(47,140,255,.14),0 12px 30px rgba(0,0,0,.24);
+    }
+
+    .card-main{
+      min-width:0;
+    }
+
+    .card-heading-row{
+      display:flex;
+      gap:10px;
+      align-items:flex-start;
+      justify-content:space-between;
+    }
+
+    .card-actions{
+      display:flex;
+      gap:5px;
+      flex:0 0 auto;
+    }
+
+    .icon-btn{
+      width:44px;
+      padding:0;
+      display:grid;
+      place-items:center;
+      border-color:var(--line);
+      background:var(--panel-soft);
+      font-size:1.05rem;
+    }
+
+    .icon-btn:hover,
+    .icon-btn[aria-pressed="true"]{
+      border-color:var(--accent);
+      background:rgba(47,140,255,.11);
+      color:var(--accent-strong);
+    }
+
+    .favorite-btn[aria-pressed="true"]{
+      color:#84c5ff;
+    }
+
+    .match-updated{
+      margin-top:9px;
+      color:#71849b;
+      font-size:.72rem;
+    }
+
+    .simple-reason{
+      margin:14px 0;
+      padding:12px 13px;
+      border-left:3px solid var(--accent);
+      border-radius:0 11px 11px 0;
+      background:rgba(47,140,255,.055);
+      color:#d6e5f5;
+      line-height:1.45;
+      font-size:.86rem;
+    }
+
+    .simple-reason strong{
+      display:block;
+      margin-bottom:4px;
+      color:var(--accent-strong);
+      font-size:.72rem;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+    }
+
+    .card-quick-actions{
+      display:flex;
+      flex-wrap:wrap;
+      gap:8px;
+      margin-top:13px;
+    }
+
+    .prob-item{
+      width:100%;
+      padding:0;
+      border:0;
+      background:transparent;
+      color:inherit;
+      text-align:left;
+      cursor:pointer;
+    }
+
+    .prob > div{
+      position:relative;
+    }
+
+    .prob > div::after{
+      content:"ⓘ";
+      position:absolute;
+      right:9px;
+      top:8px;
+      color:#5f7895;
+      font-size:.72rem;
+      pointer-events:none;
+    }
+
+    .source-row{
+      display:flex;
+      flex-wrap:wrap;
+      gap:6px;
+      margin-top:14px;
+    }
+
+    .source-tag{
+      padding:6px 8px;
+      border:1px solid var(--line-soft);
+      border-radius:999px;
+      background:#081321;
+      color:#8fa3ba;
+      font-size:.68rem;
+    }
+
+    .shared-notice{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:12px;
+      margin:0 0 16px;
+      padding:11px 13px;
+      border:1px solid rgba(47,140,255,.28);
+      border-radius:12px;
+      background:rgba(47,140,255,.07);
+      color:#c9e2ff;
+      font-size:.82rem;
+    }
+
+    .shared-notice[hidden]{display:none}
+
+    .toast{
+      position:fixed;
+      left:50%;
+      bottom:24px;
+      z-index:120;
+      max-width:min(520px,calc(100vw - 28px));
+      padding:12px 15px;
+      border:1px solid rgba(47,140,255,.45);
+      border-radius:12px;
+      background:#0b1726;
+      color:#e6f2ff;
+      box-shadow:0 14px 36px rgba(0,0,0,.34);
+      opacity:0;
+      transform:translate(-50%,14px);
+      pointer-events:none;
+      transition:opacity .18s ease,transform .18s ease;
+      text-align:center;
+      font-size:.84rem;
+    }
+
+    .toast.show{
+      opacity:1;
+      transform:translate(-50%,0);
+    }
+
+    .high-contrast{
+      --bg:#000;
+      --bg-soft:#02070d;
+      --panel:#061526;
+      --panel-raised:#0b2440;
+      --panel-soft:#03101d;
+      --text:#fff;
+      --muted:#c4d4e7;
+      --line:#3d78b5;
+      --line-soft:#244e78;
+      --accent:#4da3ff;
+      --accent-strong:#9bd0ff;
+    }
+
+    .tokol-head-actions{
+      display:flex;
+      gap:4px;
+      align-items:center;
+    }
+
+    .tokol-mini-btn{
+      min-width:auto;
+      min-height:34px;
+      padding:6px 8px;
+      border-color:var(--line);
+      background:#0a1422;
+      font-size:.68rem;
+      font-weight:800;
+    }
+
+    .tokol-action-row{
+      display:flex;
+      flex-wrap:wrap;
+      gap:6px;
+      max-width:88%;
+      margin-top:-5px;
+    }
+
+    .tokol-action{
+      min-height:36px;
+      padding:7px 9px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      background:#0c1929;
+      color:#b8d8f7;
+      cursor:pointer;
+      font-size:.72rem;
+      font-weight:800;
+    }
+
+    .mobile-nav{
+      position:fixed;
+      left:8px;
+      right:8px;
+      bottom:8px;
+      z-index:70;
+      display:none;
+      grid-template-columns:repeat(4,1fr);
+      gap:5px;
+      padding:6px;
+      border:1px solid var(--line);
+      border-radius:16px;
+      background:rgba(7,16,26,.94);
+      box-shadow:0 12px 34px rgba(0,0,0,.40);
+      backdrop-filter:blur(14px);
+    }
+
+    .mobile-nav button{
+      display:grid;
+      place-items:center;
+      gap:2px;
+      padding:7px 4px;
+      border:1px solid transparent;
+      border-radius:11px;
+      background:transparent;
+      color:var(--muted);
+      cursor:pointer;
+      font-size:.68rem;
+      font-weight:750;
+    }
+
+    .mobile-nav button span:first-child{
+      font-size:1.05rem;
+      line-height:1;
+    }
+
+    .mobile-nav button[aria-current="page"],
+    .mobile-nav button:hover{
+      border-color:rgba(47,140,255,.32);
+      background:rgba(47,140,255,.10);
+      color:#b8dcff;
+    }
+
+    .mobile-fav-count{
+      display:inline-grid;
+      place-items:center;
+      min-width:18px;
+      height:18px;
+      padding:0 4px;
+      margin-left:2px;
+      border-radius:999px;
+      background:var(--accent);
+      color:#04101c;
+      font-size:.62rem;
+      font-weight:900;
+    }
+
+    @media (hover:hover) and (pointer:fine){
+      :is(.seg-btn,.icon-btn,.tokol-mini-btn,.tokol-action,.mobile-nav button):hover{
+        z-index:5;
+        transform:translateY(-2px) scale(1.045);
+        box-shadow:0 8px 18px rgba(0,0,0,.18),0 0 14px rgba(47,140,255,.12);
+      }
+    }
+
+    @media(max-width:780px){
+      body{padding-bottom:82px}
+      .toolbar{justify-content:flex-start}
+      .toolbar-group{width:auto}
+      .mobile-nav{display:grid}
+      .tokol-launcher{display:none}
+      .tokol-panel{
+        right:7px;
+        bottom:78px;
+        width:calc(100vw - 14px);
+        max-height:calc(100vh - 94px);
+      }
+      .filter-help{align-items:flex-start;flex-direction:column}
+      .card-actions{position:absolute;right:12px;top:12px}
+      .card-heading-row{padding-right:94px}
+      .toast{bottom:94px}
+    }
+
+    @media(max-width:520px){
+      .toolbar{
+        display:grid;
+        grid-template-columns:1fr 1fr;
+        width:100%;
+      }
+      .toolbar-group{
+        grid-column:1/-1;
+        justify-content:space-between;
+      }
+      .toolbar > .btn{width:100%}
+      .filters{display:grid}
+      .filters .control{width:100%}
+      .card-quick-actions .btn{flex:1}
+      .tokol-head{align-items:flex-start}
+      .tokol-head-actions{flex-wrap:wrap;justify-content:flex-end}
+      .tokol-mini-btn{min-height:32px}
+    }
+
+
+    /* Selector lateral de vista avanzada */
+    .view-side-rail{
+      position:fixed;
+      right:0;
+      top:43%;
+      z-index:68;
+      display:flex;
+      align-items:center;
+      padding:5px 0 5px 5px;
+      border:1px solid var(--line);
+      border-right:0;
+      border-radius:15px 0 0 15px;
+      background:rgba(7,16,26,.92);
+      box-shadow:0 10px 28px rgba(0,0,0,.28);
+      backdrop-filter:blur(12px);
+    }
+
+    .view-side-btn{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:center;
+      gap:7px;
+      min-width:58px;
+      min-height:118px;
+      padding:10px 8px;
+      border:1px solid transparent;
+      border-radius:11px 0 0 11px;
+      background:transparent;
+      color:var(--muted);
+      cursor:pointer;
+      transition:
+        transform .18s cubic-bezier(.2,.75,.25,1.15),
+        border-color .18s ease,
+        background .18s ease,
+        color .18s ease,
+        box-shadow .18s ease;
+    }
+
+    .view-side-icon{
+      display:grid;
+      place-items:center;
+      width:30px;
+      height:30px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      color:var(--accent-strong);
+      font-size:1rem;
+      font-weight:900;
+    }
+
+    .view-side-label{
+      writing-mode:vertical-rl;
+      transform:rotate(180deg);
+      font-size:.72rem;
+      font-weight:850;
+      letter-spacing:.06em;
+      text-transform:uppercase;
+    }
+
+    .view-side-btn:hover,
+    .view-side-btn[aria-pressed="true"]{
+      border-color:rgba(47,140,255,.42);
+      background:rgba(47,140,255,.10);
+      color:#b9dcff;
+      box-shadow:0 0 18px rgba(47,140,255,.12);
+    }
+
+    .view-side-btn[aria-pressed="true"] .view-side-icon{
+      border-color:var(--accent);
+      background:rgba(47,140,255,.14);
+    }
+
+    @media (hover:hover) and (pointer:fine){
+      .view-side-btn:hover{
+        transform:translateX(-3px) scale(1.035);
+      }
+    }
+
+    @media(max-width:780px){
+      .view-side-rail{
+        top:auto;
+        right:7px;
+        bottom:86px;
+        padding:4px;
+        border-right:1px solid var(--line);
+        border-radius:13px;
+      }
+
+      .view-side-btn{
+        flex-direction:row;
+        min-width:auto;
+        min-height:44px;
+        padding:7px 10px;
+        border-radius:9px;
+      }
+
+      .view-side-icon{
+        width:28px;
+        height:28px;
+      }
+
+      .view-side-label{
+        writing-mode:horizontal-tb;
+        transform:none;
+        font-size:.68rem;
+      }
+    }
+
+
+    /* Botón de menú y compartir superior */
+    .toolbar{
+      align-self:start;
+      align-items:center;
+    }
+
+    .menu-toggle{
+      display:grid;
+      place-content:center;
+      gap:5px;
+      width:48px;
+      height:48px;
+      padding:0;
+      border:1px solid var(--line);
+      border-radius:14px;
+      background:var(--panel);
+      color:var(--text);
+      cursor:pointer;
+      box-shadow:0 8px 22px rgba(0,0,0,.16);
+      transition:transform .18s cubic-bezier(.2,.75,.25,1.15),border-color .18s ease,background .18s ease,box-shadow .18s ease;
+    }
+
+    .menu-toggle span{
+      display:block;
+      width:21px;
+      height:2px;
+      border-radius:999px;
+      background:var(--accent-strong);
+      transition:transform .18s ease,opacity .18s ease;
+    }
+
+    .menu-toggle:hover{
+      transform:translateY(-2px) scale(1.05);
+      border-color:var(--accent);
+      background:var(--panel-raised);
+      box-shadow:0 8px 20px rgba(0,0,0,.18),0 0 16px rgba(47,140,255,.13);
+    }
+
+    .menu-open .menu-toggle span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+    .menu-open .menu-toggle span:nth-child(2){opacity:0}
+    .menu-open .menu-toggle span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+    .menu-open{overflow:hidden}
+
+    .share-top-btn{
+      min-height:48px;
+      white-space:nowrap;
+    }
+
+    /* Marcador flotante superior */
+    .live-score-float{
+      position:sticky;
+      top:10px;
+      z-index:52;
+      width:min(820px,100%);
+      margin:0 auto 20px;
+      padding:12px 14px;
+      border:1px solid rgba(47,140,255,.32);
+      border-radius:18px;
+      background:rgba(7,16,27,.94);
+      box-shadow:0 16px 38px rgba(0,0,0,.30),0 0 22px rgba(47,140,255,.08);
+      backdrop-filter:blur(16px);
+    }
+
+    .live-score-float[hidden]{display:none}
+
+    .live-score-topline,
+    .live-score-footer{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:12px;
+    }
+
+    .live-score-state{
+      display:flex;
+      align-items:center;
+      gap:7px;
+      color:var(--accent-strong);
+      font-size:.69rem;
+      letter-spacing:.11em;
+    }
+
+    .live-score-state strong{
+      font-size:.69rem;
+    }
+
+    .live-dot{
+      width:8px;
+      height:8px;
+      border-radius:50%;
+      background:var(--accent);
+      box-shadow:0 0 0 0 rgba(47,140,255,.45);
+    }
+
+    .live-score-float.is-live .live-dot{
+      animation:livePulse 1.7s infinite;
+    }
+
+    @keyframes livePulse{
+      0%{box-shadow:0 0 0 0 rgba(47,140,255,.48)}
+      70%{box-shadow:0 0 0 8px rgba(47,140,255,0)}
+      100%{box-shadow:0 0 0 0 rgba(47,140,255,0)}
+    }
+
+    .live-score-updated{
+      color:var(--muted);
+      font-size:.69rem;
+    }
+
+    .live-score-main{
+      display:grid;
+      grid-template-columns:36px minmax(0,1fr) 36px;
+      gap:8px;
+      align-items:center;
+      margin:8px 0;
+    }
+
+    .live-score-arrow{
+      width:36px;
+      height:44px;
+      border:1px solid var(--line);
+      border-radius:11px;
+      background:var(--panel-soft);
+      color:var(--accent-strong);
+      font-size:1.5rem;
+      cursor:pointer;
+    }
+
+    .live-score-arrow:disabled{
+      visibility:hidden;
+    }
+
+    .live-score-match{
+      display:grid;
+      grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);
+      gap:14px;
+      align-items:center;
+      width:100%;
+      min-height:72px;
+      padding:8px 12px;
+      border:0;
+      border-radius:14px;
+      background:transparent;
+      color:var(--text);
+      cursor:pointer;
+      text-align:center;
+    }
+
+    .live-score-match:hover{
+      background:rgba(47,140,255,.055);
+    }
+
+    .live-team{
+      display:flex;
+      align-items:center;
+      gap:9px;
+      min-width:0;
+    }
+
+    .live-team-home{
+      justify-content:flex-end;
+      text-align:right;
+    }
+
+    .live-team-away{
+      justify-content:flex-start;
+      text-align:left;
+    }
+
+    .live-team strong{
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+      font-size:.94rem;
+    }
+
+    .live-team-mark{
+      display:grid;
+      place-items:center;
+      flex:0 0 34px;
+      width:34px;
+      height:34px;
+      border:1px solid rgba(47,140,255,.34);
+      border-radius:50%;
+      background:#0c1d31;
+      color:#a8d5ff;
+      font-weight:900;
+    }
+
+    .live-score-center{
+      display:grid;
+      gap:2px;
+      min-width:88px;
+    }
+
+    .live-score-center strong{
+      font-size:1.72rem;
+      line-height:1;
+      letter-spacing:-.04em;
+    }
+
+    .live-score-center small{
+      color:var(--muted);
+      font-size:.65rem;
+    }
+
+    .live-score-footer{
+      padding-top:8px;
+      border-top:1px solid var(--line-soft);
+      color:var(--muted);
+      font-size:.69rem;
+    }
+
+    .live-score-detail-btn{
+      min-height:34px;
+      padding:6px 11px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      background:var(--panel-soft);
+      color:#b8dcff;
+      font-size:.72rem;
+      font-weight:800;
+      cursor:pointer;
+    }
+
+    /* Menú lateral de media página */
+    .drawer-overlay{
+      position:fixed;
+      inset:0;
+      z-index:89;
+      background:rgba(0,0,0,.52);
+      opacity:0;
+      backdrop-filter:blur(2px);
+      transition:opacity .22s ease;
+    }
+
+    .drawer-overlay.visible{
+      opacity:1;
+    }
+
+    .main-drawer{
+      position:fixed;
+      inset:0 auto 0 0;
+      z-index:90;
+      display:grid;
+      grid-template-rows:auto minmax(0,1fr);
+      width:min(480px,50vw);
+      min-width:360px;
+      border-right:1px solid var(--line);
+      background:#07111d;
+      box-shadow:24px 0 60px rgba(0,0,0,.42);
+      transform:translateX(-105%);
+      transition:transform .24s cubic-bezier(.2,.75,.25,1);
+    }
+
+    .main-drawer.open{
+      transform:translateX(0);
+    }
+
+    .drawer-head{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:14px;
+      padding:22px 22px 18px;
+      border-bottom:1px solid var(--line);
+      background:#0a1523;
+    }
+
+    .drawer-eyebrow{
+      color:var(--accent-strong);
+      font-size:.65rem;
+      font-weight:900;
+      letter-spacing:.18em;
+    }
+
+    .drawer-head h2{
+      margin:4px 0 0;
+      font-size:1.5rem;
+    }
+
+    .drawer-close{
+      display:grid;
+      place-items:center;
+      width:44px;
+      height:44px;
+      border:1px solid var(--line);
+      border-radius:13px;
+      background:var(--panel-soft);
+      color:var(--text);
+      font-size:1.45rem;
+      cursor:pointer;
+    }
+
+    .drawer-scroll{
+      min-height:0;
+      padding:18px;
+      overflow:auto;
+      overscroll-behavior:contain;
+    }
+
+    .profile-card{
+      display:grid;
+      grid-template-columns:auto minmax(0,1fr) auto;
+      gap:12px;
+      align-items:center;
+      padding:14px;
+      border:1px solid rgba(47,140,255,.24);
+      border-radius:16px;
+      background:rgba(47,140,255,.055);
+    }
+
+    .profile-avatar{
+      display:grid;
+      place-items:center;
+      width:46px;
+      height:46px;
+      border:1px solid rgba(47,140,255,.42);
+      border-radius:50%;
+      background:#0c2037;
+      color:#a9d7ff;
+      font-size:1.05rem;
+      font-weight:900;
+    }
+
+    .profile-copy{
+      display:grid;
+      gap:3px;
+      min-width:0;
+    }
+
+    .profile-copy strong{
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+    }
+
+    .profile-copy span,
+    .drawer-help{
+      color:var(--muted);
+      font-size:.7rem;
+      line-height:1.4;
+    }
+
+    .profile-edit-btn,
+    .drawer-primary-btn,
+    .drawer-square-btn{
+      min-height:40px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      background:var(--panel-soft);
+      color:#b9dcff;
+      font-weight:800;
+      cursor:pointer;
+    }
+
+    .profile-edit-btn{
+      padding:8px 10px;
+      font-size:.72rem;
+    }
+
+    .drawer-section{
+      margin-top:16px;
+      padding:15px;
+      border:1px solid var(--line-soft);
+      border-radius:15px;
+      background:#081421;
+    }
+
+    .drawer-section-title{
+      margin-bottom:11px;
+      color:#93a7bd;
+      font-size:.66rem;
+      font-weight:900;
+      letter-spacing:.12em;
+      text-transform:uppercase;
+    }
+
+    .drawer-label{
+      display:block;
+      margin-bottom:7px;
+      color:var(--muted);
+      font-size:.72rem;
+    }
+
+    .drawer-inline{
+      display:grid;
+      grid-template-columns:minmax(0,1fr) auto;
+      gap:8px;
+    }
+
+    .drawer-input{
+      min-width:0;
+      min-height:44px;
+      padding:10px 12px;
+      border:1px solid var(--line);
+      border-radius:11px;
+      background:#0c1929;
+      color:var(--text);
+    }
+
+    .drawer-primary-btn{
+      padding:8px 12px;
+    }
+
+    .drawer-list{
+      display:grid;
+      gap:7px;
+    }
+
+    .drawer-item{
+      display:grid;
+      grid-template-columns:28px minmax(0,1fr) auto;
+      gap:8px;
+      align-items:center;
+      width:100%;
+      min-height:48px;
+      padding:9px 11px;
+      border:1px solid transparent;
+      border-radius:11px;
+      background:transparent;
+      color:var(--text);
+      text-align:left;
+      cursor:pointer;
+    }
+
+    .drawer-item:hover{
+      border-color:rgba(47,140,255,.28);
+      background:rgba(47,140,255,.07);
+    }
+
+    .drawer-item span{
+      color:var(--accent-strong);
+      font-size:1rem;
+      text-align:center;
+    }
+
+    .drawer-item b{
+      font-size:.86rem;
+    }
+
+    .drawer-item em{
+      display:grid;
+      place-items:center;
+      min-width:24px;
+      height:24px;
+      padding:0 6px;
+      border-radius:999px;
+      background:rgba(47,140,255,.16);
+      color:#a9d7ff;
+      font-size:.68rem;
+      font-style:normal;
+      font-weight:900;
+    }
+
+    .drawer-mode-grid{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:8px;
+    }
+
+    .drawer-mode-btn{
+      display:grid;
+      gap:4px;
+      min-height:76px;
+      padding:12px;
+      border:1px solid var(--line);
+      border-radius:12px;
+      background:var(--panel-soft);
+      color:var(--text);
+      text-align:left;
+      cursor:pointer;
+    }
+
+    .drawer-mode-btn span{
+      color:var(--muted);
+      font-size:.7rem;
+    }
+
+    .drawer-mode-btn[aria-pressed="true"]{
+      border-color:var(--accent);
+      background:rgba(47,140,255,.10);
+      color:#b9dcff;
+    }
+
+    .drawer-setting-row{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:14px;
+      min-height:58px;
+      padding:8px 0;
+    }
+
+    .drawer-setting-row + .drawer-setting-row{
+      border-top:1px solid var(--line-soft);
+    }
+
+    .drawer-setting-row > div:first-child{
+      display:grid;
+      gap:3px;
+    }
+
+    .drawer-setting-row strong{
+      font-size:.84rem;
+    }
+
+    .drawer-setting-row span{
+      color:var(--muted);
+      font-size:.7rem;
+    }
+
+    .drawer-setting-actions{
+      display:flex;
+      gap:6px;
+    }
+
+    .drawer-square-btn{
+      min-width:42px;
+      padding:7px;
+    }
+
+    .drawer-switch{
+      position:relative;
+      width:52px;
+      height:30px;
+      padding:0;
+      border:1px solid var(--line);
+      border-radius:999px;
+      background:#0b1726;
+      cursor:pointer;
+    }
+
+    .drawer-switch span{
+      position:absolute;
+      top:4px;
+      left:4px;
+      width:20px;
+      height:20px;
+      border-radius:50%;
+      background:#73869b;
+      transition:transform .18s ease,background .18s ease;
+    }
+
+    .drawer-switch[aria-checked="true"]{
+      border-color:var(--accent);
+      background:rgba(47,140,255,.16);
+    }
+
+    .drawer-switch[aria-checked="true"] span{
+      transform:translateX(22px);
+      background:var(--accent-strong);
+    }
+
+    .drawer-wide-btn{
+      display:grid;
+      grid-template-columns:34px minmax(0,1fr);
+      gap:10px;
+      align-items:center;
+      width:100%;
+      min-height:54px;
+      padding:10px 12px;
+      border:1px solid var(--line);
+      border-radius:12px;
+      background:var(--panel-soft);
+      color:var(--text);
+      text-align:left;
+      cursor:pointer;
+    }
+
+    .drawer-wide-btn > span:first-child{
+      color:var(--accent-strong);
+      font-size:1.15rem;
+      text-align:center;
+    }
+
+    .drawer-wide-btn > span:last-child{
+      display:grid;
+      gap:2px;
+    }
+
+    .drawer-wide-btn small{
+      color:var(--muted);
+      font-size:.68rem;
+    }
+
+    .drawer-details{
+      margin-top:16px;
+      padding:14px 15px;
+      border:1px solid var(--line-soft);
+      border-radius:15px;
+      background:#081421;
+    }
+
+    .drawer-details p{
+      margin:8px 0 0;
+      color:var(--muted);
+      font-size:.75rem;
+      line-height:1.5;
+    }
+
+    /* Dos modos en la barra lateral */
+    .view-side-rail{
+      flex-direction:column;
+      gap:4px;
+      top:40%;
+    }
+
+    .view-side-btn{
+      min-height:104px;
+    }
+
+    .view-side-btn + .view-side-btn{
+      border-top:1px solid var(--line-soft);
+    }
+
+    @media (hover:hover) and (pointer:fine){
+      :is(
+        .live-score-arrow,
+        .live-score-detail-btn,
+        .drawer-close,
+        .profile-edit-btn,
+        .drawer-primary-btn,
+        .drawer-square-btn,
+        .drawer-item,
+        .drawer-mode-btn,
+        .drawer-wide-btn
+      ):hover{
+        transform:translateY(-2px) scale(1.025);
+        border-color:var(--accent);
+        box-shadow:0 7px 17px rgba(0,0,0,.18),0 0 14px rgba(47,140,255,.10);
+      }
+    }
+
+    @media(max-width:780px){
+      header{
+        grid-template-columns:1fr;
+      }
+
+      .toolbar{
+        display:flex;
+        width:100%;
+        justify-content:flex-start;
+      }
+
+      .share-top-btn{
+        display:inline-flex;
+        align-items:center;
+        justify-content:center;
+      }
+
+      .live-score-float{
+        top:6px;
+        margin-bottom:14px;
+        padding:10px;
+        border-radius:15px;
+      }
+
+      .live-score-main{
+        grid-template-columns:30px minmax(0,1fr) 30px;
+        gap:4px;
+      }
+
+      .live-score-arrow{
+        width:30px;
+        height:40px;
+      }
+
+      .live-score-match{
+        grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);
+        gap:7px;
+        min-height:64px;
+        padding:6px;
+      }
+
+      .live-team{
+        display:grid;
+        justify-items:center;
+        gap:4px;
+        text-align:center;
+      }
+
+      .live-team-home,
+      .live-team-away{
+        justify-content:center;
+        text-align:center;
+      }
+
+      .live-team strong{
+        max-width:92px;
+        font-size:.76rem;
+      }
+
+      .live-team-mark{
+        width:29px;
+        height:29px;
+        flex-basis:29px;
+        font-size:.75rem;
+      }
+
+      .live-score-center{
+        min-width:70px;
+      }
+
+      .live-score-center strong{
+        font-size:1.4rem;
+      }
+
+      .main-drawer{
+        width:min(88vw,430px);
+        min-width:0;
+      }
+
+      .view-side-rail{
+        flex-direction:row;
+        top:auto;
+        right:7px;
+        bottom:86px;
+      }
+
+      .view-side-btn{
+        min-width:auto;
+        min-height:44px;
+      }
+    }
+
+    @media(max-width:520px){
+      .share-top-btn{
+        display:inline-flex;
+        min-width:0;
+        padding-inline:12px;
+      }
+
+      .live-score-updated{
+        display:none;
+      }
+
+      .live-score-topline{
+        justify-content:center;
+      }
+
+      .live-score-footer{
+        justify-content:center;
+      }
+
+      .live-score-footer > span{
+        display:none;
+      }
+
+      .drawer-scroll{
+        padding:14px;
+      }
+    }
+
+    @media(prefers-reduced-motion:reduce){
+      .live-score-float.is-live .live-dot{
+        animation:none;
+      }
+      .main-drawer,
+      .drawer-overlay{
+        transition:none!important;
+      }
+    }
+
+
+
+    .view-side-update .view-side-icon{
+      font-size:1.15rem;
+    }
+
+    .view-side-update:hover .view-side-icon{
+      transform:rotate(22deg);
+    }
+
+    .view-side-update.loading .view-side-icon{
+      animation:tokolSpin .8s linear infinite;
+    }
+
+    @keyframes tokolSpin{
+      to{transform:rotate(360deg)}
+    }
+
+    @media(max-width:780px){
+      .view-side-rail{
+        max-width:calc(100vw - 14px);
+        overflow-x:auto;
+        scrollbar-width:none;
+      }
+
+      .view-side-rail::-webkit-scrollbar{
+        display:none;
+      }
+    }
+
+    @media(prefers-reduced-motion:reduce){
+      .view-side-update.loading .view-side-icon{
+        animation:none;
+      }
+    }
+
+</style>
 </head>
-<body>
-  <main class="wrap">
+
+<body class="simple-mode">
+  <main class="wrap" id="homeSection">
     <header>
       <div>
         <h1 id="title">Radar de partidos</h1>
-        <div class="subtitle">Cuotas, probabilidades sin margen y razones objetivas para considerar, esperar o evitar. Ninguna selección es segura.</div>
+        <div class="subtitle">Información clara para consultar partidos, probabilidades y riesgos. Ninguna selección es segura.</div>
       </div>
-      <div class="toolbar">
-        <button class="btn" id="reloadBtn">Actualizar</button>
-        <button class="btn" id="copyBtn">Copiar enlace</button>
+
+      <div class="toolbar" aria-label="Controles principales">
+        <button class="menu-toggle" id="menuToggle" type="button"
+          aria-controls="mainDrawer" aria-expanded="false" aria-label="Abrir menú">
+          <span></span><span></span><span></span>
+        </button>
+        <button class="btn touch-btn share-top-btn" id="copyBtn" type="button">Compartir radar</button>
       </div>
     </header>
 
+    <section class="live-score-float" id="liveScoreWidget" aria-label="Marcador destacado" hidden>
+      <div class="live-score-topline">
+        <div class="live-score-state">
+          <span class="live-dot" id="liveScoreDot"></span>
+          <strong id="liveScoreState">EN VIVO</strong>
+          <span id="liveScoreMinute"></span>
+        </div>
+        <span class="live-score-updated" id="liveScoreUpdated"></span>
+      </div>
+
+      <div class="live-score-main">
+        <button class="live-score-arrow" id="liveScorePrev" type="button" aria-label="Partido anterior">‹</button>
+
+        <button class="live-score-match" id="liveScoreOpen" type="button" aria-label="Abrir partido">
+          <span class="live-team live-team-home">
+            <span class="live-team-mark" id="liveHomeMark">L</span>
+            <strong id="liveHomeTeam">Local</strong>
+          </span>
+
+          <span class="live-score-center">
+            <strong id="liveScoreValue">0 – 0</strong>
+            <small id="liveScoreSubtitle">Marcador</small>
+          </span>
+
+          <span class="live-team live-team-away">
+            <span class="live-team-mark" id="liveAwayMark">V</span>
+            <strong id="liveAwayTeam">Visitante</strong>
+          </span>
+        </button>
+
+        <button class="live-score-arrow" id="liveScoreNext" type="button" aria-label="Partido siguiente">›</button>
+      </div>
+
+      <div class="live-score-footer">
+        <span id="liveScoreCount"></span>
+        <button class="live-score-detail-btn" id="liveScoreDetails" type="button">Ver partido</button>
+      </div>
+    </section>
+
     <div class="notice" id="staleNotice" hidden></div>
+
+    <div class="shared-notice" id="sharedNotice" hidden>
+      <span>Estás viendo un partido compartido.</span>
+      <button class="btn compact-btn" id="clearSharedBtn" type="button">Ver todos</button>
+    </div>
 
     <section class="summary" aria-label="Resumen">
       <div class="metric"><b id="totalCount">0</b><span>Partidos</span></div>
-      <div class="metric"><b id="considerCount">0</b><span>Considerar</span></div>
-      <div class="metric"><b id="waitCount">0</b><span>Esperar</span></div>
-      <div class="metric"><b id="avoidCount">0</b><span>Evitar</span></div>
+      <div class="metric"><b id="considerCount">0</b><span>✓ Considerar</span></div>
+      <div class="metric"><b id="waitCount">0</b><span>⏳ Esperar</span></div>
+      <div class="metric"><b id="avoidCount">0</b><span>! Evitar</span></div>
+      <div class="metric"><b id="finalCount">0</b><span>● Finalizados</span></div>
     </section>
 
-    <section class="filters" aria-label="Filtros">
-      <input class="control" id="searchInput" type="search" placeholder="Buscar selección..." />
+    <section class="filters" id="matchesSection" aria-label="Filtros">
+      <input class="control" id="searchInput" type="search" placeholder="Buscar selección, aunque tenga un error..." />
       <select class="control" id="statusFilter" aria-label="Filtrar por decisión">
         <option value="todos">Todas las decisiones</option>
-        <option value="considerar">Considerar</option>
-        <option value="esperar">Esperar</option>
-        <option value="evitar">Evitar</option>
+        <option value="considerar">✓ Considerar</option>
+        <option value="esperar">⏳ Esperar</option>
+        <option value="evitar">! Evitar</option>
+      </select>
+
+      <select class="control" id="matchStatusFilter" aria-label="Filtrar por estado del partido">
+        <option value="todos">Todos los estados</option>
+        <option value="Próximo">Próximos</option>
+        <option value="En vivo">En vivo</option>
+        <option value="Final">Finalizados</option>
+      </select>
+
+      <select class="control" id="quickFilter" aria-label="Filtro rápido">
+        <option value="todos">Vista: todos</option>
+        <option value="hoy">Hoy</option>
+        <option value="manana">Mañana</option>
+        <option value="en-vivo">En vivo</option>
+        <option value="finales">Finalizados</option>
+        <option value="favoritos">Mis favoritos</option>
+        <option value="alineaciones">Alineación confirmada</option>
+        <option value="movimiento">Con movimiento de cuota</option>
       </select>
     </section>
 
-    <section class="grid" id="cards"></section>
+    <div class="filter-help">
+      <span>En modo simple ves lo esencial. Toca “Ver análisis” para abrir la información completa.</span>
+      <span class="favorite-summary"><span id="favoriteCount">0</span> favoritos guardados en este dispositivo</span>
+    </div>
+
+    <section class="grid" id="cards" aria-live="polite"></section>
 
     <footer>
       <div id="updatedAt"></div>
-      <p>Este sitio es informativo. Las cuotas cambian, las alineaciones pueden modificarse y una probabilidad alta no garantiza un resultado. Verifica los datos en la casa de apuestas antes de realizar cualquier operación.</p>
+      <p>Fuentes utilizadas por la integración: API-Football para partidos y resultados; The Odds API para cuotas. Las probabilidades y etiquetas son estimaciones informativas. Verifica los datos antes de tomar una decisión.</p>
     </footer>
   </main>
 
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
   <button class="tokol-launcher" id="tokolLauncher" aria-controls="tokolPanel" aria-expanded="false">Tokol</button>
+
   <aside class="tokol-panel" id="tokolPanel" aria-label="Asistente Tokol">
     <div class="tokol-head">
       <div>
         <div class="tokol-name">Tokol</div>
         <div class="tokol-sub">Asistente local del radar</div>
       </div>
-      <button class="tokol-close" id="tokolClose" aria-label="Cerrar Tokol">×</button>
-    </div>
-    <div>
-      <div class="tokol-messages" id="tokolMessages" aria-live="polite"></div>
-      <div class="tokol-quick">
-        <button class="tokol-chip" data-question="¿Qué partidos debo considerar?">Considerar</button>
-        <button class="tokol-chip" data-question="¿Cuáles debo evitar?">Evitar</button>
-        <button class="tokol-chip" data-question="¿Cuál es el próximo partido?">Próximo</button>
-        <button class="tokol-chip" data-question="¿Cuándo se actualizaron los datos?">Actualización</button>
+
+      <div class="tokol-head-actions">
+        <button class="tokol-mini-btn" id="tokolNewChat" type="button">Nueva</button>
+        <button class="tokol-mini-btn" id="tokolClearChat" type="button">Borrar</button>
+        <button class="tokol-close" id="tokolClose" type="button" aria-label="Cerrar Tokol">×</button>
       </div>
     </div>
+
+    <div class="tokol-body">
+      <div class="tokol-messages" id="tokolMessages" aria-live="polite" tabindex="0" aria-label="Conversación con Tokol"></div>
+
+      <div class="tokol-scroll-controls" aria-label="Controles para desplazar el chat">
+        <button class="tokol-scroll-btn" id="tokolScrollUp" type="button" aria-label="Subir en el chat">▲</button>
+        <button class="tokol-scroll-btn" id="tokolScrollDown" type="button" aria-label="Bajar al final del chat">▼</button>
+      </div>
+
+      <div class="tokol-quick" id="tokolQuickActions" tabindex="0" aria-label="Acciones rápidas de Tokol; desliza horizontalmente">
+        <button class="tokol-chip" data-question="¿Qué cambió hoy?">Cambios de hoy</button>
+        <button class="tokol-chip" data-question="¿Cuál partido es más riesgoso?">Más riesgoso</button>
+        <button class="tokol-chip" data-question="¿Qué alineaciones ya están confirmadas?">Alineaciones</button>
+        <button class="tokol-chip" data-question="¿Qué cuotas tuvieron movimiento?">Movimientos</button>
+        <button class="tokol-chip" data-question="¿Cómo quedaron los partidos finalizados?">Resultados</button>
+        <button class="tokol-chip" data-question="¿Cuáles son mis favoritos?">Favoritos</button>
+      </div>
+    </div>
+
     <div>
       <form class="tokol-form" id="tokolForm">
         <input class="tokol-input" id="tokolInput" autocomplete="off" placeholder="Pregunta por un partido o selección" />
         <button class="tokol-send" type="submit">Enviar</button>
       </form>
-      <div class="tokol-note">Tokol usa los datos visibles de esta página. No garantiza resultados ni realiza apuestas.</div>
+      <div class="tokol-note">Tokol usa los datos de esta página. No garantiza resultados ni realiza apuestas.</div>
     </div>
   </aside>
+
+
+
+  <div class="drawer-overlay" id="drawerOverlay" hidden></div>
+
+  <aside class="main-drawer" id="mainDrawer" aria-label="Menú principal" aria-hidden="true">
+    <div class="drawer-head">
+      <div>
+        <div class="drawer-eyebrow">TOKOL</div>
+        <h2>Menú</h2>
+      </div>
+      <button class="drawer-close" id="drawerClose" type="button" aria-label="Cerrar menú">×</button>
+    </div>
+
+    <div class="drawer-scroll">
+      <section class="profile-card" aria-label="Perfil local">
+        <div class="profile-avatar" id="profileAvatar">V</div>
+        <div class="profile-copy">
+          <strong id="profileDisplayName">Visitante</strong>
+          <span>Perfil guardado en este dispositivo</span>
+        </div>
+        <button class="profile-edit-btn" id="profileEditBtn" type="button">Editar</button>
+      </section>
+
+      <section class="drawer-section" id="profileEditor" hidden>
+        <div class="drawer-section-title">Perfil</div>
+        <label class="drawer-label" for="profileNameInput">Nombre para mostrar</label>
+        <div class="drawer-inline">
+          <input class="drawer-input" id="profileNameInput" maxlength="28" placeholder="Visitante" />
+          <button class="drawer-primary-btn" id="profileSaveBtn" type="button">Guardar</button>
+        </div>
+        <p class="drawer-help">No crea una cuenta y no se envía a ningún servidor.</p>
+      </section>
+
+      <section class="drawer-section">
+        <div class="drawer-section-title">Navegación</div>
+        <div class="drawer-list">
+          <button class="drawer-item" id="drawerHome" type="button"><span>⌂</span><b>Inicio</b></button>
+          <button class="drawer-item" id="drawerMatches" type="button"><span>▦</span><b>Partidos</b></button>
+          <button class="drawer-item" id="drawerFavorites" type="button">
+            <span>★</span><b>Favoritos</b><em id="drawerFavoriteCount">0</em>
+          </button>
+          <button class="drawer-item" id="drawerTokol" type="button"><span>◉</span><b>Abrir Tokol</b></button>
+        </div>
+      </section>
+
+      <section class="drawer-section">
+        <div class="drawer-section-title">Vista</div>
+        <div class="drawer-mode-grid" role="group" aria-label="Modo de visualización">
+          <button class="drawer-mode-btn" id="drawerSimpleMode" type="button" aria-pressed="true">
+            <strong>Simple</strong>
+            <span>Solo lo esencial</span>
+          </button>
+          <button class="drawer-mode-btn" id="drawerAdvancedMode" type="button" aria-pressed="false">
+            <strong>Avanzado</strong>
+            <span>Cuotas y análisis</span>
+          </button>
+        </div>
+      </section>
+
+      <section class="drawer-section">
+        <div class="drawer-section-title">Configuración</div>
+
+        <div class="drawer-setting-row">
+          <div>
+            <strong>Tamaño del texto</strong>
+            <span>Adapta la lectura</span>
+          </div>
+          <div class="drawer-setting-actions">
+            <button class="drawer-square-btn" id="fontDownBtn" type="button" aria-label="Reducir texto">A−</button>
+            <button class="drawer-square-btn" id="fontUpBtn" type="button" aria-label="Aumentar texto">A+</button>
+          </div>
+        </div>
+
+        <div class="drawer-setting-row">
+          <div>
+            <strong>Alto contraste</strong>
+            <span>Mejora la visibilidad</span>
+          </div>
+          <button class="drawer-switch" id="contrastBtn" type="button"
+            role="switch" aria-checked="false" aria-pressed="false">
+            <span></span>
+          </button>
+        </div>
+      </section>
+
+      <details class="drawer-details">
+        <summary>Información, fuentes y privacidad</summary>
+        <p>Partidos y resultados: API-Football.</p>
+        <p>Cuotas: The Odds API.</p>
+        <p>Estimaciones y explicaciones: Tokol.</p>
+        <p>Perfil, favoritos y configuración se guardan localmente.</p>
+      </details>
+    </div>
+  </aside>
+
+  <aside class="view-side-rail" aria-label="Controles laterales">
+    <button class="view-side-btn" id="simpleModeBtn" type="button" aria-pressed="true"
+      title="Mostrar solo la información esencial">
+      <span class="view-side-icon">✓</span>
+      <span class="view-side-label">Simple</span>
+    </button>
+
+    <button class="view-side-btn" id="advancedModeBtn" type="button" aria-pressed="false"
+      title="Mostrar cuotas, bajas y análisis completo">
+      <span class="view-side-icon">＋</span>
+      <span class="view-side-label">Avanzado</span>
+    </button>
+
+    <button class="view-side-btn view-side-update" id="reloadBtn" type="button"
+      title="Actualizar los datos del radar">
+      <span class="view-side-icon">↻</span>
+      <span class="view-side-label">Actualizar</span>
+    </button>
+  </aside>
+
+  <nav class="mobile-nav" aria-label="Navegación móvil">
+    <button type="button" id="navHome" aria-current="page"><span>⌂</span><span>Inicio</span></button>
+    <button type="button" id="navMatches"><span>▦</span><span>Partidos</span></button>
+    <button type="button" id="navFavorites"><span>★</span><span>Favoritos <b class="mobile-fav-count" id="mobileFavoriteCount">0</b></span></button>
+    <button type="button" id="navTokol"><span>◉</span><span>Tokol</span></button>
+  </nav>
 
 <script>
 const fallbackData = {"meta":{"title":"Radar de partidos — Mundial 2026","timezone":"America/Mexico_City","lastUpdated":"2026-06-29T13:45:00-06:00","refreshSeconds":60,"sourceNote":"Datos de demostración basados en el último análisis de esta conversación. Confirma cuotas y alineaciones antes de apostar."},"matches":[{"id":"bra-jpn-20260629","teams":["Brasil","Japón"],"kickoff":"2026-06-29T11:00:00-06:00","status":"En vivo","score":"1–1","classification":"evitar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-310","away":"+240"}],"probability":{"home":72.0,"away":28.0},"reasonsFor":["Brasil conserva mayor profundidad y calidad individual.","La cuota de clasificación refleja favoritismo fuerte."],"reasonsAgainst":["El partido ya está en vivo y cambió respecto al análisis previo.","Entrar tarde puede significar aceptar una cuota sin valor.","Japón ha mostrado capacidad para defender y competir."],"injuries":["Brasil: Raphinha reportado con lesión; Neymar en recuperación.","Japón: Kubo con molestias de tobillo."],"lineups":"Consulta la fuente en vivo antes de apostar.","form":"Partido en curso; la forma previa ya no basta para decidir.","marketChange":"Cambio significativo: marcador 1–1 en vivo."},{"id":"ger-par-20260629","teams":["Alemania","Paraguay"],"kickoff":"2026-06-29T14:30:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-750","away":"+490"}],"probability":{"home":83.9,"away":16.1},"reasonsFor":["Alemania tiene mayor profundidad ofensiva.","Paraguay produjo poco gol en la fase de grupos."],"reasonsAgainst":["La cuota de Alemania es demasiado baja para tomarla como valor automático.","Una selección tan favorita puede aportar poco a un parlay y mantener riesgo real."],"injuries":["Alemania: Nico Schlotterbeck ausente.","Paraguay: Diego Gómez suspendido; Alderete con duda física."],"lineups":"Esperar confirmación oficial.","form":"Alemania llega como favorita amplia; Paraguay necesita un partido cerrado.","marketChange":"Sin cambio fuerte confirmado en esta muestra."},{"id":"ned-mar-20260629","teams":["Países Bajos","Marruecos"],"kickoff":"2026-06-29T19:00:00-06:00","status":"Próximo","classification":"considerar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-156","away":"+128"}],"probability":{"home":58.1,"away":41.9},"reasonsFor":["Es un mercado más equilibrado y permite comparar valor real.","Países Bajos posee mayor capacidad ofensiva."],"reasonsAgainst":["Marruecos llega competitivo y puede castigar una defensa adelantada.","No es un favorito suficientemente fuerte para llamarlo seguro."],"injuries":["Revisar reporte final antes del inicio."],"lineups":"Esperar alineaciones confirmadas.","form":"Marruecos llega con buen rendimiento colectivo; Países Bajos con mejor producción ofensiva.","marketChange":"Vigilar si la cuota neerlandesa baja demasiado."},{"id":"civ-nor-20260630","teams":["Costa de Marfil","Noruega"],"kickoff":"2026-06-30T11:00:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"+152","away":"-186"}],"probability":{"home":37.9,"away":62.1},"reasonsFor":["Noruega parte como favorita y tiene mayor amenaza ofensiva."],"reasonsAgainst":["62% no es suficiente para usarla como selección segura.","Conviene esperar titulares y cualquier cambio de cuota."],"injuries":["Revisar bajas oficiales el día del partido."],"lineups":"No confirmadas en esta muestra.","form":"Noruega favorita moderada; Costa de Marfil mantiene probabilidad real de sorpresa.","marketChange":"Esperar movimiento cercano a la alineación."},{"id":"fra-swe-20260630","teams":["Francia","Suecia"],"kickoff":"2026-06-30T15:00:00-06:00","status":"Próximo","classification":"evitar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-1000","away":"+620"}],"probability":{"home":86.7,"away":13.3},"reasonsFor":["Francia es favorita muy amplia por calidad y profundidad."],"reasonsAgainst":["La cuota ofrece retorno bajo frente al riesgo residual.","Agregarla a un parlay no elimina el peligro de una sorpresa."],"injuries":["Esperar reporte médico y rotaciones."],"lineups":"No confirmadas en esta muestra.","form":"Partido potencialmente abierto; la defensa y las rotaciones pueden cambiar el mercado.","marketChange":"La cuota francesa ya está muy comprimida."},{"id":"mex-ecu-20260630","teams":["México","Ecuador"],"kickoff":"2026-06-30T19:00:00-06:00","status":"Próximo","classification":"esperar","market":"Clasifica","odds":[{"book":"Referencia mercado","home":"-182","away":"+148"}],"probability":{"home":61.5,"away":38.5},"reasonsFor":["México juega como local y llega con mejor defensa reciente.","El mercado le concede ventaja moderada para avanzar."],"reasonsAgainst":["Ecuador tiene suficiente calidad para convertir el partido en uno cerrado.","La cuota puede no compensar el riesgo si cae demasiado."],"injuries":["Confirmar bajas y estado de titulares antes del inicio."],"lineups":"Esperar alineaciones oficiales.","form":"México llega invicto en la muestra analizada; Ecuador viene de mostrar capacidad de remontada.","marketChange":"Considerar solo si la cuota mejora; evitar perseguir una caída del precio."}]};
 let appData = fallbackData;
 
-const fmtDate = iso => new Intl.DateTimeFormat('es-MX',{
-  timeZone:'America/Mexico_City', weekday:'short', day:'numeric', month:'short',
-  hour:'numeric', minute:'2-digit'
-}).format(new Date(iso));
+const STORAGE = {
+  favorites: 'tokol:favorites:v2',
+  mode: 'tokol:mode:v2',
+  fontScale: 'tokol:font-scale:v2',
+  contrast: 'tokol:contrast:v2',
+  chat: 'tokol:chat:v2',
+  profile: 'tokol:profile:v1'
+};
+
+function safeRead(key, fallback){
+  try{
+    const value = localStorage.getItem(key);
+    return value === null ? fallback : JSON.parse(value);
+  }catch{
+    return fallback;
+  }
+}
+
+function safeWrite(key, value){
+  try{
+    localStorage.setItem(key, JSON.stringify(value));
+  }catch{}
+}
+
+function escapeHTML(value=''){
+  return String(value)
+    .replaceAll('&','&amp;')
+    .replaceAll('<','&lt;')
+    .replaceAll('>','&gt;')
+    .replaceAll('"','&quot;')
+    .replaceAll("'",'&#039;');
+}
+
+function safeId(value=''){
+  return String(value).replace(/[^a-zA-Z0-9_-]/g,'-');
+}
+
+function normalizeText(value=''){
+  return String(value)
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g,'')
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}\s-]/gu,' ')
+    .replace(/\s+/g,' ')
+    .trim();
+}
+
+function levenshtein(a,b){
+  if(a === b) return 0;
+  if(!a.length) return b.length;
+  if(!b.length) return a.length;
+  const row = Array.from({length:b.length+1},(_,i)=>i);
+  for(let i=1;i<=a.length;i++){
+    let previous = row[0];
+    row[0] = i;
+    for(let j=1;j<=b.length;j++){
+      const current = row[j];
+      row[j] = Math.min(
+        row[j] + 1,
+        row[j-1] + 1,
+        previous + (a[i-1] === b[j-1] ? 0 : 1)
+      );
+      previous = current;
+    }
+  }
+  return row[b.length];
+}
+
+function fuzzyMatches(text, query){
+  const t = normalizeText(text);
+  const q = normalizeText(query);
+  if(!q) return true;
+  if(t.includes(q)) return true;
+  const queryTokens = q.split(' ').filter(Boolean);
+  const textTokens = t.split(' ').filter(Boolean);
+  return queryTokens.every(qt => textTokens.some(tt => {
+    if(tt.includes(qt) || qt.includes(tt)) return true;
+    const allowance = qt.length <= 4 ? 1 : Math.max(1, Math.floor(qt.length * .28));
+    return levenshtein(tt, qt) <= allowance;
+  }));
+}
+
+const timezone = () => appData?.meta?.timezone || 'America/Mexico_City';
+
+const fmtDate = iso => {
+  const date = new Date(iso);
+  if(Number.isNaN(date.getTime())) return 'Fecha pendiente';
+  return new Intl.DateTimeFormat('es-MX',{
+    timeZone:timezone(),
+    weekday:'short',
+    day:'numeric',
+    month:'short',
+    hour:'numeric',
+    minute:'2-digit'
+  }).format(date);
+};
+
+function dateKey(value){
+  const date = value instanceof Date ? value : new Date(value);
+  const parts = new Intl.DateTimeFormat('en-US',{
+    timeZone:timezone(),
+    year:'numeric',
+    month:'2-digit',
+    day:'2-digit'
+  }).formatToParts(date);
+  const map = Object.fromEntries(parts.map(p=>[p.type,p.value]));
+  return `${map.year}-${map.month}-${map.day}`;
+}
+
+function relativeAge(iso){
+  const time = new Date(iso).getTime();
+  if(!Number.isFinite(time)) return 'hora no disponible';
+  const minutes = Math.max(0,Math.floor((Date.now()-time)/60000));
+  if(minutes < 1) return 'hace menos de 1 min';
+  if(minutes < 60) return `hace ${minutes} min`;
+  const hours = Math.floor(minutes/60);
+  if(hours < 24) return `hace ${hours} h`;
+  const days = Math.floor(hours/24);
+  return `hace ${days} día${days === 1 ? '' : 's'}`;
+}
+
+function isFinal(m){
+  return m.status === 'Final' || m.isFinal === true;
+}
+
+function lineupsConfirmed(m){
+  if(m.lineupsConfirmed === true) return true;
+  const text = normalizeText(m.lineups || '');
+  if(!text) return false;
+  if(/no confirm|sin confirm|esperar|pendiente|consulta|sin informacion/.test(text)) return false;
+  return /confirmad|oficial|titulares/.test(text);
+}
+
+function hasMarketMovement(m){
+  if(m.marketMovement === true) return true;
+  const text = normalizeText(m.marketChange || '');
+  if(!text) return false;
+  if(/sin cambio|sin movimiento|pendiente|esperar movimiento|no disponible/.test(text)) return false;
+  return /cambio|movimiento|subio|bajo|mejoro|empeoro|caida|aumento|significativo/.test(text);
+}
+
+let favorites = new Set(safeRead(STORAGE.favorites, []));
+let focusMatchId = new URL(location.href).searchParams.get('match') || '';
+let viewMode = safeRead(STORAGE.mode, 'simple');
+let fontScale = Number(safeRead(STORAGE.fontScale, 1)) || 1;
+let highContrast = Boolean(safeRead(STORAGE.contrast, false));
+let chatHistory = safeRead(STORAGE.chat, []);
+let profile = safeRead(STORAGE.profile, {name:'Visitante'});
+let liveScoreItems = [];
+let liveScoreIndex = 0;
+let liveScoreMatchId = '';
+let toastTimer;
+
+function showToast(message){
+  const toast = document.getElementById('toast');
+  toast.textContent = message;
+  toast.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=>toast.classList.remove('show'),2600);
+}
+
+function setMode(mode, persist=true){
+  viewMode = mode === 'advanced' ? 'advanced' : 'simple';
+  document.body.classList.toggle('simple-mode',viewMode === 'simple');
+  document.body.classList.toggle('advanced-mode',viewMode === 'advanced');
+
+  const simpleButton = document.getElementById('simpleModeBtn');
+  const advancedButton = document.getElementById('advancedModeBtn');
+  const drawerSimple = document.getElementById('drawerSimpleMode');
+  const drawerAdvanced = document.getElementById('drawerAdvancedMode');
+
+  simpleButton.setAttribute('aria-pressed',String(viewMode === 'simple'));
+  advancedButton.setAttribute('aria-pressed',String(viewMode === 'advanced'));
+  drawerSimple.setAttribute('aria-pressed',String(viewMode === 'simple'));
+  drawerAdvanced.setAttribute('aria-pressed',String(viewMode === 'advanced'));
+
+  const simpleIcon = simpleButton.querySelector('.view-side-icon');
+  const advancedIcon = advancedButton.querySelector('.view-side-icon');
+
+  simpleIcon.textContent = viewMode === 'simple' ? '✓' : '○';
+  advancedIcon.textContent = viewMode === 'advanced' ? '✓' : '＋';
+
+  simpleButton.title = viewMode === 'simple'
+    ? 'La vista simple está activa'
+    : 'Mostrar solo la información esencial';
+
+  advancedButton.title = viewMode === 'advanced'
+    ? 'La vista avanzada está activa'
+    : 'Mostrar cuotas, bajas y análisis completo';
+
+  if(persist) safeWrite(STORAGE.mode,viewMode);
+}
+
+function setFontScale(value, announce=true){
+  fontScale = Math.min(1.18,Math.max(.9,Number(value) || 1));
+  document.documentElement.style.setProperty('--ui-scale',fontScale.toFixed(2));
+  safeWrite(STORAGE.fontScale,fontScale);
+  if(announce) showToast(`Tamaño de texto: ${Math.round(fontScale*100)}%`);
+}
+
+function setContrast(enabled, announce=true){
+  highContrast = Boolean(enabled);
+  document.body.classList.toggle('high-contrast',highContrast);
+  const contrastButton = document.getElementById('contrastBtn');
+  contrastButton.setAttribute('aria-pressed',String(highContrast));
+  contrastButton.setAttribute('aria-checked',String(highContrast));
+  safeWrite(STORAGE.contrast,highContrast);
+  if(announce) showToast(highContrast ? 'Contraste alto activado' : 'Contraste normal');
+}
 
 function updateUrl(){
   const u = new URL(location.href);
-  const state = document.getElementById('statusFilter').value;
+  const decision = document.getElementById('statusFilter').value;
+  const matchStatus = document.getElementById('matchStatusFilter').value;
+  const quick = document.getElementById('quickFilter').value;
   const q = document.getElementById('searchInput').value.trim();
-  state === 'todos' ? u.searchParams.delete('estado') : u.searchParams.set('estado',state);
+
+  decision === 'todos' ? u.searchParams.delete('estado') : u.searchParams.set('estado',decision);
+  matchStatus === 'todos' ? u.searchParams.delete('partido') : u.searchParams.set('partido',matchStatus);
+  quick === 'todos' ? u.searchParams.delete('vista') : u.searchParams.set('vista',quick);
   q ? u.searchParams.set('q',q) : u.searchParams.delete('q');
+  focusMatchId ? u.searchParams.set('match',focusMatchId) : u.searchParams.delete('match');
   history.replaceState(null,'',u);
 }
 
 function restoreUrl(){
   const u = new URL(location.href);
   document.getElementById('statusFilter').value = u.searchParams.get('estado') || 'todos';
+  document.getElementById('matchStatusFilter').value = u.searchParams.get('partido') || 'todos';
+  document.getElementById('quickFilter').value = u.searchParams.get('vista') || 'todos';
   document.getElementById('searchInput').value = u.searchParams.get('q') || '';
+  focusMatchId = u.searchParams.get('match') || '';
+}
+
+function statusClass(status){
+  if(status === 'Final') return 'status-final';
+  if(status === 'En vivo') return 'status-live';
+  if(status === 'Próximo') return 'status-next';
+  return '';
+}
+
+function classificationIcon(value){
+  return value === 'considerar' ? '✓' : value === 'esperar' ? '⏳' : '!';
+}
+
+function resultDetails(m){
+  const info = m.finalInfo;
+  if(!info) return '';
+  const details = [
+    info.method,
+    info.halfTime ? `Descanso ${info.halfTime}` : null,
+    info.extraTime ? `Prórroga ${info.extraTime}` : null,
+    info.penalties ? `Penales ${info.penalties}` : null,
+    info.venue || null,
+    info.referee ? `Árbitro: ${info.referee}` : null
+  ].filter(Boolean).map(escapeHTML).join(' · ');
+
+  return `
+    <div class="result-box">
+      <div class="result-score">${escapeHTML(info.summary || m.score || 'Resultado final')}</div>
+      <div class="result-meta">${details}</div>
+    </div>`;
+}
+
+function sortMatches(a,b){
+  if(focusMatchId){
+    if(a.id === focusMatchId) return -1;
+    if(b.id === focusMatchId) return 1;
+  }
+  const rank = {'En vivo':0,'Próximo':1,'Final':2};
+  const ra = rank[a.status] ?? 3;
+  const rb = rank[b.status] ?? 3;
+  if(ra !== rb) return ra-rb;
+  const da = new Date(a.kickoff).getTime();
+  const db = new Date(b.kickoff).getTime();
+  return isFinal(a) ? db-da : da-db;
+}
+
+function quickFilterPasses(m,filter){
+  if(filter === 'todos') return true;
+  if(filter === 'en-vivo') return m.status === 'En vivo';
+  if(filter === 'finales') return isFinal(m);
+  if(filter === 'favoritos') return favorites.has(m.id);
+  if(filter === 'alineaciones') return lineupsConfirmed(m);
+  if(filter === 'movimiento') return hasMarketMovement(m);
+
+  const today = dateKey(new Date());
+  if(filter === 'hoy') return dateKey(m.kickoff) === today;
+  if(filter === 'manana'){
+    const tomorrow = new Date();
+    tomorrow.setDate(tomorrow.getDate()+1);
+    return dateKey(m.kickoff) === dateKey(tomorrow);
+  }
+  return true;
+}
+
+function getFilteredMatches(){
+  const decision = document.getElementById('statusFilter').value;
+  const matchStatus = document.getElementById('matchStatusFilter').value;
+  const quick = document.getElementById('quickFilter').value;
+  const q = document.getElementById('searchInput').value.trim();
+
+  return (appData.matches || [])
+    .filter(m => decision === 'todos' || m.classification === decision)
+    .filter(m => matchStatus === 'todos' || m.status === matchStatus)
+    .filter(m => quickFilterPasses(m,quick))
+    .filter(m => !q || fuzzyMatches([
+      ...(m.teams || []),
+      m.market,
+      m.status,
+      m.classification,
+      m.venue,
+      m.referee
+    ].filter(Boolean).join(' '),q))
+    .sort(sortMatches);
+}
+
+function probabilityCell(label,value){
+  const valid = Number.isFinite(value);
+  const display = valid ? `${value.toFixed(1)}%` : '—';
+  return `
+    <div>
+      <button class="prob-item" type="button"
+        data-probability="${valid ? value : ''}"
+        data-probability-label="${escapeHTML(label)}"
+        aria-label="Explicar probabilidad de ${escapeHTML(label)}">
+        <strong>${display}</strong>
+        <small>${escapeHTML(label)}</small>
+      </button>
+    </div>`;
+}
+
+function mainReason(m){
+  const classification = m.classification || 'esperar';
+  const list = classification === 'considerar' ? m.reasonsFor : m.reasonsAgainst;
+  return Array.isArray(list) && list.length
+    ? list[0]
+    : 'Todavía no hay una explicación principal registrada.';
+}
+
+function renderCard(m){
+  const favorite = favorites.has(m.id);
+  const updated = m.updatedAt || m.oddsUpdatedAt || appData.meta.lastUpdated;
+  const oddsSource = m.oddsSource || 'The Odds API';
+  const fixtureSource = m.fixtureSource || 'API-Football';
+  const analysisSource = m.analysisSource || 'Tokol';
+  const reasonsFor = Array.isArray(m.reasonsFor) ? m.reasonsFor : [];
+  const reasonsAgainst = Array.isArray(m.reasonsAgainst) ? m.reasonsAgainst : [];
+  const injuries = Array.isArray(m.injuries) ? m.injuries : [];
+
+  return `
+    <article class="card ${isFinal(m) ? 'final-card' : ''} ${m.id === focusMatchId ? 'focused' : ''}"
+      id="match-${safeId(m.id)}" data-match-id="${escapeHTML(m.id)}">
+
+      <div class="card-main">
+        <div class="card-heading-row">
+          <div>
+            <div class="teams">${escapeHTML(m.teams?.[0] || 'Equipo 1')} vs. ${escapeHTML(m.teams?.[1] || 'Equipo 2')}</div>
+            <div class="meta">${fmtDate(m.kickoff)}${m.score ? ` · ${escapeHTML(m.score)}` : ''}</div>
+            <div class="match-updated">Datos actualizados ${relativeAge(updated)}</div>
+          </div>
+
+          <div class="card-actions">
+            <button class="icon-btn favorite-btn" type="button"
+              data-action="favorite" data-id="${escapeHTML(m.id)}"
+              aria-label="${favorite ? 'Quitar de favoritos' : 'Agregar a favoritos'}"
+              aria-pressed="${String(favorite)}">${favorite ? '★' : '☆'}</button>
+            <button class="icon-btn share-match-btn" type="button"
+              data-action="share" data-id="${escapeHTML(m.id)}"
+              aria-label="Compartir este partido">↗</button>
+          </div>
+        </div>
+
+        <div class="badges" style="justify-content:flex-start;margin-top:12px">
+          <span class="status-badge ${statusClass(m.status)}">${escapeHTML(m.status || 'Sin estado')}</span>
+          <span class="badge ${escapeHTML(m.classification || 'esperar')}">${classificationIcon(m.classification)} ${escapeHTML(m.classification || 'esperar')}</span>
+          ${lineupsConfirmed(m) ? '<span class="status-badge status-final">Alineación confirmada</span>' : ''}
+        </div>
+
+        ${resultDetails(m)}
+
+        <div class="simple-reason simple-only">
+          <strong>Motivo principal</strong>
+          ${escapeHTML(mainReason(m))}
+        </div>
+
+        <div class="prob ${Number.isFinite(m.probability?.draw) ? 'three' : ''}">
+          ${probabilityCell(m.teams?.[0] || 'Equipo 1',m.probability?.home)}
+          ${Number.isFinite(m.probability?.draw) ? probabilityCell('Empate',m.probability.draw) : ''}
+          ${probabilityCell(m.teams?.[1] || 'Equipo 2',m.probability?.away)}
+        </div>
+
+        <div class="card-quick-actions simple-only">
+          <button class="btn compact-btn" type="button" data-action="details" data-id="${escapeHTML(m.id)}">Ver análisis</button>
+          <button class="btn compact-btn" type="button" data-action="ask-tokol" data-id="${escapeHTML(m.id)}">Preguntar a Tokol</button>
+        </div>
+
+        <div class="advanced-only">
+          <div class="section-title">${escapeHTML(m.market || 'Mercado pendiente')}</div>
+          <div class="books">${m.odds?.length
+            ? m.odds.map(o=>`<span class="book">${escapeHTML(o.book)}: ${escapeHTML(m.teams?.[0] || '')} ${escapeHTML(o.home)}${o.draw ? ` · Empate ${escapeHTML(o.draw)}` : ''} · ${escapeHTML(m.teams?.[1] || '')} ${escapeHTML(o.away)}</span>`).join('')
+            : '<span class="book">Sin cuotas registradas</span>'}</div>
+        </div>
+
+        <details class="advanced-only">
+          <summary>Ver análisis completo</summary>
+          <div class="section-title">Razones para considerar</div>
+          <ul>${reasonsFor.length ? reasonsFor.map(x=>`<li>${escapeHTML(x)}</li>`).join('') : '<li>Sin razones registradas.</li>'}</ul>
+
+          <div class="section-title">Razones para evitar o esperar</div>
+          <ul>${reasonsAgainst.length ? reasonsAgainst.map(x=>`<li>${escapeHTML(x)}</li>`).join('') : '<li>Sin riesgos registrados.</li>'}</ul>
+
+          <div class="section-title">Bajas</div>
+          <ul>${injuries.length ? injuries.map(x=>`<li>${escapeHTML(x)}</li>`).join('') : '<li>Sin bajas registradas.</li>'}</ul>
+
+          <div class="section-title">Alineaciones</div>
+          <p>${escapeHTML(m.lineups || 'Sin información')}</p>
+
+          <div class="section-title">Forma reciente</div>
+          <p>${escapeHTML(m.form || 'Sin información')}</p>
+
+          ${m.finalInfo ? `<div class="section-title">Resultado final</div><p>${escapeHTML(m.finalInfo.summary || m.score || '')}</p>` : ''}
+
+          <div class="section-title">Cambio de mercado</div>
+          <p>${escapeHTML(m.marketChange || 'Sin cambio registrado')}</p>
+        </details>
+
+        <div class="source-row advanced-only">
+          <span class="source-tag">Partidos: ${escapeHTML(fixtureSource)}</span>
+          <span class="source-tag">Cuotas: ${escapeHTML(oddsSource)}</span>
+          <span class="source-tag">Estimación: ${escapeHTML(analysisSource)}</span>
+        </div>
+      </div>
+    </article>`;
+}
+
+
+function teamInitials(name=''){
+  const parts = String(name).trim().split(/\s+/).filter(Boolean);
+  if(!parts.length) return '?';
+  return parts.slice(0,2).map(part=>part[0]).join('').toUpperCase();
+}
+
+function liveMinuteText(match){
+  const elapsed = match.elapsed ?? match.finalInfo?.elapsed;
+  if(match.status === 'En vivo'){
+    if(Number.isFinite(Number(elapsed))) return `${Number(elapsed)}′`;
+    if(match.statusCode === 'HT') return 'Descanso';
+    if(match.statusLong) return match.statusLong;
+    return 'En curso';
+  }
+  if(match.status === 'Final') return 'Final';
+  return fmtDate(match.kickoff);
+}
+
+function currentScoreItems(){
+  const matches = appData.matches || [];
+  const live = matches
+    .filter(match=>match.status === 'En vivo')
+    .sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff));
+
+  if(live.length) return live;
+
+  return matches
+    .filter(match=>match.status === 'Próximo' && new Date(match.kickoff) >= new Date())
+    .sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff))
+    .slice(0,5);
+}
+
+function renderLiveScore(){
+  const widget = document.getElementById('liveScoreWidget');
+  liveScoreItems = currentScoreItems();
+
+  if(!liveScoreItems.length){
+    widget.hidden = true;
+    liveScoreMatchId = '';
+    return;
+  }
+
+  if(liveScoreIndex >= liveScoreItems.length) liveScoreIndex = 0;
+  if(liveScoreIndex < 0) liveScoreIndex = liveScoreItems.length-1;
+
+  const match = liveScoreItems[liveScoreIndex];
+  const isLiveMatch = match.status === 'En vivo';
+  liveScoreMatchId = match.id;
+
+  widget.hidden = false;
+  widget.classList.toggle('is-live',isLiveMatch);
+
+  document.getElementById('liveScoreState').textContent = isLiveMatch ? 'EN VIVO' : 'PRÓXIMO';
+  document.getElementById('liveScoreMinute').textContent = liveMinuteText(match);
+  document.getElementById('liveScoreUpdated').textContent =
+    `Actualizado ${relativeAge(match.updatedAt || appData.meta.lastUpdated)}`;
+
+  document.getElementById('liveHomeTeam').textContent = match.teams?.[0] || 'Local';
+  document.getElementById('liveAwayTeam').textContent = match.teams?.[1] || 'Visitante';
+  document.getElementById('liveHomeMark').textContent = teamInitials(match.teams?.[0]);
+  document.getElementById('liveAwayMark').textContent = teamInitials(match.teams?.[1]);
+
+  document.getElementById('liveScoreValue').textContent =
+    isLiveMatch ? (match.score || '0 – 0') : 'VS';
+
+  document.getElementById('liveScoreSubtitle').textContent =
+    isLiveMatch
+      ? (match.statusLong || 'Marcador actual')
+      : fmtDate(match.kickoff);
+
+  document.getElementById('liveScoreCount').textContent =
+    liveScoreItems.length > 1
+      ? `${liveScoreIndex+1} de ${liveScoreItems.length} partidos ${isLiveMatch ? 'en vivo' : 'próximos'}`
+      : (isLiveMatch ? 'Partido del momento' : 'Próximo partido');
+
+  const multiple = liveScoreItems.length > 1;
+  document.getElementById('liveScorePrev').disabled = !multiple;
+  document.getElementById('liveScoreNext').disabled = !multiple;
+}
+
+function changeLiveScore(step){
+  if(!liveScoreItems.length) return;
+  liveScoreIndex = (liveScoreIndex + step + liveScoreItems.length) % liveScoreItems.length;
+  renderLiveScore();
+}
+
+function renderProfile(){
+  const name = String(profile?.name || 'Visitante').trim() || 'Visitante';
+  document.getElementById('profileDisplayName').textContent = name;
+  document.getElementById('profileNameInput').value = name === 'Visitante' ? '' : name;
+  document.getElementById('profileAvatar').textContent = teamInitials(name).slice(0,2);
+}
+
+function saveProfile(){
+  const value = document.getElementById('profileNameInput').value.trim();
+  profile = {name:value || 'Visitante'};
+  safeWrite(STORAGE.profile,profile);
+  renderProfile();
+  document.getElementById('profileEditor').hidden = true;
+  showToast('Perfil local guardado');
+}
+
+function setDrawerOpen(open){
+  const drawer = document.getElementById('mainDrawer');
+  const overlay = document.getElementById('drawerOverlay');
+  const toggle = document.getElementById('menuToggle');
+
+  drawer.classList.toggle('open',open);
+  drawer.setAttribute('aria-hidden',String(!open));
+  toggle.setAttribute('aria-expanded',String(open));
+  document.body.classList.toggle('menu-open',open);
+
+  if(open){
+    overlay.hidden = false;
+    requestAnimationFrame(()=>overlay.classList.add('visible'));
+    document.getElementById('drawerClose').focus();
+  }else{
+    overlay.classList.remove('visible');
+    setTimeout(()=>{
+      if(!drawer.classList.contains('open')) overlay.hidden = true;
+    },220);
+    toggle.focus();
+  }
+}
+
+function closeDrawerAnd(action){
+  setDrawerOpen(false);
+  setTimeout(action,80);
 }
 
 function render(){
   const cards = document.getElementById('cards');
-  const status = document.getElementById('statusFilter').value;
-  const q = document.getElementById('searchInput').value.toLowerCase().trim();
-  const items = appData.matches
-    .filter(m => status === 'todos' || m.classification === status)
-    .filter(m => !q || m.teams.join(' ').toLowerCase().includes(q))
-    .sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff));
+  const items = getFilteredMatches();
+  cards.innerHTML = items.length
+    ? items.map(renderCard).join('')
+    : `<div class="empty">No hay partidos que coincidan con los filtros. Prueba “Vista: todos”.</div>`;
 
-  cards.innerHTML = items.length ? items.map(m => `
-    <article class="card">
-      <div class="topline">
-        <div>
-          <div class="teams">${m.teams[0]} vs. ${m.teams[1]}</div>
-          <div class="meta">${fmtDate(m.kickoff)} · ${m.status}${m.score ? ` · ${m.score}` : ''}</div>
-        </div>
-        <span class="badge ${m.classification}">${m.classification}</span>
-      </div>
+  const matches = appData.matches || [];
+  document.getElementById('totalCount').textContent = matches.length;
+  document.getElementById('considerCount').textContent = matches.filter(x=>x.classification==='considerar').length;
+  document.getElementById('waitCount').textContent = matches.filter(x=>x.classification==='esperar').length;
+  document.getElementById('avoidCount').textContent = matches.filter(x=>x.classification==='evitar').length;
+  document.getElementById('finalCount').textContent = matches.filter(isFinal).length;
+  document.getElementById('favoriteCount').textContent = favorites.size;
+  document.getElementById('mobileFavoriteCount').textContent = favorites.size;
+  document.getElementById('drawerFavoriteCount').textContent = favorites.size;
+  document.getElementById('title').textContent = appData.meta.title || 'Radar de partidos';
+  renderLiveScore();
 
-      <div class="prob ${Number.isFinite(m.probability?.draw) ? 'three' : ''}">
-        <div><strong>${Number.isFinite(m.probability?.home) ? m.probability.home.toFixed(1) + '%' : '—'}</strong><small>${m.teams[0]}</small></div>
-        ${Number.isFinite(m.probability?.draw) ? `<div><strong>${m.probability.draw.toFixed(1)}%</strong><small>Empate</small></div>` : ''}
-        <div><strong>${Number.isFinite(m.probability?.away) ? m.probability.away.toFixed(1) + '%' : '—'}</strong><small>${m.teams[1]}</small></div>
-      </div>
-
-      <div class="section-title">${m.market || 'Mercado pendiente'}${m.oddsSource ? ` · ${m.oddsSource}` : ''}</div>
-      <div class="books">${m.odds?.length
-        ? m.odds.map(o=>`<span class="book">${o.book}: ${m.teams[0]} ${o.home}${o.draw ? ` · Empate ${o.draw}` : ''} · ${m.teams[1]} ${o.away}</span>`).join('')
-        : '<span class="book">Sin cuotas registradas</span>'}</div>
-
-      <details>
-        <summary>Ver análisis completo</summary>
-        <div class="section-title">Razones para considerar</div>
-        <ul>${m.reasonsFor.map(x=>`<li>${x}</li>`).join('')}</ul>
-        <div class="section-title">Razones para evitar o esperar</div>
-        <ul>${m.reasonsAgainst.map(x=>`<li>${x}</li>`).join('')}</ul>
-        <div class="section-title">Bajas</div>
-        <ul>${m.injuries.map(x=>`<li>${x}</li>`).join('')}</ul>
-        <div class="section-title">Alineaciones</div><p>${m.lineups}</p>
-        <div class="section-title">Forma reciente</div><p>${m.form}</p>
-        <div class="section-title">Cambio de mercado</div><p>${m.marketChange}</p>
-      </details>
-    </article>
-  `).join('') : `<div class="empty">No hay partidos que coincidan con el filtro.</div>`;
-
-  document.getElementById('totalCount').textContent = appData.matches.length;
-  document.getElementById('considerCount').textContent = appData.matches.filter(x=>x.classification==='considerar').length;
-  document.getElementById('waitCount').textContent = appData.matches.filter(x=>x.classification==='esperar').length;
-  document.getElementById('avoidCount').textContent = appData.matches.filter(x=>x.classification==='evitar').length;
-  document.getElementById('title').textContent = appData.meta.title;
   document.getElementById('updatedAt').textContent =
-    `Última actualización registrada: ${fmtDate(appData.meta.lastUpdated)} · ${appData.meta.sourceNote}`;
+    `Última actualización general: ${fmtDate(appData.meta.lastUpdated)} (${relativeAge(appData.meta.lastUpdated)}). ${appData.meta.sourceNote || ''}`;
 
-  const ageHours = (Date.now() - new Date(appData.meta.lastUpdated).getTime()) / 36e5;
+  const ageHours = (Date.now()-new Date(appData.meta.lastUpdated).getTime())/36e5;
   const notice = document.getElementById('staleNotice');
-  if(ageHours > 6){
+  if(Number.isFinite(ageHours) && ageHours > 6){
     notice.hidden = false;
-    notice.textContent = `Atención: estos datos tienen ${Math.floor(ageHours)} horas o más. Confirma cuotas, bajas y alineaciones antes de apostar.`;
-  } else {
+    notice.textContent = `Atención: estos datos tienen ${Math.floor(ageHours)} horas o más. Confirma cuotas, bajas y alineaciones.`;
+  }else{
     notice.hidden = true;
   }
+
+  document.getElementById('sharedNotice').hidden = !focusMatchId;
   updateUrl();
+
+  if(focusMatchId){
+    requestAnimationFrame(()=>{
+      const card = document.getElementById(`match-${safeId(focusMatchId)}`);
+      if(card) card.scrollIntoView({behavior:'smooth',block:'center'});
+    });
+  }
 }
 
 async function loadData(){
   try{
-    const res = await fetch(`data.json?ts=${Date.now()}`, {cache:'no-store'});
+    const res = await fetch(`data.json?ts=${Date.now()}`,{cache:'no-store'});
     if(!res.ok) throw new Error('No se pudo cargar data.json');
     appData = await res.json();
-  }catch(e){
+  }catch{
     appData = fallbackData;
   }
   render();
 }
 
-document.getElementById('statusFilter').addEventListener('change', render);
-document.getElementById('searchInput').addEventListener('input', render);
-document.getElementById('reloadBtn').addEventListener('click', loadData);
-document.getElementById('copyBtn').addEventListener('click', async ()=>{
-  updateUrl();
+function saveFavorites(){
+  safeWrite(STORAGE.favorites,[...favorites]);
+}
+
+function toggleFavorite(id,announce=true){
+  if(favorites.has(id)){
+    favorites.delete(id);
+    if(announce) showToast('Partido eliminado de favoritos');
+  }else{
+    favorites.add(id);
+    if(announce) showToast('Partido guardado en favoritos');
+  }
+  saveFavorites();
+  render();
+}
+
+function matchShareUrl(id){
+  const u = new URL(location.origin + location.pathname);
+  u.searchParams.set('match',id);
+  u.searchParams.set('mode','simple');
+  return u.toString();
+}
+
+async function copyText(text,successMessage){
   try{
-    await navigator.clipboard.writeText(location.href);
-    document.getElementById('copyBtn').textContent='Enlace copiado';
-    setTimeout(()=>document.getElementById('copyBtn').textContent='Copiar enlace',1500);
+    await navigator.clipboard.writeText(text);
+    showToast(successMessage);
   }catch{
-    prompt('Copia este enlace:',location.href);
+    prompt('Copia este enlace:',text);
+  }
+}
+
+function shareMatch(id){
+  copyText(matchShareUrl(id),'Enlace del partido copiado');
+}
+
+function showMatch(id){
+  focusMatchId = id;
+  document.getElementById('statusFilter').value = 'todos';
+  document.getElementById('matchStatusFilter').value = 'todos';
+  document.getElementById('quickFilter').value = 'todos';
+  document.getElementById('searchInput').value = '';
+  render();
+  if(window.innerWidth <= 780) tokolSetOpen(false);
+}
+
+function openMatchDetails(id){
+  setMode('advanced');
+  focusMatchId = id;
+  render();
+  requestAnimationFrame(()=>{
+    const card = document.getElementById(`match-${safeId(id)}`);
+    const details = card?.querySelector('details');
+    if(details) details.open = true;
+    card?.scrollIntoView({behavior:'smooth',block:'center'});
+  });
+}
+
+function probabilityExplanation(label,value){
+  if(!Number.isFinite(value)){
+    showToast(`Todavía no hay una probabilidad calculada para ${label}.`);
+    return;
+  }
+  const rounded = Math.round(value);
+  showToast(`${label}: ${value.toFixed(1)}%. Es una estimación equivalente a cerca de ${rounded} de cada 100 escenarios; no es una garantía.`);
+}
+
+document.getElementById('cards').addEventListener('click',event=>{
+  const probability = event.target.closest('.prob-item');
+  if(probability){
+    probabilityExplanation(
+      probability.dataset.probabilityLabel || 'Selección',
+      Number(probability.dataset.probability)
+    );
+    return;
+  }
+
+  const action = event.target.closest('[data-action]');
+  if(!action) return;
+  const id = action.dataset.id;
+  if(action.dataset.action === 'favorite') toggleFavorite(id);
+  if(action.dataset.action === 'share') shareMatch(id);
+  if(action.dataset.action === 'details') openMatchDetails(id);
+  if(action.dataset.action === 'ask-tokol'){
+    const match = (appData.matches || []).find(m=>m.id===id);
+    if(match){
+      tokolSetOpen(true);
+      tokolAsk(`Dame el análisis de ${match.teams[0]} contra ${match.teams[1]}`);
+    }
   }
 });
 
-restoreUrl();
-loadData();
-setInterval(loadData, (fallbackData.meta.refreshSeconds || 60) * 1000);
+['statusFilter','matchStatusFilter','quickFilter'].forEach(id=>{
+  document.getElementById(id).addEventListener('change',()=>{
+    focusMatchId = '';
+    render();
+  });
+});
+
+document.getElementById('searchInput').addEventListener('input',()=>{
+  focusMatchId = '';
+  render();
+});
+
+document.getElementById('simpleModeBtn').addEventListener('click',()=>setMode('simple'));
+document.getElementById('advancedModeBtn').addEventListener('click',()=>setMode('advanced'));
+document.getElementById('drawerSimpleMode').addEventListener('click',()=>setMode('simple'));
+document.getElementById('drawerAdvancedMode').addEventListener('click',()=>setMode('advanced'));
+document.getElementById('fontDownBtn').addEventListener('click',()=>setFontScale(fontScale-.08));
+document.getElementById('fontUpBtn').addEventListener('click',()=>setFontScale(fontScale+.08));
+document.getElementById('contrastBtn').addEventListener('click',()=>setContrast(!highContrast));
+document.getElementById('reloadBtn').addEventListener('click',async()=>{
+  const button = document.getElementById('reloadBtn');
+  button.classList.add('loading');
+  button.disabled = true;
+  showToast('Actualizando datos…');
+  try{
+    await loadData();
+    showToast('Datos recargados');
+  }finally{
+    button.classList.remove('loading');
+    button.disabled = false;
+  }
+});
+
+document.getElementById('copyBtn').addEventListener('click',()=>{
+  updateUrl();
+  copyText(location.href,'Enlace del radar copiado');
+});
+
+
+document.getElementById('menuToggle').addEventListener('click',()=>{
+  setDrawerOpen(!document.getElementById('mainDrawer').classList.contains('open'));
+});
+document.getElementById('drawerClose').addEventListener('click',()=>setDrawerOpen(false));
+document.getElementById('drawerOverlay').addEventListener('click',()=>setDrawerOpen(false));
+
+document.addEventListener('keydown',event=>{
+  if(event.key === 'Escape' && document.getElementById('mainDrawer').classList.contains('open')){
+    setDrawerOpen(false);
+  }
+});
+
+document.getElementById('profileEditBtn').addEventListener('click',()=>{
+  const editor = document.getElementById('profileEditor');
+  editor.hidden = !editor.hidden;
+  if(!editor.hidden) document.getElementById('profileNameInput').focus();
+});
+document.getElementById('profileSaveBtn').addEventListener('click',saveProfile);
+document.getElementById('profileNameInput').addEventListener('keydown',event=>{
+  if(event.key === 'Enter') saveProfile();
+});
+
+document.getElementById('drawerHome').addEventListener('click',()=>closeDrawerAnd(()=>{
+  window.scrollTo({top:0,behavior:'smooth'});
+}));
+document.getElementById('drawerMatches').addEventListener('click',()=>closeDrawerAnd(()=>{
+  document.getElementById('matchesSection').scrollIntoView({behavior:'smooth',block:'start'});
+}));
+document.getElementById('drawerFavorites').addEventListener('click',()=>closeDrawerAnd(()=>{
+  focusMatchId = '';
+  document.getElementById('quickFilter').value = 'favoritos';
+  render();
+  document.getElementById('matchesSection').scrollIntoView({behavior:'smooth',block:'start'});
+}));
+document.getElementById('drawerTokol').addEventListener('click',()=>closeDrawerAnd(()=>{
+  tokolSetOpen(true);
+}));
+
+document.getElementById('liveScorePrev').addEventListener('click',()=>changeLiveScore(-1));
+document.getElementById('liveScoreNext').addEventListener('click',()=>changeLiveScore(1));
+document.getElementById('liveScoreOpen').addEventListener('click',()=>{
+  if(liveScoreMatchId) showMatch(liveScoreMatchId);
+});
+document.getElementById('liveScoreDetails').addEventListener('click',()=>{
+  if(liveScoreMatchId) openMatchDetails(liveScoreMatchId);
+});
+
+document.getElementById('clearSharedBtn').addEventListener('click',()=>{
+  focusMatchId = '';
+  render();
+});
+
+function setMobileCurrent(activeId){
+  document.querySelectorAll('.mobile-nav button').forEach(btn=>{
+    if(btn.id === activeId) btn.setAttribute('aria-current','page');
+    else btn.removeAttribute('aria-current');
+  });
+}
+
+document.getElementById('navHome').addEventListener('click',()=>{
+  setMobileCurrent('navHome');
+  window.scrollTo({top:0,behavior:'smooth'});
+});
+
+document.getElementById('navMatches').addEventListener('click',()=>{
+  setMobileCurrent('navMatches');
+  document.getElementById('matchesSection').scrollIntoView({behavior:'smooth',block:'start'});
+});
+
+document.getElementById('navFavorites').addEventListener('click',()=>{
+  setMobileCurrent('navFavorites');
+  focusMatchId = '';
+  document.getElementById('quickFilter').value = 'favoritos';
+  render();
+  document.getElementById('matchesSection').scrollIntoView({behavior:'smooth',block:'start'});
+});
+
+document.getElementById('navTokol').addEventListener('click',()=>{
+  setMobileCurrent('navTokol');
+  tokolSetOpen(true);
+});
 
 function tokolNormalize(value=''){
-  return value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
+  return normalizeText(value);
+}
+
+function tokolFindMatch(question){
+  const q = tokolNormalize(question);
+  const matches = appData.matches || [];
+  return matches.find(m=>m.teams?.some(team=>q.includes(tokolNormalize(team))));
 }
 
 function tokolFormatMatch(m){
+  if(isFinal(m) && m.finalInfo){
+    return `${m.teams[0]} vs. ${m.teams[1]} — FINAL — ${m.finalInfo.summary}`;
+  }
   const homeProb = Number.isFinite(m.probability?.home) ? `${m.probability.home.toFixed(1)}%` : 'sin cálculo';
   const drawProb = Number.isFinite(m.probability?.draw) ? ` / empate ${m.probability.draw.toFixed(1)}%` : '';
   const awayProb = Number.isFinite(m.probability?.away) ? `${m.probability.away.toFixed(1)}%` : 'sin cálculo';
-  return `${m.teams[0]} vs. ${m.teams[1]} — ${fmtDate(m.kickoff)} — ${m.classification.toUpperCase()} — ${homeProb}${drawProb} / ${awayProb}`;
+  return `${m.teams[0]} vs. ${m.teams[1]} — ${fmtDate(m.kickoff)} — ${m.status || ''} — ${(m.classification || 'esperar').toUpperCase()} — ${homeProb}${drawProb} / ${awayProb}`;
 }
 
 function tokolReply(question){
   const q = tokolNormalize(question);
   const matches = appData.matches || [];
-  const byTeam = matches.find(m => m.teams.some(team => q.includes(tokolNormalize(team))));
+  const byTeam = tokolFindMatch(question);
 
-  if(!q) return 'Escribe una pregunta sobre un partido, una selección, cuotas, bajas o la actualización de los datos.';
+  if(!q) return {text:'Escribe una pregunta sobre un partido, cuotas, resultados, alineaciones o favoritos.'};
 
-  if(/hola|buenas|quien eres|qué eres|que eres/.test(q)){
-    return 'Soy Tokol. Leo los datos del radar, incluidas cuotas 1X2 y probabilidades sin margen cuando The Odds API las actualiza. Te ayudo a identificar riesgos; no puedo garantizar ganancias.';
+  if(/hola|buenas|quien eres|que eres/.test(q)){
+    return {text:'Soy Tokol. Leo los datos del radar y te ayudo a encontrar partidos, cambios, cuotas, resultados y riesgos. No garantizo ganancias.'};
   }
 
-  if(/actualiz|ultima vez|última vez|datos nuevos/.test(q)){
-    return `La última actualización registrada es ${fmtDate(appData.meta.lastUpdated)}.\n${appData.meta.sourceNote || ''}`;
+  if(/que cambio hoy|cambios de hoy|cambio hoy/.test(q)){
+    const changed = matches.filter(hasMarketMovement);
+    return {
+      text: changed.length
+        ? `Cambios registrados:\n${changed.map(m=>`${m.teams.join(' vs. ')}: ${m.marketChange}`).join('\n')}`
+        : 'No hay cambios de mercado claramente registrados en los datos actuales.'
+    };
   }
 
-  if(/proximo|próximo|siguiente|hora/.test(q) && !byTeam){
+  if(/mas riesgoso|riesgoso|peligroso/.test(q) && !byTeam){
+    const avoid = matches.filter(m=>m.classification==='evitar');
+    const candidates = avoid.length ? avoid : matches;
+    const risky = [...candidates].sort((a,b)=>{
+      const ac = Math.max(a.probability?.home || 0,a.probability?.away || 0);
+      const bc = Math.max(b.probability?.home || 0,b.probability?.away || 0);
+      return ac-bc;
+    })[0];
+    return risky
+      ? {text:`El partido con mayor señal de riesgo en los datos actuales es:\n${tokolFormatMatch(risky)}\nMotivo: ${mainReason(risky)}`,matchId:risky.id}
+      : {text:'No hay partidos suficientes para comparar el riesgo.'};
+  }
+
+  if(/alineacion|alineaciones|titulares/.test(q) && !byTeam){
+    const confirmed = matches.filter(lineupsConfirmed);
+    return {
+      text: confirmed.length
+        ? `Alineaciones confirmadas registradas:\n${confirmed.map(tokolFormatMatch).join('\n')}`
+        : 'Todavía no hay alineaciones claramente marcadas como confirmadas.'
+    };
+  }
+
+  if(/movimiento|cuotas mejoraron|cuota cambio|cuotas tuvieron/.test(q) && !byTeam){
+    const moved = matches.filter(hasMarketMovement);
+    return {
+      text: moved.length
+        ? `Partidos con movimiento registrado:\n${moved.map(m=>`${m.teams.join(' vs. ')} — ${m.marketChange}`).join('\n')}`
+        : 'No hay movimientos de cuota claramente registrados.'
+    };
+  }
+
+  if(/favorito|favoritos|guardados/.test(q) && !byTeam){
+    const saved = matches.filter(m=>favorites.has(m.id));
+    return {
+      text: saved.length
+        ? `Tus favoritos en este dispositivo:\n${saved.map(tokolFormatMatch).join('\n')}`
+        : 'Todavía no has guardado partidos como favoritos.'
+    };
+  }
+
+  if(/actualiz|ultima vez|datos nuevos/.test(q)){
+    return {text:`La última actualización registrada es ${fmtDate(appData.meta.lastUpdated)} (${relativeAge(appData.meta.lastUpdated)}).\n${appData.meta.sourceNote || ''}`};
+  }
+
+  if(/proximo|siguiente|hora/.test(q) && !byTeam){
     const upcoming = matches
-      .filter(m => new Date(m.kickoff) >= new Date() && tokolNormalize(m.status) !== 'final')
+      .filter(m=>new Date(m.kickoff)>=new Date() && !isFinal(m))
       .sort((a,b)=>new Date(a.kickoff)-new Date(b.kickoff))[0];
-    return upcoming ? `El próximo registrado es:\n${tokolFormatMatch(upcoming)}` : 'No hay un próximo partido registrado en los datos actuales.';
+    return upcoming
+      ? {text:`El próximo registrado es:\n${tokolFormatMatch(upcoming)}`,matchId:upcoming.id}
+      : {text:'No hay un próximo partido registrado.'};
   }
 
-  if(/considerar|mejor opcion|mejor opción/.test(q) && !byTeam){
-    const items = matches.filter(m => m.classification === 'considerar');
-    return items.length
-      ? `Partidos marcados como CONSIDERAR:\n${items.map(tokolFormatMatch).join('\n')}\n\n“Considerar” no significa apuesta segura.`
-      : 'Actualmente no hay partidos marcados como considerar.';
+  if(/resultado|resultados|final|finales|como quedaron|terminaron/.test(q) && !byTeam){
+    const finals = matches.filter(isFinal).sort((a,b)=>new Date(b.kickoff)-new Date(a.kickoff));
+    return {
+      text: finals.length
+        ? `Resultados finales registrados:\n${finals.map(tokolFormatMatch).join('\n')}`
+        : 'Todavía no hay partidos finalizados registrados.'
+    };
   }
 
-  if(/evitar|no apostar|peligroso/.test(q) && !byTeam){
-    const items = matches.filter(m => m.classification === 'evitar');
-    return items.length
-      ? `Partidos marcados como EVITAR:\n${items.map(tokolFormatMatch).join('\n')}`
-      : 'Actualmente no hay partidos marcados como evitar.';
+  if(/considerar|mejor opcion/.test(q) && !byTeam){
+    const items = matches.filter(m=>m.classification==='considerar');
+    return {
+      text: items.length
+        ? `Partidos marcados como CONSIDERAR:\n${items.map(tokolFormatMatch).join('\n')}\n\n“Considerar” no significa apuesta segura.`
+        : 'No hay partidos marcados como considerar.'
+    };
   }
 
-  if(/esperar|alineacion|alineación/.test(q) && !byTeam){
-    const items = matches.filter(m => m.classification === 'esperar');
-    return items.length
-      ? `Partidos marcados como ESPERAR:\n${items.map(tokolFormatMatch).join('\n')}`
-      : 'Actualmente no hay partidos marcados como esperar.';
+  if(/evitar|no apostar/.test(q) && !byTeam){
+    const items = matches.filter(m=>m.classification==='evitar');
+    return {
+      text: items.length
+        ? `Partidos marcados como EVITAR:\n${items.map(tokolFormatMatch).join('\n')}`
+        : 'No hay partidos marcados como evitar.'
+    };
   }
 
-  if(/parlay|parley|combinada/.test(q)){
-    return 'No recomendaría armar una combinada solo con la etiqueta del radar. Una sola selección puede perder todo el boleto. Primero confirma cuotas, alineaciones y probabilidad conjunta.';
+  if(/esperar/.test(q) && !byTeam){
+    const items = matches.filter(m=>m.classification==='esperar');
+    return {
+      text: items.length
+        ? `Partidos marcados como ESPERAR:\n${items.map(tokolFormatMatch).join('\n')}`
+        : 'No hay partidos marcados como esperar.'
+    };
   }
 
   if(byTeam){
     const odds = byTeam.odds?.length
-      ? byTeam.odds.map(o => `${o.book}: ${byTeam.teams[0]} ${o.home}${o.draw ? `, empate ${o.draw}` : ''}, ${byTeam.teams[1]} ${o.away}`).join('\n')
+      ? byTeam.odds.map(o=>`${o.book}: ${byTeam.teams[0]} ${o.home}${o.draw ? `, empate ${o.draw}` : ''}, ${byTeam.teams[1]} ${o.away}`).join('\n')
       : 'Sin cuotas registradas.';
     const injuries = byTeam.injuries?.length ? byTeam.injuries.join('\n') : 'Sin bajas registradas.';
-    return `${tokolFormatMatch(byTeam)}
-Estado: ${byTeam.status}${byTeam.score ? `, marcador ${byTeam.score}` : ''}
+    const finalText = byTeam.finalInfo
+      ? `\nResultado final: ${byTeam.finalInfo.summary}\nMétodo: ${byTeam.finalInfo.method || 'reglamentario'}${byTeam.finalInfo.penalties ? `\nPenales: ${byTeam.finalInfo.penalties}` : ''}`
+      : '';
+
+    return {
+      matchId:byTeam.id,
+      text:`${tokolFormatMatch(byTeam)}
+Estado: ${byTeam.status}${byTeam.score ? `, marcador ${byTeam.score}` : ''}${finalText}
 Mercado: ${byTeam.market || 'pendiente'}
 Cuotas:
 ${odds}
 Bajas:
 ${injuries}
 Alineaciones: ${byTeam.lineups || 'sin información'}
-Motivo principal para esperar o evitar: ${(byTeam.reasonsAgainst || ['sin análisis registrado'])[0]}`;
+Motivo principal: ${mainReason(byTeam)}`
+    };
   }
 
   if(/cuota|probabilidad|porcentaje/.test(q)){
-    const withProb = matches.filter(m => Number.isFinite(m.probability?.home));
-    return withProb.length
-      ? `Probabilidades registradas:\n${withProb.map(tokolFormatMatch).join('\n')}`
-      : 'Todavía no hay probabilidades registradas.';
+    const withProb = matches.filter(m=>Number.isFinite(m.probability?.home));
+    return {
+      text:withProb.length
+        ? `Probabilidades registradas:\n${withProb.map(tokolFormatMatch).join('\n')}`
+        : 'Todavía no hay probabilidades registradas.'
+    };
   }
 
-  return 'No encontré ese dato exacto. Prueba con el nombre de una selección, “considerar”, “evitar”, “próximo partido”, “cuotas” o “actualización”.';
+  return {text:'No encontré ese dato exacto. Prueba con el nombre de una selección, “resultados”, “favoritos”, “cambios de hoy”, “alineaciones” o “próximo partido”.'};
 }
 
-function tokolAddMessage(text, who='bot'){
+function tokolActions(matchId){
+  if(!matchId) return [];
+  return [
+    {type:'view',label:'Ver partido',matchId},
+    {type:'favorite',label:favorites.has(matchId) ? 'Quitar favorito' : '★ Favorito',matchId},
+    {type:'share',label:'Compartir',matchId}
+  ];
+}
+
+function saveChat(){
+  safeWrite(STORAGE.chat,chatHistory.slice(-60));
+}
+
+function tokolScrollToBottom(behavior='smooth'){
+  const box = document.getElementById('tokolMessages');
+  if(!box) return;
+  requestAnimationFrame(()=>{
+    requestAnimationFrame(()=>box.scrollTo({top:box.scrollHeight,behavior}));
+  });
+}
+
+function tokolCreateMessage(entry){
   const box = document.getElementById('tokolMessages');
   const msg = document.createElement('div');
-  msg.className = `tokol-msg ${who}`;
-  msg.textContent = text;
+  msg.className = `tokol-msg ${entry.who}`;
+  msg.textContent = entry.text;
   box.appendChild(msg);
-  box.scrollTop = box.scrollHeight;
+
+  if(entry.actions?.length){
+    const actions = document.createElement('div');
+    actions.className = 'tokol-action-row';
+    actions.innerHTML = entry.actions.map(action=>`
+      <button class="tokol-action" type="button"
+        data-tokol-action="${escapeHTML(action.type)}"
+        data-id="${escapeHTML(action.matchId)}">${escapeHTML(action.label)}</button>
+    `).join('');
+    box.appendChild(actions);
+  }
+}
+
+function tokolAddMessage(text,who='bot',actions=[]){
+  const entry = {text,who,actions};
+  chatHistory.push(entry);
+  tokolCreateMessage(entry);
+  saveChat();
+  tokolScrollToBottom('smooth');
+}
+
+function renderChatHistory(){
+  const box = document.getElementById('tokolMessages');
+  box.innerHTML = '';
+  chatHistory.forEach(tokolCreateMessage);
+  tokolScrollToBottom('auto');
+}
+
+function tokolGreeting(){
+  return 'Hola, soy Tokol. Puedo explicarte cambios de hoy, partidos riesgosos, alineaciones, resultados, cuotas y favoritos.';
+}
+
+function startNewChat(){
+  chatHistory = [];
+  document.getElementById('tokolMessages').innerHTML = '';
+  tokolAddMessage(tokolGreeting(),'bot');
 }
 
 function tokolAsk(question){
   if(!question.trim()) return;
-  tokolAddMessage(question, 'user');
-  const answer = tokolReply(question);
-  setTimeout(()=>tokolAddMessage(answer, 'bot'), 120);
+  tokolAddMessage(question,'user');
+  const reply = tokolReply(question);
+  setTimeout(()=>tokolAddMessage(reply.text,'bot',tokolActions(reply.matchId)),120);
 }
 
 const tokolPanel = document.getElementById('tokolPanel');
 const tokolLauncher = document.getElementById('tokolLauncher');
+
 function tokolSetOpen(open){
-  tokolPanel.classList.toggle('open', open);
-  tokolLauncher.setAttribute('aria-expanded', String(open));
-  if(open) document.getElementById('tokolInput').focus();
+  tokolPanel.classList.toggle('open',open);
+  tokolLauncher.setAttribute('aria-expanded',String(open));
+  if(open){
+    document.getElementById('tokolInput').focus();
+    tokolScrollToBottom('auto');
+  }
 }
-tokolLauncher.addEventListener('click', ()=>tokolSetOpen(!tokolPanel.classList.contains('open')));
-document.getElementById('tokolClose').addEventListener('click', ()=>tokolSetOpen(false));
-document.getElementById('tokolForm').addEventListener('submit', e=>{
-  e.preventDefault();
+
+tokolLauncher.addEventListener('click',()=>tokolSetOpen(!tokolPanel.classList.contains('open')));
+document.getElementById('tokolClose').addEventListener('click',()=>tokolSetOpen(false));
+document.getElementById('tokolNewChat').addEventListener('click',startNewChat);
+document.getElementById('tokolClearChat').addEventListener('click',()=>{
+  if(confirm('¿Borrar el historial guardado de Tokol en este dispositivo?')){
+    chatHistory = [];
+    saveChat();
+    document.getElementById('tokolMessages').innerHTML = '';
+    showToast('Historial de Tokol borrado');
+  }
+});
+
+document.getElementById('tokolScrollUp').addEventListener('click',()=>{
+  const box = document.getElementById('tokolMessages');
+  box.scrollBy({top:-Math.max(180,box.clientHeight*.75),behavior:'smooth'});
+});
+
+document.getElementById('tokolScrollDown').addEventListener('click',()=>tokolScrollToBottom('smooth'));
+
+document.getElementById('tokolForm').addEventListener('submit',event=>{
+  event.preventDefault();
   const input = document.getElementById('tokolInput');
   tokolAsk(input.value);
-  input.value='';
+  input.value = '';
 });
-document.querySelectorAll('.tokol-chip').forEach(btn=>{
-  btn.addEventListener('click', ()=>tokolAsk(btn.dataset.question || btn.textContent));
+
+document.getElementById('tokolMessages').addEventListener('click',event=>{
+  const button = event.target.closest('[data-tokol-action]');
+  if(!button) return;
+  const id = button.dataset.id;
+  if(button.dataset.tokolAction === 'view') showMatch(id);
+  if(button.dataset.tokolAction === 'favorite') toggleFavorite(id);
+  if(button.dataset.tokolAction === 'share') shareMatch(id);
 });
-tokolAddMessage('Hola, soy Tokol. Puedo resumirte partidos, cuotas 1X2, probabilidades sin margen, horarios, bajas y riesgos usando los datos de esta página.');
+
+const tokolQuickActions = document.getElementById('tokolQuickActions');
+let tokolQuickDragging = false;
+let tokolQuickMoved = false;
+let tokolQuickStartX = 0;
+let tokolQuickStartScroll = 0;
+
+tokolQuickActions.addEventListener('pointerdown',event=>{
+  if(event.pointerType !== 'mouse') return;
+  tokolQuickDragging = true;
+  tokolQuickMoved = false;
+  tokolQuickStartX = event.clientX;
+  tokolQuickStartScroll = tokolQuickActions.scrollLeft;
+  tokolQuickActions.classList.add('dragging');
+  tokolQuickActions.setPointerCapture(event.pointerId);
+});
+
+tokolQuickActions.addEventListener('pointermove',event=>{
+  if(!tokolQuickDragging || event.pointerType !== 'mouse') return;
+  const distance = event.clientX-tokolQuickStartX;
+  if(Math.abs(distance)>4) tokolQuickMoved = true;
+  tokolQuickActions.scrollLeft = tokolQuickStartScroll-distance;
+  if(tokolQuickMoved) event.preventDefault();
+});
+
+function tokolStopQuickDrag(event){
+  if(!tokolQuickDragging) return;
+  tokolQuickDragging = false;
+  tokolQuickActions.classList.remove('dragging');
+  if(event?.pointerId !== undefined && tokolQuickActions.hasPointerCapture(event.pointerId)){
+    tokolQuickActions.releasePointerCapture(event.pointerId);
+  }
+}
+
+tokolQuickActions.addEventListener('pointerup',tokolStopQuickDrag);
+tokolQuickActions.addEventListener('pointercancel',tokolStopQuickDrag);
+tokolQuickActions.addEventListener('lostpointercapture',()=>tokolStopQuickDrag());
+
+tokolQuickActions.addEventListener('click',event=>{
+  if(tokolQuickMoved){
+    event.preventDefault();
+    event.stopPropagation();
+    tokolQuickMoved = false;
+  }
+},true);
+
+tokolQuickActions.addEventListener('wheel',event=>{
+  if(Math.abs(event.deltaY)>Math.abs(event.deltaX)){
+    tokolQuickActions.scrollLeft += event.deltaY;
+    event.preventDefault();
+  }
+},{passive:false});
+
+tokolQuickActions.addEventListener('keydown',event=>{
+  if(event.key === 'ArrowRight'){
+    tokolQuickActions.scrollBy({left:160,behavior:'smooth'});
+    event.preventDefault();
+  }else if(event.key === 'ArrowLeft'){
+    tokolQuickActions.scrollBy({left:-160,behavior:'smooth'});
+    event.preventDefault();
+  }else if(event.key === 'Home'){
+    tokolQuickActions.scrollTo({left:0,behavior:'smooth'});
+    event.preventDefault();
+  }else if(event.key === 'End'){
+    tokolQuickActions.scrollTo({left:tokolQuickActions.scrollWidth,behavior:'smooth'});
+    event.preventDefault();
+  }
+});
+
+document.querySelectorAll('.tokol-chip').forEach(button=>{
+  button.addEventListener('click',()=>tokolAsk(button.dataset.question || button.textContent));
+});
+
+restoreUrl();
+setMode(viewMode,false);
+setFontScale(fontScale,false);
+setContrast(highContrast,false);
+renderProfile();
+
+if(Array.isArray(chatHistory) && chatHistory.length){
+  renderChatHistory();
+}else{
+  startNewChat();
+}
+
+loadData();
+setInterval(loadData,(fallbackData.meta.refreshSeconds || 60)*1000);
 
 </script>
 </body>
