@@ -1,0 +1,42 @@
+name: Actualizar contexto de internet
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17,47 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tokol-data-update
+  cancel-in-progress: false
+
+jobs:
+  update-context:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar contexto público en internet
+        run: python scripts/update_context.py
+
+      - name: Guardar contexto
+        run: |
+          if git diff --quiet -- context.json; then
+            echo "No hubo cambios en context.json"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add context.json
+          git commit -m "Actualizar contexto de internet"
+          git push
