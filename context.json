@@ -1,11 +1,2476 @@
 {
   "meta": {
-    "updatedAt": null,
-    "source": "GDELT DOC 2.0",
-    "articleCount": 0,
-    "queryCount": 0,
-    "warning": "Ejecuta el workflow Actualizar contexto de internet para cargar noticias."
+    "updatedAt": "2026-07-01T01:59:17.421765Z",
+    "source": "Google News RSS",
+    "articleCount": 60,
+    "queryCount": 1,
+    "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
-  "articles": [],
-  "matches": {}
+  "articles": [
+    {
+      "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+      "domain": "www.tvazteca.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Watch Mexico vs Ecuador - tod.tv",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0NabHNhbFY3azRDdVUxM2FuUnk3eGRqclV5RWxmOTladzR6M3V1Q0pRVDlMaFJ4cVExUTctRFJ2Nm1fNEgwejFPbjJ6bXFuTDAtS0lyNHFicmE0Z3FKQjl5ZVhMa2ZoOGV0Uy14b05iYm1jV3RCYjlXWmtsMTlZbGttUHVLNXZqY0QxeFZfNlNlakdy?oc=5",
+      "domain": "www.tod.tv",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 01:16:55 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
+      "domain": "www.telemundo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 00:35:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿Cómo ver el partido México vs Ecuador en TV y Streaming? - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUpXYjRsVmJPX2tYQV9zMC1RNjRRT2FPWmMxRGFrdm5URVRhUzVlRWQ3RGhObGMyc2tEZVdFWjJBVnYxSVB6Ylg4eE1BZzJSRnJCX0JjYXlldzJfcmdBT09NMURYdFdZb1hZU29EN1M0Z2JESGFaaUFwSjRXSUJyV3d2T19TVE1EREpjbEppcmFtakFuYXBTbFlraWl3QQ?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Pocos conocen a Alfie Haaland, el papá del androide noruego y su reacción al triunfo vs Costa de Marfil fue C - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaW5JLWZXRFVsdV9uQ2c5OWRWa2xjZ1lPcGE0UWd1SXo3MXJ0SmlrZTVFRnlNcDMzTkpkUUVhSkZOYWFoSUdXaThWM3pJRUxMWlYzY24wRUlvQ3NFVEEyekpidEx3RzVsOERoR1gtWFJ6bFRERVllLVhyT0hnY182aDlacU9zMzFVdXp0aVZPUHI4eEdpM2YySldqaHk3ak4teENXdW1pUWFhVDVqMk9Eb1BnaUVydWV3VGltc19VRUsyZ9IBzwFBVV95cUxQajdPajFxNzJEUzhGRm5BNXVhcUxmT2MzM2FYbTZYWlRhLUZuV1hqWVJxWDFCUDdnSkdScWtvbmRtdm5OY2lfMGY1am9QWHlDcVhrOC1vN01KMTlLak12R21fRFVtRUM4b1BHNzRXdTkxem14ZWd6SGR2OFJ5SnBUNDdDRld3R0F4QlBrN3d3RGw1NC1XbnU1M1NHczZNUko0aHRuRTAtYVZsRkJQa3IzdjRQLWdIRk9PZHl1bU1tYktVNkZGODhQTVREMW1yS1E?oc=5",
+      "domain": "www.tvazteca.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 22:23:12 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ivory Coast"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "México quiere repetir la historia: 33 años después vuelve a enfrentar a Ecuador en un duelo de eliminación directa - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM3h1MVByQ2syQ3RyUkJXeHpTelBfaGM4dGxWM2Q4Q1Btc3VmQl9CNFFPNkNFakFmTmFWNnpRTkFZRmRMSHh6eGdrTDRtcVV4TklwX1hRSWtRMExJUUlzWUxxVFdmZW52ZFpFWllTdlVhZHl3bzZzOUVESVFXRWVGNTF3TmtkemdXQmJmd1JqT3RheHZ0Zk5TLVdwQzNlX0FreGUtMTVDN2JXSXJyWW5PV01nM1VIa3NlUVI3M3d6WUwtMHpZYzBhUVRZYmJZVHFaXzBqTDlHa0NlTW95OEtRSXNWRFF4Nk1uTGtxNm1yYzFIX19fUjg1RtIBkwJBVV95cUxPbGlxV1JzelFaQlFwVFg3VnlVdjE5d0RTRHV4VENpeUFldnVEbEpiTm4ycnFiTWVqQlhBeG9kM212WFdVV0tLNC01U1lBcmlRVjlxS2tKSEp0dC12d1VhNmhVTDZpQ3p5Z19vV0J5RGZuVTVNOTFKaHpGTG5GZEZraFQ5VFpjTTl6Y2RBNHdNRk1UVF8yS1NEa0VVTS0yc3kwcTRzVlR5MGlmWGtSWUE3RUMxQ1ZoY2RsY0Vtd2doOHpaQXFSLTRHcnR2SUp0WVQtNERxbXpObTdNNUN0a0RvaDZuYUVTRUZXcFJnamJMTDFSYVVGVmtEeF95dHpibzE2dDdqaDliSEN3Ul90T3NYTDd4NA?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 22:22:57 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Las estadísticas lo dicen todo... ¿Quién lanza los penaltis para Inglaterra? - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVN0Vzc5MGNaWFlia2dwRjJsdnVsd3hCbmItdDN0R2p4OU1IMGdUSUE4RGdrZjdaREVzMHZ5QXREMTBGc2s3YzIwSkdzOFlIWDZnWUd3WjdYd25lSktGLVZOOFU4STdNOVZVWXdtVzc0QnRZaC1iYkZ4bW5lbWZHVGx0M2l6aThjRzh3OEpXazFyLWVmZ0FVV3JMRHhZMXg4MGdGclRSaVB3MllKTzI3d3hiU2dUM1AwQTRFYmIwQlp4MWd4Nnc?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 22:06:11 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "La NASA hace una promesa «extraterrestre» si Estados Unidos hace realidad el sueño del Mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTUxybGQ4aUJyNnRUV2ZmQkVhU2REZnIyNnYtNXlLRWkxRERWUXZaZTVDVnJmc3FVLVo3R21tdExZMGlqQ3MzQkdKWlpTZk9aaUdzdkF4STk5VlQxMlpybVp5dnpOLUlXMnY3d0RlODVHbVctV2I1b2VPYm9hWGJRM21scEF3UUpfUV9sX29wOVhMaUt0VXlGeGsxelZ1Z2pKckFUWDBOVlpYZ0NLNklLLW5od2NRemNJNnBBV1JUdGNXNXUxSWlwOEhXTTgtNTM2TGMteUhYbGVCYTR2eEV5VVln?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 21:31:21 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "A la velocidad del rayo, Haaland bate récords con Costa de Marfil - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzdrZHRFWWN5NEdfalV2aWFoUXo5cVhZUzJNZVkzTEFJOWFnRHEyb2M2R0FmeDJHWm54MzlVNHJaRklxM2RjVTA2MWhLcDU0WmxleS1EQmVlczVST08wV05JLUNyVXluTzItZ0hLU0pDZjM5WnpxNWdPTnh3b29QZjdNeDFyeTQyQ01sNW5lVzQ4emF6NFIzZURqWFRLZHpxeTZsLWNkd1dPcmROcWFpY01rQk44TlJNUVZVRA?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 20:51:12 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ivory Coast"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "World Cup: Ajer and Norway beat Ivory Coast to set up Brazil clash - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUxDREQyRnBXR1I1Q20ybjdUNmFtR25FMFVGbjhpdTB2cVpfXzBSMGNKdTVka20zYkJwTC03akcwTjliaFpoSGtRN1ktTlN4SFFkT3dsdlNLWDExbkNFd0NIUVBCODlJbUdobDdoaDd5WDV6Y09hRWFlbERvUl9IemtzSlIzaTZJU3ZlUXotN2puVEc3SGlTRWlUYkhILU0tYmc4LUtjTkpEVTZPQjZF?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 20:44:40 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ivory Coast",
+        "Norway"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "Sweden"
+      ],
+      "tags": [
+        "alineación"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [
+        "lesión o baja"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Obed Vargas tira del máximo optimismo por México en esta Copa del Mundo - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDh0dkM1SDJ3NGsxRE9WejFYTm9wTldXLUMwRE5qVm01czVBX0NaUjFWZnpaRGhQRWFPdXlyc3gtTUZTSG83M3JyRS1Xbi15Sk1sQmNPcmVXOUJ3UXN4cmltdWNqZng4dXUxcVEyaXhWX3N6LUlGVDJ5S05ueUJlT3ZTbjlJSm90UU9EU3lwVmotQ2ozLThjUEpJVWhPR1UxU0l3R3lR?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 19:11:17 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 18:49:07 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Las estrellas de Inglaterra están «dispuestas a ir a la guerra» por Thomas Tuchel, y Jordan Pickford destaca la «unión» del equipo de cara al Mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPYkZNU0doQXVpcTFVeXRXd2VrbW9WQl9UNWlqckVGWS1TdEpLSGpXZFRUME9LbFNpeVhBS2FERFNfZFNGZU1INlhJbmVwVUJMbnFnZU5IdzB4RmMxRVdEZDAwb2pIUWlQVW9lOTR3alBhdWtkWVVuXzRxV25OYXpWc3FQMFNVYjl6RXdCaUZtOEtwZWlSV3A2OFgyOTZmTzl4WjdCWDJqRzBOenJZQ3VzbUllTzNBSzIwZFNSQk83TG1GUmdaT3lDcTdIZkl1bUlSM1J6ckh6bjhCU0R1N0RLa01yX1B5VzV2VGJXV2xVbGI5WWF6VXc4UFJLN3ktQTJtMmdGX2RLMDNkV2kyQ0JTQ2F2czlxUkE3YTNyNThyS0kzN01UdmM0?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 16:33:33 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿A que hora juega México hoy en la Copa Mundial vs Ecuador? - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0t2d1pvb2xaWHlIUjJySHljNkhuQ2g1U2N6UXEwRWgzSnpOZUlvWE1uQmEwQnZmc2pxdVNQR2tKNnljYmo4dXgxMnhqR1hMRlJJMDd1UWpQM0owaXhwU1lPc0lmeWM4THFuZVktSE52cTY0MFVYNW9naFNHbWl5WExCUUZHTDZqX1MwQ2c0bm5VcjlPQUFN?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 16:15:01 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿Cómo ver el partido Costa de Marfil vs Noruega en TV y streaming? - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWVRTmpmMDZmZ2liYXVqRDNDZVlGV2ZLZ0VFRzNOR0pZSVlKMEVSR1lyN2lpeDVoTmMzOHFpRUhxU2NuZ3MzUnBteW9rTnJYWWQ3X3F6RURqX3VzU1dTVy1TOTloWURtaXZ0YkQ4SURmMTdBOEV0cVpoUlFTbEQ5U1V5TWI0Z2dqMlpVYzV4ZDN2TDZFTmF5XzB5WWpYazV0ZEZBSF9YU09qUQ?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 16:00:03 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ivory Coast"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ecuador"
+      ],
+      "tags": [
+        "previa"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Contra quién jugaría México en 8vos del Mundial 2026: Con qué grupo se cruza y su camino de Octavos de Final en adelante - olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOWxEZ3Z3bDdLa1NhMG9UYmdfeXB1UElZajF2ci01b0NZdjRIUU5Ld1V2eWlEZzZGUnNPbnZsTXZOeFVNcXI5NW5NdVJfSVJUR21QTnE3V3lybmYwczF5cUQ1djN2UmhVanExYmoxMXJZME1DXzVkc0pWZXVYeWs?oc=5",
+      "domain": "www.olympics.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 15:16:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¡Arma el plan! Lugares para ver gratis los juegos de México durante el Mundial en CdMx - Milenio",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZm45OVM3SHUtNkJzZy0tZlZEVkpiYXhDZnc2VEwtbjVzVVRCR20wbjU5eEJuZGtUTGpaTXYzU0lld2F6NVJJUDg2QkozejdwZDg5UDM3VEdneExtUU5kQkxwdk5OSWFFd2p1YTE1eERlY3cyOENzbFltaklZX1plSFQxU3VlUkY4cFROcVRrUkVRb3VpbU84VFk1d9IBmwFBVV95cUxQYkNXU2NIUUcwbXZhTWl4VXBMdVZ5cVFXNUpJYUQtUkNYTlBMQ2cxaHNzMEhkaTVjMnp0Q2lHeHIwYlBkVEdIeWpEQV9neUNTcWZPcUdKRlFTRWJwMFpmdGFVbmZ3Sk04NjhVZFl1ZkRhWDN0cXJYQmlvTXJzdjFFam1qOFphQ1Bjc09sZ0N1a2xVWWdTbVhlZGxvRQ?oc=5",
+      "domain": "www.milenio.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 14:24:34 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    }
+  ],
+  "matches": {
+    "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "World Cup: Ajer and Norway beat Ivory Coast to set up Brazil clash - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUxDREQyRnBXR1I1Q20ybjdUNmFtR25FMFVGbjhpdTB2cVpfXzBSMGNKdTVka20zYkJwTC03akcwTjliaFpoSGtRN1ktTlN4SFFkT3dsdlNLWDExbkNFd0NIUVBCODlJbUdobDdoaDd5WDV6Y09hRWFlbERvUl9IemtzSlIzaTZJU3ZlUXotN2puVEc3SGlTRWlUYkhILU0tYmc4LUtjTkpEVTZPQjZF?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:44:40 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Noruega vs Costa de Marfil: previa, predicciones y alineaciones - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVd0M283YWxRaUZZbzMyN0UxVUY2LTVDdnVBWjRKaWQ5M0pHTzRubGxQNEpPMlQ1UGpXQ2hEa3VQUlhsMmxKVUVJR0NjU21Jd2VyTC1LRkp6SFBkd0Q4Ullkc1V0bE9WbWxkSVNvdFItbGppRTNLalRqMzFGWnNxeU1DZENONHF1RnhYTWtRcjJ3WGlWX0pfdFhVcmk1MVIzb0NkcjZR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 09:03:50 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast"
+        ],
+        "tags": [
+          "alineación",
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Pocos conocen a Alfie Haaland, el papá del androide noruego y su reacción al triunfo vs Costa de Marfil fue C - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaW5JLWZXRFVsdV9uQ2c5OWRWa2xjZ1lPcGE0UWd1SXo3MXJ0SmlrZTVFRnlNcDMzTkpkUUVhSkZOYWFoSUdXaThWM3pJRUxMWlYzY24wRUlvQ3NFVEEyekpidEx3RzVsOERoR1gtWFJ6bFRERVllLVhyT0hnY182aDlacU9zMzFVdXp0aVZPUHI4eEdpM2YySldqaHk3ak4teENXdW1pUWFhVDVqMk9Eb1BnaUVydWV3VGltc19VRUsyZ9IBzwFBVV95cUxQajdPajFxNzJEUzhGRm5BNXVhcUxmT2MzM2FYbTZYWlRhLUZuV1hqWVJxWDFCUDdnSkdScWtvbmRtdm5OY2lfMGY1am9QWHlDcVhrOC1vN01KMTlLak12R21fRFVtRUM4b1BHNzRXdTkxem14ZWd6SGR2OFJ5SnBUNDdDRld3R0F4QlBrN3d3RGw1NC1XbnU1M1NHczZNUko0aHRuRTAtYVZsRkJQa3IzdjRQLWdIRk9PZHl1bU1tYktVNkZGODhQTVREMW1yS1E?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 22:23:12 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "A la velocidad del rayo, Haaland bate récords con Costa de Marfil - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzdrZHRFWWN5NEdfalV2aWFoUXo5cVhZUzJNZVkzTEFJOWFnRHEyb2M2R0FmeDJHWm54MzlVNHJaRklxM2RjVTA2MWhLcDU0WmxleS1EQmVlczVST08wV05JLUNyVXluTzItZ0hLU0pDZjM5WnpxNWdPTnh3b29QZjdNeDFyeTQyQ01sNW5lVzQ4emF6NFIzZURqWFRLZHpxeTZsLWNkd1dPcmROcWFpY01rQk44TlJNUVZVRA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:51:12 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cómo ver el partido Costa de Marfil vs Noruega en TV y streaming? - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWVRTmpmMDZmZ2liYXVqRDNDZVlGV2ZLZ0VFRzNOR0pZSVlKMEVSR1lyN2lpeDVoTmMzOHFpRUhxU2NuZ3MzUnBteW9rTnJYWWQ3X3F6RURqX3VzU1dTVy1TOTloWURtaXZ0YkQ4SURmMTdBOEV0cVpoUlFTbEQ5U1V5TWI0Z2dqMlpVYzV4ZDN2TDZFTmF5XzB5WWpYazV0ZEZBSF9YU09qUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 16:00:03 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿A qué hora se juega el Costa de Marfil - Noruega? TV, horario, dónde y cómo ver online el partido - Diario AS",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWFLRlRTNFBvQmRFbnl2SHpCU01NRW5jT19tSWxYU1RSYWpfQnRoMnhuSERvcVhlRUhSUGhWU2Ffd0preG9nY2gzSUZzanNOMHlqVUtUZXNub2ZpNTNlU0NMWmJSM3c4clpHTUhMY2JfclJZaU01TFVuajI3UGdsazktQndYd2w4bGhmTzFuaXhHRkQxZW94dXJoZnpWTHRycndabm1qWVdkNWN1Wm9wY09ObmFMMl91SDBrS1hKLXVYYkc5R2xVbms1ekVId9IB4gFBVV95cUxNdVBscjZvMXF4QlZPVEIyMEhNZ1dWMXQ3TTN0QVlwV21PZ0Y4OUhBM1ZhWVFYejR4LVljN2Y1MklUVXhlOC1wRFkwTnhKNnoyVDdqV3hlZWtWbHJYZzYyUUhnQ1laYjlVR2JldWJLRXV0cVBVdG9ER3VTcVI3NHB6UkFwYkRUUDZCZkQyUnNBaXBmaGJ2T2ttZFlaZmNJckVBXzh6RXJTYklVbGpSSzB0Vzl4c1BCUXo1Q05DR2xqVWJudmhRYTFWbkIxWFlhMXFRMW5GX21pMjN3eFItcXAwdDdB?oc=5",
+        "domain": "as.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:52:23 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "f58c55a9da96af562c31b7c5cca40187": [
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿A que hora juega México hoy en la Copa Mundial vs Ecuador? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0t2d1pvb2xaWHlIUjJySHljNkhuQ2g1U2N6UXEwRWgzSnpOZUlvWE1uQmEwQnZmc2pxdVNQR2tKNnljYmo4dXgxMnhqR1hMRlJJMDd1UWpQM0owaXhwU1lPc0lmeWM4THFuZVktSE52cTY0MFVYNW9naFNHbWl5WExCUUZHTDZqX1MwQ2c0bm5VcjlPQUFN?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 16:15:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México vs Ecuador: estos son los antecedentes enfrentando a seleccionados de Conmebol en Mundiales - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmQ5OE1CeE04eEhXdDZjcUJacGI1NUFNcnZqZmVIZmNFQy1aNm9RWV9UTHp0WXo2OEM1ckxNeXJhWGw4YzdOc3F2MW1Id21qUUk0V2hQQ0ZlRGQzcHBXNFlvYkdBMzVOMTFFVlJWSTVPRklEd1pOZ2NJOHlkMlZmZ2pvWWV2NFR6Q3Jadm5jQktkdDRI0gGiAUFVX3lxTE5NblBIV1FHR2xMdnlUZUMxa3JWVGo4N3Rpb0VqLUdNTzBqcXVrMEhrMmxUOEo0UnkydFh5dUZMLTZpZVlVRFRXM3hzMG9MWEpfOWVpZGE5WEFCN1hDVGEtRFdWdzlUUk1UN0wxZEhnX214Y251YjZ1VFIxY3lPdzNfV1kwT09RVDBwUzNfZkNrRlBlWjJvVTJScklGZWRsd2Q3QQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 28 Jun 2026 00:48:17 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - Récord",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ2JoVHRhdlo4eXE1bW1sOFl2eUI3TngyRjFHYWUxNmFTRGtZSFNEYWFqdU82d3otMGIya3MyWjhXRnVraVJHTVR5ZEY4Qk5WR3J3anhya2VhQnV1YThIaS1zblZFYy1SektaT3NWZ3ZnanAzYVBDdHFmckZzUkNlWFJuaEJNQlJsZDl1WmRUNnp3MktvZ0EySkQ3RGdDNTRTa25rMU1vaERhVjdOZG01d2FyWGR3eVF1M2pKY2dXd0NSTFlWZlp0ZkhUbWVsNXBEYUUwd01peV81eXlxU184RDRBX1BSdGEtOG9xbWZSWDZ3N002c2JId2tSZEM1cmRaZnUxQkFmVWE?oc=5",
+        "domain": "www.record.com.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 29 Jun 2026 21:36:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Watch Mexico vs Ecuador - tod.tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0NabHNhbFY3azRDdVUxM2FuUnk3eGRqclV5RWxmOTladzR6M3V1Q0pRVDlMaFJ4cVExUTctRFJ2Nm1fNEgwejFPbjJ6bXFuTDAtS0lyNHFicmE0Z3FKQjl5ZVhMa2ZoOGV0Uy14b05iYm1jV3RCYjlXWmtsMTlZbGttUHVLNXZqY0QxeFZfNlNlakdy?oc=5",
+        "domain": "www.tod.tv",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:16:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "5ff7744314f224c18d1604ee9cc19263": [
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Las estrellas de Inglaterra están «dispuestas a ir a la guerra» por Thomas Tuchel, y Jordan Pickford destaca la «unión» del equipo de cara al Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPYkZNU0doQXVpcTFVeXRXd2VrbW9WQl9UNWlqckVGWS1TdEpLSGpXZFRUME9LbFNpeVhBS2FERFNfZFNGZU1INlhJbmVwVUJMbnFnZU5IdzB4RmMxRVdEZDAwb2pIUWlQVW9lOTR3alBhdWtkWVVuXzRxV25OYXpWc3FQMFNVYjl6RXdCaUZtOEtwZWlSV3A2OFgyOTZmTzl4WjdCWDJqRzBOenJZQ3VzbUllTzNBSzIwZFNSQk83TG1GUmdaT3lDcTdIZkl1bUlSM1J6ckh6bjhCU0R1N0RLa01yX1B5VzV2VGJXV2xVbGI5WWF6VXc4UFJLN3ktQTJtMmdGX2RLMDNkV2kyQ0JTQ2F2czlxUkE3YTNyNThyS0kzN01UdmM0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 16:33:33 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Panamá cierra su participación mundialista frente a Inglaterra - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHpscHJhQU81YU5Md0xMcS05QjVTV0x1cVZ4Q1N6QmJCX2pBaklfcWxKdF9IcWVfVl9DaHg4S1ZrQUJuT0tkbVVtaUUwakdVa0ltUk1pbnlwYmJGc1E0MWdhMHFDWWFmdE9tdFdvUmZZWXdHbExacFdjZktSU3NWV2hvcTVVeENmTEE0Q29yZXZIY1g5SUtPRDVzd01RZEJyYzlmcTRMUkxMNjU5c3RVT0k0N0xtY3pJQzc0?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 26 Jun 2026 17:52:04 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El pronóstico de la Inteligencia Artificial para el partido entre Inglaterra y Congo - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGtfdjRmbmhuRFUxOUNkRDVrNW5reGdBZnQyMEVDMWpSWjR4YkN2eVMwbkVUOGlRR3Z6X000cnJPV0ZsUjFtaXFYcTNPV2tjLWlqTVdVTW1UaGNQYWUxVVRTQWV5c2lnTlJ4SXBJaTRzUUx4elgzSU5OVS1uREhRaWpaUU8tMW5uMEJvRVNmYzBXLVhSX0JtaDRn?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 08:06:03 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Las estadísticas lo dicen todo... ¿Quién lanza los penaltis para Inglaterra? - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVN0Vzc5MGNaWFlia2dwRjJsdnVsd3hCbmItdDN0R2p4OU1IMGdUSUE4RGdrZjdaREVzMHZ5QXREMTBGc2s3YzIwSkdzOFlIWDZnWUd3WjdYd25lSktGLVZOOFU4STdNOVZVWXdtVzc0QnRZaC1iYkZ4bW5lbWZHVGx0M2l6aThjRzh3OEpXazFyLWVmZ0FVV3JMRHhZMXg4MGdGclRSaVB3MllKTzI3d3hiU2dUM1AwQTRFYmIwQlp4MWd4Nnc?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 22:06:11 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "9eeb4876001f5a52ce3c3641bd5f1f2f": [
+      {
+        "title": "La NASA hace una promesa «extraterrestre» si Estados Unidos hace realidad el sueño del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTUxybGQ4aUJyNnRUV2ZmQkVhU2REZnIyNnYtNXlLRWkxRERWUXZaZTVDVnJmc3FVLVo3R21tdExZMGlqQ3MzQkdKWlpTZk9aaUdzdkF4STk5VlQxMlpybVp5dnpOLUlXMnY3d0RlODVHbVctV2I1b2VPYm9hWGJRM21scEF3UUpfUV9sX29wOVhMaUt0VXlGeGsxelZ1Z2pKckFUWDBOVlpYZ0NLNklLLW5od2NRemNJNnBBV1JUdGNXNXUxSWlwOEhXTTgtNTM2TGMteUhYbGVCYTR2eEV5VVln?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 21:31:21 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup Schedule: When Does Team USA Play? Full List of Games - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0eHFGWEROc3k3ekZJcXhMY2YzdWlYVDY2RGpXd0J3SkZZeXlGSWJxOEowYjhROW1LdElOUnNoX3BwSjZ0cUl0Z3lReVVINVM1WDNkeWNB?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 28 Jun 2026 16:04:52 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "USA: Hilton workers protest outside Seattle Stadium before World Cup kick-off for increased wages & migrant protections; incl. co. comment - Business and Human Rights Centre",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSlNZb1RPa2hZbnlNU0h3Vk9jMV9SeEs5Y1F4cFhrU0hDbURXQzdFQTVBeHRHa0t3RVRjVG91RzBEZDV3bUxEM19ERk90OUlIaVlZYjJKbVdFcjJ5eGNxV2V5aG9qUGM5OUw3WWEtc0lmd1kycTRLRjRscmxCZ3lud0pQSC1PZzcwcVZzNFoya0xKNThtZmJLOFl4YTJienUyZzdDdFdUbnpJNmFfZHQxRVk1QUJ2VUxyQXBjdE1JX0NNZVRiajk1UlNHQlBWVm1jWVFmRmJR?oc=5",
+        "domain": "www.business-humanrights.org",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 29 Jun 2026 09:52:14 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 18:49:07 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Estados Unidos cierra la fase de grupos frente a Turquía - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUptMWxpMkw2X1VTN3dMSjJYZmVfOVhWa1VKSk5hc1B5d3A5YlpIRlpYNjVNb3FPWlpRTUlySHlVN0xlR0FSVllmRHZ6VlB6NzNNWFhFc3B0Y1c0RmZLNUJ1bURUOG1iVVVUVkdOZ0c2dWI4LV9NT25ocVhVMmxKdk5HRTBGVHFSRGxfMjFjajc5TWFpLTkxRTVXMWR5M1UyZUNXQ05na0VEaXlXZUtpUlNyZw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 25 Jun 2026 00:30:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "a518ac20df8f5c732b881e213ae0c230": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "852b4baf0be4b9eef2a30596a8d39249": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "c17fe2e46190d7ab6af01504ff240e82": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "fb270a3dac2b682c861bd674a5ff4a04": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "88e032a2b2e5042d26db3f0da1df924a": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "9c7073ae2c29ee4881bb695f92168c68": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "537c0997cd899394f47f16545b7068b2": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "4be17c8e1ccfecb0f2a5ef79e045c415": [
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Las estrellas de Inglaterra están «dispuestas a ir a la guerra» por Thomas Tuchel, y Jordan Pickford destaca la «unión» del equipo de cara al Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPYkZNU0doQXVpcTFVeXRXd2VrbW9WQl9UNWlqckVGWS1TdEpLSGpXZFRUME9LbFNpeVhBS2FERFNfZFNGZU1INlhJbmVwVUJMbnFnZU5IdzB4RmMxRVdEZDAwb2pIUWlQVW9lOTR3alBhdWtkWVVuXzRxV25OYXpWc3FQMFNVYjl6RXdCaUZtOEtwZWlSV3A2OFgyOTZmTzl4WjdCWDJqRzBOenJZQ3VzbUllTzNBSzIwZFNSQk83TG1GUmdaT3lDcTdIZkl1bUlSM1J6ckh6bjhCU0R1N0RLa01yX1B5VzV2VGJXV2xVbGI5WWF6VXc4UFJLN3ktQTJtMmdGX2RLMDNkV2kyQ0JTQ2F2czlxUkE3YTNyNThyS0kzN01UdmM0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 16:33:33 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Panamá cierra su participación mundialista frente a Inglaterra - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHpscHJhQU81YU5Md0xMcS05QjVTV0x1cVZ4Q1N6QmJCX2pBaklfcWxKdF9IcWVfVl9DaHg4S1ZrQUJuT0tkbVVtaUUwakdVa0ltUk1pbnlwYmJGc1E0MWdhMHFDWWFmdE9tdFdvUmZZWXdHbExacFdjZktSU3NWV2hvcTVVeENmTEE0Q29yZXZIY1g5SUtPRDVzd01RZEJyYzlmcTRMUkxMNjU5c3RVT0k0N0xtY3pJQzc0?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 26 Jun 2026 17:52:04 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El pronóstico de la Inteligencia Artificial para el partido entre Inglaterra y Congo - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGtfdjRmbmhuRFUxOUNkRDVrNW5reGdBZnQyMEVDMWpSWjR4YkN2eVMwbkVUOGlRR3Z6X000cnJPV0ZsUjFtaXFYcTNPV2tjLWlqTVdVTW1UaGNQYWUxVVRTQWV5c2lnTlJ4SXBJaTRzUUx4elgzSU5OVS1uREhRaWpaUU8tMW5uMEJvRVNmYzBXLVhSX0JtaDRn?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 08:06:03 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Las estadísticas lo dicen todo... ¿Quién lanza los penaltis para Inglaterra? - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVN0Vzc5MGNaWFlia2dwRjJsdnVsd3hCbmItdDN0R2p4OU1IMGdUSUE4RGdrZjdaREVzMHZ5QXREMTBGc2s3YzIwSkdzOFlIWDZnWUd3WjdYd25lSktGLVZOOFU4STdNOVZVWXdtVzc0QnRZaC1iYkZ4bW5lbWZHVGx0M2l6aThjRzh3OEpXazFyLWVmZ0FVV3JMRHhZMXg4MGdGclRSaVB3MllKTzI3d3hiU2dUM1AwQTRFYmIwQlp4MWd4Nnc?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 22:06:11 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "67ae5751c401a98409b8566ae4897069": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "13eab94a136b9c264ba974cf437a5f71": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "8756200e539155e571557c4f2e0d7f05": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "54697f453437ab26276d773be1d72e9b": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "def55b09ef3d6854e3c01e74b5c63415": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "4f3d72fba877939d36a5315618184093": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "4930db8e83436874d09e59bd0e29c1a5": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "5a34afe2de99513ba48360b983cfe80c": [
+      {
+        "title": "2026 World Cup: France vs Sweden – Official Lineups: Milan duo Rabiot & Maignan face Karlstrom - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDNHZkhoTVBxR1g2LXZUdk0zZ0lPU3lmc1loUHNaMXdmVWNKS3hYeEZwM1VxQlptSjRTNzlaY0NBS2RmVW5BMUVHYkxqNXFRSHJPdTdJbU53TmJqaEVuQWhXVDhkVmN0Ry10OTNPMDNOUS1XcUFqeVpkOE9Lb3dzNGc2LW5kRkliV1JTUGhybURPR0Q1TzhsQW5fckVLU2psVXZHdEVram5JOWxZUVVXeEIzUnNHREUyOEtIaUJEektibGh3OTBaMlhsbHVyUQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:22:41 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Declan Rice actualiza sobre su lesión antes del Inglaterra-República Democrática del Congo en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZE5yUHRUTWViTGkwQWtKaHJobVJwVHRSQVEzVElWNHB5bC0yR190V09nSEtGVzJ2VDhfZDBYYnFDOFFMWlBqVHFfWmZkUmpoWU5BM1VHdEZUTU01azBpQ1VPM3lXTFZMQ2psTmNkQXdIa1Rsdy16UmdIX3JCTDMwaFUwcS00b1hLM0JRa2RDck85TDdPNktfZ0tPZk1HM0Rra2xhUjVSM3VwMDRsbnpwQ2Q3cXNUUnNuRlBpaXpyMWw4dDF0ZW5COFd0ZWo3Ymh6RmpMVDM0RnFHOE93aHZldkFqQVFMbnlmLTNVd05xallCdjJz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 19:55:53 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Armando González reconoce la jerarquía de Ecuador en la previa del cruce de dieciseisavos del Mundial - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGxjbERHcHMteW1aVmx2WS1RcU9fM3l0UHJOVjh1QUx0Y2JZVVZzTTdjb256bDBFYVpEYmlELXpncEVOM1ZHZHVOX0dzSjFCZUV6aTlRemsxVDNiLV9CbXN1TkdXLTQwVDlDUG5oMHJmeHNIaF9KWXdOSDZmalRQek1DQVVvS2tDTHlwTFM0WGJ6a0pBeXJHdUxxaXY3UjBUclJWRW1iN3p6OHRydnBuT1RGV2dXRjl1RkIxREtBWUVKVWZfbm9vdTlHaUVpUQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 15:35:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México-Ecuador en vivo: Resultado, alineaciones y estadísticas en los dieciseisavos del Mundial de Fútbol 2026 - olympics.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXN6QzU0T2NwSWhydUdFQk4wRU1DbkR2N3lWVDUyM3RYQmxBZVVqZGs4Ry1WUWJnbG8xV2ZsTkM3MjZ6R0VHRnVfMGNmRjgzb0J3U3NFZUhCSlhmc3l4dW90aExhRHZRXzlQOUloVlJrREQxc19KOVlhTjdvZ2xiMlRlRHRRNzFmVXN0YWItU21qVFhkaHNyYjRkZzg4R2JPZWtMSFlQT0c3NlgzSGtnbWhzM3Zidw?oc=5",
+        "domain": "www.olympics.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 11:49:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Lenny Joseph anota el primer gol de Haiti's en la Copa del Mundo 🇭🇹 - Concacaf",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUN0NV9FOG1vZkhPNDdVakdmalRDa1dnbl9sMFdHNnAxekEyNU05dXJhcm5YWGd1bEo2RGhEZ3Z1MU5OOFc4NmdCQWx5V1RPLVNsZ1hWRVZGbXZ6T3hYVndJQ2F2TWlOWmVwRWJicjFuQVd6ZmNsRnJKMmlkNEVpQVk3NFFSYm9WWWY3SXpEQ21PeldoT1Vic2c2V1ZKU3JxTS0zMEs4ZjFnRWk1cFhQZ25fODVIUHN3WDN2NWxNUng?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 23:00:36 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La HORA EXACTA para ver el México vs Ecuador, partido de 16avos de final del Mundial 2026 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJJaGluRUp5b19nTWJ2QlRycDkzVkFfTGwyZzV0YkRraUg1ck9tUW5Pc183UWYzNkxfYkN4b2JCLTlOcXJ1cXhQeDBkeERKQVd1M1VkdVN0MThHQ2Q3d2FBWWNicVhPUXZHU3NWRVo1NmdvRW8tcW5qOFk4bFR0NDdLT2JUTDJRTEFfWHRqbWZFTTlOcHBpM08xeWY2a3ZEdEI1dGlueXNFR2pGQnQ2c29TVTB6Z3BaZm5F0gHIAUFVX3lxTE1mcFRuVm00U24xMHZ4NnpDdFBZUFVXUTNCTXB4Y0w5VWZmbFZQZzJIUnhZZUFEbTRkN2laemFuamwyd3V3a09HQzgxcmRjdjVaVGF1dFRpZTJvZExoR09IN05reDh2Y0ptY2dmN09kZWZwd084Vlh4dW52dXdjR1p2OGIyR2JkX003czRFVmVsWjUwemFGdUN1WDZqcjUyZDJpeVBMTW44QTdsaXE0TmRNSm9DY2pwYVEtQlZPWE1RTmJhRG1tVWIy?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 01:18:10 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ]
+  }
 }
