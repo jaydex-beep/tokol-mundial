@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Genera context.json con noticias públicas relacionadas con los partidos de data.json.
+"""Actualiza context.json con contexto público de internet.
 
-Fuente de descubrimiento: GDELT DOC 2.0.
-No descarga ni copia el cuerpo completo de los artículos. Solo conserva metadatos,
-títulos y enlaces para que el usuario abra la fuente original.
+Estrategia:
+1. Hace una sola consulta a GDELT para reducir errores HTTP 429.
+2. Si GDELT limita la consulta, intenta una fuente RSS pública.
+3. No descarga ni copia artículos completos: guarda título, enlace y metadatos.
+4. Si ninguna fuente responde, conserva context.json y termina sin error.
 """
 
 from __future__ import annotations
@@ -16,15 +18,20 @@ import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
 DATA_PATH = Path("data.json")
 CONTEXT_PATH = Path("context.json")
-API_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
-MAX_ARTICLES = 80
-BATCH_SIZE = 8
+
+GDELT_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
+GOOGLE_RSS_URL = "https://news.google.com/rss/search"
+
+MAX_ARTICLES = 60
+MAX_TEAMS_IN_QUERY = 12
+REQUEST_TIMEOUT = 40
 
 ALIASES: dict[str, list[str]] = {
     "usa": ["united states", "usmnt", "estados unidos"],
@@ -34,7 +41,7 @@ ALIASES: dict[str, list[str]] = {
     "dr congo": ["democratic republic of congo", "congo dr", "rd congo"],
     "ivory coast": ["cote d ivoire", "costa de marfil"],
     "cape verde": ["cabo verde"],
-    "mexico": ["mexico", "méxico"],
+    "mexico": ["méxico"],
     "brazil": ["brasil"],
     "japan": ["japon", "japón"],
     "spain": ["espana", "españa"],
@@ -45,21 +52,26 @@ ALIASES: dict[str, list[str]] = {
     "morocco": ["marruecos"],
     "algeria": ["argelia"],
     "egypt": ["egipto"],
-    "australia": ["australia"],
     "canada": ["canadá"],
-    "portugal": ["portugal"],
-    "colombia": ["colombia"],
-    "argentina": ["argentina"],
-    "austria": ["austria"],
-    "senegal": ["senegal"],
-    "ghana": ["ghana"],
 }
 
 TAG_RULES: dict[str, tuple[str, ...]] = {
-    "lesión o baja": ("injury", "injured", "lesion", "lesión", "lesionado", "baja", "hamstring", "ankle", "knee"),
-    "alineación": ("lineup", "line-up", "starting xi", "team news", "alineacion", "alineación", "titulares", "once inicial"),
-    "sanción": ("suspended", "suspension", "ban", "sancion", "sanción", "suspendido"),
-    "previa": ("preview", "prediction", "predictions", "previa", "pronostico", "pronóstico"),
+    "lesión o baja": (
+        "injury", "injured", "lesion", "lesión", "lesionado",
+        "baja", "hamstring", "ankle", "knee",
+    ),
+    "alineación": (
+        "lineup", "line-up", "starting xi", "team news",
+        "alineacion", "alineación", "titulares", "once inicial",
+    ),
+    "sanción": (
+        "suspended", "suspension", "ban",
+        "sancion", "sanción", "suspendido",
+    ),
+    "previa": (
+        "preview", "prediction", "predictions",
+        "previa", "pronostico", "pronóstico",
+    ),
 }
 
 
@@ -83,45 +95,88 @@ def load_json(path: Path, fallback: Any) -> Any:
 
 
 def save_json(path: Path, value: Any) -> None:
-    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    path.write_text(
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
 
-def unique_teams(matches: list[dict[str, Any]]) -> list[str]:
+def parse_iso(value: str | None) -> datetime:
+    try:
+        return datetime.fromisoformat((value or "").replace("Z", "+00:00"))
+    except ValueError:
+        return datetime.max.replace(tzinfo=timezone.utc)
+
+
+def priority_matches(matches: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    rank = {"En vivo": 0, "Próximo": 1, "Final": 2}
+    return sorted(
+        matches,
+        key=lambda match: (
+            rank.get(str(match.get("status")), 3),
+            parse_iso(str(match.get("kickoff") or "")),
+        ),
+    )
+
+
+def selected_teams(matches: list[dict[str, Any]]) -> list[str]:
     seen: set[str] = set()
     teams: list[str] = []
-    for match in matches:
+
+    for match in priority_matches(matches):
         for team in match.get("teams") or []:
             name = str(team).strip()
             key = normalize(name)
             if name and key not in seen:
                 seen.add(key)
                 teams.append(name)
+                if len(teams) >= MAX_TEAMS_IN_QUERY:
+                    return teams
     return teams
 
 
 def team_aliases(team: str) -> list[str]:
-    key = normalize(team)
-    values = [team]
-    values.extend(ALIASES.get(key, []))
-    dedup: list[str] = []
+    values = [team, *ALIASES.get(normalize(team), [])]
+    output: list[str] = []
     seen: set[str] = set()
+
     for value in values:
-        normalized = normalize(value)
-        if normalized and normalized not in seen:
-            seen.add(normalized)
-            dedup.append(value)
-    return dedup
+        key = normalize(value)
+        if key and key not in seen:
+            seen.add(key)
+            output.append(value)
+
+    return output
 
 
 def build_query(teams: list[str]) -> str:
-    phrases: list[str] = []
-    for team in teams:
-        phrases.append(f'"{team.replace(chr(34), "")}"')
-    team_block = " OR ".join(phrases)
-    return f"({team_block}) (football OR soccer OR futbol OR FIFA OR mundial)"
+    team_terms = " OR ".join(
+        f'"{team.replace(chr(34), "")}"'
+        for team in teams
+    )
+    tournament_terms = (
+        '"FIFA World Cup" OR "World Cup 2026" OR '
+        '"Copa del Mundo 2026" OR "Mundial 2026"'
+    )
+
+    if team_terms:
+        return f"({team_terms}) ({tournament_terms})"
+    return f"({tournament_terms})"
 
 
-def request_articles(query: str) -> list[dict[str, Any]]:
+def request(url: str) -> bytes:
+    req = urllib.request.Request(
+        url,
+        headers={
+            "Accept": "application/json, application/rss+xml, application/xml, text/xml",
+            "User-Agent": "Mozilla/5.0 TokolContext/2.0",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response:
+        return response.read()
+
+
+def request_gdelt(query: str) -> list[dict[str, Any]]:
     params = {
         "query": query,
         "mode": "artlist",
@@ -130,50 +185,97 @@ def request_articles(query: str) -> list[dict[str, Any]]:
         "sort": "datedesc",
         "format": "json",
     }
-    url = f"{API_URL}?{urllib.parse.urlencode(params)}"
-    request = urllib.request.Request(
-        url,
-        headers={"Accept": "application/json", "User-Agent": "tokol-context-updater/1.0"},
-    )
-    with urllib.request.urlopen(request, timeout=45) as response:
-        raw = response.read().decode("utf-8-sig", errors="replace")
-    payload = json.loads(raw)
-    rows = payload.get("articles") if isinstance(payload, dict) else []
-    return rows if isinstance(rows, list) else []
+    url = f"{GDELT_URL}?{urllib.parse.urlencode(params)}"
+
+    for attempt in range(2):
+        try:
+            raw = request(url).decode("utf-8-sig", errors="replace")
+            payload = json.loads(raw)
+            rows = payload.get("articles") if isinstance(payload, dict) else []
+            return rows if isinstance(rows, list) else []
+        except urllib.error.HTTPError as error:
+            if error.code != 429 or attempt == 1:
+                raise
+            retry_after = error.headers.get("Retry-After")
+            wait_seconds = int(retry_after) if retry_after and retry_after.isdigit() else 20
+            print(f"GDELT limitó la consulta. Reintento en {wait_seconds} segundos.")
+            time.sleep(wait_seconds)
+
+    return []
+
+
+def request_google_rss(query: str) -> list[dict[str, Any]]:
+    params = {
+        "q": query,
+        "hl": "es-419",
+        "gl": "MX",
+        "ceid": "MX:es-419",
+    }
+    url = f"{GOOGLE_RSS_URL}?{urllib.parse.urlencode(params)}"
+    raw = request(url)
+    root = ET.fromstring(raw)
+
+    rows: list[dict[str, Any]] = []
+    for item in root.findall("./channel/item")[:MAX_ARTICLES]:
+        source = item.find("source")
+        rows.append({
+            "title": item.findtext("title") or "",
+            "url": item.findtext("link") or "",
+            "domain": (source.get("url") if source is not None else "") or "",
+            "language": "Spanish",
+            "sourcecountry": "",
+            "seendate": item.findtext("pubDate") or "",
+            "socialimage": "",
+        })
+    return rows
 
 
 def article_tags(title: str) -> list[str]:
     text = normalize(title)
     tags: list[str] = []
+
     for tag, keywords in TAG_RULES.items():
         if any(normalize(keyword) in text for keyword in keywords):
             tags.append(tag)
+
     return tags
 
 
-def clean_article(row: dict[str, Any], teams: list[str]) -> dict[str, Any] | None:
+def clean_article(
+    row: dict[str, Any],
+    teams: list[str],
+    source_name: str,
+) -> dict[str, Any] | None:
     url = str(row.get("url") or "").strip()
     title = str(row.get("title") or "").strip()
+
     if not url.startswith(("http://", "https://")) or not title:
         return None
 
     title_norm = normalize(title)
     matched: list[str] = []
+
     for team in teams:
-        aliases = team_aliases(team)
-        if any(normalize(alias) in title_norm for alias in aliases):
+        if any(normalize(alias) in title_norm for alias in team_aliases(team)):
             matched.append(team)
+
+    domain = str(row.get("domain") or "").strip()
+    if domain.startswith(("http://", "https://")):
+        domain = urllib.parse.urlparse(domain).netloc
+    if not domain:
+        domain = urllib.parse.urlparse(url).netloc
 
     return {
         "title": title[:300],
         "url": url,
-        "domain": str(row.get("domain") or urllib.parse.urlparse(url).netloc).lower(),
+        "domain": domain.lower(),
         "language": str(row.get("language") or ""),
         "sourceCountry": str(row.get("sourcecountry") or ""),
         "seenDate": str(row.get("seendate") or ""),
         "image": str(row.get("socialimage") or ""),
         "matchedTeams": matched,
         "tags": article_tags(title),
+        "discoveredBy": source_name,
     }
 
 
@@ -181,65 +283,90 @@ def article_score(article: dict[str, Any], home: str, away: str) -> int:
     matched = {normalize(team) for team in article.get("matchedTeams") or []}
     home_match = normalize(home) in matched
     away_match = normalize(away) in matched
+
     score = 0
     if home_match and away_match:
         score += 12
     elif home_match or away_match:
         score += 6
+
     title = normalize(str(article.get("title") or ""))
-    if any(term in title for term in ("world cup", "copa del mundo", "mundial", "fifa")):
+    if any(term in title for term in (
+        "world cup", "copa del mundo", "mundial", "fifa",
+    )):
         score += 2
     if article.get("tags"):
         score += 1
+
     return score
 
 
 def main() -> int:
     data = load_json(DATA_PATH, {"matches": []})
     matches = data.get("matches") or []
+
     if not matches:
         print("data.json no contiene partidos.", file=sys.stderr)
         return 2
 
-    teams = unique_teams(matches)
-    queries: list[str] = [
-        '("FIFA World Cup" OR "World Cup 2026" OR "Copa del Mundo 2026" OR "Mundial 2026")'
-    ]
-    for index in range(0, len(teams), BATCH_SIZE):
-        queries.append(build_query(teams[index:index + BATCH_SIZE]))
+    teams = selected_teams(matches)
+    query = build_query(teams)
 
     raw_articles: list[dict[str, Any]] = []
-    failures: list[str] = []
-    for query in queries:
-        try:
-            raw_articles.extend(request_articles(query))
-        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as error:
-            failures.append(str(error))
-        time.sleep(1.2)
+    source_name = ""
+    warnings: list[str] = []
+
+    try:
+        raw_articles = request_gdelt(query)
+        source_name = "GDELT"
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as error:
+        warnings.append(f"GDELT: {error}")
 
     if not raw_articles:
-        print("No se pudo obtener contexto web; context.json no se modificó.", file=sys.stderr)
-        for failure in failures:
-            print(f"- {failure}", file=sys.stderr)
-        return 3
+        try:
+            raw_articles = request_google_rss(query)
+            source_name = "Google News RSS"
+        except (
+            urllib.error.URLError,
+            urllib.error.HTTPError,
+            TimeoutError,
+            ET.ParseError,
+        ) as error:
+            warnings.append(f"Google News RSS: {error}")
+
+    if not raw_articles:
+        print(
+            "Ninguna fuente respondió. Se conserva context.json sin cambios.",
+            file=sys.stderr,
+        )
+        for warning in warnings:
+            print(f"- {warning}", file=sys.stderr)
+        return 0
 
     cleaned: list[dict[str, Any]] = []
     seen_urls: set[str] = set()
+
     for row in raw_articles:
-        article = clean_article(row, teams)
+        article = clean_article(row, teams, source_name)
         if not article or article["url"] in seen_urls:
             continue
         seen_urls.add(article["url"])
         cleaned.append(article)
 
-    cleaned.sort(key=lambda article: str(article.get("seenDate") or ""), reverse=True)
+    cleaned.sort(
+        key=lambda article: str(article.get("seenDate") or ""),
+        reverse=True,
+    )
 
     match_context: dict[str, list[dict[str, Any]]] = {}
+
     for match in matches:
         match_id = str(match.get("id") or "")
         pair = match.get("teams") or []
+
         if not match_id or len(pair) < 2:
             continue
+
         home, away = str(pair[0]), str(pair[1])
         scored = [
             (article_score(article, home, away), article)
@@ -255,28 +382,41 @@ def main() -> int:
         )
         match_context[match_id] = selected[:6]
 
-    global_articles = [article for article in cleaned if article.get("matchedTeams")][:20]
+    global_articles = [
+        article for article in cleaned
+        if article.get("matchedTeams")
+    ][:20]
+
     if len(global_articles) < 8:
         global_articles = cleaned[:20]
 
     output = {
         "meta": {
             "updatedAt": now_iso(),
-            "source": "GDELT DOC 2.0",
+            "source": source_name,
             "articleCount": len(cleaned),
-            "queryCount": len(queries),
-            "warning": "Las noticias son menciones públicas localizadas en internet. No confirman por sí solas rumores, lesiones o alineaciones.",
+            "queryCount": 1,
+            "warning": (
+                "Las noticias son menciones públicas encontradas en internet. "
+                "No confirman por sí solas rumores, lesiones o alineaciones."
+            ),
         },
         "articles": global_articles,
         "matches": match_context,
     }
+
     save_json(CONTEXT_PATH, output)
+
     print(
-        f"Contexto web actualizado: {len(cleaned)} artículos únicos; "
-        f"{len(match_context)} partidos relacionados; consultas: {len(queries)}."
+        f"Contexto actualizado con {source_name}: "
+        f"{len(cleaned)} artículos únicos; "
+        f"{len(match_context)} partidos relacionados; "
+        "consultas principales: 1."
     )
-    if failures:
-        print(f"Consultas con advertencia: {len(failures)}")
+
+    for warning in warnings:
+        print(f"Advertencia: {warning}")
+
     return 0
 
 
