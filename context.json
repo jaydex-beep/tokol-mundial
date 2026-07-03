@@ -1,12 +1,41 @@
 {
   "meta": {
-    "updatedAt": "2026-07-03T10:18:23.856328Z",
+    "updatedAt": "2026-07-03T17:05:12.170708Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
+    {
+      "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¡México marcó el ritmo! 🇲🇽 - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhPaUVNSUl2bTFTNzRwb3R1Qk5SbFBxajdXYVRUWHBXRG83RnZiWkstcnNVMG8wSWpIT1lKMjVBdzZDSmFCQjhTczVLTGtfRkx1RTMtb052ZktXaGVOMXdTSjNhLXhDcnFNUHRRa1QtQ1RXbjZaU0RDUURXWHd5U0tFRHlTX3c?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 22:26:51 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
     {
       "title": "Apareció con una enorme bolsa de hielo... Declan Rice aclara su postura respecto al partido contra México - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWlFManhJRHBocktSVmhpbEJ1XzBMbzBGRHo0MHBTbjZiak9mOHIyZUx6TVp0VlJlNi12SXZDZVUxRW41WHVfYXJFbDdjSGxTU201QThmcWw5NkhZbjZ3dTJRLWhQUDdwdnNYeHJFeEdNVS1xREx1MlRrNS1heHZDUVNsdWF4SGJnRldsSVZlc21SZXVURERrajQyak5IeHg0TGthYjE3MzBuYnJwXzAtSmxnWUxNa1FYZlBBdlZVdWNBOXRMSHl2XzB2YmlvMEJzWm1sOUdoRE9uTE9ya3Y1ZDJrOFlWUnNveGI0RmhkVQ?oc=5",
@@ -22,31 +51,16 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-      "domain": "www.infobae.com",
+      "title": "Inglaterra 2-1 R. D. del Congo: Cipenda abrió el marcador, luego Kane marcó un doblete. Tuchel avanza a octavos. Próximo rival: México - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRGd4OWZDQktJRzhwVjJMSmx2LUl0NFNyUllkTGEwaGpwZVVlOVBYMWhiT2lsenlaaWh2dUw4NERJaWpjOXo0QlVuNkV5SjEySkI2OXgzRllxM09wd2NoYkpoTWNFTXA5X3QwWVlmX2JoZ0dmZ3F3T2gwQlNyb0trWjZockdTTVBlek1uWXByVjB1X0ViU0FzanlhU0Y5RHNqUktyMjNrTTU2U3c4YUlGbmkyck4wY1VnVXZSd2FMSWFWT3FGYnBVMG4wbWRDc1dsZlpsbWRvdmV5b21iS3ppRWZHUG0xMVVLMDZnSUhxN1poR2FBdDg4RFBCQ2xoU1RyNFdPWDdxTEZvbnRiRzEwZw?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
+      "seenDate": "Wed, 01 Jul 2026 18:46:39 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico",
         "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "¿Cómo ver el partido Bélgica vs Senegal en TV y streaming? - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV25vck45UEQxODJhQV9wdjdMbm95QmZDU0V1akE5OUJOekp2ZW1vQjZBMjZaNks5b2FwS1dfUU96VE9NSTNMUkhEa1BObDdQLXpHTG9TdU1LT3dmeGlXUl8wbGFmbHJHMl9ZemIxYTZ2VDlsdzVwenZTcENvV2E2MFJ6elVvdU9xa0w4VmNVNFk3YW1KWUMtV2tnaGkyZw?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 19:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium",
-        "Senegal"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -110,20 +124,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcktsT1BCYzVqaXJnaVlJN0dLMkVDR29ST1lDRGtsaEJ6dnZQVy1adFJ6enpuRDdpbmxFYTFEZlEtZjVZczQ0VkFoMWV6NHhjV1dxRDkxU09GSnJPZmF3NUhtVjdYVEMyTUtkWWZESzI5SFpXSUt2UjdaaHAxUHdWdXlGWjdiZXhVVnFJcWY4SHFvYlREdTV3LUxZQTAtRV9Ddk91TXU1bGVwd0k?oc=5",
       "domain": "es.concacaf.com",
@@ -134,20 +134,6 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-      "domain": "wradio.com.mx",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -181,20 +167,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "México termina invicto en el Grupo A con victoria sobre Chequia - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjdkVGpESEhHZ0JzZk5hWXpqRkZYd2hOVUVNbXJTYS15OXNZN2Z5YlBYcUJHaktRMm9kRFpVUHpzVk5DOXpUcmJYOWV5dzBwUjE4OFZNbC1Obmp5cjExSk9nYzRRMGF6ZEpUMEdJekladTdzMGxPaU12a0dBbW9Jb0FYUEt1ME9uTGozS2htRFlsc3YtdnZnOHVSUllwQVlnelpnTjFEQnBETUdET1dIRXZkMTlteHEwQk0yag?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 25 Jun 2026 04:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
       "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
       "domain": "it.people.com.cn",
@@ -205,36 +177,6 @@
       "matchedTeams": [
         "Mexico",
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "CMLL adelanta función de Domingo Familiar en Arena México por el México vs Inglaterra del Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZGk2SUprd2d4bDZCS0hqeWZYNldRX0tUaXI4aEdocEYtNzViZF9SOVRxQTNhVkRKUWEzZ2ZBczB0VkZOQms0XzVBR0hmbUZpX0o4Wnh2NHNhamxKdEpndTN3ZUlRMTRvQi1pNDJZTVl2LWRVN2p4Zm5jZXhMZTVXYm5fanZPWG5BWFRyZjZpZHk4T1ljZWlKVFlYS29tbXZhT19RM0s4R21odGVYbjRBZ29JWDZ1eTBEeWRCZUwzN0EtcnMyYWRkczVNdmtSQzdnQkNCcmhmcE9fTWN1R0ZnOVUtR0I1a1Jlc1E?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 18:49:58 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Ver Côte d'Ivoire vs. Senegal Online en Directo | DAZN MX - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzV2NHpQQXR5cF9FT1FNWWJkcFMwQ3pNVk9nUjU0VXB1XzExUUVuOGdPTHlOY3g2dV9DMTZHOWJ4MUxHdU1yNU8wQ0VQVUo5OFl4R0Z0a1VjeU5LOUJhRU1XOVFQZ05hN1RwNFlsSzFGZkxsZGU1V214dHc1c0cyenlUSWxZVWhpcEhn?oc=5",
-      "domain": "www.dazn.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 18:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Ivory Coast",
-        "Senegal"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -284,16 +226,72 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Cuáles son los operativos de la CDMX que se implementaron durante el partido México-Ecuador en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjQ1OGplYl90NERPLXdNLVJPYl82cW90b3RqeXZHZnR1YXVkNkxncGlSdXNGYUlkZkRLQUZseTdmeGdSS09wc3lndEFCNTRfOF9Uc3FTekVLVXRrODFSSzlwVlNCN3BKYjBkOXI4X1Y2clRWVTdlMm1maUhVQXBlSkRwNWtvcjVuMXRrRm00R3dfRmtfYjlTNERNcUVTSm55WGZ4Q090amRUNHdjdTNv0gHKAUFVX3lxTE14TEJFdXhZa1gyRTYyVmN3ZEljVmpRYVlhNlMyM2pXcUpNbGtYUnQxN1dreFNfTWJGQnFpOW5wU2pPb0NYNVBoZ2wtSEVyMU1MaWlMZWZ0MzNiU1RnWmhybElPaHhVbTJTTG9Cc2ZZWkVKb1d2M09KMmgwaDJuZk84TjUwem1uS2FIRjZmUHp6WExpcEl6X3dwd2h2Sll1R0tXVGt2OF9MOUwxLUI3Ni0zS082VGpleExhVV9mdEU3VzNYTVMyUktsMUE?oc=5",
-      "domain": "www.infobae.com",
+      "title": "«Como si fuéramos demonios...». El jugador senegalés lanza un mensaje contundente tras la eliminación del Mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUmNnS0o4ODBBYl8tZUJZR3hLdlFYR3N6dTR2ZVZIN0xBSzdnNFJfaGJkYWJET2lYYjR0ZHg3Zkh6blBOQ2ltVDVLRG9hU2ZnaTBkcXN6NnNoWkY3U0FVeUI1TmNGVlU4N3ROUE94S0g5UlVaQmFPcWcyR3RCUmVQRXotT1Q4cmxUNFR6X0F4aHVqRGkyRjlJMEkxQjNHWWxLSGRXR3hJWDRwbVNjVXg5T3VjOS1KUVlUMERLOG15dzFDRkMwMVZ4U3dBYVp4dkdCRnF5ZXJzby1PZlhjbExwMTNfNk1ZMW1SWjVDZ2ZGd1A4YUFiNHc?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 16:11:00 GMT",
+      "seenDate": "Thu, 02 Jul 2026 13:01:03 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Senegal"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Thierry Henry advierte a Inglaterra sobre el «peligroso» partido contra México y subraya que «Sir Harry Kane» no siempre puede ser su salvador en el Mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWC0xcjNUMklRWklycm80U00yWTl0TjdVOERuNnp1QzAza2FLUjU3YjR6NFhMOUdDWkpoOFREZlFjdVpncWh2WEExYkxzMzN0QmFUY3FoOGdHdXVraUlNck9nM1RmZExtOTd3ckhSQzh3UlN2cmRJSTgyakdFVHNoc3RpX2h5TUIyUmh2Vk1uQW5vdzdBQjgzbURsLVRIMlU1S1pIamRFWHVhTXl1ckxGTXJNSndxRW1nR2hicUNiUUhfTV9KNlYwVXYzV2tCcG83ZndtT0RkZXlIQjJKTW4xd29GNFptVHRfa0Z4Z0hRd3lIR2VoTFB5UFJhVGNSSDY0TEtjb09kbGRkNHhJWk56dG9KRGc3YmJkX3ZESHIxZnhHYlk1aGhMZWJwNjd6cHlVUnc?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 11:15:58 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico",
-        "Ecuador"
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "El camino de EE. UU. hacia la final del Mundial: partido de octavos contra Bélgica, escenarios del cuadro, calendario y más información - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeFBxcDFlc28ydjNhUTdZWkFpenZfUV9maDUxdzVxZjVXRXQyUm1SSlVQVVk0WDdMMlNtLU1tUks5VGNxa0lLSXpmMXowLV82ZnhreWt0OE1EWDVYR3pTaTRYQUlzZ2F1Tm5vM2VBUHhOZlVWWGJuT2hBM3ZMQ0FWUXNyOEkzTU1SUm0wbWtoOGdYNFZVbjlCRVlnTmJhNXdZdU41LWdtVktOQUZkcEdkT0RtV3UyM1ZpMG1zMlBNUVpYN0lqVXFmMDl1OXhWMU5XNW9PMnlwNDlHajJZMFNlY2tVWWFJdHZHVDBkN2JONVFUUW9jblpobWZNN19wVE9TY1Y3T1p2eE1XNm0ya2c2UHlYcjQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 10:42:15 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Usa Vs Bih | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG9ZX2treE5kS2lZZlFxbXppb1d4ZUN6MF9oQ3pPLXY2dkVlV0NFMFYzRG9MTi1GQ3ZYblFVV1dCdVRZYWdzU3JrMmpZMkhMZUxUWWhoTHAxM2U0VGIzSlM4a3loaExWa2RQVU4yTnlTVU1qV3VhV1BkemhlVkE5STdiNUN3REtPQWhLLTJ4VXVtcDI0dlFpVE44aHludkh4dHllV2JSRnJxaUJHTFFYVWppSHMwS0k?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 03:18:13 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 03:13:06 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -317,15 +315,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ver Côte d'Ivoire vs. Senegal Online en Directo | DAZN MX - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzV2NHpQQXR5cF9FT1FNWWJkcFMwQ3pNVk9nUjU0VXB1XzExUUVuOGdPTHlOY3g2dV9DMTZHOWJ4MUxHdU1yNU8wQ0VQVUo5OFl4R0Z0a1VjeU5LOUJhRU1XOVFQZ05hN1RwNFlsSzFGZkxsZGU1V214dHc1c0cyenlUSWxZVWhpcEhn?oc=5",
-        "domain": "www.dazn.com",
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 18:00:00 GMT",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
         "image": "",
         "matchedTeams": [
-          "Ivory Coast",
+          "Belgium",
           "Senegal"
         ],
         "tags": [],
@@ -340,21 +338,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -380,6 +363,20 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 01 Jul 2026 06:47:45 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -405,6 +402,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -413,21 +425,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -461,12 +458,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -483,21 +480,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 01 Jul 2026 07:22:06 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuáles son los operativos de la CDMX que se implementaron durante el partido México-Ecuador en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjQ1OGplYl90NERPLXdNLVJPYl82cW90b3RqeXZHZnR1YXVkNkxncGlSdXNGYUlkZkRLQUZseTdmeGdSS09wc3lndEFCNTRfOF9Uc3FTekVLVXRrODFSSzlwVlNCN3BKYjBkOXI4X1Y2clRWVTdlMm1maUhVQXBlSkRwNWtvcjVuMXRrRm00R3dfRmtfYjlTNERNcUVTSm55WGZ4Q090amRUNHdjdTNv0gHKAUFVX3lxTE14TEJFdXhZa1gyRTYyVmN3ZEljVmpRYVlhNlMyM2pXcUpNbGtYUnQxN1dreFNfTWJGQnFpOW5wU2pPb0NYNVBoZ2wtSEVyMU1MaWlMZWZ0MzNiU1RnWmhybElPaHhVbTJTTG9Cc2ZZWkVKb1d2M09KMmgwaDJuZk84TjUwem1uS2FIRjZmUHp6WExpcEl6X3dwd2h2Sll1R0tXVGt2OF9MOUwxLUI3Ni0zS082VGpleExhVV9mdEU3VzNYTVMyUktsMUE?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 16:11:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -565,16 +547,31 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México enfrenta a Ecuador en la Ronda de 32 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm44V281Q2gzdmltWmVhQWNXT2ZBaEVjNzZ5UlNWYkdNSTBZU0p2VjV3eGdrTGQ3ZzBxRGM5eTFnSU1pYXJtV3BDVmVNcFBTNkVRdnFENjVsZnF1TjZBTkpwVkNPR2l0bDJWWnZ2Z2V3X0NBbGZCZEpWNUxsYllqVWNWbkZWWWIzam82RXJGRWFsVDdtcENLUVYyWWEwSWlQX3c?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 29 Jun 2026 19:39:12 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
+        "title": "Thierry Henry advierte a Inglaterra sobre el «peligroso» partido contra México y subraya que «Sir Harry Kane» no siempre puede ser su salvador en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWC0xcjNUMklRWklycm80U00yWTl0TjdVOERuNnp1QzAza2FLUjU3YjR6NFhMOUdDWkpoOFREZlFjdVpncWh2WEExYkxzMzN0QmFUY3FoOGdHdXVraUlNck9nM1RmZExtOTd3ckhSQzh3UlN2cmRJSTgyakdFVHNoc3RpX2h5TUIyUmh2Vk1uQW5vdzdBQjgzbURsLVRIMlU1S1pIamRFWHVhTXl1ckxGTXJNSndxRW1nR2hicUNiUUhfTV9KNlYwVXYzV2tCcG83ZndtT0RkZXlIQjJKTW4xd29GNFptVHRfa0Z4Z0hRd3lIR2VoTFB5UFJhVGNSSDY0TEtjb09kbGRkNHhJWk56dG9KRGc3YmJkX3ZESHIxZnhHYlk1aGhMZWJwNjd6cHlVUnc?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
+        "seenDate": "Thu, 02 Jul 2026 11:15:58 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -584,15 +581,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CMLL adelanta función de Domingo Familiar en Arena México por el México vs Inglaterra del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZGk2SUprd2d4bDZCS0hqeWZYNldRX0tUaXI4aEdocEYtNzViZF9SOVRxQTNhVkRKUWEzZ2ZBczB0VkZOQms0XzVBR0hmbUZpX0o4Wnh2NHNhamxKdEpndTN3ZUlRMTRvQi1pNDJZTVl2LWRVN2p4Zm5jZXhMZTVXYm5fanZPWG5BWFRyZjZpZHk4T1ljZWlKVFlYS29tbXZhT19RM0s4R21odGVYbjRBZ29JWDZ1eTBEeWRCZUwzN0EtcnMyYWRkczVNdmtSQzdnQkNCcmhmcE9fTWN1R0ZnOVUtR0I1a1Jlc1E?oc=5",
-        "domain": "www.infobae.com",
+        "title": "«¡La plantilla está mal elegida!»: una exestrella de Inglaterra critica al «arrogante» Thomas Tuchel tras la «preocupante» actuación mundialista contra la República Democrática del Congo - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQS1NmOGJ4cWpLaE45RW1ybGpQOVFEMDFUMjNSR2xuWGlwYW0yYkM1dzRmd1AtZ184YnE3eHRKeHpFbkV5X1dXZFl4enZ2c3hTMmhqaENlTUlTajc3aGR0T05ULVZ6RlpmZjUwWEhvWUg1OERDTHFLanhIQll2WlNSX21NZ2UwTVlnYWxGQy1jWHZyekhKdTg5YV9MVHh4cWFNakEzN3dZcGp2M05aTUVULXJmaEEtY0FjNlBIQ2tVNTdlbk5oWDJySzM4Qk9JRmpSS21UWVpVUnZ2NU1BUmM4c1kzTXRNZlctaHduYjFsWG9SOTEzR3ViSmt0aTY3aHN1MGhnRVBmVDR0VHhzYWI5dTJXRmhXcnpEYV9WaXQ0aWtoYVNOMFFTLXlKUVlFOU1XeTlncndDeXVPbDcxYUFqaDlvMTlqeXBEWW5uRDZMQ1Vhbjg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 18:49:58 GMT",
+        "seenDate": "Fri, 03 Jul 2026 08:50:02 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
           "England"
         ],
         "tags": [],
@@ -604,22 +600,7 @@
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 13:10:59 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Thierry Henry advierte a Inglaterra sobre el «peligroso» partido contra México y subraya que «Sir Harry Kane» no siempre puede ser su salvador en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWC0xcjNUMklRWklycm80U00yWTl0TjdVOERuNnp1QzAza2FLUjU3YjR6NFhMOUdDWkpoOFREZlFjdVpncWh2WEExYkxzMzN0QmFUY3FoOGdHdXVraUlNck9nM1RmZExtOTd3ckhSQzh3UlN2cmRJSTgyakdFVHNoc3RpX2h5TUIyUmh2Vk1uQW5vdzdBQjgzbURsLVRIMlU1S1pIamRFWHVhTXl1ckxGTXJNSndxRW1nR2hicUNiUUhfTV9KNlYwVXYzV2tCcG83ZndtT0RkZXlIQjJKTW4xd29GNFptVHRfa0Z4Z0hRd3lIR2VoTFB5UFJhVGNSSDY0TEtjb09kbGRkNHhJWk56dG9KRGc3YmJkX3ZESHIxZnhHYlk1aGhMZWJwNjd6cHlVUnc?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 11:15:58 GMT",
+        "seenDate": "Fri, 03 Jul 2026 04:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -647,6 +628,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Inglaterra 2-1 R. D. del Congo: Cipenda abrió el marcador, luego Kane marcó un doblete. Tuchel avanza a octavos. Próximo rival: México - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRGd4OWZDQktJRzhwVjJMSmx2LUl0NFNyUllkTGEwaGpwZVVlOVBYMWhiT2lsenlaaWh2dUw4NERJaWpjOXo0QlVuNkV5SjEySkI2OXgzRllxM09wd2NoYkpoTWNFTXA5X3QwWVlmX2JoZ0dmZ3F3T2gwQlNyb0trWjZockdTTVBlek1uWXByVjB1X0ViU0FzanlhU0Y5RHNqUktyMjNrTTU2U3c4YUlGbmkyck4wY1VnVXZSd2FMSWFWT3FGYnBVMG4wbWRDc1dsZlpsbWRvdmV5b21iS3ppRWZHUG0xMVVLMDZnSUhxN1poR2FBdDg4RFBCQ2xoU1RyNFdPWDdxTEZvbnRiRzEwZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 18:46:39 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Fher Olvera vs Liam Gallagher: ¿Quién ganará el partido México-Inglaterra? - Billboard",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0xaMGxWNS15c3FodkhwZmtpeGg2QXVFSnlPcnNQRUY1RGIwTWM0aElsS1dpcWRGd3VCQ2FuUjJCenVDaFlPZjBtTjJNRXJFUGkweGZCc2JkbWNxUmdaR0duaGlxeDVnMlByVTV5X2hWaEtiQ2VodGV5Tjg5UXVKU1p4NUVONmF5MWlOQzM4ZnBNRkRTczFia0taVUhSYkpXdVZHMFdYdXo3a3Nmc0hpeGZXeEMtZw?oc=5",
         "domain": "www.billboard.com",
@@ -664,12 +660,12 @@
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium",
@@ -679,12 +675,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cómo ver el partido Bélgica vs Senegal en TV y streaming? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV25vck45UEQxODJhQV9wdjdMbm95QmZDU0V1akE5OUJOekp2ZW1vQjZBMjZaNks5b2FwS1dfUU96VE9NSTNMUkhEa1BObDdQLXpHTG9TdU1LT3dmeGlXUl8wbGFmbHJHMl9ZemIxYTZ2VDlsdzVwenZTcENvV2E2MFJ6elVvdU9xa0w4VmNVNFk3YW1KWUMtV2tnaGkyZw?oc=5",
-        "domain": "www.si.com",
+        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:00:00 GMT",
+        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium",
@@ -738,15 +734,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "«Un grave error»: el seleccionador belga explica cómo aprovecharon la debilidad de Senegal para que Romelu Lukaku y compañía lograran una remontada agónica en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1VCamw5aGt0aXViT0taNjZmTHhVVlo5cGptTUtRYWtUaTI5c1NYQ25IWWcwSHh4Q0VIbEt2Y3hxQVRWTlVSbjdJQ081Mld5ZnEybFBtWUl0WWt0ZFBHOHI2RUdsXzFZM2hSRGRHSmhGU2FPZ0swdGlLRHpRVHlFWkk1Qm1tNWVJTHN4bWtGYUdsXzRwZ2o0dUtpWDB2UVdKUVIxLWFoaXhONXZSa242UjZZdkNVNzZoeTlVeW5EVWVtdU14dVlZNmdYZV9jaWNPX1dYbmpSVmVodzZXQzV4UFFHbEt6YmlfSHJkaWVsdHplUDVVemZTbU1FelZ2OGRtTUF4ZDFNR3JPcm1kUWkydWtfalRvN1NDM3dFS3A0TWt3QnF3X01tajhVemc2LVpQWVFjd3hYTURtd3RHU1QxVEFPcms?oc=5",
+        "title": "El camino de EE. UU. hacia la final del Mundial: partido de octavos contra Bélgica, escenarios del cuadro, calendario y más información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeFBxcDFlc28ydjNhUTdZWkFpenZfUV9maDUxdzVxZjVXRXQyUm1SSlVQVVk0WDdMMlNtLU1tUks5VGNxa0lLSXpmMXowLV82ZnhreWt0OE1EWDVYR3pTaTRYQUlzZ2F1Tm5vM2VBUHhOZlVWWGJuT2hBM3ZMQ0FWUXNyOEkzTU1SUm0wbWtoOGdYNFZVbjlCRVlnTmJhNXdZdU41LWdtVktOQUZkcEdkT0RtV3UyM1ZpMG1zMlBNUVpYN0lqVXFmMDl1OXhWMU5XNW9PMnlwNDlHajJZMFNlY2tVWWFJdHZHVDBkN2JONVFUUW9jblpobWZNN19wVE9TY1Y3T1p2eE1XNm0ya2c2UHlYcjQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 13:01:03 GMT",
+        "seenDate": "Thu, 02 Jul 2026 10:42:15 GMT",
         "image": "",
         "matchedTeams": [
-          "Senegal"
+          "Belgium"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -783,6 +779,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Huyó a Estados Unidos tras recibir amenazas de muerte por la temprana eliminación del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONjJ6S3pFMnpRMzJELVh6bURXRTExd1QtcUg1RFNSUlVYQzRwUldJNW9iXzBaM3F5dGtwSlJwbEIyckQ1ZGlDaWk0UU12cnJmbTlvWkliRHAzREJucF93VkVVS19KcVhLREowZERodHZMajF0bnZaVGRPbl9WUlRFMXdwTTZBNDQzR3VXenI3ODB6cHFnWTlSejZ5aU8yZmF1V0IxNHpNSGRpUEJPcTJFa1Q2NmdmMGpqR0xiMk1lNlZaVjllemJpOTNrWl9LRHRvVFRsbnBzM2V2TVlqVDkzU2FnWQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 03 Jul 2026 13:24:32 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
         "domain": "es.concacaf.com",
@@ -811,28 +821,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Belgium",
+          "Senegal"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -840,6 +838,21 @@
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -848,21 +861,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -896,12 +894,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -910,15 +908,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -926,6 +925,21 @@
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -934,21 +948,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -982,12 +981,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -996,15 +995,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1012,6 +1012,21 @@
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1020,21 +1035,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1068,12 +1068,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1082,15 +1082,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1098,6 +1099,21 @@
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1106,21 +1122,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1154,12 +1155,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1168,15 +1169,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1184,6 +1186,21 @@
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1192,21 +1209,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1240,12 +1242,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1254,15 +1256,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1270,6 +1273,21 @@
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1278,21 +1296,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1326,12 +1329,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1340,15 +1343,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1356,6 +1360,21 @@
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1364,21 +1383,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1412,12 +1416,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1426,15 +1430,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1442,6 +1447,21 @@
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1450,21 +1470,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1498,12 +1503,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1512,15 +1517,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1528,12 +1534,12 @@
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
+        "title": "Thierry Henry advierte a Inglaterra sobre el «peligroso» partido contra México y subraya que «Sir Harry Kane» no siempre puede ser su salvador en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWC0xcjNUMklRWklycm80U00yWTl0TjdVOERuNnp1QzAza2FLUjU3YjR6NFhMOUdDWkpoOFREZlFjdVpncWh2WEExYkxzMzN0QmFUY3FoOGdHdXVraUlNck9nM1RmZExtOTd3ckhSQzh3UlN2cmRJSTgyakdFVHNoc3RpX2h5TUIyUmh2Vk1uQW5vdzdBQjgzbURsLVRIMlU1S1pIamRFWHVhTXl1ckxGTXJNSndxRW1nR2hicUNiUUhfTV9KNlYwVXYzV2tCcG83ZndtT0RkZXlIQjJKTW4xd29GNFptVHRfa0Z4Z0hRd3lIR2VoTFB5UFJhVGNSSDY0TEtjb09kbGRkNHhJWk56dG9KRGc3YmJkX3ZESHIxZnhHYlk1aGhMZWJwNjd6cHlVUnc?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
+        "seenDate": "Thu, 02 Jul 2026 11:15:58 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -1543,15 +1549,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CMLL adelanta función de Domingo Familiar en Arena México por el México vs Inglaterra del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZGk2SUprd2d4bDZCS0hqeWZYNldRX0tUaXI4aEdocEYtNzViZF9SOVRxQTNhVkRKUWEzZ2ZBczB0VkZOQms0XzVBR0hmbUZpX0o4Wnh2NHNhamxKdEpndTN3ZUlRMTRvQi1pNDJZTVl2LWRVN2p4Zm5jZXhMZTVXYm5fanZPWG5BWFRyZjZpZHk4T1ljZWlKVFlYS29tbXZhT19RM0s4R21odGVYbjRBZ29JWDZ1eTBEeWRCZUwzN0EtcnMyYWRkczVNdmtSQzdnQkNCcmhmcE9fTWN1R0ZnOVUtR0I1a1Jlc1E?oc=5",
-        "domain": "www.infobae.com",
+        "title": "«¡La plantilla está mal elegida!»: una exestrella de Inglaterra critica al «arrogante» Thomas Tuchel tras la «preocupante» actuación mundialista contra la República Democrática del Congo - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQS1NmOGJ4cWpLaE45RW1ybGpQOVFEMDFUMjNSR2xuWGlwYW0yYkM1dzRmd1AtZ184YnE3eHRKeHpFbkV5X1dXZFl4enZ2c3hTMmhqaENlTUlTajc3aGR0T05ULVZ6RlpmZjUwWEhvWUg1OERDTHFLanhIQll2WlNSX21NZ2UwTVlnYWxGQy1jWHZyekhKdTg5YV9MVHh4cWFNakEzN3dZcGp2M05aTUVULXJmaEEtY0FjNlBIQ2tVNTdlbk5oWDJySzM4Qk9JRmpSS21UWVpVUnZ2NU1BUmM4c1kzTXRNZlctaHduYjFsWG9SOTEzR3ViSmt0aTY3aHN1MGhnRVBmVDR0VHhzYWI5dTJXRmhXcnpEYV9WaXQ0aWtoYVNOMFFTLXlKUVlFOU1XeTlncndDeXVPbDcxYUFqaDlvMTlqeXBEWW5uRDZMQ1Vhbjg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 18:49:58 GMT",
+        "seenDate": "Fri, 03 Jul 2026 08:50:02 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
           "England"
         ],
         "tags": [],
@@ -1563,22 +1568,7 @@
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 13:10:59 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Thierry Henry advierte a Inglaterra sobre el «peligroso» partido contra México y subraya que «Sir Harry Kane» no siempre puede ser su salvador en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWC0xcjNUMklRWklycm80U00yWTl0TjdVOERuNnp1QzAza2FLUjU3YjR6NFhMOUdDWkpoOFREZlFjdVpncWh2WEExYkxzMzN0QmFUY3FoOGdHdXVraUlNck9nM1RmZExtOTd3ckhSQzh3UlN2cmRJSTgyakdFVHNoc3RpX2h5TUIyUmh2Vk1uQW5vdzdBQjgzbURsLVRIMlU1S1pIamRFWHVhTXl1ckxGTXJNSndxRW1nR2hicUNiUUhfTV9KNlYwVXYzV2tCcG83ZndtT0RkZXlIQjJKTW4xd29GNFptVHRfa0Z4Z0hRd3lIR2VoTFB5UFJhVGNSSDY0TEtjb09kbGRkNHhJWk56dG9KRGc3YmJkX3ZESHIxZnhHYlk1aGhMZWJwNjd6cHlVUnc?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 11:15:58 GMT",
+        "seenDate": "Fri, 03 Jul 2026 04:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -1606,6 +1596,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Inglaterra 2-1 R. D. del Congo: Cipenda abrió el marcador, luego Kane marcó un doblete. Tuchel avanza a octavos. Próximo rival: México - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRGd4OWZDQktJRzhwVjJMSmx2LUl0NFNyUllkTGEwaGpwZVVlOVBYMWhiT2lsenlaaWh2dUw4NERJaWpjOXo0QlVuNkV5SjEySkI2OXgzRllxM09wd2NoYkpoTWNFTXA5X3QwWVlmX2JoZ0dmZ3F3T2gwQlNyb0trWjZockdTTVBlek1uWXByVjB1X0ViU0FzanlhU0Y5RHNqUktyMjNrTTU2U3c4YUlGbmkyck4wY1VnVXZSd2FMSWFWT3FGYnBVMG4wbWRDc1dsZlpsbWRvdmV5b21iS3ppRWZHUG0xMVVLMDZnSUhxN1poR2FBdDg4RFBCQ2xoU1RyNFdPWDdxTEZvbnRiRzEwZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 18:46:39 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Fher Olvera vs Liam Gallagher: ¿Quién ganará el partido México-Inglaterra? - Billboard",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0xaMGxWNS15c3FodkhwZmtpeGg2QXVFSnlPcnNQRUY1RGIwTWM0aElsS1dpcWRGd3VCQ2FuUjJCenVDaFlPZjBtTjJNRXJFUGkweGZCc2JkbWNxUmdaR0duaGlxeDVnMlByVTV5X2hWaEtiQ2VodGV5Tjg5UXVKU1p4NUVONmF5MWlOQzM4ZnBNRkRTczFia0taVUhSYkpXdVZHMFdYdXo3a3Nmc0hpeGZXeEMtZw?oc=5",
         "domain": "www.billboard.com",
@@ -1623,6 +1628,21 @@
     ],
     "67ae5751c401a98409b8566ae4897069": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1631,21 +1651,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1679,12 +1684,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1693,15 +1698,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1709,6 +1715,21 @@
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1717,21 +1738,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1765,12 +1771,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1779,15 +1785,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1795,6 +1802,21 @@
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1803,21 +1825,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1851,12 +1858,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1865,15 +1872,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1881,6 +1889,21 @@
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1889,21 +1912,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1937,12 +1945,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1951,15 +1959,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1967,6 +1976,21 @@
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -1975,21 +1999,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2023,12 +2032,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -2037,15 +2046,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2053,6 +2063,21 @@
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -2061,21 +2086,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2109,12 +2119,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -2123,15 +2133,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2139,6 +2150,21 @@
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -2147,21 +2173,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2195,12 +2206,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -2209,15 +2220,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2225,6 +2237,21 @@
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
+        "title": "Bélgica critica con dureza al seleccionador Rudi García, tanto antes como después de la victoria mundialista ante Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhPTjNIY21QNlNwR253MmIwaFJTQXRyWnJKaGduQWMxNmxJVVM3Z0c2SkQ3SXJmTkZKWlRJVVc3VlB1ZS1fRWxveXp0SzA0RjMyQUNWdnBjRzk3VGhHQ1I2dVBWSDEzRkpIQTVmUDhPMGlvSm42bE1fTmx2V0dqUFJqVWtHSmdxZ2dfSE9EMVp4WG9CNUkzb1hiTkZWQnpmNmV4SmRITFM3bG9PVnAzMlpFNGhieVlKb3RzLVhsdF9JRGswQWdxeWZjMHFyWmpwZnQyWUtYWTBycVZ1Z0hieDAwVVBEbzRVWGZTM0gtRllGenV2YTdKaTRpbUJ4NjdQXzRrVG9VSQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 23:40:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«¿Pero qué está pasando ahí?». Thomas Tuchel se queda atónito ante una tendencia del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3VyQUI1RnI5UzNtUmxZTUItaFpCRnBJUkFIVl9yZjVrdnNyRFFhQmdVdWZvalNVQkVEaGZMcnd4akxBeGcxREwzQ25MbHFTMTduUTRubVNZOVp5RmlUZHIyZXFUQk1TQldPNVVxQkMtVmM5R2MteDN5eFJjTTRXRUpVbW9KY2pJMFpLdi1SbG5FMVlJalZQYUNpTTVvV2xMMVBFelZTN3dmNmloakd5THQxMnlCQ3FSZ3VfdFMzU2YtWVNyVld4dnE1QTd5dmYzcDdhZHQtNnpTTkE?oc=5",
         "domain": "www.goal.com",
@@ -2233,21 +2260,6 @@
         "seenDate": "Wed, 01 Jul 2026 21:09:56 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México va por la hazaña: las ventajas y riesgos de enfrentar a Inglaterra en los Octavos de Final del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTNSbGhvVVZEanQwSXFMN1FURWNJM2ZSZVZIUGlJeUhrZ1hGZHlUYjEzWFdZZW4ya1Rlbnh4bkxVZ3loUHc3bU9XQUxObW1TbjJ4bmpNWVl3d0VSdkRZWjVpcEx6TDczbDgwMVVPRWxxSTQyQnExeXhwTWIyaXVfdnhDcm1HbTZLYWZsXzh3amVTMDN4YnRaNEN5Y3lrODZhTFRmQUhaNWFIVDlrZmlnNjc3ZVFkRFFVWE95eWVfaFllOG1TMXZETVJaUmd3MERWWFQ3ZE5XZTEwOThmMFRaOC10YWN5LUljMWd2VlI5cnM2SHJzQzYzN9IBkwJBVV95cUxOd3RXVERlWmd2VHI5Sy02cFczRExiT1plbE9QVzR2eTJJQkdpMndFNmQxTUlCYnRJSDJ4WE9oNVdJTXl5SE16OTFmNFVielFDOTdMcVBUSWJxMG9wZjQyeGt5VWgyOUJGZElsMVlqNk84Rk5aQmlHVFlEU2ZhREpfRDBxSHNOQWtsc2JzWnZ3X055YlNObWVrM180LVdFbFoyUXVtZU5lWHRMRm9JZUNTamVhYzhWd1pNaGZZY2pNUlA5UlJDYnlWUThVYXhvQUJQQWJnaG1IQ2FaU0hoOWFlX2gyZTJDT0ZqVUJYOG91RE4xcF9ieFB2amVOdHhodlNNSDRNeGFHRGNXWS1KTWtnMEd3VQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:46:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2281,12 +2293,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Al estilo de Brasil... México rompe una maldición de 40 años en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVGc05kNENSNmVlR1VzUlBpNjhQM0FXcWpNMzhkaWlBeUszSFQxSWNhQ2Y1MkNlalBOc1FiekFqc25jMzUtZE1iMlZRSGwxbHBSQTFUSFgwbjVOdTFic1doSm5faUhpNG5JVzhIZ3ZhM3JGbDBYa3BndWxtQnVfUnRHbDVlT3ZTYjFWekZ2NWoyTnFTd1hwQzRETkJzWGJ1U0JzZ3NJMWlsX202SU9pWUsxUHZDRlBqNmRHQzNlS0JTUUQzZnc?oc=5",
-        "domain": "www.goal.com",
+        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -2295,15 +2307,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Julián Quiñones hace historia con México en el Mundial 2026: ya es apenas el segundo tricolor en marcar en tres partidos de una misma Copa - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTmExc19Rb3JEVU5KTVB3VzV4NnlXejRRdEQ1OW55WE1rckticEU5cDBlbXV6Vk5EOGVIRkZOZjk0Y2MzZFFmTDROMV93cTMwUElYbWtmc1FLbFRadXBEazNkVGhQMDk4UjFDb2NZQ1diZDU5ZnNGVE1HOHVNWTVxVlNHWnViUFYzSXpZdGJDQWotNW9WTlVEUFhWaEdUSUZrREZjSnpFQlBrLTZEektTdWpWSkJrU01LOXlMSG53ZmhhQUNjRTV1YmdiU2tKbUN4b2o5dGpIdXczbUtXYTFLbmxIdVNKLWgxbnh1c09xSWc4SGtlemVmdnRLdVlXQ1ht?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "Cómo ver Portugal vs Croacia en vivo: canales, streaming y horarios del Mundial 2026 para México, Latinoamérica y USA - 人民网财经",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUWc5RnBzWmczTUI4T2VzcmlRTFNCbmxET1YzTzl4QWpJNjBfNnNxczNQcXlGM0IwNU55bFREcXpiaXRQSVhqU3JWNXBxYnM3TWJpaVQ5TkpWeXJUNXpDS1BqSExLNzZhaWZqbmE1NW9JUFZyWHRNdy0yWVFFOTdiWWYtYnUwcm5FSmZ0R0txMWo5N3dZbHg4N2ZxYlpjOHF0REZUTi03NU9TaFlyVlhEdnluLXM4MXhLeUkyQTIwdk1nLW5MZTNvWmNpUE5yTjd1ZE90RVhWZS1IcjhYd0tBWHhsaTVuWHBjRHl2X213M3piX3NjRG5uTlZJalNHZ3h6cmx3dVFlMVZDNDl6dFNRVnhIT3RqdmRTTWhQc2xSaFBZNEVGbVJCWW05UVJNZUdSd1VfRVlneHJDclZVd1RGUm5vcy1xYlc0SE93SE1EOWZEZWRDR3lkbWdFS1hoR0FBUkxKZlY4amxWY2lqb0ZwWnI5Qk9YTmRJM2ozNGZGTXdDWWFNYzFpTWVsQWFTT1c0YTV6WG93?oc=5",
+        "domain": "it.people.com.cn",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:04:11 GMT",
+        "seenDate": "Thu, 02 Jul 2026 23:00:42 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
