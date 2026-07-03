@@ -2,7 +2,7 @@
   "meta": {
     "title": "Radar de partidos — Mundial 2026",
     "timezone": "America/Mexico_City",
-    "lastUpdated": "2026-07-03T04:20:43.754074-06:00",
+    "lastUpdated": "2026-07-03T11:59:53.329282-06:00",
     "refreshSeconds": 60,
     "sourceNote": "Calendario y marcadores: API-Football. Cuotas 1X2 y probabilidades sin margen: The Odds API. Las probabilidades reflejan el consenso del mercado, no una garantía ni un modelo propio.",
     "theOddsApi": {
@@ -16,8 +16,8 @@
       ],
       "eventsReceived": 9,
       "matchesUpdated": 4,
-      "requestsRemaining": "494",
-      "requestsUsed": "6",
+      "requestsRemaining": "493",
+      "requestsUsed": "7",
       "lastRequestCost": "1",
       "unmatchedEvents": [
         "Paraguay vs France",
@@ -2973,24 +2973,24 @@
         {
           "book": "Unibet (NL)",
           "bookKey": "unibet_nl",
-          "home": "+275",
+          "home": "+270",
           "draw": "+188",
           "away": "+143",
-          "homeDecimal": 3.75,
+          "homeDecimal": 3.7,
           "drawDecimal": 2.88,
           "awayDecimal": 2.43,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "LeoVegas (SE)",
           "bookKey": "leovegas_se",
-          "home": "+265",
+          "home": "+260",
           "draw": "+180",
           "away": "+138",
-          "homeDecimal": 3.65,
+          "homeDecimal": 3.6,
           "drawDecimal": 2.8,
           "awayDecimal": 2.38,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "PMU (FR)",
@@ -3001,244 +3001,255 @@
           "homeDecimal": 3.55,
           "drawDecimal": 2.75,
           "awayDecimal": 2.35,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Unibet (SE)",
           "bookKey": "unibet_se",
-          "home": "+275",
+          "home": "+270",
           "draw": "+188",
           "away": "+143",
-          "homeDecimal": 3.75,
+          "homeDecimal": 3.7,
           "drawDecimal": 2.88,
           "awayDecimal": 2.43,
-          "lastUpdate": "2026-07-03T10:20:06Z"
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Unibet (FR)",
           "bookKey": "unibet_fr",
-          "home": "+290",
-          "draw": "+195",
-          "away": "+130",
-          "homeDecimal": 3.9,
-          "drawDecimal": 2.95,
-          "awayDecimal": 2.3,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "home": "+285",
+          "draw": "+190",
+          "away": "+125",
+          "homeDecimal": 3.85,
+          "drawDecimal": 2.9,
+          "awayDecimal": 2.25,
+          "lastUpdate": "2026-07-03T17:59:19Z"
+        },
+        {
+          "book": "Coolbet",
+          "bookKey": "coolbet",
+          "home": "+270",
+          "draw": "+188",
+          "away": "+146",
+          "homeDecimal": 3.7,
+          "drawDecimal": 2.88,
+          "awayDecimal": 2.46,
+          "lastUpdate": "2026-07-03T17:58:44Z"
         },
         {
           "book": "Betclic (FR)",
           "bookKey": "betclic_fr",
-          "home": "+275",
-          "draw": "+195",
-          "away": "+135",
-          "homeDecimal": 3.75,
-          "drawDecimal": 2.95,
-          "awayDecimal": 2.35,
-          "lastUpdate": "2026-07-03T10:18:46Z"
+          "home": "+255",
+          "draw": "+185",
+          "away": "+138",
+          "homeDecimal": 3.55,
+          "drawDecimal": 2.85,
+          "awayDecimal": 2.38,
+          "lastUpdate": "2026-07-03T17:58:11Z"
         },
         {
           "book": "Codere (IT)",
           "bookKey": "codere_it",
-          "home": "+250",
+          "home": "+245",
           "draw": "+185",
-          "away": "+141",
-          "homeDecimal": 3.5,
+          "away": "+144",
+          "homeDecimal": 3.45,
           "drawDecimal": 2.85,
-          "awayDecimal": 2.41,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "awayDecimal": 2.44,
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "MyBookie.ag",
           "bookKey": "mybookieag",
-          "home": "+248",
-          "draw": "+182",
-          "away": "+139",
-          "homeDecimal": 3.48,
-          "drawDecimal": 2.82,
-          "awayDecimal": 2.39,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "+260",
+          "draw": "+185",
+          "away": "+133",
+          "homeDecimal": 3.6,
+          "drawDecimal": 2.85,
+          "awayDecimal": 2.33,
+          "lastUpdate": "2026-07-03T17:58:00Z"
         },
         {
           "book": "Tipico",
           "bookKey": "tipico_de",
           "home": "+270",
-          "draw": "+190",
-          "away": "+130",
+          "draw": "+175",
+          "away": "+140",
           "homeDecimal": 3.7,
-          "drawDecimal": 2.9,
-          "awayDecimal": 2.3,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "drawDecimal": 2.75,
+          "awayDecimal": 2.4,
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "Winamax (FR)",
           "bookKey": "winamax_fr",
-          "home": "+250",
-          "draw": "+190",
+          "home": "+255",
+          "draw": "+175",
           "away": "+135",
-          "homeDecimal": 3.5,
-          "drawDecimal": 2.9,
+          "homeDecimal": 3.55,
+          "drawDecimal": 2.75,
           "awayDecimal": 2.35,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "Winamax (DE)",
           "bookKey": "winamax_de",
-          "home": "+255",
+          "home": "+250",
           "draw": "+190",
-          "away": "+135",
-          "homeDecimal": 3.55,
+          "away": "+140",
+          "homeDecimal": 3.5,
           "drawDecimal": 2.9,
-          "awayDecimal": 2.35,
-          "lastUpdate": "2026-07-03T10:20:04Z"
+          "awayDecimal": 2.4,
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "Marathon Bet",
           "bookKey": "marathonbet",
-          "home": "+268",
-          "draw": "+198",
-          "away": "+139",
-          "homeDecimal": 3.68,
-          "drawDecimal": 2.98,
-          "awayDecimal": 2.39,
-          "lastUpdate": "2026-07-03T10:19:54Z"
+          "home": "+262",
+          "draw": "+183",
+          "away": "+138",
+          "homeDecimal": 3.62,
+          "drawDecimal": 2.83,
+          "awayDecimal": 2.38,
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "GTbets",
           "bookKey": "gtbets",
-          "home": "+252",
-          "draw": "+190",
-          "away": "+147",
-          "homeDecimal": 3.52,
-          "drawDecimal": 2.9,
-          "awayDecimal": 2.47,
-          "lastUpdate": "2026-07-03T10:19:52Z"
+          "home": "+258",
+          "draw": "+186",
+          "away": "+137",
+          "homeDecimal": 3.58,
+          "drawDecimal": 2.86,
+          "awayDecimal": 2.37,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Matchbook",
           "bookKey": "matchbook",
           "home": "+285",
-          "draw": "+196",
-          "away": "+146",
+          "draw": "+184",
+          "away": "+156",
           "homeDecimal": 3.85,
-          "drawDecimal": 2.96,
-          "awayDecimal": 2.46,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "drawDecimal": 2.84,
+          "awayDecimal": 2.56,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Betfair",
           "bookKey": "betfair_ex_eu",
           "home": "+285",
-          "draw": "+196",
-          "away": "+146",
+          "draw": "+186",
+          "away": "+152",
           "homeDecimal": 3.85,
-          "drawDecimal": 2.96,
-          "awayDecimal": 2.46,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "drawDecimal": 2.86,
+          "awayDecimal": 2.52,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Pinnacle",
           "bookKey": "pinnacle",
-          "home": "+275",
-          "draw": "+193",
-          "away": "+141",
-          "homeDecimal": 3.75,
-          "drawDecimal": 2.93,
-          "awayDecimal": 2.41,
-          "lastUpdate": "2026-07-03T10:20:24Z"
+          "home": "+270",
+          "draw": "+188",
+          "away": "+147",
+          "homeDecimal": 3.7,
+          "drawDecimal": 2.88,
+          "awayDecimal": 2.47,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Betsson",
           "bookKey": "betsson",
           "home": "+255",
-          "draw": "+192",
-          "away": "+145",
+          "draw": "+198",
+          "away": "+138",
           "homeDecimal": 3.55,
-          "drawDecimal": 2.92,
-          "awayDecimal": 2.45,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "drawDecimal": 2.98,
+          "awayDecimal": 2.38,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "Nordic Bet",
           "bookKey": "nordicbet",
           "home": "+255",
-          "draw": "+192",
-          "away": "+145",
+          "draw": "+198",
+          "away": "+138",
           "homeDecimal": 3.55,
-          "drawDecimal": 2.92,
-          "awayDecimal": 2.45,
-          "lastUpdate": "2026-07-03T10:19:40Z"
+          "drawDecimal": 2.98,
+          "awayDecimal": 2.38,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "1xBet",
           "bookKey": "onexbet",
-          "home": "+271",
-          "draw": "+201",
-          "away": "+142",
-          "homeDecimal": 3.71,
-          "drawDecimal": 3.01,
-          "awayDecimal": 2.42,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "+290",
+          "draw": "+193",
+          "away": "+130",
+          "homeDecimal": 3.9,
+          "drawDecimal": 2.93,
+          "awayDecimal": 2.3,
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "888sport",
           "bookKey": "sport888",
-          "home": "+240",
-          "draw": "+175",
-          "away": "+125",
-          "homeDecimal": 3.4,
-          "drawDecimal": 2.75,
-          "awayDecimal": 2.25,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "home": "+220",
+          "draw": "+170",
+          "away": "+145",
+          "homeDecimal": 3.2,
+          "drawDecimal": 2.7,
+          "awayDecimal": 2.45,
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "William Hill",
           "bookKey": "williamhill",
-          "home": "+250",
-          "draw": "+180",
-          "away": "+130",
-          "homeDecimal": 3.5,
-          "drawDecimal": 2.8,
-          "awayDecimal": 2.3,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "home": "+225",
+          "draw": "+175",
+          "away": "+145",
+          "homeDecimal": 3.25,
+          "drawDecimal": 2.75,
+          "awayDecimal": 2.45,
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "Everygame",
           "bookKey": "everygame",
           "home": "+265",
-          "draw": "+185",
-          "away": "+135",
+          "draw": "+175",
+          "away": "+140",
           "homeDecimal": 3.65,
-          "drawDecimal": 2.85,
-          "awayDecimal": 2.35,
-          "lastUpdate": "2026-07-03T10:19:53Z"
+          "drawDecimal": 2.75,
+          "awayDecimal": 2.4,
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "BetOnline.ag",
           "bookKey": "betonlineag",
-          "home": "+280",
-          "draw": "+188",
-          "away": "+138",
-          "homeDecimal": 3.8,
-          "drawDecimal": 2.88,
-          "awayDecimal": 2.38,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "home": "+265",
+          "draw": "+187",
+          "away": "+145",
+          "homeDecimal": 3.65,
+          "drawDecimal": 2.87,
+          "awayDecimal": 2.45,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "BetAnything",
           "bookKey": "betanysports",
-          "home": "+280",
-          "draw": "+188",
-          "away": "+138",
-          "homeDecimal": 3.8,
-          "drawDecimal": 2.88,
-          "awayDecimal": 2.38,
-          "lastUpdate": "2026-07-03T10:20:14Z"
+          "home": "+260",
+          "draw": "+185",
+          "away": "+140",
+          "homeDecimal": 3.6,
+          "drawDecimal": 2.85,
+          "awayDecimal": 2.4,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         }
       ],
       "probability": {
-        "home": 26.3,
-        "draw": 33.3,
-        "away": 40.4
+        "home": 26.5,
+        "draw": 33.7,
+        "away": 39.8
       },
       "reasonsFor": [
         "Partido actualizado desde The Odds API Scores."
@@ -3251,25 +3262,25 @@
       ],
       "lineups": "The Odds API Scores no entrega alineaciones.",
       "form": "Dato no disponible en The Odds API Scores.",
-      "marketChange": "La probabilidad sin margen del local bajó 2.1 puntos porcentuales.",
+      "marketChange": "Sin movimiento significativo del consenso desde la actualización anterior.",
       "bestOdds": {
         "home": {
           "decimal": 3.9,
           "american": "+290"
         },
         "draw": {
-          "decimal": 3.01,
-          "american": "+201"
+          "decimal": 2.98,
+          "american": "+198"
         },
         "away": {
-          "decimal": 2.47,
-          "american": "+147"
+          "decimal": 2.56,
+          "american": "+156"
         }
       },
-      "bookmakerCount": 24,
+      "bookmakerCount": 25,
       "oddsSource": "The Odds API",
       "oddsEventId": "fb270a3dac2b682c861bd674a5ff4a04",
-      "oddsUpdatedAt": "2026-07-03T10:20:38Z"
+      "oddsUpdatedAt": "2026-07-03T17:59:44Z"
     },
     {
       "id": "3e161b2448ed76d6b0c0f5bda6fd5bf2",
@@ -3297,13 +3308,13 @@
         {
           "book": "Unibet (SE)",
           "bookKey": "unibet_se",
-          "home": "-714",
-          "draw": "+800",
-          "away": "+2200",
-          "homeDecimal": 1.14,
-          "drawDecimal": 9.0,
-          "awayDecimal": 23.0,
-          "lastUpdate": "2026-07-03T10:20:06Z"
+          "home": "-667",
+          "draw": "+750",
+          "away": "+2400",
+          "homeDecimal": 1.15,
+          "drawDecimal": 8.5,
+          "awayDecimal": 25.0,
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "PMU (FR)",
@@ -3314,18 +3325,18 @@
           "homeDecimal": 1.12,
           "drawDecimal": 8.0,
           "awayDecimal": 21.0,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Unibet (NL)",
           "bookKey": "unibet_nl",
-          "home": "-714",
-          "draw": "+800",
-          "away": "+2200",
-          "homeDecimal": 1.14,
-          "drawDecimal": 9.0,
-          "awayDecimal": 23.0,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "home": "-667",
+          "draw": "+750",
+          "away": "+2400",
+          "homeDecimal": 1.15,
+          "drawDecimal": 8.5,
+          "awayDecimal": 25.0,
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "LeoVegas (SE)",
@@ -3336,18 +3347,18 @@
           "homeDecimal": 1.13,
           "drawDecimal": 8.5,
           "awayDecimal": 23.0,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Unibet (FR)",
           "bookKey": "unibet_fr",
           "home": "-833",
-          "draw": "+820",
+          "draw": "+800",
           "away": "+2400",
           "homeDecimal": 1.12,
-          "drawDecimal": 9.2,
+          "drawDecimal": 9.0,
           "awayDecimal": 25.0,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Tipico",
@@ -3358,51 +3369,62 @@
           "homeDecimal": 1.12,
           "drawDecimal": 9.0,
           "awayDecimal": 22.0,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "lastUpdate": "2026-07-03T17:59:43Z"
+        },
+        {
+          "book": "Coolbet",
+          "bookKey": "coolbet",
+          "home": "-588",
+          "draw": "+700",
+          "away": "+2200",
+          "homeDecimal": 1.17,
+          "drawDecimal": 8.0,
+          "awayDecimal": 23.0,
+          "lastUpdate": "2026-07-03T17:58:44Z"
         },
         {
           "book": "MyBookie.ag",
           "bookKey": "mybookieag",
-          "home": "-1429",
-          "draw": "+874",
-          "away": "+5081",
-          "homeDecimal": 1.07,
-          "drawDecimal": 9.74,
-          "awayDecimal": 51.81,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "-769",
+          "draw": "+686",
+          "away": "+2182",
+          "homeDecimal": 1.13,
+          "drawDecimal": 7.86,
+          "awayDecimal": 22.82,
+          "lastUpdate": "2026-07-03T17:58:00Z"
         },
         {
           "book": "Betclic (FR)",
           "bookKey": "betclic_fr",
           "home": "-769",
           "draw": "+800",
-          "away": "+2100",
+          "away": "+2400",
           "homeDecimal": 1.13,
           "drawDecimal": 9.0,
-          "awayDecimal": 22.0,
-          "lastUpdate": "2026-07-03T10:18:46Z"
+          "awayDecimal": 25.0,
+          "lastUpdate": "2026-07-03T17:58:11Z"
         },
         {
           "book": "Pinnacle",
           "bookKey": "pinnacle",
-          "home": "-667",
-          "draw": "+800",
-          "away": "+2000",
-          "homeDecimal": 1.15,
-          "drawDecimal": 9.0,
-          "awayDecimal": 21.0,
-          "lastUpdate": "2026-07-03T10:20:24Z"
+          "home": "-625",
+          "draw": "+785",
+          "away": "+1900",
+          "homeDecimal": 1.16,
+          "drawDecimal": 8.85,
+          "awayDecimal": 20.0,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "GTbets",
           "bookKey": "gtbets",
-          "home": "-625",
-          "draw": "+695",
-          "away": "+2025",
-          "homeDecimal": 1.16,
-          "drawDecimal": 7.95,
-          "awayDecimal": 21.25,
-          "lastUpdate": "2026-07-03T10:19:52Z"
+          "home": "-714",
+          "draw": "+702",
+          "away": "+1910",
+          "homeDecimal": 1.14,
+          "drawDecimal": 8.02,
+          "awayDecimal": 20.1,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Winamax (DE)",
@@ -3413,7 +3435,7 @@
           "homeDecimal": 1.13,
           "drawDecimal": 9.0,
           "awayDecimal": 18.0,
-          "lastUpdate": "2026-07-03T10:20:04Z"
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "Winamax (FR)",
@@ -3424,145 +3446,145 @@
           "homeDecimal": 1.13,
           "drawDecimal": 8.5,
           "awayDecimal": 18.0,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "lastUpdate": "2026-07-03T17:59:21Z"
         },
         {
           "book": "1xBet",
           "bookKey": "onexbet",
           "home": "-625",
-          "draw": "+765",
-          "away": "+2400",
+          "draw": "+825",
+          "away": "+2100",
           "homeDecimal": 1.16,
-          "drawDecimal": 8.65,
-          "awayDecimal": 25.0,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "drawDecimal": 9.25,
+          "awayDecimal": 22.0,
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Marathon Bet",
           "bookKey": "marathonbet",
-          "home": "-667",
-          "draw": "+760",
-          "away": "+2400",
-          "homeDecimal": 1.15,
-          "drawDecimal": 8.6,
-          "awayDecimal": 25.0,
-          "lastUpdate": "2026-07-03T10:19:54Z"
+          "home": "-714",
+          "draw": "+700",
+          "away": "+1850",
+          "homeDecimal": 1.14,
+          "drawDecimal": 8.0,
+          "awayDecimal": 19.5,
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "888sport",
           "bookKey": "sport888",
           "home": "-833",
           "draw": "+650",
-          "away": "+1800",
+          "away": "+1600",
           "homeDecimal": 1.12,
           "drawDecimal": 7.5,
-          "awayDecimal": 19.0,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "awayDecimal": 17.0,
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "William Hill",
           "bookKey": "williamhill",
           "home": "-714",
-          "draw": "+650",
-          "away": "+2000",
+          "draw": "+700",
+          "away": "+1600",
           "homeDecimal": 1.14,
-          "drawDecimal": 7.5,
-          "awayDecimal": 21.0,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "drawDecimal": 8.0,
+          "awayDecimal": 17.0,
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "Matchbook",
           "bookKey": "matchbook",
-          "home": "-625",
-          "draw": "+840",
-          "away": "+2700",
-          "homeDecimal": 1.16,
-          "drawDecimal": 9.4,
-          "awayDecimal": 28.0,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "home": "-588",
+          "draw": "+760",
+          "away": "+2500",
+          "homeDecimal": 1.17,
+          "drawDecimal": 8.6,
+          "awayDecimal": 26.0,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Betfair",
           "bookKey": "betfair_ex_eu",
-          "home": "-625",
-          "draw": "+820",
+          "home": "-588",
+          "draw": "+780",
           "away": "+2600",
-          "homeDecimal": 1.16,
-          "drawDecimal": 9.2,
+          "homeDecimal": 1.17,
+          "drawDecimal": 8.8,
           "awayDecimal": 27.0,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "BetOnline.ag",
           "bookKey": "betonlineag",
           "home": "-667",
-          "draw": "+765",
+          "draw": "+740",
           "away": "+2200",
           "homeDecimal": 1.15,
-          "drawDecimal": 8.65,
+          "drawDecimal": 8.4,
           "awayDecimal": 23.0,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "Betsson",
           "bookKey": "betsson",
           "home": "-714",
-          "draw": "+710",
-          "away": "+2900",
+          "draw": "+730",
+          "away": "+2300",
           "homeDecimal": 1.14,
-          "drawDecimal": 8.1,
-          "awayDecimal": 30.0,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "drawDecimal": 8.3,
+          "awayDecimal": 24.0,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "Nordic Bet",
           "bookKey": "nordicbet",
           "home": "-714",
-          "draw": "+710",
-          "away": "+2900",
+          "draw": "+730",
+          "away": "+2300",
           "homeDecimal": 1.14,
-          "drawDecimal": 8.1,
-          "awayDecimal": 30.0,
-          "lastUpdate": "2026-07-03T10:19:40Z"
+          "drawDecimal": 8.3,
+          "awayDecimal": 24.0,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Everygame",
           "bookKey": "everygame",
-          "home": "-714",
+          "home": "-667",
           "draw": "+700",
           "away": "+1800",
-          "homeDecimal": 1.14,
+          "homeDecimal": 1.15,
           "drawDecimal": 8.0,
           "awayDecimal": 19.0,
-          "lastUpdate": "2026-07-03T10:19:53Z"
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "Codere (IT)",
           "bookKey": "codere_it",
-          "home": "-667",
+          "home": "-714",
           "draw": "+680",
           "away": "+2000",
-          "homeDecimal": 1.15,
+          "homeDecimal": 1.14,
           "drawDecimal": 7.8,
           "awayDecimal": 21.0,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "BetAnything",
           "bookKey": "betanysports",
           "home": "-667",
-          "draw": "+765",
+          "draw": "+740",
           "away": "+2200",
           "homeDecimal": 1.15,
-          "drawDecimal": 8.65,
+          "drawDecimal": 8.4,
           "awayDecimal": 23.0,
-          "lastUpdate": "2026-07-03T10:20:14Z"
+          "lastUpdate": "2026-07-03T17:59:31Z"
         }
       ],
       "probability": {
-        "home": 84.6,
-        "draw": 11.3,
-        "away": 4.2
+        "home": 84.1,
+        "draw": 11.5,
+        "away": 4.4
       },
       "reasonsFor": [
         "Partido actualizado desde The Odds API Scores."
@@ -3578,22 +3600,22 @@
       "marketChange": "Sin movimiento significativo del consenso desde la actualización anterior.",
       "bestOdds": {
         "home": {
-          "decimal": 1.16,
-          "american": "-625"
+          "decimal": 1.17,
+          "american": "-588"
         },
         "draw": {
-          "decimal": 9.74,
-          "american": "+874"
+          "decimal": 9.25,
+          "american": "+825"
         },
         "away": {
-          "decimal": 51.81,
-          "american": "+5081"
+          "decimal": 27.0,
+          "american": "+2600"
         }
       },
-      "bookmakerCount": 24,
+      "bookmakerCount": 25,
       "oddsSource": "The Odds API",
       "oddsEventId": "3e161b2448ed76d6b0c0f5bda6fd5bf2",
-      "oddsUpdatedAt": "2026-07-03T10:20:38Z"
+      "oddsUpdatedAt": "2026-07-03T17:59:44Z"
     },
     {
       "id": "88e032a2b2e5042d26db3f0da1df924a",
@@ -3621,90 +3643,90 @@
         {
           "book": "LeoVegas (SE)",
           "bookKey": "leovegas_se",
-          "home": "-250",
+          "home": "-233",
           "draw": "+330",
-          "away": "+850",
-          "homeDecimal": 1.4,
+          "away": "+700",
+          "homeDecimal": 1.43,
           "drawDecimal": 4.3,
-          "awayDecimal": 9.5,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "awayDecimal": 8.0,
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Unibet (NL)",
           "bookKey": "unibet_nl",
-          "home": "-238",
-          "draw": "+350",
-          "away": "+900",
-          "homeDecimal": 1.42,
-          "drawDecimal": 4.5,
-          "awayDecimal": 10.0,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "home": "-222",
+          "draw": "+340",
+          "away": "+750",
+          "homeDecimal": 1.45,
+          "drawDecimal": 4.4,
+          "awayDecimal": 8.5,
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "Unibet (FR)",
           "bookKey": "unibet_fr",
-          "home": "-256",
-          "draw": "+365",
+          "home": "-250",
+          "draw": "+360",
           "away": "+900",
-          "homeDecimal": 1.39,
-          "drawDecimal": 4.65,
+          "homeDecimal": 1.4,
+          "drawDecimal": 4.6,
           "awayDecimal": 10.0,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Betclic (FR)",
           "bookKey": "betclic_fr",
           "home": "-238",
           "draw": "+350",
-          "away": "+825",
+          "away": "+850",
           "homeDecimal": 1.42,
           "drawDecimal": 4.5,
-          "awayDecimal": 9.25,
-          "lastUpdate": "2026-07-03T10:18:46Z"
+          "awayDecimal": 9.5,
+          "lastUpdate": "2026-07-03T17:58:11Z"
         },
         {
           "book": "Winamax (FR)",
           "bookKey": "winamax_fr",
           "home": "-238",
-          "draw": "+360",
-          "away": "+650",
+          "draw": "+350",
+          "away": "+675",
           "homeDecimal": 1.42,
-          "drawDecimal": 4.6,
-          "awayDecimal": 7.5,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "drawDecimal": 4.5,
+          "awayDecimal": 7.75,
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "PMU (FR)",
           "bookKey": "pmu_fr",
-          "home": "-263",
+          "home": "-238",
           "draw": "+320",
-          "away": "+800",
-          "homeDecimal": 1.38,
+          "away": "+650",
+          "homeDecimal": 1.42,
           "drawDecimal": 4.2,
-          "awayDecimal": 9.0,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "awayDecimal": 7.5,
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Unibet (SE)",
           "bookKey": "unibet_se",
-          "home": "-238",
-          "draw": "+350",
-          "away": "+900",
-          "homeDecimal": 1.42,
-          "drawDecimal": 4.5,
-          "awayDecimal": 10.0,
-          "lastUpdate": "2026-07-03T10:20:06Z"
+          "home": "-222",
+          "draw": "+340",
+          "away": "+750",
+          "homeDecimal": 1.45,
+          "drawDecimal": 4.4,
+          "awayDecimal": 8.5,
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Winamax (DE)",
           "bookKey": "winamax_de",
           "home": "-233",
-          "draw": "+360",
-          "away": "+675",
+          "draw": "+350",
+          "away": "+700",
           "homeDecimal": 1.43,
-          "drawDecimal": 4.6,
-          "awayDecimal": 7.75,
-          "lastUpdate": "2026-07-03T10:20:04Z"
+          "drawDecimal": 4.5,
+          "awayDecimal": 8.0,
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "Tipico",
@@ -3715,117 +3737,128 @@
           "homeDecimal": 1.42,
           "drawDecimal": 4.5,
           "awayDecimal": 8.0,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "MyBookie.ag",
           "bookKey": "mybookieag",
-          "home": "-303",
-          "draw": "+393",
-          "away": "+896",
-          "homeDecimal": 1.33,
-          "drawDecimal": 4.93,
-          "awayDecimal": 9.96,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "-270",
+          "draw": "+357",
+          "away": "+839",
+          "homeDecimal": 1.37,
+          "drawDecimal": 4.57,
+          "awayDecimal": 9.39,
+          "lastUpdate": "2026-07-03T17:58:00Z"
+        },
+        {
+          "book": "Coolbet",
+          "bookKey": "coolbet",
+          "home": "-213",
+          "draw": "+325",
+          "away": "+830",
+          "homeDecimal": 1.47,
+          "drawDecimal": 4.25,
+          "awayDecimal": 9.3,
+          "lastUpdate": "2026-07-03T17:58:44Z"
         },
         {
           "book": "Marathon Bet",
           "bookKey": "marathonbet",
-          "home": "-222",
-          "draw": "+333",
-          "away": "+850",
-          "homeDecimal": 1.45,
-          "drawDecimal": 4.33,
-          "awayDecimal": 9.5,
-          "lastUpdate": "2026-07-03T10:19:54Z"
+          "home": "-233",
+          "draw": "+330",
+          "away": "+740",
+          "homeDecimal": 1.43,
+          "drawDecimal": 4.3,
+          "awayDecimal": 8.4,
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "GTbets",
           "bookKey": "gtbets",
-          "home": "-227",
-          "draw": "+320",
-          "away": "+767",
-          "homeDecimal": 1.44,
-          "drawDecimal": 4.2,
-          "awayDecimal": 8.67,
-          "lastUpdate": "2026-07-03T10:19:52Z"
+          "home": "-238",
+          "draw": "+333",
+          "away": "+711",
+          "homeDecimal": 1.42,
+          "drawDecimal": 4.33,
+          "awayDecimal": 8.11,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "1xBet",
           "bookKey": "onexbet",
-          "home": "-213",
-          "draw": "+338",
-          "away": "+855",
-          "homeDecimal": 1.47,
-          "drawDecimal": 4.38,
-          "awayDecimal": 9.55,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "-208",
+          "draw": "+345",
+          "away": "+765",
+          "homeDecimal": 1.48,
+          "drawDecimal": 4.45,
+          "awayDecimal": 8.65,
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "888sport",
           "bookKey": "sport888",
           "home": "-250",
-          "draw": "+300",
-          "away": "+700",
+          "draw": "+290",
+          "away": "+650",
           "homeDecimal": 1.4,
-          "drawDecimal": 4.0,
-          "awayDecimal": 8.0,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "drawDecimal": 3.9,
+          "awayDecimal": 7.5,
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "William Hill",
           "bookKey": "williamhill",
-          "home": "-250",
+          "home": "-227",
           "draw": "+300",
           "away": "+700",
-          "homeDecimal": 1.4,
+          "homeDecimal": 1.44,
           "drawDecimal": 4.0,
           "awayDecimal": 8.0,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "Nordic Bet",
           "bookKey": "nordicbet",
-          "home": "-227",
-          "draw": "+335",
-          "away": "+770",
-          "homeDecimal": 1.44,
-          "drawDecimal": 4.35,
-          "awayDecimal": 8.7,
-          "lastUpdate": "2026-07-03T10:19:40Z"
+          "home": "-217",
+          "draw": "+325",
+          "away": "+750",
+          "homeDecimal": 1.46,
+          "drawDecimal": 4.25,
+          "awayDecimal": 8.5,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Betsson",
           "bookKey": "betsson",
-          "home": "-227",
-          "draw": "+335",
-          "away": "+770",
-          "homeDecimal": 1.44,
-          "drawDecimal": 4.35,
-          "awayDecimal": 8.7,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "-217",
+          "draw": "+325",
+          "away": "+750",
+          "homeDecimal": 1.46,
+          "drawDecimal": 4.25,
+          "awayDecimal": 8.5,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "Matchbook",
           "bookKey": "matchbook",
-          "home": "-217",
+          "home": "-213",
           "draw": "+350",
-          "away": "+880",
-          "homeDecimal": 1.46,
+          "away": "+860",
+          "homeDecimal": 1.47,
           "drawDecimal": 4.5,
-          "awayDecimal": 9.8,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "awayDecimal": 9.6,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Betfair",
           "bookKey": "betfair_ex_eu",
-          "home": "-217",
+          "home": "-213",
           "draw": "+350",
           "away": "+880",
-          "homeDecimal": 1.46,
+          "homeDecimal": 1.47,
           "drawDecimal": 4.5,
           "awayDecimal": 9.8,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Everygame",
@@ -3836,7 +3869,7 @@
           "homeDecimal": 1.44,
           "drawDecimal": 4.33,
           "awayDecimal": 8.5,
-          "lastUpdate": "2026-07-03T10:19:53Z"
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "BetOnline.ag",
@@ -3847,46 +3880,46 @@
           "homeDecimal": 1.43,
           "drawDecimal": 4.44,
           "awayDecimal": 9.25,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "Codere (IT)",
           "bookKey": "codere_it",
           "home": "-233",
           "draw": "+340",
-          "away": "+720",
+          "away": "+740",
           "homeDecimal": 1.43,
           "drawDecimal": 4.4,
-          "awayDecimal": 8.2,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "awayDecimal": 8.4,
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Pinnacle",
           "bookKey": "pinnacle",
           "home": "-222",
-          "draw": "+340",
-          "away": "+825",
+          "draw": "+345",
+          "away": "+800",
           "homeDecimal": 1.45,
-          "drawDecimal": 4.4,
-          "awayDecimal": 9.25,
-          "lastUpdate": "2026-07-03T10:20:24Z"
+          "drawDecimal": 4.45,
+          "awayDecimal": 9.0,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "BetAnything",
           "bookKey": "betanysports",
-          "home": "-233",
-          "draw": "+330",
-          "away": "+725",
-          "homeDecimal": 1.43,
-          "drawDecimal": 4.3,
-          "awayDecimal": 8.25,
-          "lastUpdate": "2026-07-03T10:20:14Z"
+          "home": "-227",
+          "draw": "+340",
+          "away": "+745",
+          "homeDecimal": 1.44,
+          "drawDecimal": 4.4,
+          "awayDecimal": 8.45,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         }
       ],
       "probability": {
-        "home": 67.4,
-        "draw": 21.8,
-        "away": 10.8
+        "home": 66.8,
+        "draw": 22.0,
+        "away": 11.2
       },
       "reasonsFor": [
         "Partido actualizado desde The Odds API Scores."
@@ -3902,22 +3935,22 @@
       "marketChange": "Sin movimiento significativo del consenso desde la actualización anterior.",
       "bestOdds": {
         "home": {
-          "decimal": 1.47,
-          "american": "-213"
+          "decimal": 1.48,
+          "american": "-208"
         },
         "draw": {
-          "decimal": 4.93,
-          "american": "+393"
+          "decimal": 4.6,
+          "american": "+360"
         },
         "away": {
           "decimal": 10.0,
           "american": "+900"
         }
       },
-      "bookmakerCount": 24,
+      "bookmakerCount": 25,
       "oddsSource": "The Odds API",
       "oddsEventId": "88e032a2b2e5042d26db3f0da1df924a",
-      "oddsUpdatedAt": "2026-07-03T10:20:38Z"
+      "oddsUpdatedAt": "2026-07-03T17:59:44Z"
     },
     {
       "id": "9c7073ae2c29ee4881bb695f92168c68",
@@ -3946,23 +3979,23 @@
           "book": "PMU (FR)",
           "bookKey": "pmu_fr",
           "home": "+410",
-          "draw": "+235",
-          "away": "-137",
+          "draw": "+240",
+          "away": "-139",
           "homeDecimal": 5.1,
-          "drawDecimal": 3.35,
-          "awayDecimal": 1.73,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "drawDecimal": 3.4,
+          "awayDecimal": 1.72,
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Unibet (NL)",
           "bookKey": "unibet_nl",
-          "home": "+450",
+          "home": "+440",
           "draw": "+255",
-          "away": "-127",
-          "homeDecimal": 5.5,
+          "away": "-128",
+          "homeDecimal": 5.4,
           "drawDecimal": 3.55,
-          "awayDecimal": 1.79,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "awayDecimal": 1.78,
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "LeoVegas (SE)",
@@ -3973,29 +4006,29 @@
           "homeDecimal": 5.25,
           "drawDecimal": 3.45,
           "awayDecimal": 1.75,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "Unibet (SE)",
           "bookKey": "unibet_se",
-          "home": "+450",
+          "home": "+440",
           "draw": "+255",
-          "away": "-127",
-          "homeDecimal": 5.5,
+          "away": "-128",
+          "homeDecimal": 5.4,
           "drawDecimal": 3.55,
-          "awayDecimal": 1.79,
-          "lastUpdate": "2026-07-03T10:20:06Z"
+          "awayDecimal": 1.78,
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Betclic (FR)",
           "bookKey": "betclic_fr",
           "home": "+410",
-          "draw": "+258",
-          "away": "-135",
+          "draw": "+260",
+          "away": "-130",
           "homeDecimal": 5.1,
-          "drawDecimal": 3.58,
-          "awayDecimal": 1.74,
-          "lastUpdate": "2026-07-03T10:18:46Z"
+          "drawDecimal": 3.6,
+          "awayDecimal": 1.77,
+          "lastUpdate": "2026-07-03T17:58:11Z"
         },
         {
           "book": "Winamax (DE)",
@@ -4006,51 +4039,51 @@
           "homeDecimal": 4.9,
           "drawDecimal": 3.5,
           "awayDecimal": 1.76,
-          "lastUpdate": "2026-07-03T10:20:04Z"
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "Winamax (FR)",
           "bookKey": "winamax_fr",
           "home": "+380",
-          "draw": "+250",
-          "away": "-135",
+          "draw": "+245",
+          "away": "-132",
           "homeDecimal": 4.8,
-          "drawDecimal": 3.5,
-          "awayDecimal": 1.74,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "drawDecimal": 3.45,
+          "awayDecimal": 1.76,
+          "lastUpdate": "2026-07-03T17:59:20Z"
         },
         {
           "book": "Unibet (FR)",
           "bookKey": "unibet_fr",
           "home": "+450",
-          "draw": "+260",
-          "away": "-143",
+          "draw": "+265",
+          "away": "-139",
           "homeDecimal": 5.5,
-          "drawDecimal": 3.6,
-          "awayDecimal": 1.7,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "drawDecimal": 3.65,
+          "awayDecimal": 1.72,
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Codere (IT)",
           "bookKey": "codere_it",
-          "home": "+400",
+          "home": "+380",
           "draw": "+245",
-          "away": "-127",
-          "homeDecimal": 5.0,
+          "away": "-122",
+          "homeDecimal": 4.8,
           "drawDecimal": 3.45,
-          "awayDecimal": 1.79,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "awayDecimal": 1.82,
+          "lastUpdate": "2026-07-03T17:59:19Z"
         },
         {
           "book": "Pinnacle",
           "bookKey": "pinnacle",
-          "home": "+424",
+          "home": "+421",
           "draw": "+253",
           "away": "-128",
-          "homeDecimal": 5.24,
+          "homeDecimal": 5.21,
           "drawDecimal": 3.53,
           "awayDecimal": 1.78,
-          "lastUpdate": "2026-07-03T10:20:24Z"
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "MyBookie.ag",
@@ -4061,95 +4094,95 @@
           "homeDecimal": 4.9,
           "drawDecimal": 3.42,
           "awayDecimal": 1.78,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "lastUpdate": "2026-07-03T17:58:00Z"
         },
         {
           "book": "Tipico",
           "bookKey": "tipico_de",
-          "home": "+450",
+          "home": "+380",
           "draw": "+250",
-          "away": "-139",
-          "homeDecimal": 5.5,
+          "away": "-125",
+          "homeDecimal": 4.8,
           "drawDecimal": 3.5,
-          "awayDecimal": 1.72,
-          "lastUpdate": "2026-07-03T10:20:38Z"
+          "awayDecimal": 1.8,
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "GTbets",
           "bookKey": "gtbets",
-          "home": "+397",
-          "draw": "+245",
+          "home": "+398",
+          "draw": "+246",
           "away": "-127",
-          "homeDecimal": 4.97,
-          "drawDecimal": 3.45,
+          "homeDecimal": 4.98,
+          "drawDecimal": 3.46,
           "awayDecimal": 1.79,
-          "lastUpdate": "2026-07-03T10:19:52Z"
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Marathon Bet",
           "bookKey": "marathonbet",
-          "home": "+415",
-          "draw": "+255",
-          "away": "-127",
-          "homeDecimal": 5.15,
-          "drawDecimal": 3.55,
-          "awayDecimal": 1.79,
-          "lastUpdate": "2026-07-03T10:19:54Z"
+          "home": "+385",
+          "draw": "+244",
+          "away": "-123",
+          "homeDecimal": 4.85,
+          "drawDecimal": 3.44,
+          "awayDecimal": 1.81,
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "Matchbook",
           "bookKey": "matchbook",
-          "home": "+470",
-          "draw": "+260",
-          "away": "-122",
-          "homeDecimal": 5.7,
-          "drawDecimal": 3.6,
-          "awayDecimal": 1.82,
-          "lastUpdate": "2026-07-03T10:20:37Z"
+          "home": "+420",
+          "draw": "+250",
+          "away": "-114",
+          "homeDecimal": 5.2,
+          "drawDecimal": 3.5,
+          "awayDecimal": 1.88,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Betfair",
           "bookKey": "betfair_ex_eu",
-          "home": "+470",
-          "draw": "+260",
-          "away": "-123",
-          "homeDecimal": 5.7,
-          "drawDecimal": 3.6,
-          "awayDecimal": 1.81,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "home": "+420",
+          "draw": "+250",
+          "away": "-114",
+          "homeDecimal": 5.2,
+          "drawDecimal": 3.5,
+          "awayDecimal": 1.88,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Nordic Bet",
           "bookKey": "nordicbet",
-          "home": "+410",
-          "draw": "+260",
-          "away": "-125",
-          "homeDecimal": 5.1,
-          "drawDecimal": 3.6,
-          "awayDecimal": 1.8,
-          "lastUpdate": "2026-07-03T10:19:40Z"
+          "home": "+375",
+          "draw": "+250",
+          "away": "-114",
+          "homeDecimal": 4.75,
+          "drawDecimal": 3.5,
+          "awayDecimal": 1.88,
+          "lastUpdate": "2026-07-03T17:59:44Z"
         },
         {
           "book": "Betsson",
           "bookKey": "betsson",
-          "home": "+410",
-          "draw": "+260",
-          "away": "-125",
-          "homeDecimal": 5.1,
-          "drawDecimal": 3.6,
-          "awayDecimal": 1.8,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "+375",
+          "draw": "+250",
+          "away": "-114",
+          "homeDecimal": 4.75,
+          "drawDecimal": 3.5,
+          "awayDecimal": 1.88,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "1xBet",
           "bookKey": "onexbet",
-          "home": "+424",
-          "draw": "+262",
-          "away": "-122",
-          "homeDecimal": 5.24,
-          "drawDecimal": 3.62,
-          "awayDecimal": 1.82,
-          "lastUpdate": "2026-07-03T10:19:51Z"
+          "home": "+401",
+          "draw": "+256",
+          "away": "-115",
+          "homeDecimal": 5.01,
+          "drawDecimal": 3.56,
+          "awayDecimal": 1.87,
+          "lastUpdate": "2026-07-03T17:59:07Z"
         },
         {
           "book": "888sport",
@@ -4160,57 +4193,68 @@
           "homeDecimal": 4.6,
           "drawDecimal": 3.25,
           "awayDecimal": 1.75,
-          "lastUpdate": "2026-07-03T10:20:03Z"
+          "lastUpdate": "2026-07-03T17:59:43Z"
         },
         {
           "book": "William Hill",
           "bookKey": "williamhill",
           "home": "+380",
           "draw": "+230",
-          "away": "-133",
+          "away": "-125",
           "homeDecimal": 4.8,
           "drawDecimal": 3.3,
-          "awayDecimal": 1.75,
-          "lastUpdate": "2026-07-03T10:19:39Z"
+          "awayDecimal": 1.8,
+          "lastUpdate": "2026-07-03T17:59:43Z"
+        },
+        {
+          "book": "Coolbet",
+          "bookKey": "coolbet",
+          "home": "+445",
+          "draw": "+255",
+          "away": "-125",
+          "homeDecimal": 5.45,
+          "drawDecimal": 3.55,
+          "awayDecimal": 1.8,
+          "lastUpdate": "2026-07-03T17:58:44Z"
         },
         {
           "book": "Everygame",
           "bookKey": "everygame",
-          "home": "+425",
-          "draw": "+245",
-          "away": "-133",
-          "homeDecimal": 5.25,
-          "drawDecimal": 3.45,
-          "awayDecimal": 1.75,
-          "lastUpdate": "2026-07-03T10:19:53Z"
+          "home": "+400",
+          "draw": "+240",
+          "away": "-125",
+          "homeDecimal": 5.0,
+          "drawDecimal": 3.4,
+          "awayDecimal": 1.8,
+          "lastUpdate": "2026-07-03T17:59:33Z"
         },
         {
           "book": "BetOnline.ag",
           "bookKey": "betonlineag",
-          "home": "+433",
-          "draw": "+250",
-          "away": "-128",
-          "homeDecimal": 5.33,
-          "drawDecimal": 3.5,
-          "awayDecimal": 1.78,
-          "lastUpdate": "2026-07-03T10:20:36Z"
+          "home": "+415",
+          "draw": "+253",
+          "away": "-127",
+          "homeDecimal": 5.15,
+          "drawDecimal": 3.53,
+          "awayDecimal": 1.79,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         },
         {
           "book": "BetAnything",
           "bookKey": "betanysports",
-          "home": "+433",
-          "draw": "+250",
-          "away": "-128",
-          "homeDecimal": 5.33,
-          "drawDecimal": 3.5,
-          "awayDecimal": 1.78,
-          "lastUpdate": "2026-07-03T10:20:14Z"
+          "home": "+415",
+          "draw": "+253",
+          "away": "-127",
+          "homeDecimal": 5.15,
+          "drawDecimal": 3.53,
+          "awayDecimal": 1.79,
+          "lastUpdate": "2026-07-03T17:59:31Z"
         }
       ],
       "probability": {
-        "home": 18.5,
-        "draw": 27.4,
-        "away": 54.1
+        "home": 19.1,
+        "draw": 27.6,
+        "away": 53.4
       },
       "reasonsFor": [
         "Partido actualizado desde The Odds API Scores."
@@ -4226,22 +4270,22 @@
       "marketChange": "Sin movimiento significativo del consenso desde la actualización anterior.",
       "bestOdds": {
         "home": {
-          "decimal": 5.7,
-          "american": "+470"
+          "decimal": 5.5,
+          "american": "+450"
         },
         "draw": {
-          "decimal": 3.62,
-          "american": "+262"
+          "decimal": 3.65,
+          "american": "+265"
         },
         "away": {
-          "decimal": 1.82,
-          "american": "-122"
+          "decimal": 1.88,
+          "american": "-114"
         }
       },
-      "bookmakerCount": 24,
+      "bookmakerCount": 25,
       "oddsSource": "The Odds API",
       "oddsEventId": "9c7073ae2c29ee4881bb695f92168c68",
-      "oddsUpdatedAt": "2026-07-03T10:20:38Z"
+      "oddsUpdatedAt": "2026-07-03T17:59:44Z"
     },
     {
       "id": "537c0997cd899394f47f16545b7068b2",
