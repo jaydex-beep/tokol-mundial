@@ -2,7 +2,7 @@
   "meta": {
     "title": "Radar de partidos — Mundial 2026",
     "timezone": "America/Mexico_City",
-    "lastUpdated": "2026-07-04T10:17:40.263705-06:00",
+    "lastUpdated": "2026-07-04T15:43:33.600615-06:00",
     "refreshSeconds": 60,
     "sourceNote": "Calendario y marcadores: API-Football. Cuotas 1X2 y probabilidades sin margen: The Odds API. Las probabilidades reflejan el consenso del mercado, no una garantía ni un modelo propio.",
     "theOddsApi": {
@@ -14,10 +14,10 @@
       "markets": [
         "h2h"
       ],
-      "eventsReceived": 8,
-      "matchesUpdated": 1,
-      "requestsRemaining": "490",
-      "requestsUsed": "10",
+      "eventsReceived": 7,
+      "matchesUpdated": 0,
+      "requestsRemaining": "489",
+      "requestsUsed": "11",
       "lastRequestCost": "1",
       "unmatchedEvents": [
         "Paraguay vs France",
