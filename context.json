@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-05T16:17:41.404496Z",
+    "updatedAt": "2026-07-05T21:41:52.230360Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -79,12 +79,40 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "Tensiones sin precedentes en Senegal... Los entresijos de la disputa entre Mané y Koulibaly - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3VidVI5MkVkUkdKdV9nRGZCVVYzRVRZQkZjUm52MzUwUVRpLU0wMV9vTml0UXFkOUJkQ1IzUXFERGJEMGdkSjBaOG5MODRmYzJDUFdiNURnUWY0VTBtUWdOeWlaOFdXUWRfUkl5MlFuNENqa3ZTdzVZaG1td2I0R0dQNng1NE9JYmwxNE9ZaHdDaWt0ZWZiMW9QUC1IYTRzN2k4RGhOdHNWaXR6dmw3S3pCRS1mRlNmN1FUcF9XUjVQTWxzcnVUOVRYYW1NR2lGVlNnM010Yl8xaG5W?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 03:13:06 GMT",
+      "seenDate": "Sun, 05 Jul 2026 21:18:34 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Senegal"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Bélgica, García sobre el caso Balogun: «Es una broma de abril. Defendamos el fútbol» - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtkY19NWDZkUnhZdmg4MGVlN1NVZFI5dTRaUEV2YlhHMUJRa1NuajFkVC1Kam94YXBlNHBOb3hXalIySldDR1oxODZfMWpQNkNHZDd4M3NTcGE4MVZPVXB2MENRdnpiMWNtSmtqMEQzZzR3WlhoeG5XcjE3bHA3azhJS19xaHpadWxhd0FXZ1lBSkZlek8yS1ZMdE5LMkY2Nmx4WS1tcXBnTk5JOUNFQ3FnbWtodkdDY2hPaHdIbXlvYjdBVWl4X0FOT0U4RkdN?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 05 Jul 2026 21:09:59 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿Se retira?... Comunicado urgente de la Federación Belga tras el «regalo» de la FIFA a Estados Unidos - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaVh6a01hOWlEMzg1YWtpLWpvT0hpREd2cURyWkh4aE1TX0R3a01aSGl2Y0JacG8td0lyVnJuY1gzT1hFOU4ySHlmRGI3QXpuNEJPQm1HcHdFU2d1bUhXbXhhNzBxd1N2Ylh1em5ubmYtRXV4T3ljVTloVThzMUZHS3JmMXJuUTk2QzVzdFpaTlhZRVZGOURxV0ZBclkzN1lTRHhTN3pwTHEwYk5CWnlrbFU5UEhGSGxMUzNudzJScHQ2bm1rRG4wdGtVd1d0cXJ4M1JqNjdadTRQNXNvZy1CaXlxeEE?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 05 Jul 2026 20:59:57 GMT",
       "image": "",
       "matchedTeams": [
         "USA"
@@ -93,42 +121,58 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
+      "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
       "image": "",
       "matchedTeams": [
-        "Belgium",
-        "Senegal"
+        "Belgium"
+      ],
+      "tags": [
+        "sanción"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "La prensa española se rebela contra el regalo de la FIFA a Estados Unidos: un escándalo mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSjR6amFuLXFmWXJmN0dqd3JYb19vWTJtREF1UFNYemljM1hmZWhFLWZuTzY1eFpqcGFiVUVGOXpGN05sQlNLbE5jaFU0ZFNEbFVYamY0Wk9GR2w5X0p1UUYtaU1XSGZRYUZBSnU5LVVoSzBxSDZDRko2QXlRMkFhalFGQVNjZ0Jsek00WklldkZZWHpjUW1QRUFGbzJjNW55MGJHdGV4Z2RmbDI4ZVVhQU93ZE52VjQzZGY4eVEtT2s4LUVkclZ0UE1TWW93ZGYzbi1oZGFpOHMwUlY1VmhDX0xMTDc?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 05 Jul 2026 19:24:52 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
+      "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
       "domain": "onefootball.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
+      "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico",
-        "England"
+        "Norway"
       ],
-      "tags": [],
+      "tags": [
+        "alineación"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "FIFA World Cup 26™: What to look out for in Brazil v Norway 🇧🇷🇳🇴 - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjR1Zmh4dWw4bVNFc0s2SS00cld2RnEyZ1FwTE00eGdIaVhrYzNTc3Bub215WHdDTFhzZFJrZlVpNjJQMUFzT0VSUjhHNmQwLWlLeUlneEpCV1pkOUFzaDV2UnJCcmo1QWptcUd0UDRhVk0wa25ZNWs4Q1ljdk4zRlRVYWVGS0ljeHA5bmU4ZjBSNFdPdFBtQWZUTlpLdWlGQU1lOA?oc=5",
+      "title": "World Cup: Heavy RedBull influence during Brazil vs. Norway - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTURRZFFQUDdiWFo0Q1BvM19EU0dCR241Z0xId3ppN0hsQ2plZkk3RjVBM2NYWjR1cWlZT1dTOHJUc0tpdW5aeFY5V1F6cWpFQVdEcWxtbm55ZXluV185LTVWTFVETllGYWZnbmhnS25fNzAtUjB5d0RUd3Z1ZkNtczBqZ3dEazk0czBwZy1uM1UxUzRudUVEaWlXU2pXUzhBRGlGVQ?oc=5",
       "domain": "onefootball.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 10:54:24 GMT",
+      "seenDate": "Sun, 05 Jul 2026 18:43:30 GMT",
       "image": "",
       "matchedTeams": [
         "Norway"
@@ -137,98 +181,73 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "VÍDEO: El portero paraguayo Orlando Gill lanza el balón a Kylian Mbappé tras rechazar este darle la mano; la estrella francesa calma un tenso duelo mundialista - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQX1RmQzc2T1E3WjlVLTFmYnlKQWJxalRpMEIwUDBuUzdYWXhuU0VlMTVfcXd0bTBaRXhDbHQteUlnNjB3alo3eXplY1JYcVhUVV9IWThLTlNTaVJOSTdXOFdLRlVfSmQ0azBsYWZjbU9XREZfcU5JTHdfd2NwTWdxR0N3c0I0d19sRGFZTW0xOXctODNiOXFveWsyemZieVhjVm5rS084cm55LWZhVzEzN2x1STNvVGU2dmNHc2ZmVHNqdTRNbTRyOWtPbUdqT3lGRFNDVWd2cjg5d2t3QXdlYzJNVS14Qks0OC02UHFrdzZnOW9BMmZTQ3FyUDB2dWNZUGxjR2M5ZFNXT0FobGhzRjdBWVpqV0JoOVhVanUxdEdPQzRCNVV3dnU4YUI3ak9JNGFxWmlab3dRdw?oc=5",
-      "domain": "es-us.noticias.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 09:10:59 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mexico Vs Korea Republic | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFFhT0JjZmFhU2R0OU5FN0xNa0wwTFd3cXFWSEJtUVkxNzRPQUZyMHV0X01yMlhBcllhUXpsQVBsODNSUHVaZ09Ucm11SmV1WjlxMkJ0ZUlxSUEycXNDczBJRGtGS2k5aUdpamxEQWlNeGFVdHN2UTcwcl8tcG9fV29mWFcySGJfQzY4QzJYeG1UZGVCUGlTYzZncVlfTFVwdXpwRlI0WkNmMXRycHlWNERybDdLYV9sSVItakQzczRpYXJ2YU1adlB3?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 07:33:04 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "VÍDEO: El portero paraguayo Orlando Gill lanza el balón a Kylian Mbappé tras rechazar este darle la mano; la estrella francesa calma un tenso duelo mundialista - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVTBvRTR3WkRaVXhESVc4NE4tYWlSLVhRZVRIQTFldjRCeUhrOUk3dUkwbFhuZUVrTm5keWpPNURFQUJ6LWQ3VTExT0V1eDZBekJhTk9WUXF0cUJxaExjNzBxYVJfT2RWVUliajZ4TEhBOXJUTFlLU3YwVlFBMDVaaUI2SzZnSE9KNlp4Z2tuR1FVUXRqVVkxWWJScEk3cXEyb1VMUGRoSl9uVktjSWlxc1g4MEhqZ0lvZ0NJclRLYTJ6RGU4b2NxbHNDaG9IT29RSzNfSW1DbldvVUNqZDR6VGpHTUtUWm5fOXVlUXFpT2xWLTJpWGxLRHdYdDg5cGN4V3NRZjc5LVB6ZnppeDJZZGphMU5pLUZNaXZMcFoxSFNXR0dOSjV1NmJ2VUhpNkJfN3pFN3A5UUY?oc=5",
+      "title": "El delantero de la selección masculina de Estados Unidos, Folarin Balogun, vio roja contra Bosnia y Herzegovina, pero su sanción de un partido se aplaza, así que podrá jugar contra Bélgica - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWG1VOHp4LTY1SmVwSFZPbkw5Q1pUODNWWnFRZEVrdGNCZllsb280dXNidXJlaXNiWFpJVnFYTlVMek5SSXpzTHF0QWxSbDY3TEl6d0ZLS21iN0dKNEI1cUJsU093elUxYi1OUkxiVm9fVE5SRkl2U2hNVlpNNGpuUWRJQThlcFYxMWFJODFuQjJfVUp4MG1GVlNqeFpoY1BBb005ZXBoU3RZcUZ3RWtXRnlLMm9SNFNrUWVWLTBVM0txY0NBR2thaUhzODlBUmtlTVUxUHN4Ym1yaHFkMkZXWTVUYnZMTjBkTEI1Q0ZYcnVtMXVsODhfWVI2eE9sWDBOd29vOWRmZmJBUzdpb2hYRnd0SFdseFhSdEtuQ2IwNkVoVldiUS0yazBwd0NpSjIyZDFtQU9BTl9WRTdaSm1QdXdPWVB0ekZ3U3pSOGgzdXZReVBpd2x0d3N2UmY?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 06:38:24 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Cuatro victorias, portería en cero y un récord histórico: México enfrenta a Inglaterra en los octavos de final de la FIFA World Cup 2026 - El Informador",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWERIa19TZ1ZfQ0NKa2tkTUFuUDh6TDgtYzFJaWpoZnQtWGhOb3ZZa1BiNFNQVl8tcFQxVmFPVlJwc0xmWVMwMUtlQ0ZJa2F0ckZtWW9laG82X3I2TTUzNEFLVVJZUkp0dlVsUVBJTy0xamtMWkt4VS1BaE9YNkV4N3hpbEw2NklsekdRNVNQWFVkcUlDVHktMlc4N3lfX29xR0pONENtSnQ1X3gtMU8xWUZhRC1kMDRzdDhQYTlyWktLTjBSYTFBVjkyWG15c1NMQm1JbGI0TDBZY19aa3c3UWlpakljMmFNMWhucml6cmwzQkR5eXJIVC10bjF5SEIwZFZWUXdjRVVRbU1UNmRWRDVyQzBZOVHSAZwCQVVfeXFMT0h2U0FyOEdUNVc3LXBLdzlRVlhXUVlVbndUc19pMlJLZk14R3F5NEdiTlZvTmNXUGItaUZEcjhTbUZCTVduSGVYMHdCOUFrcDFuTGxXVy0tQjB3YlhXM25PQ2V6UG5kS19wUVhVeGU0TlBseUdKU0IyNTYxXzlSb1RVSEtSM1BMaldPcExlOEJ1OVBXQ0hkUGM2X090RzZSeFBrYkFCMkNEczNLa3hYVHFGWUptellvR2FfOUFvRi1sVlQ4aUlHNXdHcTQ0c09Bd1JXNjdLOWFQZnhxbVpQT0hvSHBYZ09Vc2piVWVvN2N5YkxWdF9LN29LOGJFWWVoTURpZUJUWDZmMjZRdXVKbWl6VGEwNnZ2aVlYMDQ?oc=5",
-      "domain": "www.informador.mx",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 00:42:35 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 04 Jul 2026 22:28:45 GMT",
+      "seenDate": "Sun, 05 Jul 2026 18:04:48 GMT",
       "image": "",
       "matchedTeams": [
         "Belgium",
         "USA"
       ],
-      "tags": [],
+      "tags": [
+        "sanción"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "¿Afectará la altura y el Estadio? Javier Aguirre adelanta lo que pasará con Inglaterra en los 8vos de Final vs - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcHNRTkY2a2RVSFV2bnFia0VkV2ZIXy1aR0JjX1ZiM2ZTR3haUnpCUkJyR3plMU5xT2IxX0MyUUtDQjMxTlVuOGhJNGNVQ1BDYnJGSm1Hdl8tVjRnZDItNlc2Yk1fcmtheUdqV2pQN0RINUZnbUgzY2ZFQmxFTHNjaXl4T29CMlhpYkJucURDWUV5Wi1SLXNlbnh3Y1VabGRBcElBZ1dIaEk3aV9sZnZqUk5fQ2hIV2FFQklFaNIBygFBVV95cUxPejJwMTllaGd3RHlNS0FYOU1DRXN6b2JreVFJcXl3NXlDdTVtS0JKMjZsa2pNLXV5MGotb0J6bmNiSy1oZmtPODNvNDg3RmNybTNKZGhMRTd3SDRMc3IxUHZ6amM0NXluSkd3OFA0WmVwdnlqZmNRR2F3cms2aXlxcjFDM2hoNS1Hb3laei1KLVhjaUVqZVhBY3VWdnlMbUhreXJYMGtBZlYwRWdjN0xvRkRwVHg5NDNyeVE0MHFyV1dwdDBaMnc2ak53?oc=5",
-      "domain": "www.tvazteca.com",
+      "title": "Ver Congo DR vs. Senegal Online en Directo | DAZN MX - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSTdhSDJNNXNvcmFlUFNsQWkzTVc4ckE5NEdYT25Qd21nYS1ieV9nUDQ2NjZycFNrVFRtaDYwMFZZeG9RR2s1b2xnQTd1d0dNNWRaR3NGU21jYl9HYnlhd3R4bzNiMElBcFdJSVRiOFJPNU9zMm83TVpiem1GU0lNYm45V2RCM2JIRlJpNQ?oc=5",
+      "domain": "www.dazn.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sat, 04 Jul 2026 21:17:10 GMT",
+      "seenDate": "Sun, 05 Jul 2026 18:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "England"
+        "DR Congo",
+        "Senegal"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "México toma nota: así quedó el equipo ideal de los 16avos de final antes del duelo contra Inglaterra - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0NXVDZFb3VhVC0waUt2bE8tMld3RE5pUjVSaXpsdWpET1hnVGRpRTlfclpPaEZZT0NpYVlQS2hSMEdkbm5vVDE1NUo3T3J2dFpjMkU3RktJbTVXandIcHZ6aWV0NlVidU11cFVzZTdmSERsMkJRMFF6NVFKWWloNTFRSVBzRkVqV2tJdmJRMWZpanVORGF1azFPbHlieG96OG9JUjhQMXN2UHY0NFhCRmhPVUpfamdKTXRYRkFPbnZBUDTSAdABQVVfeXFMT1BZZlBZRjVFMnF4dXlMZXFEaU9rYkVEcVQySEU2M1lMcWFfNk9haEdWQUs3blVPMEdxS0VUMm1uV05VeVZ4Mi16dW03dnQyM0VVbno1dkpKOERRWFJjeENtV3dIZVlLUkFadTNFZmx0Y2hBbUlyemNvYUNvOWhqbnRPU29uLTlQSDdkbEZDWWRURTRxQkVJelF5SFRkRi11cmFuMnhwbk1pR2gyeUh1SEluR3dVejdhM3ZwNmUtVTBUNjhrWXEybVN6NXRaV2lITQ?oc=5",
-      "domain": "www.tvazteca.com",
+      "title": "Watch Mexico vs Ecuador - tod.tv",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0NabHNhbFY3azRDdVUxM2FuUnk3eGRqclV5RWxmOTladzR6M3V1Q0pRVDlMaFJ4cVExUTctRFJ2Nm1fNEgwejFPbjJ6bXFuTDAtS0lyNHFicmE0Z3FKQjl5ZVhMa2ZoOGV0Uy14b05iYm1jV3RCYjlXWmtsMTlZbGttUHVLNXZqY0QxeFZfNlNlakdy?oc=5",
+      "domain": "www.tod.tv",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sat, 04 Jul 2026 20:39:54 GMT",
+      "seenDate": "Sun, 05 Jul 2026 17:12:07 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Japan Vs Sweden | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdG1oYm9MVEVhSXF2TzRXcG93YVk0RkNzVER5V3FFc0RCNk5zczZLSTNPLXA1QVh2R2s5amVmQjFlTkZyQno4Nk1tbXpjUlc0UzlIV3ZFRG0yU0FYMTQzb096Ml9aa01GUkluS2kzSWhLclhWNXZjdjFuSzQzbnc4a3dta2NtSnA5RjdRRzJNc05PQTg2SEZhZC1ETEFwVGZOakYwTDVzSW53R2NGVkU5czlsNWFRUkY2aGo4V1VB?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 05 Jul 2026 16:55:59 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Sweden"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 05 Jul 2026 16:27:15 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico",
@@ -238,56 +257,43 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Contra quién juega México en Octavos del Mundial 2026: Con qué rival se cruza en 8vos de Final y su camino de Cuartos de Final en adelante - olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOWxEZ3Z3bDdLa1NhMG9UYmdfeXB1UElZajF2ci01b0NZdjRIUU5Ld1V2eWlEZzZGUnNPbnZsTXZOeFVNcXI5NW5NdVJfSVJUR21QTnE3V3lybmYwczF5cUQ1djN2UmhVanExYmoxMXJZME1DXzVkc0pWZXVYeWs?oc=5",
-      "domain": "www.olympics.com",
+      "title": "FIFA World Cup 26™: What to look out for in Paraguay v France 🇵🇾🇫🇷 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3NOVHRWcFM1S1FSSVo3RmhLMGUzZUNlRjI0dUJhcHdzaGh1cHNhdkYtZjMybzZMaEhNQzRmVWxiZVdHdHJrc202bWVkdG1zbUVSaGs2N19vY1Bubmk0ZUQyd1pDVURuczJaaWtNVlhaRzQwUm8yMnZibGN3TWF0R3hqYV9DU3VneFJ1VlFlRTk1ZnFrSXVCTmdjdTJXeHcyeEpOZkdVOA?oc=5",
+      "domain": "onefootball.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sat, 04 Jul 2026 19:28:00 GMT",
+      "seenDate": "Sun, 05 Jul 2026 16:24:34 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico"
+        "France"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Raúl Jiménez lanza advertencia a Inglaterra antes del duelo ante México: “Nadie es invencible” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkw1R2txSl9lcnZ0Ni1OSVJGbnJ5NlZmd2RTckRLaWFSYUxMU1pmenZHTDQ4VmVBbmRBRWlLOWQyQkxWZU9rSnJtajl1anRtak9jZ3dsYlRUM2hwMWF6RnZTR2cyR3ZYYmZrWkFBeGVqYTBBLWpneUJodTFPczl0TUJXSXpTN1BnNWdsaDVNcFRGeWs1OVBpd0xuSFpoQ3JHaF92Z0hpbVJRWUNKVEZ0MmhqbTUxSlo0dFhNVjZsX2lxMU83WEc3U1UwMG5HWk5rei01anFFckk0WWvSAfYBQVVfeXFMT2tDWmdjTzM1cDFVVHpMWFFmOS16MXBka0pXc2FjTFd3MW5yUG9ZYm1MRDdhVm8zbHplM01MTEpaSDVHaTRReUFxNk43b3Q3bmN3THItU2kxa3dRYmJkM0FqV21jZzBqZ3BrUzJldFY2MTl3QXduaTB5TmU1UGFtdGljUjROd2YxczZqUGRCSXRNS3dpSUE1RmhjVWU0XzJDYVh1VzVpaXA4TWJRSFg5NmRxeUdVZWRSbXJoeUFxWGR2ZjdlUGJKYXdhTzlCRGRYdnpTMVNZRG5DNDh2SGZST2JDZTlsM3BkR3pHelRXYXlfcmRSZTNR?oc=5",
-      "domain": "www.infobae.com",
+      "title": "Pronóstico para México vs. Inglaterra, selección para el domingo 05/07/26 - DraftKings Network",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmlaOEp4UWFNVXV6TUV2b3Q4RmJrWmx6S2x1YjdjXzNrV1JoMzBCQ0xzU0RRWVdiSDc3eURoQlBpTVdjd3JzS3ZsQW1jRnV2TTFlSzdZVzlfQnJQVDVpWTBweHlfbFBCQ2l5U21IdG00TnF6Ui0zRjlKeFRKMXZuOXFPd3lqTFhqSkt3aWdwRm85MTFOTm9tb1EzSkx5VHVMclluWlZvLTNibktqa1FiS3BtU0RQRDdSZlE?oc=5",
+      "domain": "dknetwork.draftkings.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sat, 04 Jul 2026 17:13:38 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 04 Jul 2026 16:51:00 GMT",
+      "seenDate": "Sun, 05 Jul 2026 16:15:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico",
         "England"
       ],
-      "tags": [],
+      "tags": [
+        "previa"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Joi: México puede eliminar a Inglaterra del Mundial - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGV6N3RudzczM1hvVVU0U3RQV3NPUjVKQ0drR2hkZVNBLWlST1U1ejZ5YmVMSEpXcml1U3Y5ZkVlOFY4ZVB2VTRkYmhjdmJZaklacWhPODBQOHM1cGdxREo4Mk5rdVJKWFBpZXBEYkNiZ1M5YWo0NkVvZGpNaW1zNmtFN0JvZG0ya2kzUnpRRWEyQWVNM19Tdmw0TzNoamRaTzRGdERUb0s5QQ?oc=5",
-      "domain": "www.goal.com",
+      "title": "México vs. Inglaterra en vivo y gratis: cómo ver el Mundial 2026 desde cualquier lugar - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmRRcUkwdTF0SlowcGw1UTNLbllUZXZsRElJbEp2ZFpwZXd4M2RDVkVxREFmcGJpTFVXTVlockVKWjM5TnFybi1uczhrRnRBald0VzhvcG9IS2NTZlROSnEzWWY2N1BqMmNOWDBWS0ltTGllV1JnRUstMW9KMUVFSHY4eVBJNFVUUl9YVVZTNDlQdDE0ZlE?oc=5",
+      "domain": "cybernews.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sat, 04 Jul 2026 12:56:46 GMT",
+      "seenDate": "Sun, 05 Jul 2026 15:00:34 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico",
@@ -299,6 +305,36 @@
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup: Heavy RedBull influence during Brazil vs. Norway - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTURRZFFQUDdiWFo0Q1BvM19EU0dCR241Z0xId3ppN0hsQ2plZkk3RjVBM2NYWjR1cWlZT1dTOHJUc0tpdW5aeFY5V1F6cWpFQVdEcWxtbm55ZXluV185LTVWTFVETllGYWZnbmhnS25fNzAtUjB5d0RUd3Z1ZkNtczBqZ3dEazk0czBwZy1uM1UxUzRudUVEaWlXU2pXUzhBRGlGVQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:43:30 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA World Cup 26™: What to look out for in Brazil v Norway 🇧🇷🇳🇴 - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjR1Zmh4dWw4bVNFc0s2SS00cld2RnEyZ1FwTE00eGdIaVhrYzNTc3Bub215WHdDTFhzZFJrZlVpNjJQMUFzT0VSUjhHNmQwLWlLeUlneEpCV1pkOUFzaDV2UnJCcmo1QWptcUd0UDRhVk0wa25ZNWs4Q1ljdk4zRlRVYWVGS0ljeHA5bmU4ZjBSNFdPdFBtQWZUTlpLdWlGQU1lOA?oc=5",
@@ -314,6 +350,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -326,62 +392,37 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Usa Vs Bih | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG9ZX2treE5kS2lZZlFxbXppb1d4ZUN6MF9oQ3pPLXY2dkVlV0NFMFYzRG9MTi1GQ3ZYblFVV1dCdVRZYWdzU3JrMmpZMkhMZUxUWWhoTHAxM2U0VGIzSlM4a3loaExWa2RQVU4yTnlTVU1qV3VhV1BkemhlVkE5STdiNUN3REtPQWhLLTJ4VXVtcDI0dlFpVE44aHludkh4dHllV2JSRnJxaUJHTFFYVWppSHMwS0k?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 03:18:13 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "Japan Vs Sweden | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdG1oYm9MVEVhSXF2TzRXcG93YVk0RkNzVER5V3FFc0RCNk5zczZLSTNPLXA1QVh2R2s5amVmQjFlTkZyQno4Nk1tbXpjUlc0UzlIV3ZFRG0yU0FYMTQzb096Ml9aa01GUkluS2kzSWhLclhWNXZjdjFuSzQzbnc4a3dta2NtSnA5RjdRRzJNc05PQTg2SEZhZC1ETEFwVGZOakYwTDVzSW53R2NGVkU5czlsNWFRUkY2aGo4V1VB?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 16:55:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Sweden"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 26™: What to look out for in Paraguay v France 🇵🇾🇫🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3NOVHRWcFM1S1FSSVo3RmhLMGUzZUNlRjI0dUJhcHdzaGh1cHNhdkYtZjMybzZMaEhNQzRmVWxiZVdHdHJrc202bWVkdG1zbUVSaGs2N19vY1Bubmk0ZUQyd1pDVURuczJaaWtNVlhaRzQwUm8yMnZibGN3TWF0R3hqYV9DU3VneFJ1VlFlRTk1ZnFrSXVCTmdjdTJXeHcyeEpOZkdVOA?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 16:24:34 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "VÍDEO: El portero paraguayo Orlando Gill lanza el balón a Kylian Mbappé tras rechazar este darle la mano; la estrella francesa calma un tenso duelo mundialista - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQX1RmQzc2T1E3WjlVLTFmYnlKQWJxalRpMEIwUDBuUzdYWXhuU0VlMTVfcXd0bTBaRXhDbHQteUlnNjB3alo3eXplY1JYcVhUVV9IWThLTlNTaVJOSTdXOFdLRlVfSmQ0azBsYWZjbU9XREZfcU5JTHdfd2NwTWdxR0N3c0I0d19sRGFZTW0xOXctODNiOXFveWsyemZieVhjVm5rS084cm55LWZhVzEzN2x1STNvVGU2dmNHc2ZmVHNqdTRNbTRyOWtPbUdqT3lGRFNDVWd2cjg5d2t3QXdlYzJNVS14Qks0OC02UHFrdzZnOW9BMmZTQ3FyUDB2dWNZUGxjR2M5ZFNXT0FobGhzRjdBWVpqV0JoOVhVanUxdEdPQzRCNVV3dnU4YUI3ak9JNGFxWmlab3dRdw?oc=5",
@@ -411,68 +452,46 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Vale Michael Olise 223 millones de euros? Un exdelantero francés comenta las «cifras descabelladas» del interés del Real Madrid en el extremo del Bayern - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNblFCTWtqN2k5VGxrZTZWMk11d1lSNEFwVTkwVUtOeEVPZ0d1ckVTNHpNQXVLMmNzZGFwdU1MZnVLTkZLXzc4SDAwVUhleTNIaUVPcjBjNnZESnNKZE03dnVuSGdnb3hGTXlqVEFRSnVDeVgtRl9Dd1RXSXNVVFdBWUoyTWNmdDcxcXpidmVoTnB5SGQ3dERiMG1oV2xSVkkyMkJmWHp6RWROdWZnanpmOWhXQ0FOUzd3bjBKa1hzTTRpb0k0QXJ3aVdPS1BCQWt5UkU2ZXkwTy1MdTNuU1h6ZFA0SzBwSXZyb1JTWnQycXNsaUJWMnhuMDVhdWQtNFZmT2RXYkJhLTU0aVNtNXkxaVhqWXBRVGdlS3hIeWo3WmJkM2F4emhLMlZGa0ZOUQ?oc=5",
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 14:04:37 GMT",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
         "image": "",
         "matchedTeams": [
-          "France"
+          "Belgium"
         ],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Norway"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Usa Vs Bih | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG9ZX2treE5kS2lZZlFxbXppb1d4ZUN6MF9oQ3pPLXY2dkVlV0NFMFYzRG9MTi1GQ3ZYblFVV1dCdVRZYWdzU3JrMmpZMkhMZUxUWWhoTHAxM2U0VGIzSlM4a3loaExWa2RQVU4yTnlTVU1qV3VhV1BkemhlVkE5STdiNUN3REtPQWhLLTJ4VXVtcDI0dlFpVE44aHludkh4dHllV2JSRnJxaUJHTFFYVWppSHMwS0k?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 03:18:13 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
+        "tags": [
+          "alineación"
         ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
       {
-        "title": "Beccacece deja de ser el técnico de Ecuador tras la eliminación en el Mundial 2026 - W Radio México",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlpsbjNSc2gtbVgtSmJrN2tyZlVOZGVjc1hmb2JqUE9BZlM5dnpqRmRVTWNHSFM1UmtDVlBGSjdxZ2o1ODhma2FHajBjRmhOM0dvQTlhOUNEcnBJdmZJOGlPTVkzN2x2VlRYYU5UMGZGTVN2STg1d3BLZ1R1UWstUXdCQk01RVkwZjJxMjRZRzZhQUpuQjhQYkFEN3JHcnl4eTJPTmphaThhRWFGVEFtbmxrQWx0MEk?oc=5",
-        "domain": "wradio.com.mx",
+        "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 03:51:21 GMT",
+        "seenDate": "Wed, 01 Jul 2026 03:50:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -482,12 +501,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Watch Mexico vs Ecuador - tod.tv",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0NabHNhbFY3azRDdVUxM2FuUnk3eGRqclV5RWxmOTladzR6M3V1Q0pRVDlMaFJ4cVExUTctRFJ2Nm1fNEgwejFPbjJ6bXFuTDAtS0lyNHFicmE0Z3FKQjl5ZVhMa2ZoOGV0Uy14b05iYm1jV3RCYjlXWmtsMTlZbGttUHVLNXZqY0QxeFZfNlNlakdy?oc=5",
+        "domain": "www.tod.tv",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 03:50:00 GMT",
+        "seenDate": "Sun, 05 Jul 2026 17:12:07 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -526,12 +545,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
+        "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
+        "seenDate": "Sun, 05 Jul 2026 16:27:15 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -541,15 +560,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs Korea Republic | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFFhT0JjZmFhU2R0OU5FN0xNa0wwTFd3cXFWSEJtUVkxNzRPQUZyMHV0X01yMlhBcllhUXpsQVBsODNSUHVaZ09Ucm11SmV1WjlxMkJ0ZUlxSUEycXNDczBJRGtGS2k5aUdpamxEQWlNeGFVdHN2UTcwcl8tcG9fV29mWFcySGJfQzY4QzJYeG1UZGVCUGlTYzZncVlfTFVwdXpwRlI0WkNmMXRycHlWNERybDdLYV9sSVItakQzczRpYXJ2YU1adlB3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "México vs. Inglaterra en vivo y gratis: cómo ver el Mundial 2026 desde cualquier lugar - Cybernews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmRRcUkwdTF0SlowcGw1UTNLbllUZXZsRElJbEp2ZFpwZXd4M2RDVkVxREFmcGJpTFVXTVlockVKWjM5TnFybi1uczhrRnRBald0VzhvcG9IS2NTZlROSnEzWWY2N1BqMmNOWDBWS0ltTGllV1JnRUstMW9KMUVFSHY4eVBJNFVUUl9YVVZTNDlQdDE0ZlE?oc=5",
+        "domain": "cybernews.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 07:33:04 GMT",
+        "seenDate": "Sun, 05 Jul 2026 15:00:34 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Mexico",
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -572,6 +592,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 16:27:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México vs. Inglaterra en vivo y gratis: cómo ver el Mundial 2026 desde cualquier lugar - Cybernews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmRRcUkwdTF0SlowcGw1UTNLbllUZXZsRElJbEp2ZFpwZXd4M2RDVkVxREFmcGJpTFVXTVlockVKWjM5TnFybi1uczhrRnRBald0VzhvcG9IS2NTZlROSnEzWWY2N1BqMmNOWDBWS0ltTGllV1JnRUstMW9KMUVFSHY4eVBJNFVUUl9YVVZTNDlQdDE0ZlE?oc=5",
+        "domain": "cybernews.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 15:00:34 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
         "domain": "onefootball.com",
@@ -602,42 +652,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
-        "domain": "www.infobae.com",
+        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 16:51:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Joi: México puede eliminar a Inglaterra del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGV6N3RudzczM1hvVVU0U3RQV3NPUjVKQ0drR2hkZVNBLWlST1U1ejZ5YmVMSEpXcml1U3Y5ZkVlOFY4ZVB2VTRkYmhjdmJZaklacWhPODBQOHM1cGdxREo4Mk5rdVJKWFBpZXBEYkNiZ1M5YWo0NkVvZGpNaW1zNmtFN0JvZG0ya2kzUnpRRWEyQWVNM19Tdmw0TzNoamRaTzRGdERUb0s5QQ?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 12:56:46 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Qué pasó con el horario del partido México vs Inglaterra en el Mundial 2026? La cronología de un cambio que no fue - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1VLcXNENVVIS0tpUXlzZ2VlM0NCaXZ4Y3E4Qy1tei1uUV82dmZFc2hvUHFPLU9keUNYLTBTREdicnp6d0ZMemJlTDZXQzdKZlNZMlFSbkJRU2NkU1p4M0JDVG5DNmRZUmJTWUdYcDRNNnFFYjdfMmI1UEJmRHBtdW9tRUkzUWdSNVYwbTZaWGo4SWR0SExoYTdqTEdvbVFIMTdoa0lMZ21xR1cxTG5wMDhzeFpSQlEzUktsNjFrS25tZk0wV2VEZV9GZXR5SnZuR3ZqQmRFM05UcW85Y3c?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 12:32:55 GMT",
+        "seenDate": "Sat, 04 Jul 2026 20:48:37 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -649,18 +669,19 @@
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
         "image": "",
         "matchedTeams": [
-          "Belgium",
-          "Senegal"
+          "Belgium"
         ],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -679,54 +700,62 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
+        "title": "El delantero de la selección masculina de Estados Unidos, Folarin Balogun, vio roja contra Bosnia y Herzegovina, pero su sanción de un partido se aplaza, así que podrá jugar contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWG1VOHp4LTY1SmVwSFZPbkw5Q1pUODNWWnFRZEVrdGNCZllsb280dXNidXJlaXNiWFpJVnFYTlVMek5SSXpzTHF0QWxSbDY3TEl6d0ZLS21iN0dKNEI1cUJsU093elUxYi1OUkxiVm9fVE5SRkl2U2hNVlpNNGpuUWRJQThlcFYxMWFJODFuQjJfVUp4MG1GVlNqeFpoY1BBb005ZXBoU3RZcUZ3RWtXRnlLMm9SNFNrUWVWLTBVM0txY0NBR2thaUhzODlBUmtlTVUxUHN4Ym1yaHFkMkZXWTVUYnZMTjBkTEI1Q0ZYcnVtMXVsODhfWVI2eE9sWDBOd29vOWRmZmJBUzdpb2hYRnd0SFdseFhSdEtuQ2IwNkVoVldiUS0yazBwd0NpSjIyZDFtQU9BTl9WRTdaSm1QdXdPWVB0ekZ3U3pSOGgzdXZReVBpd2x0d3N2UmY?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Usa Vs Bih | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG9ZX2treE5kS2lZZlFxbXppb1d4ZUN6MF9oQ3pPLXY2dkVlV0NFMFYzRG9MTi1GQ3ZYblFVV1dCdVRZYWdzU3JrMmpZMkhMZUxUWWhoTHAxM2U0VGIzSlM4a3loaExWa2RQVU4yTnlTVU1qV3VhV1BkemhlVkE5STdiNUN3REtPQWhLLTJ4VXVtcDI0dlFpVE44aHludkh4dHllV2JSRnJxaUJHTFFYVWppSHMwS0k?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 03:18:13 GMT",
+        "seenDate": "Sun, 05 Jul 2026 18:04:48 GMT",
         "image": "",
         "matchedTeams": [
+          "Belgium",
           "USA"
         ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tensiones sin precedentes en Senegal... Los entresijos de la disputa entre Mané y Koulibaly - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3VidVI5MkVkUkdKdV9nRGZCVVYzRVRZQkZjUm52MzUwUVRpLU0wMV9vTml0UXFkOUJkQ1IzUXFERGJEMGdkSjBaOG5MODRmYzJDUFdiNURnUWY0VTBtUWdOeWlaOFdXUWRfUkl5MlFuNENqa3ZTdzVZaG1td2I0R0dQNng1NE9JYmwxNE9ZaHdDaWt0ZWZiMW9QUC1IYTRzN2k4RGhOdHNWaXR6dmw3S3pCRS1mRlNmN1FUcF9XUjVQTWxzcnVUOVRYYW1NR2lGVlNnM010Yl8xaG5W?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 21:18:34 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
+        "title": "Bélgica, García sobre el caso Balogun: «Es una broma de abril. Defendamos el fútbol» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtkY19NWDZkUnhZdmg4MGVlN1NVZFI5dTRaUEV2YlhHMUJRa1NuajFkVC1Kam94YXBlNHBOb3hXalIySldDR1oxODZfMWpQNkNHZDd4M3NTcGE4MVZPVXB2MENRdnpiMWNtSmtqMEQzZzR3WlhoeG5XcjE3bHA3azhJS19xaHpadWxhd0FXZ1lBSkZlek8yS1ZMdE5LMkY2Nmx4WS1tcXBnTk5JOUNFQ3FnbWtodkdDY2hPaHdIbXlvYjdBVWl4X0FOT0U4RkdN?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:09:59 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Ver Congo DR vs. Senegal Online en Directo | DAZN MX - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSTdhSDJNNXNvcmFlUFNsQWkzTVc4ckE5NEdYT25Qd21nYS1ieV9nUDQ2NjZycFNrVFRtaDYwMFZZeG9RR2s1b2xnQTd1d0dNNWRaR3NGU21jYl9HYnlhd3R4bzNiMElBcFdJSVRiOFJPNU9zMm83TVpiem1GU0lNYm45V2RCM2JIRlJpNQ?oc=5",
+        "domain": "www.dazn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "DR Congo",
+          "Senegal"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -747,6 +776,34 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "¿Se retira?... Comunicado urgente de la Federación Belga tras el «regalo» de la FIFA a Estados Unidos - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaVh6a01hOWlEMzg1YWtpLWpvT0hpREd2cURyWkh4aE1TX0R3a01aSGl2Y0JacG8td0lyVnJuY1gzT1hFOU4ySHlmRGI3QXpuNEJPQm1HcHdFU2d1bUhXbXhhNzBxd1N2Ylh1em5ubmYtRXV4T3ljVTloVThzMUZHS3JmMXJuUTk2QzVzdFpaTlhZRVZGOURxV0ZBclkzN1lTRHhTN3pwTHEwYk5CWnlrbFU5UEhGSGxMUzNudzJScHQ2bm1rRG4wdGtVd1d0cXJ4M1JqNjdadTRQNXNvZy1CaXlxeEE?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:59:57 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La prensa española se rebela contra el regalo de la FIFA a Estados Unidos: un escándalo mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSjR6amFuLXFmWXJmN0dqd3JYb19vWTJtREF1UFNYemljM1hmZWhFLWZuTzY1eFpqcGFiVUVGOXpGN05sQlNLbE5jaFU0ZFNEbFVYamY0Wk9GR2w5X0p1UUYtaU1XSGZRYUZBSnU5LVVoSzBxSDZDRko2QXlRMkFhalFGQVNjZ0Jsek00WklldkZZWHpjUW1QRUFGbzJjNW55MGJHdGV4Z2RmbDI4ZVVhQU93ZE52VjQzZGY4eVEtT2s4LUVkclZ0UE1TWW93ZGYzbi1oZGFpOHMwUlY1VmhDX0xMTDc?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 19:24:52 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
         "domain": "es.concacaf.com",
@@ -762,6 +819,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "El delantero de la selección masculina de Estados Unidos, Folarin Balogun, vio roja contra Bosnia y Herzegovina, pero su sanción de un partido se aplaza, así que podrá jugar contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWG1VOHp4LTY1SmVwSFZPbkw5Q1pUODNWWnFRZEVrdGNCZllsb280dXNidXJlaXNiWFpJVnFYTlVMek5SSXpzTHF0QWxSbDY3TEl6d0ZLS21iN0dKNEI1cUJsU093elUxYi1OUkxiVm9fVE5SRkl2U2hNVlpNNGpuUWRJQThlcFYxMWFJODFuQjJfVUp4MG1GVlNqeFpoY1BBb005ZXBoU3RZcUZ3RWtXRnlLMm9SNFNrUWVWLTBVM0txY0NBR2thaUhzODlBUmtlTVUxUHN4Ym1yaHFkMkZXWTVUYnZMTjBkTEI1Q0ZYcnVtMXVsODhfWVI2eE9sWDBOd29vOWRmZmJBUzdpb2hYRnd0SFdseFhSdEtuQ2IwNkVoVldiUS0yazBwd0NpSjIyZDFtQU9BTl9WRTdaSm1QdXdPWVB0ekZ3U3pSOGgzdXZReVBpd2x0d3N2UmY?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:04:48 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
         "domain": "es.concacaf.com",
@@ -774,50 +848,56 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 03:13:06 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 17:53:43 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -828,18 +908,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -858,50 +926,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -912,18 +996,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -942,50 +1014,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -996,18 +1084,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1026,50 +1102,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1080,18 +1172,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1110,50 +1190,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1164,18 +1260,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1194,50 +1278,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1248,18 +1348,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1278,50 +1366,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1332,18 +1436,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1362,50 +1454,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1416,18 +1524,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1446,39 +1542,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
+      }
+    ],
+    "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
+        "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
+        "seenDate": "Sun, 05 Jul 2026 16:27:15 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -1486,9 +1569,22 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      }
-    ],
-    "4be17c8e1ccfecb0f2a5ef79e045c415": [
+      },
+      {
+        "title": "México vs. Inglaterra en vivo y gratis: cómo ver el Mundial 2026 desde cualquier lugar - Cybernews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmRRcUkwdTF0SlowcGw1UTNLbllUZXZsRElJbEp2ZFpwZXd4M2RDVkVxREFmcGJpTFVXTVlockVKWjM5TnFybi1uczhrRnRBald0VzhvcG9IS2NTZlROSnEzWWY2N1BqMmNOWDBWS0ltTGllV1JnRUstMW9KMUVFSHY4eVBJNFVUUl9YVVZTNDlQdDE0ZlE?oc=5",
+        "domain": "cybernews.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 15:00:34 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
@@ -1520,27 +1616,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
-        "domain": "www.infobae.com",
+        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 16:51:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Joi: México puede eliminar a Inglaterra del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGV6N3RudzczM1hvVVU0U3RQV3NPUjVKQ0drR2hkZVNBLWlST1U1ejZ5YmVMSEpXcml1U3Y5ZkVlOFY4ZVB2VTRkYmhjdmJZaklacWhPODBQOHM1cGdxREo4Mk5rdVJKWFBpZXBEYkNiZ1M5YWo0NkVvZGpNaW1zNmtFN0JvZG0ya2kzUnpRRWEyQWVNM19Tdmw0TzNoamRaTzRGdERUb0s5QQ?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 12:56:46 GMT",
+        "seenDate": "Sat, 04 Jul 2026 20:48:37 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -1563,23 +1644,55 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 21:50:47 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
+      {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
@@ -1591,18 +1704,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1621,44 +1722,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1680,6 +1751,67 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Ver Congo DR vs. Senegal Online en Directo | DAZN MX - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSTdhSDJNNXNvcmFlUFNsQWkzTVc4ckE5NEdYT25Qd21nYS1ieV9nUDQ2NjZycFNrVFRtaDYwMFZZeG9RR2s1b2xnQTd1d0dNNWRaR3NGU21jYl9HYnlhd3R4bzNiMElBcFdJSVRiOFJPNU9zMm83TVpiem1GU0lNYm45V2RCM2JIRlJpNQ?oc=5",
+        "domain": "www.dazn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "DR Congo",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1690,65 +1822,58 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Usa Vs Bih | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG9ZX2treE5kS2lZZlFxbXppb1d4ZUN6MF9oQ3pPLXY2dkVlV0NFMFYzRG9MTi1GQ3ZYblFVV1dCdVRZYWdzU3JrMmpZMkhMZUxUWWhoTHAxM2U0VGIzSlM4a3loaExWa2RQVU4yTnlTVU1qV3VhV1BkemhlVkE5STdiNUN3REtPQWhLLTJ4VXVtcDI0dlFpVE44aHludkh4dHllV2JSRnJxaUJHTFFYVWppSHMwS0k?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 03:18:13 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1759,18 +1884,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1789,50 +1902,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1843,18 +1972,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1873,50 +1990,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -1927,18 +2060,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1957,50 +2078,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -2011,18 +2148,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2041,50 +2166,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -2095,18 +2236,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2125,50 +2254,66 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
+        "title": "Mundial: giro inesperado para Balogun: la FIFA anula la sanción por la expulsión ante Bosnia, podrá jugar los octavos de final contra Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWEZLd3hFT2pwTmtGczNEYlpTY2h3MzIzcl92bWRBYk9jRHVGUklEMDVjbGFGYlEwWlJTTjV6Q2ZITGdpd3YteW1uZV9KcnluVkE3LUdrMm95MFBKVVBlQTc1eXhOQlVEajVadmJGZnNEdWFtUHNVVDJJWnM4bVJyTExXQUJNZmYxOU54NURSS21HYUYxTjc0cHZvYjI1dDUxNThfbGwwNkxUbzd6R1lYZTlSMW9COV8wY3RVeTkweDViaGFPejRLVVA2STFFMlcwTVNjSlpDcG5hczQtdzlqNV9CcmlZQWU5dlpqU0JJYnZKS0piWjJhRThiTWM3bV9yWjFUNE1saFliLU5WbDBaczNJYUZpcW9NQTVz?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 20:26:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup 2026: Brazil vs Norway Lineups – Bologna’s Heggem and Juventus target Sorloth face star studded Brazil side - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTEJpSVlxdlEtak9ZX2ZlTVlPRmFkbEEwb1Y4akg4bTk1LUd4SHdoenA5NTkzQ1hiZlpmaHFoVVVzZnJuQkpTTjh0czk4YVpWNEFHU2xvcllBR1FLZFYzRUxUbVBJblVJY2dFSXQ0bWZaamFSbHNhaWJibDA4QVltTE0xcUMtbG1wdC1lamtCbjlyZmdnOUdXQkJxdlF0RnlfdHlad2V4VURfMklmdEN0SnJwTC1NbTJyUUNmd3lGdVFZWW9xRzJfS0dkZ21hZ1V0ZzJxTWpoelZJQWxoeTJHVHlnTmlnMGZnc0V3Z3BWRQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:57:27 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 18:22:41 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Czechia Vs Mexico | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkNaNnVyckJ0TlRHZWR6cVZ2bHpMVVMzd1A5UU91cm9SQ25wVjRyYlUwbnFEVEo0UUxBY005RFlZLUVEdnAtMjJOa2VvLTd6bGZueHJsT1ZsMW9xRzBRMDNUU3JWZ1N2WkVrTjJYcG9Yb0pJdERtcWdtaDFheEthODB6ZU91T3dxaGd6clBrME5TZDV1amZabU9KZmVnWWlwcFFoN2xpbVJnWUFPdnZQZUcxRkVZVmxJWlZabzRaR04?oc=5",
         "domain": "es.concacaf.com",
@@ -2179,18 +2324,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cómo conseguir entradas para la Copa del Mundo de la FIFA 2026: reventa, fase de grupos, posibles emparejamientos de octavos de final y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNWxvYkttZ19nU19ldzZXMk1iM1d5OEZybUdQc1E5dTRXbDI1c24taHU4a3F4all0bjdIaUV6VG93RVROeGpaOXk1SEh4SVFTbmdyLWsxbGNCMmRQNThWR2QzRVhoQUo3U19nT1FyMzlCNlNmcndUZFctUHFOTjh4R29Na3pROVRHUVNaTHg2MHBWT3pkZTRaNHZvVmhXWXZxRVZxWEtfY3JhcHhUeWJ6aG1zVHphUXB3ckdjSXk0VENFd3FmMDRUOWxHUWFDZ1hVaGdob3Z1WjZnN1pYSHc2MmtpekNYZ0txTW1kMXFkWUNCRFM2MHFjcTRGSWFBVzNBeDZzdWhMN1k4MmpxTlNKU0xKc3p6R2haclQtdA?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 08:45:22 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2209,44 +2342,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXJYalNTd2F2M3plbmREVHdyOHdDS2ZXX014T05aaXdROFpJcXZpR2tWeGR3VTJUY1Z6b0Nvd2JtYUJtMlJFVWphckRKNVJ1Q2VTcDRNc3I3ZWVqS3BkbU5xTTl0SkpnS2VIdlVZRVNKUnp6djBPX05SZGtOQk56SW9OS29QcHMyTEZ3RXZENWVRZTREV1BpZ00zVzI5aDlLelhaM3VtTnFzb0xNb1M4ZWVNaGpOcENNN1NrUkE3TVE5dw?oc=5",
+        "title": "Concacaf House: 41 for One llega a Nueva York para celebrar la recta final de la Copa Mundial de la FIFA 2026 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU5rSnR0UUExMTVPUlhpbHdJb1NNR2Z6eDhhZnlJYjlSMVI5OVJPZ0xGc3JoejRVVzJueFpDSG84LWRvdVhiWlVsM0htR1dwUWxDOHlaU1h6bXE1WV9WRllZU3g4MkNjYjFMTUdVTnluemZGWlJvVGNDaFFSQl9kQ1hDOVAtcnQ3SElYd0hKdldSNFlpZ0Zxal8xeFJEZ0U4U0NDNk9uV3I4OUlMcmVzTWk1eThTZVVQSTNoTU9sUlNnY1MxTExYMTMxamNWSWMyTmNRYWtLbHBRTG40dWcxaGM1Y3pYUEJINklad1NydE5oc01XWUVaQQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 02:30:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "La temprana eliminación de Tualth reaviva el debate sobre el nuevo formato del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkJlRlhyVkFwNWNMMHNnT3haVExqSE1UWko5WlhkOUJJSHlUUnVKWEhQX0FxdDEtNVNmdWJVd1gxbFI3YVJQaEctcVM1NzR4UWZnZkRRbkNMdkt5UG4zSmtmaG9JSWRjV3FiZWg5blVDR0o5ckMtNFdxR0xpM1FSR0FoUXpSMkRmOXJrMDJMUUNtZ3lvTkdxUTRkeUpPSlFudmc1RGRRckRLTS1EZGUwQnFGXy1rS2V6dWg2Y2FBZ0R2NmE4WkJtRXU1OXBrTUdtQk9UU2l6WHNXZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 14:59:22 GMT",
+        "seenDate": "Sun, 05 Jul 2026 21:33:44 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 26™: What to look out for in Mexico v England 🇲🇽🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dqTVJ5UlJXekNsV29JMmtzVFJ6bS0zdExoa3F0UXlwejc3ZkpMT05obFplZ1BGeGxhdm5IYWdLTkRrdkZVTXAxZUNLcnZsZDBlM0ZzYXhvaWxWRzBmX2VfUGFVUVlVOFdsSjlHajhKM3BWdUJfZGtTSjdWeWJvbmpLem9DMkYyWHZrR2ctZjVjY0RUNTUxbkhJU1VCVmF3UG5DbVF3?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 11:20:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
