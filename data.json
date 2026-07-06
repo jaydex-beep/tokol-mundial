@@ -2,7 +2,7 @@
   "meta": {
     "title": "Radar de partidos — Mundial 2026",
     "timezone": "America/Mexico_City",
-    "lastUpdated": "2026-07-06T08:17:43.929188-06:00",
+    "lastUpdated": "2026-07-06T16:47:01.871185-06:00",
     "refreshSeconds": 60,
     "sourceNote": "Calendario y marcadores: API-Football. Cuotas 1X2 y probabilidades sin margen: The Odds API. Las probabilidades reflejan el consenso del mercado, no una garantía ni un modelo propio.",
     "theOddsApi": {
@@ -14,13 +14,12 @@
       "markets": [
         "h2h"
       ],
-      "eventsReceived": 6,
+      "eventsReceived": 5,
       "matchesUpdated": 0,
-      "requestsRemaining": "485",
-      "requestsUsed": "15",
+      "requestsRemaining": "484",
+      "requestsUsed": "16",
       "lastRequestCost": "1",
       "unmatchedEvents": [
-        "Portugal vs Spain",
         "USA vs Belgium",
         "Argentina vs Egypt",
         "Switzerland vs Colombia",
