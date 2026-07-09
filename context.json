@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-08T21:55:04.323610Z",
+    "updatedAt": "2026-07-09T11:29:03.402308Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -8,15 +8,57 @@
   },
   "articles": [
     {
-      "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-      "domain": "www.goal.com",
+      "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+      "domain": "politica.expansion.mx",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+      "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+      "domain": "www.tvazteca.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+      "domain": "www.telemundo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Así llega Inglaterra a cuartos de final - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1llYm5rbUxGYUw3dnVBSGNZREhsX2YwaVk0Qm9jbFJHMTg0dm4zTERDbkFDNzRXYk0xdlJ6b1djVEtESFpWVkR0RVZ2ZndvbVQ4ZmFvMWNGa1BieXJJaVhJWktKY0xQdDFkcTBHTlRUeUZzYzJaNERtck82eUlXaWtISFRSV1BJZW11a0ItNFd6MFVxTkZqcDVITUIxR3diazZGMWVRSTdUV2RldXI4elgwUUQ?oc=5",
+      "domain": "www.telemundo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 08 Jul 2026 21:21:23 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -27,7 +69,7 @@
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 08 Jul 2026 18:49:50 GMT",
+      "seenDate": "Wed, 08 Jul 2026 18:50:39 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -42,6 +84,20 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Wed, 08 Jul 2026 18:30:37 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Jude Bellingham, Declan Rice y otros cinco jugadores de Inglaterra con amarilla podrían perderse la semifinal del Mundial si ven otra ante Noruega - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOX1E3VkNaMG5wNEo5dkRqYURUV3RhZjNJLXZQTkFsWk0tUmgzaW9qYXdVRmQ5aTBydHZ6WVA3OUR4UDJnU0l3YWg5YjBwM3R6bTBoV0ZRcnhUVXJ4YW9NTEVjNkROYTJGWkRtZnVEQlZod1ZCeU1xU0pjM2xlYzNIeGJsQk9vTW1vOHg4bVR3ZTZtVWo3OGl6LXBzY3F5ejMzN213U0NNMHFnWG5rVXJjSjM5d1pqOUZUTDV3cjZzNmoxVWU3VXdnbl83d3A5bUczMlBXVWdQaGUycWtxdVZQVW5WQ3BfbU42WHdoTHVfcFZtbDNNbXdYT3luRFpYRXlRLXVFX3RNMWdwMkhocU9HT1Vrcnc2RFcyNWNoYXFzT1djZW5mQ3doMA?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 08 Jul 2026 17:30:31 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -70,34 +126,6 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Wed, 08 Jul 2026 12:20:13 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Por qué la «indiferencia» de Michael Olise es positiva: el exinternacional francés Patrice Evra explica al extremo del Bayern de Múnich cuál es la parte «más difícil» de ser una superestrella - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQQjI0bHFKaGhkZ2R4S01XQ1cyRllBN18tRWFpLUlNRVpCRVVrNlpIZTl5c3MwU3pQOE13WHYtVGxZU0MzZ3Npb0xqOXJ2emY0Q014MlJocGhEVVVmcDY1eTFNYkFjeHkxbllmUW5lZDl4VjRsZFptbHhzNl83eUdxVzJ4WU9wcWxRbV9TY3duVzBzbDlXWS1ULUJQdXdfeHVtYUNiYmFxNV9IQl9TVzJRckRreVl4WS0yRE5DcjhqODZHbll5cFlweldSeE10c0Y3MHM3aXJtZ0Vpd2ZBNm83aVkxMjFLM1dRM2EzazV4WVdaNnVZSUZwaVdhUktEazAyMENlS3pOaWcyc3RMMFpjc2lIWmkyNXItU0VYdWxsYzgyaEx1c0t4T29NYjdhRDFkRC1FdjJQVjlDa2pRYXV0YkJEZ1JHSmQ4QnhSMG9rdlluVjh6aXhOVVhDSzFJYVE?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 08 Jul 2026 12:05:12 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "«Nunca sabes lo que te espera»: se analizan las tres principales cualidades de Jordan Pickford. La legendaria portera de las Lionesses, Mary Earps, evalúa al número uno de Inglaterra en el Mundial - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOS3hqcG1VWXg1MTlYZUg2emxSekV3NTVDTTZnWXVEeThoOVJEZi1UUGFvck5EN1c0U3hQQ0lHUXpwVEVaVU1vb01JTnNMLWhYWHJ3RWFRX2VBVEhvc3NoYlpmZU5FdU5WSFBEeF9ITEtQMlBGYTZLWEluNkVtbHpYWUxoeFFYbEpBY1I1dUNyVmdoWVd4TEh5Yk15OEZ3UFBtWHQ5YlRnME1ZMHFvVlZkTUFkNzlpeFJJTHNFVnE3MV9mWGpBMDV1X3RaR3JqWXpmRDU1dC1GNUU0LXRCY2U0QjBsekxOclhUck9lamRfWkhvTHRPYVFQZGJrRGV6dUwtR1U3NmF4Q3IzRHZ3TDZsZm5GU0dWSXpXM0RGRWNteXJYZXduNUVIQWF0ZGw3X0dWeFdGUVdTbmhMNUxmVDFnZG02cFRmQXJHSV9XZC0yXy1CcW4xZGJXaFVDeUt0MVVzRE9VXw?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 21:48:38 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -207,6 +235,36 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "FIFA World Cup 26™: What to look out for in France v Morocco 🇫🇷🇲🇦 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMG5SZndvel91SXc0UDhxbHliNTNvWFVuUm9lNGlfRW1xSGI5N3FsdmtPRmlCMjFUYVJHSWtONVlqd05KYTZuUlJoMHdWTkkydzhjdzhQb0NrTFYtSVk4dFhtc2JMWVppQ2tNVzhpZHVlQ2lST205OGNsY1FKdEZqekxPMTNSWFJFa0hsOWxCeDI0UmNjUnl4dVZtX00yM2hhYTM0ZVRB?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 09 Jul 2026 08:12:02 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [
+        "previa"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Contra quién juega México en Octavos del Mundial 2026: Con qué rival se cruza en 8vos de Final y su camino de Cuartos de Final en adelante - olympics.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOWxEZ3Z3bDdLa1NhMG9UYmdfeXB1UElZajF2ci01b0NZdjRIUU5Ld1V2eWlEZzZGUnNPbnZsTXZOeFVNcXI5NW5NdVJfSVJUR21QTnE3V3lybmYwczF5cUQ1djN2UmhVanExYmoxMXJZME1DXzVkc0pWZXVYeWs?oc=5",
       "domain": "www.olympics.com",
@@ -233,62 +291,6 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mexico Vs Winner Match 80 | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckpiVkQ4Sm5VSW5tdm5sdDFpYlRkSWZsNHIwUktwU2EtVUxFRzlMMGIzSW1GajZxYVhpS2FCRFN0UFoxQmEtVmtsQkl0SFdIb1FEeDBvVjl5N2hSMG9raUEzakRNdzFQaVZySk8xcW9jSHB1Qko1VWsyNUhIbnJZcTlCN292ekJ5YnNPMEJwU1ZPMHBaeFFGRk9TWC1FNnBYT0lxTy0xZ2lBaFlTcFZteUZsUFIyMVJDY21xZ045NXhwQ3M0QU9jN3B4SQ?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 16:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mexico Vs Korea Republic | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFFhT0JjZmFhU2R0OU5FN0xNa0wwTFd3cXFWSEJtUVkxNzRPQUZyMHV0X01yMlhBcllhUXpsQVBsODNSUHVaZ09Ucm11SmV1WjlxMkJ0ZUlxSUEycXNDczBJRGtGS2k5aUdpamxEQWlNeGFVdHN2UTcwcl8tcG9fV29mWFcySGJfQzY4QzJYeG1UZGVCUGlTYzZncVlfTFVwdXpwRlI0WkNmMXRycHlWNERybDdLYV9sSVItakQzczRpYXJ2YU1adlB3?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 07:33:04 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Caso Balogun: Bélgica indignada porque la FIFA calla y retira sus explicaciones sobre la norma - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUTNMZ2l1WjYzNmIzQzgyQTgwcnlFZmxGX3Q2Y2p4Yk9wS0xGRThYUnhMV2t4aEpJRVFYRzZfaXFaOHVvTk05VFNYU01CWmtJUWdMdUhzWUZBdzJwRXl5eGRtaHRSWnM3bEotMkNVc0tBdWdKcEd0VGwtbmhUSnNkdFRRbDRCWFotY3F0TEdLLW53MW9YVHRELVNENUhieEJSTERvRGhGU1J6VWlEQllaejh5Y0RnTjVmbXdBVkdkc1ZwcXQ0dkZpMHpNVTVUWGNmTGtvcXpaaFFXVDU1UmZtSTZBOA?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 06 Jul 2026 16:16:23 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 06 Jul 2026 15:31:20 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -308,48 +310,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -358,19 +354,49 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "FIFA World Cup 26™: What to look out for in France v Morocco 🇫🇷🇲🇦 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMG5SZndvel91SXc0UDhxbHliNTNvWFVuUm9lNGlfRW1xSGI5N3FsdmtPRmlCMjFUYVJHSWtONVlqd05KYTZuUlJoMHdWTkkydzhjdzhQb0NrTFYtSVk4dFhtc2JMWVppQ2tNVzhpZHVlQ2lST205OGNsY1FKdEZqekxPMTNSWFJFa0hsOWxCeDI0UmNjUnl4dVZtX00yM2hhYTM0ZVRB?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 09 Jul 2026 08:12:02 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Japan Vs Sweden | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdG1oYm9MVEVhSXF2TzRXcG93YVk0RkNzVER5V3FFc0RCNk5zczZLSTNPLXA1QVh2R2s5amVmQjFlTkZyQno4Nk1tbXpjUlc0UzlIV3ZFRG0yU0FYMTQzb096Ml9aa01GUkluS2kzSWhLclhWNXZjdjFuSzQzbnc4a3dta2NtSnA5RjdRRzJNc05PQTg2SEZhZC1ETEFwVGZOakYwTDVzSW53R2NGVkU5czlsNWFRUkY2aGo4V1VB?oc=5",
@@ -381,20 +407,6 @@
         "image": "",
         "matchedTeams": [
           "Sweden"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por qué la «indiferencia» de Michael Olise es positiva: el exinternacional francés Patrice Evra explica al extremo del Bayern de Múnich cuál es la parte «más difícil» de ser una superestrella - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQQjI0bHFKaGhkZ2R4S01XQ1cyRllBN18tRWFpLUlNRVpCRVVrNlpIZTl5c3MwU3pQOE13WHYtVGxZU0MzZ3Npb0xqOXJ2emY0Q014MlJocGhEVVVmcDY1eTFNYkFjeHkxbllmUW5lZDl4VjRsZFptbHhzNl83eUdxVzJ4WU9wcWxRbV9TY3duVzBzbDlXWS1ULUJQdXdfeHVtYUNiYmFxNV9IQl9TVzJRckRreVl4WS0yRE5DcjhqODZHbll5cFlweldSeE10c0Y3MHM3aXJtZ0Vpd2ZBNm83aVkxMjFLM1dRM2EzazV4WVdaNnVZSUZwaVdhUktEazAyMENlS3pOaWcyc3RMMFpjc2lIWmkyNXItU0VYdWxsYzgyaEx1c0t4T29NYjdhRDFkRC1FdjJQVjlDa2pRYXV0YkJEZ1JHSmQ4QnhSMG9rdlluVjh6aXhOVVhDSzFJYVE?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 12:05:12 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -414,50 +426,86 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
       {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -506,44 +554,32 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs Winner Match 80 | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckpiVkQ4Sm5VSW5tdm5sdDFpYlRkSWZsNHIwUktwU2EtVUxFRzlMMGIzSW1GajZxYVhpS2FCRFN0UFoxQmEtVmtsQkl0SFdIb1FEeDBvVjl5N2hSMG9raUEzakRNdzFQaVZySk8xcW9jSHB1Qko1VWsyNUhIbnJZcTlCN292ekJ5YnNPMEJwU1ZPMHBaeFFGRk9TWC1FNnBYT0lxTy0xZ2lBaFlTcFZteUZsUFIyMVJDY21xZ045NXhwQ3M0QU9jN3B4SQ?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 16:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs Korea Republic | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFFhT0JjZmFhU2R0OU5FN0xNa0wwTFd3cXFWSEJtUVkxNzRPQUZyMHV0X01yMlhBcllhUXpsQVBsODNSUHVaZ09Ucm11SmV1WjlxMkJ0ZUlxSUEycXNDczBJRGtGS2k5aUdpamxEQWlNeGFVdHN2UTcwcl8tcG9fV29mWFcySGJfQzY4QzJYeG1UZGVCUGlTYzZncVlfTFVwdXpwRlI0WkNmMXRycHlWNERybDdLYV9sSVItakQzczRpYXJ2YU1adlB3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 07:33:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
+      {
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "«Una catástrofe y una reacción rápida»... Noruega presenta una queja ante la FIFA antes del partido contra Inglaterra - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRThDR3J6TGQ3SGZGNUZuZUg1SHRISmhXdkN2bFYtclNobUVyX2puMm43NFRHWlJtWW53dnllU3llTm9GRUI4VzdsTEtmSmxUaTRremQ1Z3c3QVowdWRVdWVhRVFOcTZWVVVhbkhObk10b3NndmFKejNNMngwRW1VVHdwR1pwa1FUc04tVGpYd05aTW9LUk0tR2xfLVB2TGUtc09yd0xqRFpBSjQyNWFuek5OWWtuaEkwenNWLTVEMFg1RUZVNzZ4aC1ISUNNMExrRFNGY3JDNjY2YzY3TjFUTDlWT2pYMUl5U015QVAtMkRMSGxETG41bFVRczE?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 18:49:50 GMT",
+        "seenDate": "Wed, 08 Jul 2026 18:50:39 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -566,12 +602,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "«Nunca sabes lo que te espera»: se analizan las tres principales cualidades de Jordan Pickford. La legendaria portera de las Lionesses, Mary Earps, evalúa al número uno de Inglaterra en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOS3hqcG1VWXg1MTlYZUg2emxSekV3NTVDTTZnWXVEeThoOVJEZi1UUGFvck5EN1c0U3hQQ0lHUXpwVEVaVU1vb01JTnNMLWhYWHJ3RWFRX2VBVEhvc3NoYlpmZU5FdU5WSFBEeF9ITEtQMlBGYTZLWEluNkVtbHpYWUxoeFFYbEpBY1I1dUNyVmdoWVd4TEh5Yk15OEZ3UFBtWHQ5YlRnME1ZMHFvVlZkTUFkNzlpeFJJTHNFVnE3MV9mWGpBMDV1X3RaR3JqWXpmRDU1dC1GNUU0LXRCY2U0QjBsekxOclhUck9lamRfWkhvTHRPYVFQZGJrRGV6dUwtR1U3NmF4Q3IzRHZ3TDZsZm5GU0dWSXpXM0RGRWNteXJYZXduNUVIQWF0ZGw3X0dWeFdGUVdTbmhMNUxmVDFnZG02cFRmQXJHSV9XZC0yXy1CcW4xZGJXaFVDeUt0MVVzRE9VXw?oc=5",
+        "title": "Jude Bellingham, Declan Rice y otros cinco jugadores de Inglaterra con amarilla podrían perderse la semifinal del Mundial si ven otra ante Noruega - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOX1E3VkNaMG5wNEo5dkRqYURUV3RhZjNJLXZQTkFsWk0tUmgzaW9qYXdVRmQ5aTBydHZ6WVA3OUR4UDJnU0l3YWg5YjBwM3R6bTBoV0ZRcnhUVXJ4YW9NTEVjNkROYTJGWkRtZnVEQlZod1ZCeU1xU0pjM2xlYzNIeGJsQk9vTW1vOHg4bVR3ZTZtVWo3OGl6LXBzY3F5ejMzN213U0NNMHFnWG5rVXJjSjM5d1pqOUZUTDV3cjZzNmoxVWU3VXdnbl83d3A5bUczMlBXVWdQaGUycWtxdVZQVW5WQ3BfbU42WHdoTHVfcFZtbDNNbXdYT3luRFpYRXlRLXVFX3RNMWdwMkhocU9HT1Vrcnc2RFcyNWNoYXFzT1djZW5mQ3doMA?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 21:48:38 GMT",
+        "seenDate": "Wed, 08 Jul 2026 17:30:31 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -603,21 +639,6 @@
         "seenDate": "Mon, 06 Jul 2026 05:46:23 GMT",
         "image": "",
         "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 04:03:44 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
           "England"
         ],
         "tags": [],
@@ -818,48 +839,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -868,14 +883,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -896,48 +927,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -946,14 +971,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -974,48 +1015,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1024,14 +1059,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1052,48 +1103,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1102,14 +1147,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1130,48 +1191,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1180,14 +1235,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1208,48 +1279,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1258,14 +1323,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1286,48 +1367,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1336,14 +1411,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1364,48 +1455,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1414,26 +1499,58 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "«Una catástrofe y una reacción rápida»... Noruega presenta una queja ante la FIFA antes del partido contra Inglaterra - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRThDR3J6TGQ3SGZGNUZuZUg1SHRISmhXdkN2bFYtclNobUVyX2puMm43NFRHWlJtWW53dnllU3llTm9GRUI4VzdsTEtmSmxUaTRremQ1Z3c3QVowdWRVdWVhRVFOcTZWVVVhbkhObk10b3NndmFKejNNMngwRW1VVHdwR1pwa1FUc04tVGpYd05aTW9LUk0tR2xfLVB2TGUtc09yd0xqRFpBSjQyNWFuek5OWWtuaEkwenNWLTVEMFg1RUZVNzZ4aC1ISUNNMExrRFNGY3JDNjY2YzY3TjFUTDlWT2pYMUl5U015QVAtMkRMSGxETG41bFVRczE?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 18:49:50 GMT",
+        "seenDate": "Wed, 08 Jul 2026 18:50:39 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1456,12 +1573,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "«Nunca sabes lo que te espera»: se analizan las tres principales cualidades de Jordan Pickford. La legendaria portera de las Lionesses, Mary Earps, evalúa al número uno de Inglaterra en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOS3hqcG1VWXg1MTlYZUg2emxSekV3NTVDTTZnWXVEeThoOVJEZi1UUGFvck5EN1c0U3hQQ0lHUXpwVEVaVU1vb01JTnNMLWhYWHJ3RWFRX2VBVEhvc3NoYlpmZU5FdU5WSFBEeF9ITEtQMlBGYTZLWEluNkVtbHpYWUxoeFFYbEpBY1I1dUNyVmdoWVd4TEh5Yk15OEZ3UFBtWHQ5YlRnME1ZMHFvVlZkTUFkNzlpeFJJTHNFVnE3MV9mWGpBMDV1X3RaR3JqWXpmRDU1dC1GNUU0LXRCY2U0QjBsekxOclhUck9lamRfWkhvTHRPYVFQZGJrRGV6dUwtR1U3NmF4Q3IzRHZ3TDZsZm5GU0dWSXpXM0RGRWNteXJYZXduNUVIQWF0ZGw3X0dWeFdGUVdTbmhMNUxmVDFnZG02cFRmQXJHSV9XZC0yXy1CcW4xZGJXaFVDeUt0MVVzRE9VXw?oc=5",
+        "title": "Jude Bellingham, Declan Rice y otros cinco jugadores de Inglaterra con amarilla podrían perderse la semifinal del Mundial si ven otra ante Noruega - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOX1E3VkNaMG5wNEo5dkRqYURUV3RhZjNJLXZQTkFsWk0tUmgzaW9qYXdVRmQ5aTBydHZ6WVA3OUR4UDJnU0l3YWg5YjBwM3R6bTBoV0ZRcnhUVXJ4YW9NTEVjNkROYTJGWkRtZnVEQlZod1ZCeU1xU0pjM2xlYzNIeGJsQk9vTW1vOHg4bVR3ZTZtVWo3OGl6LXBzY3F5ejMzN213U0NNMHFnWG5rVXJjSjM5d1pqOUZUTDV3cjZzNmoxVWU3VXdnbl83d3A5bUczMlBXVWdQaGUycWtxdVZQVW5WQ3BfbU42WHdoTHVfcFZtbDNNbXdYT3luRFpYRXlRLXVFX3RNMWdwMkhocU9HT1Vrcnc2RFcyNWNoYXFzT1djZW5mQ3doMA?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 21:48:38 GMT",
+        "seenDate": "Wed, 08 Jul 2026 17:30:31 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1497,21 +1614,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 04:03:44 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
@@ -1530,48 +1632,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1580,14 +1676,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1608,48 +1720,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1658,14 +1764,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1686,48 +1808,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1736,14 +1852,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1764,48 +1896,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1814,14 +1940,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1842,48 +1984,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1892,14 +2028,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1920,48 +2072,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -1970,14 +2116,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1998,48 +2160,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -2048,14 +2204,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2076,48 +2248,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "La FIFA rechaza la apelación de Francia contra la tarjeta amarilla a Michael Olise - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFJKR0hXVVRGeUlhclIyeWZXbUlUVTlqaVl0MVhHLWNVbFpZX05OWmZtRzlBdGxscjZocWdPWXBGbDlvZkZEVFpadHIwdDBnR185WXFaZWZ5cDhuWHR6a1hZdWpHYTF6cXAtQlBsa3V2Z1hHZThWTjhDZzBRbUlrWGNjMVA0aTVrTE1wQVVrN09OTVJZdERCeXQ2YXh2cjFQbW9YakRKamVFRTdNUUg0RGJQbFBDd1QxYVlkdzBOc3lNV1NrNkZTTFZIdmdxejdOTjVhWA?oc=5",
+        "title": "Previa del partido Noruega - Inglaterra del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmw2Z3A3Y0RzbVBnWTVBa3Q5SjFZelRENXhNYjlpa1dKS01VLVZCYjdzLVByMzVWOWlZcVFPWlpFQ0s4YTlfMUc1WmQ3djFRbmpnbjdmSmxSLWlLdFdWdmtLaDBVUDFaUUNqY1hRMENUY0xFWm1NOEFqV1N1ZTZObWltdXR3R3p3bWdDWHBjNUV5QVRnbmVTcThqTENBaUN4TFI5UzE5WXRoQWIySnZ1RkZKNmhpNFltN0VEZDdEUjBnZ0dYcFRwemw5ZDBsOXVGOXJyY0NHRUpGUFN4MjlLUDJXRQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 21:35:50 GMT",
+        "seenDate": "Thu, 09 Jul 2026 07:42:51 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "previa"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FECHA y HORARIO del Francia vs Marruecos, primer partido de cuartos de final del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblZwX2NHTnZQODBpWUtFRDJrU0c1YXlfYzJkcFNCQ2RBbW9Qc2FMX1ZRSURWZjRVY194Q01ac0Y3SE9Xek10YlYtY1Jxc0pXLWludUJGZjBISW1HQThJYUREbEVfbUFVYnQ2U0hiN1ppMkVWdlFidksydUxOVmQ0bXFTWmRtc1FLbUsyOVJEOTZhdlJ4aUtvRzg3dUFMWFBmVWduYjEzWWt4bE1LT0tBd0NHZTF2b2lYOEh0STdiZ9IBzAFBVV95cUxPZmRNX3AwYUpNSUFfLUZ5Z3J2NjhGMXVCQTVBTG9SQzFvTlozbGl6YVBCRG9mS2ZyNmUtT3ZlV2hoMDMwMmhxMGswTm03N2pzOHRrWHY1X2FYQzgzRlN1YThSZW5TOElYWGk0aUFveXJyVTRETEwtWEZvSk9CVmNrUmgtbUR2el95dmU0TG1GM1NNY0ZPVFdOcjlXQlYzTFJ3aktCc0w2ZFVjUVB6bVB2ODRUNTdocFJKTzhZM0w1Vzl4TVhnalIzOUxGazM?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:44:08 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuál fue el puesto final de la selección mexicana en el Mundial? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHNKRmRpbWhXOGs0OU9LWjFPdlB0Z1VLVmE3eUhVQlZ6VXE2NGZnZTNkLWVOMFNDcm10WHlxOFI2a2FCeDBZMm9BekdUSmZEUEpSSjJOdUxES0diY3NKMzV5UjR0ZDRjZ05INl9iWm9FSDNLMFhKSkNfczV3Z1BpNG1hYWplWXh2NFBjS2JfQU1jUUt0M0xHQlpPTQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Sheinbaum revela si México será sede del Mundial de Clubes 2029 tras la Copa de 2026 - Expansión Política",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN000MjJqeWpJYktWcHdUc3drX0RQcmh2NzZPemd2Rl81emZQWTd6bm1oZ08yZUVwVGIyXzZNeUlRRHlkdnhCM213SlhDS2wzTXRRamhhWllEb3BnRzJIVkV2QmRid1pjQWlIUlRvalVTbFBmMjNhLWR4dE1tTVhKbVZGYXdoRlFqNTFpU3Bzd0xMMGxrUUFXZmZkTDFEZUF3YWhpaTd1SUIxeDEx0gG6AUFVX3lxTE5YZDN4d3BjUFNiMTYzZlFQbTg3TFFMVHNVeGctX3I1TXRBWlN1N0d6LS1jaVB2azRueU92TndnNGhqMEt0U3BoRGJYeTBCRUctbDFsbnlLRG5hRUVnRUZuQjBWMVlQNml3RXFheFY1VEJ0S0o3Y01UZ2tGLUsyVW5uSHVhRFFtcWEtNC1xMlEtb1dmNlNZdTRyVHQySzJmQkkyaVl6RC1tYnYyY2xPTlFCY19UWUJkRmRwZw?oc=5",
+        "domain": "politica.expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 20:07:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "De cara al Mundial 2030, un exjugador del Barcelona sustituye a Aguirre como seleccionador de México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFBGMXhuZzZtenRjWHV0U2pqUlpWUEMwbUVndXdORlAtTzViR3VvQmdTZWVyeVdVNGFUVVp2ZFdFa0NfVUFjcDI4d1N4bTR1T2JDVlNCaG1JRk5zU1ZfNmVGSEZzbFBkQWF3aGt4eWZkaDZRRFNuX0xEMTdVY1BPaGRfaW1QVE9wbU5SWmFNdk94aDAtNG5mUVg1LWRpWmdnTmk2LTBXbjlXcVhkbHdlcG5ibmhyU3dLTXBISWQ0REtvZ2IxNG9HYlhXQlNta1lpVGlpS3Z3STFIOV9sQjJFUXIzNDlBSTYyMVJN?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:41 GMT",
+        "seenDate": "Wed, 08 Jul 2026 23:37:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -2126,14 +2292,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las selecciones con más penales a favor en la historia de los Mundiales: ¿Qué lugar ocupa Argentina en el ranking? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09zRGxta2g2YmUwNnBtVlZIX3h4QlRra0NMcXVRQkI0S1psckxKNFBMcUcxVEt1YUdSSE9UR3pUeDBjN0lvbi0tb1Z0YUpxeXpERTNhQV93ZHpmYkdRbjVFd1pEX1F2b3B2WGNxdzNYNFZBMmpiWkk3TXhjMFFPb1VLRndIcE11SUUwMFRERjRxRXBqdWoyVmxrYVVJZnlBVjRYVzFCekFNbUcwcjJ3MU16OV9fcXhENWlIQUl6OTdrNENyWXM1SlppejlqQlIyOGFwU0xjb0x6NFU?oc=5",
-        "domain": "www.si.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 19:45:27 GMT",
+        "seenDate": "Wed, 08 Jul 2026 22:56:20 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Terminó el Mundial para México y Gilberto Mora aprovechó para graduarse de la preparatoria - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEV0aWpVM050VE1SNFR3NEtwdFFWejJ3VkpzY2xrZDdRSEt3OF9BZGNPaFRwMm5KMXo3bG5ZZlRuU1hLT2pLZjNWYzh1eWZJNzVSdDI1bFk1a3drdWZBWi1YUkp2b0s4N3VZZTl4eEhWdnVQZXotbGs0a1VJd2diZlY2di1oZ1dDbWtlSk5mRmh6Y0pPNUtrZzR0Z1dIYi1GNDZCTm1kcktLZ2FvaTVYWXk1b1F0VHFpVXdTeno2aVhSc2hIbkN0RHpVS3B1N3o5YzhTbmxyaHhkZ1NmWXc?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 22:47:26 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
