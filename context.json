@@ -1,41 +1,12 @@
 {
   "meta": {
-    "updatedAt": "2026-07-11T07:26:34.189035Z",
+    "updatedAt": "2026-07-11T15:36:22.549964Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
-    {
-      "title": "¡México marcó el ritmo! 🇲🇽 - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhPaUVNSUl2bTFTNzRwb3R1Qk5SbFBxajdXYVRUWHBXRG83RnZiWkstcnNVMG8wSWpIT1lKMjVBdzZDSmFCQjhTczVLTGtfRkx1RTMtb052ZktXaGVOMXdTSjNhLXhDcnFNUHRRa1QtQ1RXbjZaU0RDUURXWHd5U0tFRHlTX3c?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 22:26:51 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
     {
       "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
@@ -111,43 +82,146 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Mexico Vs Winner Match 80 | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckpiVkQ4Sm5VSW5tdm5sdDFpYlRkSWZsNHIwUktwU2EtVUxFRzlMMGIzSW1GajZxYVhpS2FCRFN0UFoxQmEtVmtsQkl0SFdIb1FEeDBvVjl5N2hSMG9raUEzakRNdzFQaVZySk8xcW9jSHB1Qko1VWsyNUhIbnJZcTlCN292ekJ5YnNPMEJwU1ZPMHBaeFFGRk9TWC1FNnBYT0lxTy0xZ2lBaFlTcFZteUZsUFIyMVJDY21xZ045NXhwQ3M0QU9jN3B4SQ?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "Christian Pulisic, la estrella de la selección estadounidense, se fracturó la pierna en la derrota ante Bélgica - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOC1JRVk2dzB6Z1liZG9IcHowbDNOZUtRLXIyRGdMWEstN0w3R2o1U3hFdlVtcjAxd3pWM1Nram9UNHVUZnVtV0FNOUthUDNJeUdCd1drVEE1am9CYnhuU3Bkc3pGRktfVnBhVEV6bnVMenRRa1JYZDh2cXF2V01MNXNyRUxjM2w0Z0h2cWQxOVhFeVk5UnRkQ2FfWWhxbGU4NzF3X0trRDZrMzVwRnM3NEl4dW5tdjRaOENTSEhfYVVRcnFOSTZWRFBjb3NIZUc3N0gtTFNab1hrZ1RzY1JwWk50WdIBXkFVX3lxTE9XLUhHbEVXNHNUNm45bkUzcGRVQ3pqNVBKZ1NuWnNjSUxvTkpEanlSRzlQZEhoRUpGb2NUUTVUT0JtSXRINk80OFV6OWN3aEdzYmlkYTJFM3VvaTNmU3c?oc=5",
+      "domain": "www.telemundo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 16:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mexico Vs Korea Republic | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFFhT0JjZmFhU2R0OU5FN0xNa0wwTFd3cXFWSEJtUVkxNzRPQUZyMHV0X01yMlhBcllhUXpsQVBsODNSUHVaZ09Ucm11SmV1WjlxMkJ0ZUlxSUEycXNDczBJRGtGS2k5aUdpamxEQWlNeGFVdHN2UTcwcl8tcG9fV29mWFcySGJfQzY4QzJYeG1UZGVCUGlTYzZncVlfTFVwdXpwRlI0WkNmMXRycHlWNERybDdLYV9sSVItakQzczRpYXJ2YU1adlB3?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 07:33:04 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Watch Spain vs Belgium - tod.tv",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejVDalNhOXFYaWx3M1NGT2ZXcWJQT2R6ODdCclRUXzBxeUw3MXdZX21hY1JuZndyc25KdTItZmlWYU0wYXhaYXp4ZUN5MEQ5ZG0tRGU0WWZ6NkE3MFRXMmZaZ3hneHdFcEQwOEhKOG84T1JDc0tUaENXeGlrN0R6Qmp3WmFZeXgta0FWaXZPY0x1alNGb0dF?oc=5",
-      "domain": "www.tod.tv",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 05:10:07 GMT",
+      "seenDate": "Thu, 09 Jul 2026 17:43:14 GMT",
       "image": "",
       "matchedTeams": [
         "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Harry Kane destacó el nivel de Haaland y puso el foco en el objetivo de Inglaterra - El Litoral",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSlRNa2pMOXd3RFNFU21EZGtWN0JiaHQxM3FwbFkweWoxUV9hamVEQUpNWDNwN01qQjFkN2V5V1I4UG9KV1VlaVF0WHVYZDh3bnJlQXM1YV9SdWJfX3k2WE9wcVVsQW1RclEwbzdmSDdNUHdYaFppVjhNeFZwNVpNcXpabTZtY2ZMQnpXcloxbFZBLWkyRzhTX3hlTHcxTFBZQk5jVEpydEFSblVGbzdTNk1rS0hhQV9IcFVna09vbW85dlJfZUQ4QWlXSUhrd9IB0wFBVV95cUxNQ1V1U0wyZjhVdlI5Yk9xVWVkUDNzd1N5WHlBd213MVlyNXlVbDczRWVnOHFLR2FlWTlPWlRpVnFCY285UVBFdVUzR1N6ZHdzSHJZMWxTdEZCTEQ2cXVtaHFNMnNiVThXZVNEZGdEZWNHSndXaFZQNHlQY05LUHAwZWMtNVlvOTFVemtrS0ZpRXB3NDdoaXJwX1dWT0dqbU9TaDM5SzVsaXpxamVHZ3hfTVByNWZTdDVaQ3BXSVRwQjl3UjJkOHhhVFJuQ2V1cDRNempN?oc=5",
+      "domain": "www.ellitoral.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 13:26:23 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [
+        "sanción"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Zlatan Ibrahimovic critica a Senne Lammens, al que llama «sobrevalorado», y culpa de la eliminación de Bélgica ante España en el Mundial a la decisión de sacar al portero del Manchester United - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQa0V6VmNza2x3bUhNbEVoaU1OLUFRQUhQTE5JRUVJWHhLUHlVcVNLd1NPd0NMTjJuSlNRM3FaOC0wSzlCdlZDTEFrRGJUQzRWWFlhZ3E3VnJaaG1odjBQUjZDR3BwSHNGN2ZEVjBYNmlGZE1IN2R3enp5cUc1a1hoQU4yenduNzJJSUtOcjlxVjBCX0prTXc4MmQ5NTBOc0F6eXhwcnZXSjIzQzhCS0xucVJ4Vmc1bnZNcXRCb2lPZWUxWGQxcUk1WnFxX2Y2Nk0xanRLZTdWcmZSakZQdVVManZiX2xMaDg4VmMzeDFuTFlQMXZZOGtaSmxjVEhRaDFBcm9scmdvWlNkNHJNRWd0MHJxZTE4QVQxRDBINGgyYi1SdWhKcU00SkF3MHFOZHN1YVp4eXBUY0xhVmxhUjU4UmNXVHRMQl9vNjByM180eG1XRXNxeE5nV3oxUmN3STVUcWc?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 11:52:55 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "La ley responde... ¿Se perjudicó a Bélgica ante España por la mano de Rodri? - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ195bmYzTnBUUHdZT21LWmtGY2ZFdXM4c1RGVXh1bWdTdzlkYjcwbUlPMWZsNnNoWnBaWGg3U1RabUpnRGFteWFWU3VuWUdtUllZMDdYRGFaZVFKRnFBS2cwTmlleTU4M0pDRnVBVll6d1gtZHRSY1RacWM4UHAyT3ZPbm9CM0lFTjJ6eDY4UXJQSjZ4azZVSlN0YXFlbFdGenFxQmFxVVFOMzYzOHhVZW9tUUhkeW9WNUotRGdZRTdXS0hQSmc?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 10:15:51 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [
+        "sanción"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 26™: What to look out for in Norway v England 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHQzcmxIRHplV2dCNXhleko3OURTLWdNMEMzcWZ4aFV0dEtuemVPVFI1MTlTRzh5bE5BSDY4NHpJZ1RzeHJTYXRRX29GNmtaS0NPSXYzQ2N0S0dIUURSbmx0MGhvTkhpT0JOVVBZMGltRmN4dzdha1Vrbk1HN2hPNE9nTkpWSHpUa2JKb0VaTkdGNWlpT0NNdThLQWYwYkhvSzlPYmdn?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 09:34:05 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Norway",
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Antes del Inglaterra-Noruega, Harry Kane habla de las comparaciones con Haaland - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWlVZZG12UUtJSlhXNVFlMjM0d2N4TXM2ajI2WVhiZl9LaWk1RllfSHVIY2pxcnV5WnVVYmV3SzMtUGI3RXFDenVtd3hsTjZzV0hUTk9uSTlka0ctRWdESXJGU2s5b2d1NENnNmdwaVZSUVU5OTlqSnFadlZVZFVES3RBaGdsZkFXNzU1eEdJdV82ekxaME9ibV9Lc3h1NmFhVjVQQmRPdDhaQlE3X3B5TTZYN210N2UybldEblE5SUJPRHIwRE1EWEdHRQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 08:23:46 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Tuchel: «No he cambiado la identidad de Inglaterra... y esta selección me ha impresionado» - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0FORkpVUlpJMUtWZmhRQVlrZDlLbzNKd1BXVXRUWUNRdWFMWjN4UnNGUXhpWVREU3lUYzBjbjY4U1VuQzdCaFBqcVpwY3VESmg1WHNGYTdQMFNhVHdLR0lsLU9KVG05YXNVTjNiMWgzcUhDZmEzWWhzSi1ycWtyS1hmUVo0TmJHVmxpcnZsNmd1d1l1Q0d4Q3NsY3VibjhnY0JTdm5ZcVVNeUhrYXpLdnJIMjBhZFZVSXZVYXpxc1dBQ0Z1RldpdlJlem9kQ3NnNWdB?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 07:53:38 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "La peor racha de la historia... La maldición del Mundial atormenta a Inglaterra antes del partido contra Noruega - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZF9Tdjd5U3lBVlRGRVZoQXlPYkotYUNIZFYzVGFHRUZ2QVBYTVVWS0FLeDAtZzZYVHRrUkdCRU5SMWR6bmpJRVhPZHFmcDl4UlU4NWNhb0htNFpvWDcyMXNBc2NzdTg4NERuQ3lIWkJ4d2lkWXFZRmt4SzdwdVFiYi1nb0tlTXhaVGlFWG9PQ1Q3VFgxZTVmOXpqcDFHaDJYMlp2VDM0anU3VE5jX29CM1R6WmFiRDk1eklrb0JCUUZwWjQ4WWRZNWJ2VmJxQkZiNFoyd0R2Mm54b3R0TGVmdk56V0h5bzV1R250d2NLMmNSbk53VHNGeQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 11 Jul 2026 07:34:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -158,7 +232,7 @@
       "domain": "www.vanidades.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 03:00:00 GMT",
+      "seenDate": "Sat, 11 Jul 2026 03:00:51 GMT",
       "image": "",
       "matchedTeams": [
         "Belgium"
@@ -176,35 +250,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "México enfrenta a Ecuador en la Ronda de 32 - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm44V281Q2gzdmltWmVhQWNXT2ZBaEVjNzZ5UlNWYkdNSTBZU0p2VjV3eGdrTGQ3ZzBxRGM5eTFnSU1pYXJtV3BDVmVNcFBTNkVRdnFENjVsZnF1TjZBTkpwVkNPR2l0bDJWWnZ2Z2V3X0NBbGZCZEpWNUxsYllqVWNWbkZWWWIzam82RXJGRWFsVDdtcENLUVYyWWEwSWlQX3c?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 29 Jun 2026 19:39:12 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Con duras acusaciones: los belgas recurren la polémica sentencia de la FIFA sobre Folarin Balogun - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1dOSlFfb0lMZ2hJMVRmSmxUQ280dkFfTGpxTHhCVWEtdXJxeW5wMFU0QU1vZFlNbUNWUGh6T3F2Z3k5YzhhSEJtRVhoeEpPNFhoVEZjdThTdmlMNWxsWWl1cDFYZ29VQW1UeWFxOGh6Vmw2RW4yT0QxT0QtaXZhVkhsUGVicDcwOHFRYTkzSzQ2eE9VSmNoMUFMbVUzcXhlUEcyWm1sdWVUejZnX2FCWEtJWFBBWWNZNGVhZVZBaks5WnZ2MGNPcERBaXQxV3ZQZXhJeWoyNWRYbm5lUlJrTy0xX0Nwd2M?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 06 Jul 2026 14:01:08 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -238,35 +283,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "El suplente de oro: Merino vence a Bélgica y lleva a España a enfrentarse a Francia - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOakVvZ2VXcnBiYkp3Ty1kanlRRExqSVQzalJkUWRmTWJ2Zlcxb3gta05DeV82Y2pSanZfMkNmOUtXamJqVXg5dmZZTmJ2ME9mZEFBemxQOG1JY1AxQXBER1VGSGU4b2F4S2wzb043ME1BbmQ5Ymp1VjhNTDlFRHUwZ1J1UTdtU2JDWU9UN05OSnRORTJueU9IVHpVdnRZZUdNRmM2RGs4a3d1Zlllc0R1TEtWYmo1MHpiTFUzNjBTVG1LOWdscFdGazNsRmx2VHVa?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 10 Jul 2026 21:28:54 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Super sub Mikel Merino fires Spain into World Cup semifinals with dramatic win over Belgium, set up blockbuster clash with France in semis - WION",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPY3JSOHN0QnR1NW1sQjNVUFVmVkVOeE8tbVVlT3lLN3FSVWJNTktEX0NsOEJqQncwTElELUxTOWxzWWJWQld2a19JcjdMWUMwNnRDZlFkSE81OThjbExXNzhlVnp2V0pjRFd4bE5mTlN0THplTFV1RFgtZnB4b2xZRVM0RG5vZk1WQlpaTUhSeElmTWVYRmN1WWlDUy1xa3p4WWlDZGNWTmdBcURxZXcwSUNkLXB5SkpYaGlJUDhYdWQydnNFOVg1TEhFV016XzBpRWJYaGxfNkZJRHowYVdoS1N5dWtQbmppejlDakctSzNBUnU4LWp0ak9lUV8zWFU5alB6SDlCOWlLMWNtVERn0gGUAkFVX3lxTE03Ul9lYVRSV1lHNnd4ZDNUZDhTcmN3d0RreFFZYkxiWWQ3eUQ3bVMxTHRrcHJvUlpSekxuMXd3RnBKSWxac1lCRTBzQkZJeW9senNaaWNDV1EzOFAxcWV2UXJQUXo1dFYxd21FdTFrbUFHMUx5NDV6bmFIc3JtR2N5SlQ2eWtiNjZVSm1KcUhsY2M2c2NoV0FFZVk3TXVmRnZtTjQ2R2ZDRkoyYXR1VVpiaWVTOWV0OUpKZ2pEZllqSDhEeHNJM0xsZWU4QmplN1J3dzJrZXVPcFQ3bmlKWXJGUHRQdUtHTjZSWkdTSE5qdkhxZGRHV3Vpa2xGRHJ0RWlQMXl6LTRsb0IzWEhiU1R4UE1Jag?oc=5",
-      "domain": "www.wionews.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 10 Jul 2026 21:18:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France",
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Alarmas en Bélgica y el Real Madrid: Courtois, sustituido en cuartos de final del Mundial 2026 ante España - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVM5azNhaDRUeENTUVJROHZtTW82R3hpdUJzYTRZMGxTcWtIZzkzZWN4S09EbjZCTGdadlFublAyMGVjUElzTFFDVk9FVUZweXc0N2p6TWJPc2thMXlVVC1oenF6OEx3OGoxcVY0MmlZZ281ZGZWRWpsRko2eHBwUGtVSFFQYXU0a0Q0ZElKOUJ5Mkc4U0lNV3MwY3o3SEZobzVJTWZENWw1dXhyNzFKV09nd3hhLWxRQ3czNThqRWc4T1FGWEtBVTF1dExSczVZQ3c?oc=5",
       "domain": "www.si.com",
@@ -279,24 +295,25 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "El llamativo proyecto del gobierno de México y la Liga MX para el crecimiento del fútbol - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2l3aWVxYzVKb254dVJZOEpna1lic3ZVeGc1QzJ2MzdRVHBXSnlwNXUxNFQyY2VRQTR1ZUJzemtEbVhNcGEtN0RwS3lSOTFCcmpMSzRCb0lrN05HbktUalZPVnYtM2w2RmZmV040QjZoczYxeHhwNi1SSHRqaFpfcVp6eF9iTEFSckpaVk9OT2Q0dlZTSS1GQlZKdk9Mem1OdE1kcVpGQW9Qdzc1MHdSanpwU2Jvd3VNajRLYQ?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 10 Jul 2026 20:54:09 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "FIFA World Cup 26™: What to look out for in Norway v England 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHQzcmxIRHplV2dCNXhleko3OURTLWdNMEMzcWZ4aFV0dEtuemVPVFI1MTlTRzh5bE5BSDY4NHpJZ1RzeHJTYXRRX29GNmtaS0NPSXYzQ2N0S0dIUURSbmx0MGhvTkhpT0JOVVBZMGltRmN4dzdha1Vrbk1HN2hPNE9nTkpWSHpUa2JKb0VaTkdGNWlpT0NNdThLQWYwYkhvSzlPYmdn?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 09:34:05 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
@@ -306,6 +323,52 @@
         "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [
           "sanción"
         ],
@@ -324,76 +387,9 @@
           "lesión o baja"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
-      {
-        "title": "Super sub Mikel Merino fires Spain into World Cup semifinals with dramatic win over Belgium, set up blockbuster clash with France in semis - WION",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPY3JSOHN0QnR1NW1sQjNVUFVmVkVOeE8tbVVlT3lLN3FSVWJNTktEX0NsOEJqQncwTElELUxTOWxzWWJWQld2a19JcjdMWUMwNnRDZlFkSE81OThjbExXNzhlVnp2V0pjRFd4bE5mTlN0THplTFV1RFgtZnB4b2xZRVM0RG5vZk1WQlpaTUhSeElmTWVYRmN1WWlDUy1xa3p4WWlDZGNWTmdBcURxZXcwSUNkLXB5SkpYaGlJUDhYdWQydnNFOVg1TEhFV016XzBpRWJYaGxfNkZJRHowYVdoS1N5dWtQbmppejlDakctSzNBUnU4LWp0ak9lUV8zWFU5alB6SDlCOWlLMWNtVERn0gGUAkFVX3lxTE03Ul9lYVRSV1lHNnd4ZDNUZDhTcmN3d0RreFFZYkxiWWQ3eUQ3bVMxTHRrcHJvUlpSekxuMXd3RnBKSWxac1lCRTBzQkZJeW9senNaaWNDV1EzOFAxcWV2UXJQUXo1dFYxd21FdTFrbUFHMUx5NDV6bmFIc3JtR2N5SlQ2eWtiNjZVSm1KcUhsY2M2c2NoV0FFZVk3TXVmRnZtTjQ2R2ZDRkoyYXR1VVpiaWVTOWV0OUpKZ2pEZllqSDhEeHNJM0xsZWU4QmplN1J3dzJrZXVPcFQ3bmlKWXJGUHRQdUtHTjZSWkdTSE5qdkhxZGRHV3Vpa2xGRHJ0RWlQMXl6LTRsb0IzWEhiU1R4UE1Jag?oc=5",
-        "domain": "www.wionews.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 21:18:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnVad0x1UkxyVkc2Y3Q1RVVoTy1nSkd3MXQ3VGMxT3ZPeHFnUFkzYmVfYm83ZW1OTzN2OU9TdXI0c082anZ5dGFBUmw0NkNpWnFEVG55Mmh0elB4NTZSR2dXRUljT0g4bEJXMFktQXBKUUg3VXBHbGNsTjZOaVQ5dEpkV3MzVS1VNnIwdFhEQTc2SzhXa0RCbl9TdEhjU0dwTnl6ejJGY245ajB1MnUzTjluOFFjODF2QzV6YXY1T1g?oc=5",
@@ -423,6 +419,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -435,50 +477,9 @@
           "lesión o baja"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
-      {
-        "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
@@ -486,21 +487,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México enfrenta a Ecuador en la Ronda de 32 - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm44V281Q2gzdmltWmVhQWNXT2ZBaEVjNzZ5UlNWYkdNSTBZU0p2VjV3eGdrTGQ3ZzBxRGM5eTFnSU1pYXJtV3BDVmVNcFBTNkVRdnFENjVsZnF1TjZBTkpwVkNPR2l0bDJWWnZ2Z2V3X0NBbGZCZEpWNUxsYllqVWNWbkZWWWIzam82RXJGRWFsVDdtcENLUVYyWWEwSWlQX3c?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 29 Jun 2026 19:39:12 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -539,12 +525,42 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs Winner Match 80 | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckpiVkQ4Sm5VSW5tdm5sdDFpYlRkSWZsNHIwUktwU2EtVUxFRzlMMGIzSW1GajZxYVhpS2FCRFN0UFoxQmEtVmtsQkl0SFdIb1FEeDBvVjl5N2hSMG9raUEzakRNdzFQaVZySk8xcW9jSHB1Qko1VWsyNUhIbnJZcTlCN292ekJ5YnNPMEJwU1ZPMHBaeFFGRk9TWC1FNnBYT0lxTy0xZ2lBaFlTcFZteUZsUFIyMVJDY21xZ045NXhwQ3M0QU9jN3B4SQ?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Jarell Quansah recibe una dura sanción tras la tarjeta roja contra México - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckxvak9zdU9wTXpwVDF6YzZWWWtWR1ZGSlF3VmRkVXNKMzQwT1U5alQ3SWRjXzY4LTZTMGU4UE9CRmJieE5ZLVdNS3U2MENReEZwTnNhNzJpMnE2MkxNQW04VXJyck5oVkpsRFp3ZXg2cHRVRjRLcEJNZ0Y2MjR2NERiOThMVEZIZkpsZ2FBajF4NEx4ZnRPUEtOaXBrcmYyQXpnZGRCbmtFV2xNcVZOcDVtLVdmZFNhMklPVWxOMmdXMzlNaDNTYQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 16:00:00 GMT",
+        "seenDate": "Thu, 09 Jul 2026 21:27:43 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Quiñones al Chelsea? La verdad detrás del posible fichaje del mexicano - AS México",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdzdGV0k2QUdubmVxUWhfc3RJS2h5MU1IUDlzNVQwVjV1RVlCc0hoYnZvZU8xMUxqUDBncXM1SjJVS0hYclNLNktpYjROcjNKMFZnTkd1UV9EUEJxOXR3RWZpQlh0by0tZ3E1Zy1wdXN6YjJGaGZmdkJTR0N2X05zdDhlMWRtVG5IVGdVYTdWSFg5RnIwVHVuYUZtSVh3R0ZhMW4zNXJFejBYQW96N0x0YjZGNERvZmJYZkhTcnhEeEFZRWNReTAyWVFXUWjSAeABQVVfeXFMT1lKVTRsdGhuR2hBRmpiZzZDOURHYjhQYjBydDNpOWZhTEwyLWFrMmFVZG9xZy03VklyMHF1N05aY2thSUJrZy16bnBSX3BqQUt2MjVlVzQ2NGd2c0JzZFU2U0JINlNodTNuNUpKVm52bnNFbGl5WHRfSGE5RThDM1VRcDUwOTZYc005T0NLcjVmeUdiRUlDaVNhRUZja0NpZFU5QXVZQ1JyYmwwc2xJTzhpSHptU0Nfa181OVg4ek5fUmdhRU5qb0dXSWlPVkI4SGptaXV3TkNIRUZNNEtMbEg?oc=5",
+        "domain": "mexico.as.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 02:02:31 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cuándo juega México su siguiente partido oficial? Fecha y rival del próximo partido de la Selección Mexicana - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVFXM0Rsd2Vla0owU0xmNXEzcUxXZ2gtWE5QdFNVQkR6d1Z5WDVMYWJhbnpMWmRJWG5OekIwUEdTV3ZZYkhfZkYxUm5waDVnN0c4VnpkT21JTHJKbG9idjdWNlJyWmxVS29WMXpTRFNYMlBra2ZtdFJKbWJkS2Y2TWI0Nzh6S3ljcFhVblVQRk42em1NbldZXzd6Q01zVGxLcjBZRHY5WWw4OU5aS2tTbnNwM0lHblVuVWpobWxFa3jSAc4BQVVfeXFMTll4TWZYTHdHNENIUER2WUdKcnp0cFY4TEVCYjlGZC1VNHBTX0tKQUdNSEZlZTVMb0FlWlRXbXlsNHRXV1ZIUnN6STJNdGdtcldscllGdHVvWklORWlrYlB3bmduOWRScjRwWDItN0RZR2JvcWxNTjFZRzFpbWFDQWd5YnB4bHV2aVZCNUYzdjdPZ3c3QXdYMFhQWnpPaTRaYndqdFZ2SjBGMmZBVjBKa2IyZThuSkVWRENqSDN4WGI3UGlTX3pZd3dtWWszQUE?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 05:10:10 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -555,12 +571,73 @@
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 26™: What to look out for in Norway v England 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHQzcmxIRHplV2dCNXhleko3OURTLWdNMEMzcWZ4aFV0dEtuemVPVFI1MTlTRzh5bE5BSDY4NHpJZ1RzeHJTYXRRX29GNmtaS0NPSXYzQ2N0S0dIUURSbmx0MGhvTkhpT0JOVVBZMGltRmN4dzdha1Vrbk1HN2hPNE9nTkpWSHpUa2JKb0VaTkdGNWlpT0NNdThLQWYwYkhvSzlPYmdn?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 09:34:05 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La peor racha de la historia... La maldición del Mundial atormenta a Inglaterra antes del partido contra Noruega - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZF9Tdjd5U3lBVlRGRVZoQXlPYkotYUNIZFYzVGFHRUZ2QVBYTVVWS0FLeDAtZzZYVHRrUkdCRU5SMWR6bmpJRVhPZHFmcDl4UlU4NWNhb0htNFpvWDcyMXNBc2NzdTg4NERuQ3lIWkJ4d2lkWXFZRmt4SzdwdVFiYi1nb0tlTXhaVGlFWG9PQ1Q3VFgxZTVmOXpqcDFHaDJYMlp2VDM0anU3VE5jX29CM1R6WmFiRDk1eklrb0JCUUZwWjQ4WWRZNWJ2VmJxQkZiNFoyd0R2Mm54b3R0TGVmdk56V0h5bzV1R250d2NLMmNSbk53VHNGeQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:34:49 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -581,72 +658,30 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Antes del partido contra Noruega, un extraño suceso sacude la concentración de Inglaterra en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc19aeE5MSnlHcktXVVF6TmhmQlhPRmJSWG5Pam5VMUViZTBNendOWXVwbkhITmZSMHJ6M1cxQlZybDVBTUdOVEQyUHE0RWRLcGhGRjJlcmEtdjV1bDFVdU1sbXZlQlZFY29VQVJiZ1ptVWtnXzJtN0R1cTFCQTFEX1NJZGthWm0zRDRYSFlwTmdkQUxoMFoxWlYtZGxtVmxkajZJdjhGRGgyaERPTGZVUUNwMTNDXzhZNllZVEE0aGxFU0xsTW0teldHRzQySFpBcXpjSVB5R0paODNtTEIyN09pQjZFTjc2MG45eEliZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 09:51:03 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Inglaterra teme que la enfermedad de Declan Rice se propague en la selección antes del partido contra Noruega - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcmNPUlYtTTNuLW5WVlB6a2t4UXVpQzBrS1Bka0cxbmhOYWNQRGpXVW43N2QxWnV0WlpWRlcyX2NpbjhhZGUwdkRGSDFGckdDWVJXN1ZDWTh1LVdYUEV3OFdEbWt3UXliU2RSOHo3WFBWV2RhWG0yVVNqVWNnaWRqdTVrWnN1TFBBaWdjMGJKX3FBQ2plRGhkVlg4R2hoeW82SU11RkJkMHBGcmpoTUNoUTBQMFVsMFBuYjlyaWFpZzhqSmpEc1puMWtZOS1qQzk1QThIeloxWWNuZGpNSTVVTVE1WGE0cm1CamJwMnlfYUp6aWxMc1dadw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 09:22:16 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 11:53:59 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "lesión o baja"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "Zlatan Ibrahimovic critica a Senne Lammens, al que llama «sobrevalorado», y culpa de la eliminación de Bélgica ante España en el Mundial a la decisión de sacar al portero del Manchester United - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQa0V6VmNza2x3bUhNbEVoaU1OLUFRQUhQTE5JRUVJWHhLUHlVcVNLd1NPd0NMTjJuSlNRM3FaOC0wSzlCdlZDTEFrRGJUQzRWWFlhZ3E3VnJaaG1odjBQUjZDR3BwSHNGN2ZEVjBYNmlGZE1IN2R3enp5cUc1a1hoQU4yenduNzJJSUtOcjlxVjBCX0prTXc4MmQ5NTBOc0F6eXhwcnZXSjIzQzhCS0xucVJ4Vmc1bnZNcXRCb2lPZWUxWGQxcUk1WnFxX2Y2Nk0xanRLZTdWcmZSakZQdVVManZiX2xMaDg4VmMzeDFuTFlQMXZZOGtaSmxjVEhRaDFBcm9scmdvWlNkNHJNRWd0MHJxZTE4QVQxRDBINGgyYi1SdWhKcU00SkF3MHFOZHN1YVp4eXBUY0xhVmxhUjU4UmNXVHRMQl9vNjByM180eG1XRXNxeE5nV3oxUmN3STVUcWc?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:52:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Penélope Cruz y Brad Pitt sorprenden al asistir al partido España vs Bélgica del Mundial 2026 - Vanidades",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU1AwS3JjU1FJalVWOTdZM0JOU0tNbzZwSG9RZjNjZkVSMEprWWF0NHpFc1pQVllXYVNoX1MxZDdVdG1RN2FDQThHNy1jVDNpYzQyMjRJTlJMRF91SW12T2JKVlpwM0ZLZGI0MlVHbkRzSzdHVnZfb2pBSFROUUw2QTEwMzAwVUZXQmhNMDNZQWZHekRmdVNEMGtnQndDTkRFTDh3dTVwVWY0MVRHYzBmVXdiTGV0UkpybXJ2dzFvVXg5b2FnaWpFRm84ODFnUk050gHeAUFVX3lxTE9scmhPS2U1MGotdENZY195VjFGZzB5QWYycDdYQS0wd20tdG9rbU5WUlZ3XzRnbFRCbVlXc1N3LS16T0t3Y3lyWnhBUW5nbUNVY1dWMVF4MUtoTVpNd0o1b25oTlJfZzFSelZyMmI4WFRaZmVFZVFiTW9pcGpnTUNsMERiSWJUZWQxOUZicnFXejhSaktmdkZZQ253MlBkbkFCQVhEcTBuS182dUR6VUNFV1k1bXU2NllYVFJPdjVFY2MwRUt6QkxWbjlxdFlRZFR1N0UyTi14Nk02TGRQQQ?oc=5",
         "domain": "www.vanidades.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 03:00:00 GMT",
+        "seenDate": "Sat, 11 Jul 2026 03:00:51 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium"
@@ -669,21 +704,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Super sub Mikel Merino fires Spain into World Cup semifinals with dramatic win over Belgium, set up blockbuster clash with France in semis - WION",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPY3JSOHN0QnR1NW1sQjNVUFVmVkVOeE8tbVVlT3lLN3FSVWJNTktEX0NsOEJqQncwTElELUxTOWxzWWJWQld2a19JcjdMWUMwNnRDZlFkSE81OThjbExXNzhlVnp2V0pjRFd4bE5mTlN0THplTFV1RFgtZnB4b2xZRVM0RG5vZk1WQlpaTUhSeElmTWVYRmN1WWlDUy1xa3p4WWlDZGNWTmdBcURxZXcwSUNkLXB5SkpYaGlJUDhYdWQydnNFOVg1TEhFV016XzBpRWJYaGxfNkZJRHowYVdoS1N5dWtQbmppejlDakctSzNBUnU4LWp0ak9lUV8zWFU5alB6SDlCOWlLMWNtVERn0gGUAkFVX3lxTE03Ul9lYVRSV1lHNnd4ZDNUZDhTcmN3d0RreFFZYkxiWWQ3eUQ3bVMxTHRrcHJvUlpSekxuMXd3RnBKSWxac1lCRTBzQkZJeW9senNaaWNDV1EzOFAxcWV2UXJQUXo1dFYxd21FdTFrbUFHMUx5NDV6bmFIc3JtR2N5SlQ2eWtiNjZVSm1KcUhsY2M2c2NoV0FFZVk3TXVmRnZtTjQ2R2ZDRkoyYXR1VVpiaWVTOWV0OUpKZ2pEZllqSDhEeHNJM0xsZWU4QmplN1J3dzJrZXVPcFQ3bmlKWXJGUHRQdUtHTjZSWkdTSE5qdkhxZGRHV3Vpa2xGRHJ0RWlQMXl6LTRsb0IzWEhiU1R4UE1Jag?oc=5",
-        "domain": "www.wionews.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 21:18:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Alarmas en Bélgica y el Real Madrid: Courtois, sustituido en cuartos de final del Mundial 2026 ante España - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVM5azNhaDRUeENTUVJROHZtTW82R3hpdUJzYTRZMGxTcWtIZzkzZWN4S09EbjZCTGdadlFublAyMGVjUElzTFFDVk9FVUZweXc0N2p6TWJPc2thMXlVVC1oenF6OEx3OGoxcVY0MmlZZ281ZGZWRWpsRko2eHBwUGtVSFFQYXU0a0Q0ZElKOUJ5Mkc4U0lNV3MwY3o3SEZobzVJTWZENWw1dXhyNzFKV09nd3hhLWxRQ3czNThqRWc4T1FGWEtBVTF1dExSczVZQ3c?oc=5",
         "domain": "www.si.com",
@@ -698,12 +718,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "SPAIN VS BELGIUM | FIFA WORLD CUP 2026 | PES 2021 ULTRA REALISTIC SIMULATION 4K - YouTube",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IWUNHejRtZno3VGJvdlpBZWQ3eU1RZzY0TzFxbUNwemRqYzEteXY5NGNyNFV3TGs0aXZSVTBTNHBCNUxnYjRmcUpCdVhwRW43ZzJtUThQRHNuN0tR?oc=5",
-        "domain": "youtu.be",
+        "title": "Christian Pulisic, la estrella de la selección estadounidense, se fracturó la pierna en la derrota ante Bélgica - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOC1JRVk2dzB6Z1liZG9IcHowbDNOZUtRLXIyRGdMWEstN0w3R2o1U3hFdlVtcjAxd3pWM1Nram9UNHVUZnVtV0FNOUthUDNJeUdCd1drVEE1am9CYnhuU3Bkc3pGRktfVnBhVEV6bnVMenRRa1JYZDh2cXF2V01MNXNyRUxjM2w0Z0h2cWQxOVhFeVk5UnRkQ2FfWWhxbGU4NzF3X0trRDZrMzVwRnM3NEl4dW5tdjRaOENTSEhfYVVRcnFOSTZWRFBjb3NIZUc3N0gtTFNab1hrZ1RzY1JwWk50WdIBXkFVX3lxTE9XLUhHbEVXNHNUNm45bkUzcGRVQ3pqNVBKZ1NuWnNjSUxvTkpEanlSRzlQZEhoRUpGb2NUUTVUT0JtSXRINk80OFV6OWN3aEdzYmlkYTJFM3VvaTNmU3c?oc=5",
+        "domain": "www.telemundo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 19:41:02 GMT",
+        "seenDate": "Thu, 09 Jul 2026 17:43:14 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium"
@@ -712,12 +732,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup 26™: What to look out for in Spain v Belgium 🇪🇸🇧🇪 - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDE2NlJfTmNQbWZGSFpZdWdWTHkzd1BQY19GRVN3S1ZXb1E2SFpmTmNRNTBjQ1UtYlQ2N3ZWWGpBQjUxNHdOZ281WV9fTnhpdVNiMVVObF9PLUN4dEdBX21sUm9VNVV1U1UzWGJlN3ZiVnhzVUpZRjVDLXJIeVgzQ0hzTTR5MldGdG1CSDY0anpzRkM0OFNEQ0Y2QjQ1d1ZsVW9KYQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "La ley responde... ¿Se perjudicó a Bélgica ante España por la mano de Rodri? - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ195bmYzTnBUUHdZT21LWmtGY2ZFdXM4c1RGVXh1bWdTdzlkYjcwbUlPMWZsNnNoWnBaWGg3U1RabUpnRGFteWFWU3VuWUdtUllZMDdYRGFaZVFKRnFBS2cwTmlleTU4M0pDRnVBVll6d1gtZHRSY1RacWM4UHAyT3ZPbm9CM0lFTjJ6eDY4UXJQSjZ4azZVSlN0YXFlbFdGenFxQmFxVVFOMzYzOHhVZW9tUUhkeW9WNUotRGdZRTdXS0hQSmc?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 09:01:02 GMT",
+        "seenDate": "Sat, 11 Jul 2026 10:15:51 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium"
@@ -743,20 +763,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Con duras acusaciones: los belgas recurren la polémica sentencia de la FIFA sobre Folarin Balogun - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT1dOSlFfb0lMZ2hJMVRmSmxUQ280dkFfTGpxTHhCVWEtdXJxeW5wMFU0QU1vZFlNbUNWUGh6T3F2Z3k5YzhhSEJtRVhoeEpPNFhoVEZjdThTdmlMNWxsWWl1cDFYZ29VQW1UeWFxOGh6Vmw2RW4yT0QxT0QtaXZhVkhsUGVicDcwOHFRYTkzSzQ2eE9VSmNoMUFMbVUzcXhlUEcyWm1sdWVUejZnX2FCWEtJWFBBWWNZNGVhZVZBaks5WnZ2MGNPcERBaXQxV3ZQZXhJeWoyNWRYbm5lUlJrTy0xX0Nwd2M?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 14:01:08 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -765,6 +771,52 @@
         "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [
           "sanción"
         ],
@@ -782,32 +834,6 @@
         "tags": [
           "lesión o baja"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -827,6 +853,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -851,44 +923,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -909,6 +943,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -933,44 +1013,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -991,6 +1033,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1015,44 +1103,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1073,6 +1123,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1097,44 +1193,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1155,6 +1213,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1179,44 +1283,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1237,6 +1303,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1261,44 +1373,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1319,6 +1393,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1343,44 +1463,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1401,6 +1483,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1427,17 +1555,39 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
+      }
+    ],
+    "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1455,26 +1605,27 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
+        "title": "FIFA World Cup 26™: What to look out for in Norway v England 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHQzcmxIRHplV2dCNXhleko3OURTLWdNMEMzcWZ4aFV0dEtuemVPVFI1MTlTRzh5bE5BSDY4NHpJZ1RzeHJTYXRRX29GNmtaS0NPSXYzQ2N0S0dIUURSbmx0MGhvTkhpT0JOVVBZMGltRmN4dzdha1Vrbk1HN2hPNE9nTkpWSHpUa2JKb0VaTkdGNWlpT0NNdThLQWYwYkhvSzlPYmdn?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
+        "seenDate": "Sat, 11 Jul 2026 09:34:05 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Norway",
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      }
-    ],
-    "4be17c8e1ccfecb0f2a5ef79e045c415": [
+      },
       {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
+        "title": "La peor racha de la historia... La maldición del Mundial atormenta a Inglaterra antes del partido contra Noruega - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZF9Tdjd5U3lBVlRGRVZoQXlPYkotYUNIZFYzVGFHRUZ2QVBYTVVWS0FLeDAtZzZYVHRrUkdCRU5SMWR6bmpJRVhPZHFmcDl4UlU4NWNhb0htNFpvWDcyMXNBc2NzdTg4NERuQ3lIWkJ4d2lkWXFZRmt4SzdwdVFiYi1nb0tlTXhaVGlFWG9PQ1Q3VFgxZTVmOXpqcDFHaDJYMlp2VDM0anU3VE5jX29CM1R6WmFiRDk1eklrb0JCUUZwWjQ4WWRZNWJ2VmJxQkZiNFoyd0R2Mm54b3R0TGVmdk56V0h5bzV1R250d2NLMmNSbk53VHNGeQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
+        "seenDate": "Sat, 11 Jul 2026 07:34:49 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1495,35 +1646,9 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Antes del partido contra Noruega, un extraño suceso sacude la concentración de Inglaterra en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc19aeE5MSnlHcktXVVF6TmhmQlhPRmJSWG5Pam5VMUViZTBNendOWXVwbkhITmZSMHJ6M1cxQlZybDVBTUdOVEQyUHE0RWRLcGhGRjJlcmEtdjV1bDFVdU1sbXZlQlZFY29VQVJiZ1ptVWtnXzJtN0R1cTFCQTFEX1NJZGthWm0zRDRYSFlwTmdkQUxoMFoxWlYtZGxtVmxkajZJdjhGRGgyaERPTGZVUUNwMTNDXzhZNllZVEE0aGxFU0xsTW0teldHRzQySFpBcXpjSVB5R0paODNtTEIyN09pQjZFTjc2MG45eEliZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 09:51:03 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Inglaterra teme que la enfermedad de Declan Rice se propague en la selección antes del partido contra Noruega - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcmNPUlYtTTNuLW5WVlB6a2t4UXVpQzBrS1Bka0cxbmhOYWNQRGpXVW43N2QxWnV0WlpWRlcyX2NpbjhhZGUwdkRGSDFGckdDWVJXN1ZDWTh1LVdYUEV3OFdEbWt3UXliU2RSOHo3WFBWV2RhWG0yVVNqVWNnaWRqdTVrWnN1TFBBaWdjMGJKX3FBQ2plRGhkVlg4R2hoeW82SU11RkJkMHBGcmpoTUNoUTBQMFVsMFBuYjlyaWFpZzhqSmpEc1puMWtZOS1qQzk1QThIeloxWWNuZGpNSTVVTVE1WGE0cm1CamJwMnlfYUp6aWxMc1dadw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 09:22:16 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
+      }
+    ],
+    "67ae5751c401a98409b8566ae4897069": [
       {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
@@ -1539,30 +1664,46 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 11:53:59 GMT",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
-          "lesión o baja"
+          "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      }
-    ],
-    "67ae5751c401a98409b8566ae4897069": [
+      },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [
           "sanción"
         ],
@@ -1593,44 +1734,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1651,6 +1754,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1675,44 +1824,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1733,6 +1844,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1757,44 +1914,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1815,6 +1934,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1839,44 +2004,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1897,6 +2024,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -1921,44 +2094,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1979,6 +2114,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
         "domain": "www.goal.com",
@@ -2003,44 +2184,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2061,82 +2204,46 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 11:53:59 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "lesión o baja"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
         "image": "",
         "matchedTeams": [
           "England"
         ],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
-      }
-    ],
-    "5a34afe2de99513ba48360b983cfe80c": [
+      },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [
           "sanción"
         ],
@@ -2169,42 +2276,94 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
+      }
+    ],
+    "5a34afe2de99513ba48360b983cfe80c": [
       {
-        "title": "Erling Haaland gran figura del Mundial - adn40.mx",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldZUHBlQ0dJeWNILVZGRkhNYk82a2JoN2puUXVGRjNxS0ZfcGN1WHV4VERUUDNNLWhkZUJlYlJPVUM5bnhnY2puQnVKclAyeXpnTTRpeU9UeTV4RVgxdUltNWxuRnZJNGFOWndyTE1fR0V2bUFpdlM5eVpKOWJ1dFEtQ1N1Nzg?oc=5",
-        "domain": "www.adn40.mx",
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 23:30:53 GMT",
+        "seenDate": "Thu, 09 Jul 2026 01:18:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "El camino de Inglaterra hacia la final del Mundial: cuartos de final contra Noruega, eliminatorias, la carrera por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOTAzdEhhYTZ3YzNNeFFlTXpuUDNlVlRzbGZGV0dEbHJGQ3luTHJJZE5yN1hzcWZiTHhjU3ducEEzWXVKZ3k4SnBQYkZTOGx0dDZyWHJRWjh3YVJUM1l1bS1Ia0l6aHNjVXpBbHEyZDlOWHZXR3c3V2RaMVZVRXRGVVpsVm9sZFlvYmpOLVJvSVpVZVE4b1VmLUNiTzdQRU9Tck1VcGJ1alpLd0ktdkZ2UFZJTFdfcnUxb0RpQlR3UGJCbHk5RWcwR3Jqd1dPUzljeUFwV3ZWcV9DdmlFWnpYRWJJS0F6TDNXWi1TZUF4Qm5XLTktTnA2dVlMamsyMm9fOUV2ZklOejk1ckh6cUh2ZS12MWRwaDg?oc=5",
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVTlhcW5sVm11WVcwRWVNaVB3bDlSOUNwcENUVHZ4dWlsYmdtQzhsbXBwbkNndzJXemZrajJDZEU5QWtOdk5BS1BwTDljU3Bfenl0OEU2MUFEaTh4Ulg1d0JTOGdDZGl0ckZXS1VVcXJ4NVZvejBsYmJJeERfekRtUk9OUEJxQVZqU3dtai05LVhWeGg2S0tmSjlyZGVsNXhVVjRLZW5fSEoyeUw4c3dxRF96aVBOUG1VT3M4RXNtaGxnU3JOZF9mRHVKZ3Q3MFVQVGkyZDNTMmNJWTQyaFNyOEV3ajJ4MjRCUlVzOVRTam1EeWViaGFVSnpZQTIyaWQtTWhha0ZsNUN5MVdEQUZfTHdPOTNKaTlxU3RnT1g5bXMwMEdnUGRVanppQQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:26:25 GMT",
+        "seenDate": "Sat, 11 Jul 2026 12:15:59 GMT",
         "image": "",
         "matchedTeams": [
           "England"
         ],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién podría jugar Francia en las semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNvaTRMOEhPdWZWU0xnUzZ6SE9meWJram16dFVhRV9ya0tJWUlqSUhwVG8yYzF2WU1EUGtMSE52cThQYlBjNEpIZGlYbEdEZ1F4QnFaUVFFVVdUbnpmcmV1UUxKUGJTWHlyal9ibFFueDlSd1Z3RjZIbmlsYkRlQ1pvLVVaLWpXMlVFcl9ZRjJjQkk5RnpscUJZb0FIUzZVMWVUOFJsSWlFLTF2RW51dlgyeWFvQUkzU1VV?oc=5",
-        "domain": "www.si.com",
+        "title": "Tuchel critica a la FIFA: «No hemos recibido explicación alguna sobre el endurecimiento de la sanción a Kwanasa» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVU95V3FidE9ITlNRZ28zd2VGOGU5WHZQZWYtb0diWTZiVHJNemhkY2pCUkZ5Mk9HbEZLaGZJR29jWm96SVl2M19uNHRYOXh4U3YyU1E5Wm9XUFdkYzJlb2VqVThMNnlmN1pjdzhTOWcxVFgwOUpQTlg0Z2FzbEZVWE9ha3J5dG1PZ3JnWTc1NGNsSTdzZzMwd010MUdMUjFrMzVELTNKRzllYlZ3a0daREd5T2M0aWZGczZ3a1RMTG9Nb1hXWlJhLXdVclVwVTR6b0s4anR3R3pRM2ttY2ZBZ3RXcGZPOGM3Ym9OcjNQY0lMcnJZd2U2LQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 22:02:18 GMT",
+        "seenDate": "Sat, 11 Jul 2026 11:00:53 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Una lesión de seis años… ¿Se perderá Mbappé la semifinal del Mundial? - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTl9PQ3ZaeU5fMl9KVWJWd0gyMEF4OXBtdGF0V0tmcEUwUmFXUkk5a3ZVdVBwMVllWXZiR2VUcHpDTTBRclJ2QnViUnB2WjNfY2pFNmI1VTRlakxYY2lFTVpGYmhtb1NHYWtKUnlTVU1tYm9jMXI5LU84WGg5d0hVNlI3UG5MMEU3QWFsYk9XenZZUjVZMElpc0lwRHBYalZHV00tTmNWU2NnQUdmaERPamRmQ2ZoOGxiSWIwbEhlcw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 11:53:59 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
