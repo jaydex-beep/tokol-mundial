@@ -1,12 +1,27 @@
 {
   "meta": {
-    "updatedAt": "2026-07-12T15:41:26.710484Z",
+    "updatedAt": "2026-07-12T20:37:47.890798Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
+    {
+      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
+      "domain": "www.telemundo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
     {
       "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
@@ -22,12 +37,168 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "¿Qué ha dicho? La lectura labial revela la bronca de Tuchel a las estrellas de Inglaterra - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVDhOUm51QzlYeE5JS2hVSTQ4NzU3b3ZXWEVIVGZjaFJPMVdtRnZwanJEam9TbzJ2aWxfSk1WY0hlZ3hzcFlyOHk3V2I1QjBvTXAzU2xQZXJ2SVNJSmoycC00MGFIa0NpelQzcEoyUkNfUTZucDY1UkM3X0NrcjhUdUFnNUpvTVI4M0hseXB0X0ZEZGZkNDVnQVlqMUpRNzhGdHIzSzBMZ3NJRGx2Sm5XUDFDS2dTUThoUTJDbDc4cVNMSkcxVlFQU3I2U3RsZzJmSWpPRl9yY24xRUU?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 20:13:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¡Jude Bellingham es el mejor de todos los tiempos! Gary Lineker afirma que el héroe del Mundial 2026 podría ser «el mejor futbolista de la historia de Inglaterra» - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPN09uMWJuWWt1RG9hekpaaWgyQVFJUTdDNWQzT1pGWDJQRWpPNzBzaDhDbEZZS3ZqWjR6WG5sV1lNR0l1MWRrOUl3M3ViSEVXVS1ZanA2SFdwbnlhZW4tSTVDVl9OMWM3MHRZbDBNNmZMYnZHekZtQnkyMXFsWEhhTTVwZXJQTWw3QldxMFFBb05PdEoydXd4UWpBRmkxYmpDdzdjYklCbkE3RDJQSl9YN0dXV0lNSm1lVE5PbjR4bkRJUl9SUXNUMk9aeVMxMndJTl80djJqMllCWmtiNUMxa0E4amMwNGRSTGNUalBha3ZkejVjb3MySXBrR0lIQUFyeWZCeTVHSzdIa3JPNGpUNVcyY05hTEg4N3ExR2JHWWFPcFJPVDhNaWZrd3RqeEsyLWNRQmFDVERsZw?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 19:48:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Senegal"
+      ],
+      "tags": [
+        "sanción"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Harry Kane defiende a Thomas Tuchel y admite que Inglaterra solo ha mostrado «destellos» de su mejor nivel en el Mundial 2026 - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNXlNRC1JQkdxLW45bkpSYklsdFJFNFBhSklaMl94MWtTRTlJMU1EU184M2VPOHVqT3gwcERuaGRiYUtCMVB6MWFxaTNiN1pLRDRnR2o5aHZldFRjNVJIYWp5dERKc1dDMUY3UjhxZGR6cUo5a2xTeFQwOU15d3plandFRDREbGV5bmhpQnExY19xTEQwRXgtUzFKalRpdE1SSW42MDNSUUoyRzJDTUUzYkU1aHJUcXFHaGt2YzlZSmZwVFo2R0ZoeTlfcXBhYXpTYmY2QzB5WEtpdFhUcEhOaWVzaUZtWlZKNUxsMmhDOHJJR0k0U0pCb2VXTDdjazJzUm5WSTZwV19UTHc?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 19:18:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Roma star Kone expecting to be benched for France World Cup semi final - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV290TkZmbnpQWlY1TXNKdmY3cmNpN1ExUmhsWWJsLVJBc3EyaVRZTmVPZ25IcEQyb0hES1liRHNaVGF0aHFPVWppLTZ3SmNSNHpzRkxhaDhyM2I5dFZuN1hFblpBN3JSUm56aFZvdS04MzJzWVAwUWNwX1pVNVRqNFU3RjFWRDFHYnRvdHJIcUpVRDBLUmc1MWVyWGp6QkRxVFFQUlBuYUN4VG0yWUtBQkowVnVJZw?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 18:11:50 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "«Débil»: Erling Haaland, furioso por una decisión controvertida que afecta a su nuevo compañero en el Manchester City, Elliot Anderson, mientras el VAR frustra a Noruega en el partido de cuartos de final del Mundial contra Inglaterra - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNU1l3aHBhLXNNSjNZVE1lcmhOQjdLbkR5dy1qTUg1ZHdESzlOdXBOTWxHUVZwY3gwc1pTc2kwNldhX0xhc1J5bXBMRWNYd1AwajIzYVNTSVRPTzRoYnZGbmxyeE9RaklEc0xUTzF4MFZPSm9LanZuZG9mNm4td29LMTBmOUJUZGpUYzVPZE9Dc3UtZUtJVjR6dFZSRXhKX0NXZWZvY25wcGhndktzS0JaZ2tNbHpXWHVRdlVGbkxRRFhZdVFRVGNzYjlKUk1PYV92cVRzSlg3ZnFnNWhJNWx6YmlkR1dXSEVjSjNQVXQzZWwtV3ZDSnNUb3dBdUNJMy1fdVYxcmRVNGVydXMzMjZHdGJlUWE2X1lNWnViR1doQURQTmRNdjRUcVA5LWk2VlhzaVYzVzdHcEw5WlR3UTdXUVM4cVo0MWVvai10SXZrWHJPYXRTYUg5WE1VNVZjazVhTjJwRkJwLVpSUXdIa0ZOWjJCU1pvbHpreG5oNVJPSWRoMWJ5VlV6OFZyMkNYMElMdVdObXV3?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 17:41:25 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Senegal destituye al seleccionador Pape Thiaw tras una decepcionante campaña para el Mundial de 2026 - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMGR1MXczQlpIYWxzUklfZndmbWk3Z19KOW9CZHN3NWpaWVF2UTdKVUNHQ0g2ekdKZVc4dzh6STBhdC15RWRjcUhPNmVwejNWYzlNT1dyaDV1dTBVZlZkU2JxZ3pmV09jelc0M3RQU0hwQTV1RVlDc2otSWl4SDJjMXdJUmltbXY3OTFlNExXWHZYZVVkWGZfWG0xYlFwcFpJMkNYb283NjlLdVYxdFNLVW9kQ2tNbUpjUkFQUkZ1TFV4RTUxMm92eTVqM1NaeTZkTlJDX1VOSXItV00yWnUzakp3a2RLbHVrekVvNA?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 16:53:45 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Senegal"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Erling Haaland’s Leeds roots and why he could have played for England at the World Cup - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVo3cy1RSFEya1lPNzNWU3hFcVRrZ1Uzc3BaY1BtbzQ2alUzcmM2dXMtWUphZEdranp4NHJZSXpnVkhiT2N6aDVJQU14bWNjUV9jUHlFVF9HY3MzdEtvNVVldDNyT2pWNHh1Qm9LLUdscUVEYlpkQmpxQUU5V3BCeTRzMmpYNmxqb0JMYkx0ekZaWnpJMlpGTzlleUN4TFhIaklseGlyNWpObjIxbHVHMFlXOG13d3ZjSVhBdElrQldtS3BpckZnNGV3?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 16:40:57 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "El presidente de la Federación Francesa aclara sus polémicas declaraciones sobre el sucesor de Deschamps - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUUFIZDhuZTRIaDdBTWhELVpRN3l4SU1OTlcxMXJiZ1FFVlpRYXZYUlVEYXVfZTZwQzFENkZhWjdFMkhXVHNRTWNIVHNabTVXU09YUFMxeFRnckhVdnRpMl9ib1kwMW1jOEtfYThyMGx5Qm9XRG0yTUVwaHdzSmVuNzhkOHJXeWhYaGdmcHBCOUxXVXVhWHdmZDEyNDBqbDN6S0xEcWNOdUJkZ3huWEZsbFNNbmM5UlBQYVVraEZtc0drMlRJMTlhcWxlVmJBdUNKZGdBdkRpNEt1b2RvNzZ4YWR4MXFlcHdXbEc0SUJDN25MZw?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 16:40:39 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "En cifras: Tuchel lidera la historia europea y devuelve la identidad a Inglaterra - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTWZJTDUtN29VVTc3RFA3QTFPQ1JfRlRES1Voc1FwV3lRX2E0U1ZLa0s0MlYtbEJ6YTlGSklEN2tlbkp0d3c5cWF5N3B0VTJCVUZpaktjYWE2cVlacHRYZVNDQWl5UnRSU3JXcWJndG93VDQtT3h1R1BNQzJxakNmdHVkb1N6eWhsSTNvaFFEMURZbUpvY3Y1eDJ2dHhoTG9PUE8xWGlnVlZlNjQ1eUxYNUVrT1lKb3hCVldzVm94SFZOaE00OXlmbGRhdnQ2blA3Nnc?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 15:18:35 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, datos del estadio, la lucha por la Bota de Oro y más - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSnJIZXVJa2lheGpFRGVacXR6ZUxDVU14Q01QY3JkaVlvRTFBOWFUN3lfWU5fYk5RTEVIeFN4cVVqWEJXXzB2dVlDekVhS05DdVkzTXpIaUJqR3J6SVl5akdnZkR6MEo4SlVYYWREekxoZ3VRdk14S3hxamVmNk10NHMtb2VDRzJtRWtzYnFGb2tfQXVURjEzeG5Sa0JNUFlYVHZ6bUJjSm9tcml1M0xfTEdtYU80MTd4X0NrZDhQZXJzOXNLd3JGSFJYMEl4WjFvdFh0ZUprUllmOUloYWl4VEs0cGZMdVpDRHNLRkhTMFBnMzA5dXhFUzhJaEVuQzByQmZXNGhPYU9NdU45dVU1blFGYw?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 08:30:13 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -120,195 +291,10 @@
         "alineación"
       ],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "#@(vivo-tv) ver 🏆✅ Noruega vs Inglaterra de la FIFA en directo hoy - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQWlc0LWxUd0txZUZpQkl6emhvLUh5Q1RPSndXeHYtQmo3TE1YOXJRY3plTW5obXlSVWFrYU12Y3BXVDRBYkhqSWJuUjI3NHp4amZZbmNjLW05OUlpWmFqVlZjRXZOMklwOVRhX2R2TlRvQUFOWm9scDdQTy1pd09kVzFCcVhuZ3pjeG1WNmZScHFtenlkRjV4UHpyOHlCYm9ZU09WRk9pbTkzQnNxWVNtSmRhZVpYYnUyUmloZ2ZERHdRV0o5T3BNMW42aktPTEhBSUJUWVFfY05CN2w4eXlXbno0MmFpTzNRNktJSUV4LUpMbzB5MUNKblBhb05sTWdoY1YwRmNib29qelM3MDlGc0p3OXpHd2lUNldva1VOb21sNXN2akNKeVFQQmtHMUFna3hDRU1tell3TkhQTUNXMlM0Qm15YjI1WG1fUEVrbmtuc1hqYzBRZXhVOF8yWUNkVEszVVFBVDN3alY0eU8yVHpJYlBIVF9CX0hjLWo3RTBxRldwZ2VSN1ZkWllsMzFJOElacjU1eTlhb2NJNF9Z?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 22:16:01 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "VER AHORA@!!.. Mundial 2026 Noruega vs. Inglaterra en vivo gratis copa mundial la fifa 2026 futbol 11 de julio de 2026 - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNVDE0aFhLVURPSnhTa3ZYbkNQUGEwd0Nidi0wbGhnZ1pPRTd5WC1La0ljVlhOUy1aTFJla0xTLVlWS2F6UGZFaTE0Ynl5bDQ5RlJ6bVZZLXdpdHh4YU5rcU82Tm9uckNTZzQ4em95WjlncFlWeTRlUzhMRkUxaXhlRUJJZklhcURQSWg3dXZwN3NsWUpIbmpFNDl6WEItd1JCeU9yQ09uSE5EOFNrc0ltT2NoZ0g0Q3RSd2dycWVqV0xyS3NEbm5LQ2tlUDY5SkFUaUdPNWRLWTJjMzdtWDFWaFVPWWJVS3FEYVlYWW92UUcxNDl5UWgtRGdTamdaaVJ2WEwtemNvZk5RUWZvdEo0ZzNQbURXQ245Wk9iT2hycGhzUGNhV3NHTExPOW5aOWdqdkYyRE5RSnVvd01VRlRNUXJnM0RDaUU5NTNKWWlJVE9tR21zNERORm9SdUdRa01idjZOSTRyckIyT045VWxjZFhuM0tzXzNOZV9qLWZFQ1FkY1ZTSkZuZC00MTBYaVB4ZnFkWV9CelZIOFF3Zm9j?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 22:15:48 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "[!VER AHORA!] Noruega vs Inglaterra ＥＮ ＶＩＶＯ ＨＯＹ ＧＲＡＴＩＳ 11 de julio de 2026 - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQQ3BSWFNSSWdOMTQ5d1MxTThzVm1jLUYwcGFvNlZEbWJvOWpxM2U3d0FCaWRINGpLemY3QlRId1p3WkJOQ0o3SlJjX1V1NklrYnZFNXVOMGlBMDN3VkhoQU83RE0xamZYa1lsRWNRSDF3ZzNKVTI3NFlESkxPT3F2Z1dPc3dCdERLQkZ2eS13alVweERBWWYzUFJYQXBwZjBoaVE5NFBzellXQko0YU5faEpydHBHc01tSHNMbWUtdE84ZUhSNGE3enBpSkNOMEtoaEZhVS1MN01pYUV1TWQ4Yk13WmNhNG4wZ1lKYWJQdWR3WDNxSEpENUZKR0xnRXZEWldVaVVwS1JiUFNJWFBXUzZrRmJ3amNhRldVa2hSUFFKY3NDYXN4Nm5HNk00SGdUU1ZnU3RaY2FkQzBiczJPVmFaQlRYaHoyQjBrc195cnVDcDNmRG5xQWJyZmFBVDUzWHo2MjJQNWEyYi1SSl93R3Zma0tjTDJrdW11Vk51bTN6M3hNSHFDZEZabTBoWlNhWllpd05UT1NoblZQMExn?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 22:15:48 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "~??[[EN VIVO VER PARTIDO@]] Donde ver Partido de fútbol Noruega vs. Inglaterra ＥＮ ＤＩＲＥＣＴＯ ＯＮＬＩＮＥ ＧＲＡＴＩＳ 11 de julio de 2026 - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPdDc0VEhaVlk1dFBDZGFKVEY3M2lhMlJXZXJSUmdpaWtKaENuZDV0ZmJvU2hyelFtbVc3SG5vSkdFRk9PS0FNeWJUZjRtc25SU2FKbnF1RnY1YXhwTEl6Xy1lbzZuUGd6bEthVml4MFpQR1hKM2dZUlpFck1WVHI5aTBjVlhvTHh1TGNneE82Z2owWWZ4aVIwTmRJYW02cG95cGJNYUR0aF9SRHFNbmpsd3Q4VC1MTDNOT0NHcE11RENUS1FuT1ZKLXRQZjRsOERGQVNwaWR3RGRXY3l2OXdTcVJMbFVtdTF2OGo3Y2txOVJybVA5VTFXZTByNWRKNDVBMGFZTHkzUmVEc0hQeXlRbU5xNUZ2YUdoVk8td3V5RmlpamdmUmFWcEJqRWx3WjZwdXBnTjlNMGllTHY2OEhBQ0hSTkUxeHR4cDd1VVhidnpTZnhJOW5sQkJSZjF3NzBUaUdMMjVTa19ETlMwUWY4TVMtYjhDREx5T3k4cVdQUkppZHFWbjZnVmhTdzM2MmVLYXh2M21UZ0pHX0xMVENJ?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 21:55:56 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "!$+[Ｄｉｒｅｃｔｏ] Inglaterra vs Noruega Mundial de 2026 en vivo online gratis - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNGtBZ1R1MUpsVDVjZW5oTjB0SnVHUFF0LU9JSDZBWlIwWTM4QmJYUFpObU14eHE5VzJPdEttdUp0VUI2bERQNS1mTmFUUGk4aURoc3FwS01pUzNYUGtvMGhNRUd6bnVXc1BUaGtIaEE5WEw3dkR1NjN3cmFPMFVyNFpkUGhXTHpPMDFCdzg3SmhfV3VhZDEwUmFYVlRJd2EtWDFwbXc5RzEzN2FRQS1KbnUyM0tucnhyOUhUUnpqVjFwMEMxUl81ZF9vc1ctWVlWUVZOaVJPdlZ0OTcxSUtmUHM3LXJScGxKNTdjYVdDc25jNmNiSm5UUlFnQUVGTG9TdU1HU2Q5Rktpb0dsa19ZWjMzRHdYeXdtdU1PVVBKbzJQT3ZIV25VdGNLWHZfR3VpUEFWRGFHQWVwWGlFUWU5RlNiaXdmMzF4Rnk4ZDExcXRxaVRFLTN2NUN3NWY3cEtLOUJMMkhWc1ZwVE9xT094TE1BYlczMUVmSndlQXVoUTlURHZQSDh3RnBGOEdVV01sZ283QzkxOTFENjNYT1NZ?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:59:03 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Así sería la alineación de México si se hubiera enfrentado contra Noruega en los Cuartos de Final - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnFtb0hnOTlsdXRmSG9xR0NuSHBUUUpNZGd3UUJRUDN2MGRrTWRGbGRrTEhmN1FPTURaUTVEWlMyWGZOMWVjR05HTTlhc016SGhoOE80OU52WVE4aUJtSUVlSlVLSFpLeHZQcl90VDQ3SHZTTEgyYk13aGdYSkRoQzNtaGJvcGY3YnJ5REFhTVByRjdwSko2bHhDWEhLNnJGV0h3Vmo2R25kdExs0gG6AUFVX3lxTE1SZF85NVNscjRxWkMzb1F1OXU1ZndjOFFqQlBYWXN5TkhlZFdsOWJYMlRWSzB0Z0lDcnZMejJieWNWSTZtU200MkxGQktac2JPYU94MkJSdnFBRndsMlByQkJKd0lVWVRNbWd1TXRwMlpERHBPRlFCUjNFUUctNWU4YU9WaE9FVl9NNzRVcUVOdG5GN0k5UDhXd0JKa3dTS2tXSkdrWW02RWlBQy1uQXg2NzZyYWRtLU9MZw?oc=5",
-      "domain": "www.tvazteca.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:57:24 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [
-        "alineación"
-      ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "[!ＤｉｒｅｃＴＶ＠ＶＥＲ!] Noruega Inglaterra Mundial 2026 de la FIFA En vivo por TV - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPSjExUHlQMThnRVJqemczOE9aZU5ib1I5QXlMVUUyM1kwM1BCVEVSWVFCMi16V3dpdkRXMVJUMllGVFA1eXRFVzJCYnJBQjV1M1JSRWllWjlhVHpfdEtHMFNVU2l1YXladk9oeU00dFl2aUl1WWdCUDNGR2JWWG8wblR2WU9XSlVsYV91VkE3N3dYNU9SZzJIVERud3N3ZHAyd3dlem5fU1VrcEFfSmlnVEwtbkdOdktjX1BCaHBPRXB6T2puRGdER2dzNURycmt0TS04UDhPb0g0MXRtc1VkT1VDa3R5VUREN0o4MWlaaUR2SzdubjZlXzlhaXdjd1d1NDUzbURVdUctazEzTWxuNnhFT3AzdnJSUEtwZWlXQmlxbFpIdmduX1FnMWZOR2lIVE8tc3JLcUhqRXJwME9XLTVIQlFwaW5MNTlKazFvOEhTakJzZXBSeHhlWkZmY3JfdXZkZWdhXzlMa3N5djdBc3pQYWJ2bWkxU1E1M05BOWJrOGc1ZFhwZmxTTFRpNTJYdTJ4emVRYnJ5VENKV05BNVdsRkk0dTRHQkpIa0taTQ?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:53:24 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "VER AHORA@!!.. Inglaterra - Noruega de la FIFA EN VIVO y En Directo tv'> - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNX2dEbmhERXVFOWZXUWxMc2hGNFJia3N6YjliLVVYZXBXUXlHaGtFeG00cXNYc3V0SDBFeHRkLUZxbEpBLWd1RDFqTzdHLXVXd0cyamg0V3ExWF9uNTJJLUVITk1xcDNPcExWclZTSUtzNVhTaDhYQlBSM1hKSUpZUHhIVFZOY0g3aXFnNWtjWGVFa3VHeGVOOGl6azlzMEtlYjNka0p1eWtzb0Z5ckdhZ2tWQnNGMTh0cTN2Rk85RzZaRFlELTFnWlR4WWZSaUxXU0JqOHZFY1JiRmp0MkpxcWdsNmZJbkJpUDVQUkdQWnJiSkx6QXlnLWZRdkhGNlRzVXZsdlFWa0VEUDNnV0ZsT2FYZHU3dmJDQ0pUdlhIb1lnc2J5UU9kZEJPXzh3NFY3a0dobTJxTDJZd2x2aFgtMXdZSzlUbXdhU3dIcnpFYUw1Snd6bnNPLUxTY183RnN2UVNNc0NybkFnTnZxeG9hajN3ZmRuYms4RkMybXhoMGZPV2FobWZxbFBuUnoxb3M?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:37:10 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "#@(vivo-tv) ver 🏆✅ Noruega vs Inglaterra de la FIFA en directo hoy - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNOEF5Z04zUFA3U2EtcmdQdmdiY0NtSDVXV0xURFduN055ZUhtajExdUhBdXZlb2Z5RzhCaWpYYlAxQTBFVWNkc2t4eXU0Rk1RNDZHSk5yZm1LSExkaVhReGQ1blpNeWxpRnRhV1EzSzh6RWs4c2oyTUJKQkV1NmZSTnhlVkNwelBBb0doQkFYNUMxU1hyalA2R3BmaTRWSWxKWXFIUkoyTnBUVkI4UHdHbktaWGRoLUloQ2MwXzlkZmRqTEpPNnotUldJLTRwaDk4XzJhTDNNYzluV0I5QzRtNmcwelN1Z0NvdExlRmlBX1dUZi1sRm1Sd3J5dDRRbGlidEU0cHpDQ3pYbkV2allFcDhJWE1vWHlTTXAyYV80NVRxdmgwQXBCTlN3Z2d1R0VDSUVwU2hmY0tJUlFpcVZ2VGI3cFFaVHZoVm5veXFTcGhhNmFRRUJWaFUxRnlRbk92ankwZUh4eFRDTnBiaV9JNkJzOFVXcXl5U3AtWDhnRHhqajhoY1BWRlRVU3p6TDBVZUN1ZVJaRVhqUQ?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:32:50 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "++*[[[Updates@@]LiVe] Copa Mundial de la FIFA Inglaterra vs Noruega Live free ON Tv channel 10 July 2026 - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQZ2lZbWQ1REt0SF9Majltd1FyNmlfaVRNZmVnX205STNWNUNlMzZMc09nY2xtN0U4VGRtQlNKNDRsb2kwSzdvQnBkby00VElZUzlPbDRFNXc5X1VpYWk1c1JPcTk0MnJYQjJjRzRscE1adjVRNmd0ME1vVnpiUV8yRXhDM2o5MVNqekpyVktjSU8tSGRoYzNXdUZvTU5uc2xUcE9uUTNNVGFhQnRCSk5GbmtxcHY0elZzTnprdTZwTkxsMm9yTTlKRFhVWk5CRC1HRWt1dVBxN3AtemJJb1BZeldiN05pOWxoMkdCR3Ryb2Fab1pobXphVnRMQ0JabFRQUkV2dUgxV0JtdkpucUpLeWFjN0VUVGNUa0x3bGdjemtNSnBoUFVrVF9CeTlBM0c3UG9IMFVkeU1qYXZNdHAzRDVhTkpFWVUxcVhZbHB3aDI2ZmJNbGZhaXY1UTMtYzJiWXA2bDdmVUtZV3p1clJzcmg5X2N3YThZTnllV2JDczh0U2ZBYnpsVWhGNldjeGF1QlBGUnZWVFc5dw?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:32:31 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "LIVES/TREAMs!] Selección nacional de fútbol de Inglaterra vs Selección nacional de fútbol de Noruega Live Online - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQNGZBaDlGUk5PRWUzbDhTVzduR0FBZEdaWERYWnZfUmppM2p3UFlUUk43WkN0THFIWDFzMkRtRmJ5RWhGeGJLYm56S1R4TURXSEppTmxtXzgyZDRncGg5RVU0SjFmUzlhZXJNcGkxU0NFa0o1T2w4QW90cFBhNVk1dUREZXloUnRMUVZtMFZ1SXBCdllVcEFQdXktLVpxeXlXbnZfXy1hMTU2WTR6UnNDNWYyYl93cF82SUNDR21Qb2IydzFoUkdkMktrcUVtb29HNU9DOEZvYlZkSzZyTHdXdHgxVkFnMy12ckN5S3VfbW5QbnJsa2dvNjRQMkdCZVczSXB1NUF6Z2xrblhqY2UxYzNpWmM2Um9tRG85Tm5sb09yMGlDbEYwMTl0N3VtOWUyb2xmbXYybXN0R0p2SFM0d1lnRTVnaEhrMEEzS1k2aXViT00zQ2FHTl9DdHU1bG9zSERqR21OS256WDlqbTUzbkVLU3pIYXRmMjNSWTNLVTV4V0ZxOWxGMDl3NVVSUFlIY0ZxM3JBZmJ0QQ?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:26:10 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "WATCH@ Copa Mundial de la FIFA Noruega vs Inglaterra Live free online streams 10 July 2026 - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOOVNqZGtGdTl0MjlfZXFKVTM4N0NrUjRjREFyU1VlU2F2bjJkSHFtcHM1QndIcmZNOXdjMmE2SnBkLW5DWnRvaGxnOUNrdC11RFU1Mzc1TkRxVGpjRy1VbUtRWlMwU2tCODF5aW5NQl94QV9mU0ZPTFZOYVc1RFZnV0o4eDRtM3BqVGszQk1OdlhkVzRSWUsxbzRCbTBlMFgzVzI2dE5VN0ZfSF81dkR3ZjRvV0NjZVplXzVFNlNGN1ZiZTJPby1UQkdTV0xUN1djX3haam9pVEpnejBESVZ5cE12RHVwZlRoaWgxeFNBc3AzUUNmUUVkMk9saHp3Z0hJdHVZU3h6Z0FjTnVRT290b0FGVzRLZDkxNnRYZTNpS3FVejRCVVZnMGZ5S1Z6ZVh2WFJOSktoSTZBZTV0TnNLdWhIdExfS2pPUlAtQnRDT2ZmbWZKS0FMbHJuelRmS3l0MEV1WmpiUUxIbmNJVGlzTWlKWmUyVDlWWlI2ZlNRVml5MUE1TWQ0amc5Ql9XT3ctdDFiQjNmNjBXQQ?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:23:35 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
-      {
-        "title": "Dónde ver EN VIVO FIFA World Cup Norway vs England EN VIVO y En Directo tv'> - Business and Investment Development Agency - CzechInvest",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPZlM2Z280ZWZ1NkI1bWR0Ylk1Y1laWWVpWXA4b0Jwb1JRVW5kYnVHeTJuZ1c3cG92NFcwS2psNWE5VFplYzdaXzctMUVsSGdMNEZKcHlROVNsdEVxdjZJNzhqZ21aZ0ZGUS0zTGN6aURnbWk0aWZxbDVTVWlVcDBHUVE4MkFlalhnaEM2TEsyODZDWGl0ZldZbURtT29NOWpuYnhXWFhVbUhLQUJkSHR2TGtuZjJqN1BsQ1pJVDRCbHM2VktRYTVhNF9idmJFTzAwdWJhNFpkal9zRlNEdzd4WndaVW9oNDhLRktZdzA3V19VXzgxREsyR1d1eW9zN0tjWS04Z1Y4NzROMzlMdm5rUjJ2R2F4TWhYUzJ3ZXh0SDNNNU1hVkRQRHFkRG4wR0dsQ0g5RHBlcVgxNnhhS0FFWVJQQ01IY3IxVWxqcDFzQWZwWGtfdVBKS1BjQnFPdzBlNy1YYUdJSzMtRWJaOVV5SXBlaVFEaFVfdjh2eF9OeVdycjJVbURCRG1ETFhPMGY1elNvY1B4c0pHSk9qeVhr?oc=5",
-        "domain": "czechinvest.gov.cz",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 20:02:35 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Norway",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
@@ -320,6 +306,36 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
         ],
         "discoveredBy": "Google News RSS"
       },
@@ -366,24 +382,54 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
+        "title": "Roma star Kone expecting to be benched for France World Cup semi final - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV290TkZmbnpQWlY1TXNKdmY3cmNpN1ExUmhsWWJsLVJBc3EyaVRZTmVPZ25IcEQyb0hES1liRHNaVGF0aHFPVWppLTZ3SmNSNHpzRkxhaDhyM2I5dFZuN1hFblpBN3JSUm56aFZvdS04MzJzWVAwUWNwX1pVNVRqNFU3RjFWRDFHYnRvdHJIcUpVRDBLUmc1MWVyWGp6QkRxVFFQUlBuYUN4VG0yWUtBQkowVnVJZw?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 18:11:50 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnVad0x1UkxyVkc2Y3Q1RVVoTy1nSkd3MXQ3VGMxT3ZPeHFnUFkzYmVfYm83ZW1OTzN2OU9TdXI0c082anZ5dGFBUmw0NkNpWnFEVG55Mmh0elB4NTZSR2dXRUljT0g4bEJXMFktQXBKUUg3VXBHbGNsTjZOaVQ5dEpkV3MzVS1VNnIwdFhEQTc2SzhXa0RCbl9TdEhjU0dwTnl6ejJGY245ajB1MnUzTjluOFFjODF2QzV6YXY1T1g?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 03:20:32 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El presidente de la Federación Francesa aclara sus polémicas declaraciones sobre el sucesor de Deschamps - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUUFIZDhuZTRIaDdBTWhELVpRN3l4SU1OTlcxMXJiZ1FFVlpRYXZYUlVEYXVfZTZwQzFENkZhWjdFMkhXVHNRTWNIVHNabTVXU09YUFMxeFRnckhVdnRpMl9ib1kwMW1jOEtfYThyMGx5Qm9XRG0yTUVwaHdzSmVuNzhkOHJXeWhYaGdmcHBCOUxXVXVhWHdmZDEyNDBqbDN6S0xEcWNOdUJkZ3huWEZsbFNNbmM5UlBQYVVraEZtc0drMlRJMTlhcWxlVmJBdUNKZGdBdkRpNEt1b2RvNzZ4YWR4MXFlcHdXbEc0SUJDN25MZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:40:39 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -398,79 +444,52 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 19:05:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
-        "domain": "es-us.noticias.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
         "image": "",
         "matchedTeams": [
-          "England"
+          "Senegal"
         ],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
+      {
+        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -544,22 +563,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
-        "domain": "es-us.noticias.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
@@ -580,6 +583,62 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "¡Jude Bellingham es el mejor de todos los tiempos! Gary Lineker afirma que el héroe del Mundial 2026 podría ser «el mejor futbolista de la historia de Inglaterra» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPN09uMWJuWWt1RG9hekpaaWgyQVFJUTdDNWQzT1pGWDJQRWpPNzBzaDhDbEZZS3ZqWjR6WG5sV1lNR0l1MWRrOUl3M3ViSEVXVS1ZanA2SFdwbnlhZW4tSTVDVl9OMWM3MHRZbDBNNmZMYnZHekZtQnkyMXFsWEhhTTVwZXJQTWw3QldxMFFBb05PdEoydXd4UWpBRmkxYmpDdzdjYklCbkE3RDJQSl9YN0dXV0lNSm1lVE5PbjR4bkRJUl9SUXNUMk9aeVMxMndJTl80djJqMllCWmtiNUMxa0E4amMwNGRSTGNUalBha3ZkejVjb3MySXBrR0lIQUFyeWZCeTVHSzdIa3JPNGpUNVcyY05hTEg4N3ExR2JHWWFPcFJPVDhNaWZrd3RqeEsyLWNRQmFDVERsZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:48:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Harry Kane defiende a Thomas Tuchel y admite que Inglaterra solo ha mostrado «destellos» de su mejor nivel en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNXlNRC1JQkdxLW45bkpSYklsdFJFNFBhSklaMl94MWtTRTlJMU1EU184M2VPOHVqT3gwcERuaGRiYUtCMVB6MWFxaTNiN1pLRDRnR2o5aHZldFRjNVJIYWp5dERKc1dDMUY3UjhxZGR6cUo5a2xTeFQwOU15d3plandFRDREbGV5bmhpQnExY19xTEQwRXgtUzFKalRpdE1SSW42MDNSUUoyRzJDTUUzYkU1aHJUcXFHaGt2YzlZSmZwVFo2R0ZoeTlfcXBhYXpTYmY2QzB5WEtpdFhUcEhOaWVzaUZtWlZKNUxsMmhDOHJJR0k0U0pCb2VXTDdjazJzUm5WSTZwV19UTHc?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:18:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«Débil»: Erling Haaland, furioso por una decisión controvertida que afecta a su nuevo compañero en el Manchester City, Elliot Anderson, mientras el VAR frustra a Noruega en el partido de cuartos de final del Mundial contra Inglaterra - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNU1l3aHBhLXNNSjNZVE1lcmhOQjdLbkR5dy1qTUg1ZHdESzlOdXBOTWxHUVZwY3gwc1pTc2kwNldhX0xhc1J5bXBMRWNYd1AwajIzYVNTSVRPTzRoYnZGbmxyeE9RaklEc0xUTzF4MFZPSm9LanZuZG9mNm4td29LMTBmOUJUZGpUYzVPZE9Dc3UtZUtJVjR6dFZSRXhKX0NXZWZvY25wcGhndktzS0JaZ2tNbHpXWHVRdlVGbkxRRFhZdVFRVGNzYjlKUk1PYV92cVRzSlg3ZnFnNWhJNWx6YmlkR1dXSEVjSjNQVXQzZWwtV3ZDSnNUb3dBdUNJMy1fdVYxcmRVNGVydXMzMjZHdGJlUWE2X1lNWnViR1doQURQTmRNdjRUcVA5LWk2VlhzaVYzVzdHcEw5WlR3UTdXUVM4cVo0MWVvai10SXZrWHJPYXRTYUg5WE1VNVZjazVhTjJwRkJwLVpSUXdIa0ZOWjJCU1pvbHpreG5oNVJPSWRoMWJ5VlV6OFZyMkNYMElMdVdObXV3?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 17:41:25 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Erling Haaland’s Leeds roots and why he could have played for England at the World Cup - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVo3cy1RSFEya1lPNzNWU3hFcVRrZ1Uzc3BaY1BtbzQ2alUzcmM2dXMtWUphZEdranp4NHJZSXpnVkhiT2N6aDVJQU14bWNjUV9jUHlFVF9HY3MzdEtvNVVldDNyT2pWNHh1Qm9LLUdscUVEYlpkQmpxQUU5V3BCeTRzMmpYNmxqb0JMYkx0ekZaWnpJMlpGTzlleUN4TFhIaklseGlyNWpObjIxbHVHMFlXOG13d3ZjSVhBdElrQldtS3BpckZnNGV3?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:40:57 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
         "domain": "www.goal.com",
@@ -592,65 +651,39 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "VÍDEO: El padre de Erling Haaland critica con sarcasmo la anulación de un penalti a favor de Inglaterra en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaTk4VEdUTnVBM1AydGxIbThHTDk3alFYQWVUSW81VVFabXhKYkhSQV9HdVZWTDhHNWl0eUo1MXo0YWpCQm9vN3cwNElndWs0WXJvNjAzUm1VOWlqUUVuby1QM3M2bU5yYUx6RzJaNF8wQjhsdjFkY0tMN3UxMTJfdlZqVjh2X2hVd0J6a1RmYVE5YURpekhrcGRaZC1xNjk5dzBaSUhnZkV0a0ZoSUM1WjRWb1ZXZXd4NkZoOVIzSnRlMjBHbGRDR2FKTVBVaFM1OE9ZcXFTSGtnMG5CUXlWT3VDRHctaV9GY0ZPMWQybjRRdHl0ODhlYlV4ZW1jZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:54:13 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "~[Mundial 2026!!] Noruega vs Inglaterra EN VIVO | Mundial FIFA 2026 - Business and Investment Development Agency - CzechInvest",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPTXprTzk4TEpnQXBPVENQZXlhTDlPNnJ4bTVGWkl3ZnJSZ2JwNEdUZGxxR0tkQkY2MnlheWtRYnRHTzRoMHlDd1pwbFRzTXRxUjNXNmpZQkdwSEliZ01JVEJJeTY0VzhOX3hLR0VMck52cFMwSlNFeDBYZ2JnanExdV9xTVk4S2pENUlILVJtNjR3YkNaZ2J2UHBpNHpycVJZUmxzNW9yUmhHTGdHWE1xTXZWLUYwLU96S1NhZUFURXZqMUcyLThxX21rQWFsMjFhekZ6RklCUkVrTktZcGFQeDR0TjNoWWpCR1ktX3lxcl93YWlPQWRtRHEyeFRtMmh5Y2NxY2pfVFM1MndVeHhwc2Z5X1k3RWE4OUYzWVRXMExjLU1jT2VHRURXaW82Z0FCQW0zSHdlMC1FOVhzZmJobk9GeFZpMTItdWFqTlo2bk4zSnZpa256RDhMZTdCU3hzLXNCWXlrNktDNjRxSTkybVJqR1ZTN1RfZ0syMk13bWZVOUNPNkM0SzNub1d3T29yT1dxdk9ZVmFLXy1GY2V3?oc=5",
-        "domain": "czechinvest.gov.cz",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 00:45:07 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "[+[!ＴＲＡＮＳＭＩＳＩＯＮＥＳ#ＶＩＶＯ!]+] Noruega vs Inglaterra en vivo – Mundial 2026 en vivo - Business and Investment Development Agency - CzechInvest",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOcUxjc0pRMkM4VmxycVJrWE93UUcwZWdFNzNONE9ZRGZIa1YyYmFBeERhdDE0dkdnallkakhuVFVyeGc3Umx1WDUwQUZ6WEVQZ1Vvd1NfN1ZacUQyVHNBRVBJa3QyVlFKNFBnUUtKSjlQLXRBT1d2M1VhSHNjbTRKTzZWQkVWaENJU3BsRU4tdXRzYzN5LWlUSFJCdVREOUlPNmt4alQxSndPOEhnaGhoak1NZjhVX1c2cnJ2TjdvdVhDWlB5TEFWSUFMLVBRRmZadi1uVDluZEZaZzJOVVY0TU44aTYtQzZOaUhkRXVDdmdXajg4R19wQndfck90OWNVQzRVZEdmOThENWpRaEJYZk81R0hPN3BQd1E2YW1kWWUyNC1ZTm1hTVVnNlRCc2x1akFqc2FISTZXc2xoXzhUR3RqUmN1SzZCNXo1WWFWVmo5cnJGWERfSDQyRzNFQjNVaXJiZjVnRmYzV216dHNROWFINXhOY3VGSUxyWWNIbktPNkNxQzdVRHNoMzZMaWFYOFlVLTQ0ZC1vT0xXVGU4?oc=5",
-        "domain": "czechinvest.gov.cz",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 00:16:49 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién juega Inglaterra en semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNel9vNDlDSU41M0NvVVBnVUloc2NqcDdMbWZSWjd4MC1MeUZFMmREa1Y0cWhyUHRQLXRwZm5acGF1NnNHSmtRbDhNNjRiSjUtY0FMMG5PWHNhemh2Q1BpVzZ5anViWHp0VjBiUUt0Q0NPZW5kMjltb2Z2RXJtblVHUU9PZGZpanh1ZmdqLUppM2tzdUVOaDd2c214ZjdkazR2d2xzVWZyTm93d1NWbl96dw?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 00:13:31 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Senegal destituye al seleccionador Pape Thiaw tras una decepcionante campaña para el Mundial de 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMGR1MXczQlpIYWxzUklfZndmbWk3Z19KOW9CZHN3NWpaWVF2UTdKVUNHQ0g2ekdKZVc4dzh6STBhdC15RWRjcUhPNmVwejNWYzlNT1dyaDV1dTBVZlZkU2JxZ3pmV09jelc0M3RQU0hwQTV1RVlDc2otSWl4SDJjMXdJUmltbXY3OTFlNExXWHZYZVVkWGZfWG0xYlFwcFpJMkNYb283NjlLdVYxdFNLVW9kQ2tNbUpjUkFQUkZ1TFV4RTUxMm92eTVqM1NaeTZkTlJDX1VOSXItV00yWnUzakp3a2RLbHVrekVvNA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:45 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "De Egipto a Marruecos... 5 momentos excepcionales en la trayectoria de Mané con Senegal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemFpQ1ZEazBsVXE0cldpcFJNeFVVbW1BaFFiTVVERE1zdkdSOFhJZGxJVVFqME1Eck8yaHVRYnV1UVRUT2pWMkpxdlN5MmlKNWxkRGg4NElWNURaZ1lTa2xQUmx0cVE2ODE2R2REUE1YZTBId3MzeUUwSldsY1hmNzgxNU5sMVdfck5rRk1WWUFWZC1HU0d0MTYxWDNldmtTclYybGdLVDdDSFpvYWpKS0NNaDRrU3o1OHZzWEZhTm5BMVhjaExVN0hnengwc3RBUmRIalRjNA?oc=5",
@@ -680,6 +713,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -693,48 +740,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Thomas Tuchel critica a la FIFA por la ampliación a dos partidos de la sanción de Jarell Quansah en el Mundial, dejando a Inglaterra sin información - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPay1LUjNueVlnbnpvWldpUnhIUWI1THQ4djZSLWtYeGFTRGJNNFRZMko4ckNKbG5QVXE2ZkJOSTBUZmdCYnpTanJZUEYzQlZMeVJwdHp2VXpHNmVGYVgyLUpoUU1vaFBoS2JpUE9ndW55dmU3ZXNJQmlsUnczU0lFUTBDZk15YmNoSFRRSklSX2owYmRHeXd0SW5CeE5sU0Y4?oc=5",
-        "domain": "es-us.noticias.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 10:14:09 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -754,6 +759,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -795,32 +830,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -842,6 +851,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -883,32 +922,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -930,6 +943,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -971,32 +1014,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1018,6 +1035,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1059,32 +1106,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1106,6 +1127,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1147,32 +1198,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1194,6 +1219,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1235,32 +1290,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1282,6 +1311,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1323,32 +1382,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1370,6 +1403,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1411,32 +1474,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1458,6 +1495,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1499,32 +1566,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1548,68 +1589,68 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "¡Jude Bellingham es el mejor de todos los tiempos! Gary Lineker afirma que el héroe del Mundial 2026 podría ser «el mejor futbolista de la historia de Inglaterra» - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPN09uMWJuWWt1RG9hekpaaWgyQVFJUTdDNWQzT1pGWDJQRWpPNzBzaDhDbEZZS3ZqWjR6WG5sV1lNR0l1MWRrOUl3M3ViSEVXVS1ZanA2SFdwbnlhZW4tSTVDVl9OMWM3MHRZbDBNNmZMYnZHekZtQnkyMXFsWEhhTTVwZXJQTWw3QldxMFFBb05PdEoydXd4UWpBRmkxYmpDdzdjYklCbkE3RDJQSl9YN0dXV0lNSm1lVE5PbjR4bkRJUl9SUXNUMk9aeVMxMndJTl80djJqMllCWmtiNUMxa0E4amMwNGRSTGNUalBha3ZkejVjb3MySXBrR0lIQUFyeWZCeTVHSzdIa3JPNGpUNVcyY05hTEg4N3ExR2JHWWFPcFJPVDhNaWZrd3RqeEsyLWNRQmFDVERsZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:48:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Harry Kane defiende a Thomas Tuchel y admite que Inglaterra solo ha mostrado «destellos» de su mejor nivel en el Mundial 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNXlNRC1JQkdxLW45bkpSYklsdFJFNFBhSklaMl94MWtTRTlJMU1EU184M2VPOHVqT3gwcERuaGRiYUtCMVB6MWFxaTNiN1pLRDRnR2o5aHZldFRjNVJIYWp5dERKc1dDMUY3UjhxZGR6cUo5a2xTeFQwOU15d3plandFRDREbGV5bmhpQnExY19xTEQwRXgtUzFKalRpdE1SSW42MDNSUUoyRzJDTUUzYkU1aHJUcXFHaGt2YzlZSmZwVFo2R0ZoeTlfcXBhYXpTYmY2QzB5WEtpdFhUcEhOaWVzaUZtWlZKNUxsMmhDOHJJR0k0U0pCb2VXTDdjazJzUm5WSTZwV19UTHc?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:18:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«Débil»: Erling Haaland, furioso por una decisión controvertida que afecta a su nuevo compañero en el Manchester City, Elliot Anderson, mientras el VAR frustra a Noruega en el partido de cuartos de final del Mundial contra Inglaterra - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNU1l3aHBhLXNNSjNZVE1lcmhOQjdLbkR5dy1qTUg1ZHdESzlOdXBOTWxHUVZwY3gwc1pTc2kwNldhX0xhc1J5bXBMRWNYd1AwajIzYVNTSVRPTzRoYnZGbmxyeE9RaklEc0xUTzF4MFZPSm9LanZuZG9mNm4td29LMTBmOUJUZGpUYzVPZE9Dc3UtZUtJVjR6dFZSRXhKX0NXZWZvY25wcGhndktzS0JaZ2tNbHpXWHVRdlVGbkxRRFhZdVFRVGNzYjlKUk1PYV92cVRzSlg3ZnFnNWhJNWx6YmlkR1dXSEVjSjNQVXQzZWwtV3ZDSnNUb3dBdUNJMy1fdVYxcmRVNGVydXMzMjZHdGJlUWE2X1lNWnViR1doQURQTmRNdjRUcVA5LWk2VlhzaVYzVzdHcEw5WlR3UTdXUVM4cVo0MWVvai10SXZrWHJPYXRTYUg5WE1VNVZjazVhTjJwRkJwLVpSUXdIa0ZOWjJCU1pvbHpreG5oNVJPSWRoMWJ5VlV6OFZyMkNYMElMdVdObXV3?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 17:41:25 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Erling Haaland’s Leeds roots and why he could have played for England at the World Cup - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVo3cy1RSFEya1lPNzNWU3hFcVRrZ1Uzc3BaY1BtbzQ2alUzcmM2dXMtWUphZEdranp4NHJZSXpnVkhiT2N6aDVJQU14bWNjUV9jUHlFVF9HY3MzdEtvNVVldDNyT2pWNHh1Qm9LLUdscUVEYlpkQmpxQUU5V3BCeTRzMmpYNmxqb0JMYkx0ekZaWnpJMlpGTzlleUN4TFhIaklseGlyNWpObjIxbHVHMFlXOG13d3ZjSVhBdElrQldtS3BpckZnNGV3?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:40:57 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "VÍDEO: El padre de Erling Haaland critica con sarcasmo la anulación de un penalti a favor de Inglaterra en el Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaTk4VEdUTnVBM1AydGxIbThHTDk3alFYQWVUSW81VVFabXhKYkhSQV9HdVZWTDhHNWl0eUo1MXo0YWpCQm9vN3cwNElndWs0WXJvNjAzUm1VOWlqUUVuby1QM3M2bU5yYUx6RzJaNF8wQjhsdjFkY0tMN3UxMTJfdlZqVjh2X2hVd0J6a1RmYVE5YURpekhrcGRaZC1xNjk5dzBaSUhnZkV0a0ZoSUM1WjRWb1ZXZXd4NkZoOVIzSnRlMjBHbGRDR2FKTVBVaFM1OE9ZcXFTSGtnMG5CUXlWT3VDRHctaV9GY0ZPMWQybjRRdHl0ODhlYlV4ZW1jZw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:54:13 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "~[Mundial 2026!!] Noruega vs Inglaterra EN VIVO | Mundial FIFA 2026 - Business and Investment Development Agency - CzechInvest",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPTXprTzk4TEpnQXBPVENQZXlhTDlPNnJ4bTVGWkl3ZnJSZ2JwNEdUZGxxR0tkQkY2MnlheWtRYnRHTzRoMHlDd1pwbFRzTXRxUjNXNmpZQkdwSEliZ01JVEJJeTY0VzhOX3hLR0VMck52cFMwSlNFeDBYZ2JnanExdV9xTVk4S2pENUlILVJtNjR3YkNaZ2J2UHBpNHpycVJZUmxzNW9yUmhHTGdHWE1xTXZWLUYwLU96S1NhZUFURXZqMUcyLThxX21rQWFsMjFhekZ6RklCUkVrTktZcGFQeDR0TjNoWWpCR1ktX3lxcl93YWlPQWRtRHEyeFRtMmh5Y2NxY2pfVFM1MndVeHhwc2Z5X1k3RWE4OUYzWVRXMExjLU1jT2VHRURXaW82Z0FCQW0zSHdlMC1FOVhzZmJobk9GeFZpMTItdWFqTlo2bk4zSnZpa256RDhMZTdCU3hzLXNCWXlrNktDNjRxSTkybVJqR1ZTN1RfZ0syMk13bWZVOUNPNkM0SzNub1d3T29yT1dxdk9ZVmFLXy1GY2V3?oc=5",
-        "domain": "czechinvest.gov.cz",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 00:45:07 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "[+[!ＴＲＡＮＳＭＩＳＩＯＮＥＳ#ＶＩＶＯ!]+] Noruega vs Inglaterra en vivo – Mundial 2026 en vivo - Business and Investment Development Agency - CzechInvest",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOcUxjc0pRMkM4VmxycVJrWE93UUcwZWdFNzNONE9ZRGZIa1YyYmFBeERhdDE0dkdnallkakhuVFVyeGc3Umx1WDUwQUZ6WEVQZ1Vvd1NfN1ZacUQyVHNBRVBJa3QyVlFKNFBnUUtKSjlQLXRBT1d2M1VhSHNjbTRKTzZWQkVWaENJU3BsRU4tdXRzYzN5LWlUSFJCdVREOUlPNmt4alQxSndPOEhnaGhoak1NZjhVX1c2cnJ2TjdvdVhDWlB5TEFWSUFMLVBRRmZadi1uVDluZEZaZzJOVVY0TU44aTYtQzZOaUhkRXVDdmdXajg4R19wQndfck90OWNVQzRVZEdmOThENWpRaEJYZk81R0hPN3BQd1E2YW1kWWUyNC1ZTm1hTVVnNlRCc2x1akFqc2FISTZXc2xoXzhUR3RqUmN1SzZCNXo1WWFWVmo5cnJGWERfSDQyRzNFQjNVaXJiZjVnRmYzV216dHNROWFINXhOY3VGSUxyWWNIbktPNkNxQzdVRHNoMzZMaWFYOFlVLTQ0ZC1vT0xXVGU4?oc=5",
-        "domain": "czechinvest.gov.cz",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 00:16:49 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién juega Inglaterra en semifinales del Mundial 2026: fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNel9vNDlDSU41M0NvVVBnVUloc2NqcDdMbWZSWjd4MC1MeUZFMmREa1Y0cWhyUHRQLXRwZm5acGF1NnNHSmtRbDhNNjRiSjUtY0FMMG5PWHNhemh2Q1BpVzZ5anViWHp0VjBiUUt0Q0NPZW5kMjltb2Z2RXJtblVHUU9PZGZpanh1ZmdqLUppM2tzdUVOaDd2c214ZjdkazR2d2xzVWZyTm93d1NWbl96dw?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 00:13:31 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1634,6 +1675,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1675,32 +1746,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1722,6 +1767,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1763,32 +1838,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1810,6 +1859,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1851,32 +1930,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1898,6 +1951,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1939,32 +2022,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1986,6 +2043,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2027,32 +2114,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2074,6 +2135,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2115,32 +2206,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2162,6 +2227,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2203,32 +2298,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2250,6 +2319,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Un nombre inesperado se acerca al banquillo de Senegal tras la decepción del Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTNueUVqSGZiSXpWZHR3SnBWWEZmeGtleldrdFVwUzVhNms1SG5uV2wydFRReVVMWjR1WW44VHVaYktHdWw5WFdQM0dwelc0LUhDNDBpUEJVMjZYQWgzX2NzWGI2aUdEanFqVFZpU2lITFYxNzZBVDIwNnF5TUM0cUZ6VkRfTnlfdTMzV29xY3YxMnBsN1NsaUYxT0RzWDZONUk4dGZHcGJONEp3a3FwLTlUbnM5cDJBWWt6WWxES3pLYjlfVkx4aHR3M0xQS082Q1pxbG5zZw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 19:23:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "«No ha sido mi mejor momento»: Jordan Henderson rompe su silencio sobre la extraña lesión sufrida con la selección inglesa y no descarta volver a la acción en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWnphOGR4Y0QwZFZWTlB0bXpBTWdUQVNDZFgwcGthbk0xOVBKSjQxbEpjcm9FTFlXWEJyMElrcTJZUVNkVkhiV2oyeVFQaVFUcjNydXdWLUhRSnVxSXA4RlA0YlVXQUNZeEdJdTlsYUFCWEJBWkw3YnFldXlJdXNFdWdES09HZ0haX2xGeG5Qb2ZfSElpeC1hUVRBY1RPalN1WFBHelFqT3ZGZzRBN3J3U3l3QjZBdnFlTmZFOFpWWkhWLUIyd3hyU0l3TElwSzNtZUpVMGwyUHh1TTRyUV9BSWVhandMOW4wYXplR0VkUC1vdkNXaG1zTTlTWFNNSmc1eVBQUEIzd2Y2cHlqREtZcHY0ZGVUUDVJMUZKenNTRmRWc0llRWd1VUJBbUhMQWlPTTRrdEtIdHBlRHl6Q1hUMw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 16:53:17 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2291,32 +2390,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las últimas 10 semifinales del Mundial - lista - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnNNT0VhWHFIUmdEN0tZZkJtM05LaGVmVFZuYXN3RVJoUDB6WkhUSXptZDlfU2lnblIweFZGbEdBODQ1ZEtuenBlUURaYk9rOWtZSUtaNElHaUktUTJ0d0lndDYyWExEdHY5SzRQcmJVSlREcllDWGNKVDc1VFdKVnp3?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 14:36:54 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
