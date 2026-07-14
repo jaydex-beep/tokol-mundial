@@ -1,12 +1,26 @@
 {
   "meta": {
-    "updatedAt": "2026-07-13T18:21:43.762666Z",
+    "updatedAt": "2026-07-14T07:26:57.054534Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
+    {
+      "title": "¡México marcó el ritmo! 🇲🇽 - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhPaUVNSUl2bTFTNzRwb3R1Qk5SbFBxajdXYVRUWHBXRG83RnZiWkstcnNVMG8wSWpIT1lKMjVBdzZDSmFCQjhTczVLTGtfRkx1RTMtb052ZktXaGVOMXdTSjNhLXhDcnFNUHRRa1QtQ1RXbjZaU0RDUURXWHd5U0tFRHlTX3c?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 22:26:51 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
     {
       "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
@@ -23,15 +37,29 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-      "domain": "www.tvazteca.com",
+      "title": "Dónde y cómo ver España vs. Francia en Estados Unidos hoy: TV y streaming online de la semifinal del Mundial 2026 - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXN2RGE2RHc3Y0JGQmstZDdnLTFjcGVWLUdhbFZYYVB0RnlUdGdkUHdpZFhJZzBvZ0ZlZWFrUVd5RUFvd1JmbEJDZ1Q5QlV1anh2QVZkRnVIY1FUejhNWGw4dWVpclBMM1R3NS11d2tmMF91SFVoeWkwSllhVmtRd1NhdTVqMEUyaE9xdjNCVjNZTmY2d3BteW9hM1F4TzQ?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
+      "seenDate": "Tue, 14 Jul 2026 01:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico"
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿Qué ha dicho? La lectura labial revela la bronca de Tuchel a las estrellas de Inglaterra - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVDhOUm51QzlYeE5JS2hVSTQ4NzU3b3ZXWEVIVGZjaFJPMVdtRnZwanJEam9TbzJ2aWxfSk1WY0hlZ3hzcFlyOHk3V2I1QjBvTXAzU2xQZXJ2SVNJSmoycC00MGFIa0NpelQzcEoyUkNfUTZucDY1UkM3X0NrcjhUdUFnNUpvTVI4M0hseXB0X0ZEZGZkNDVnQVlqMUpRNzhGdHIzSzBMZ3NJRGx2Sm5XUDFDS2dTUThoUTJDbDc4cVNMSkcxVlFQU3I2U3RsZzJmSWpPRl9yY24xRUU?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 20:13:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -135,12 +163,26 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
+      "title": "VÍDEO: El padre de Erling Haaland critica con sarcasmo la anulación de un penalti a favor de Inglaterra en el Mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORkI0ZTZaZUxzS1FXTHBFVnAyV2xFcF9RVHZZYVRBVjVIUVhkUnA1c0xQTXotQjl4cEMwYjV4TmJNRWMxVjJnejZQNmpNZnVHdm5CWEVQUS0yd0dCMlFYazRnNGQ4WTlmbTVGSGxDdncyc0dJb3ZzWWcwa3hPTkhxblpWX0NOdmtZc2hDOUdGZ3k4T3JJbXFScHNjb2dONThITi1wSTZoM3NwLUtMN3JBU3JueUhyUHpBR2E2eUNHWlMwWElya1NPUjExR1dkbUlVaVgwWEs5YTN1anVWNjNGY1BTSFZaamRHelcwVnlCa1pLTHNRV3VCWXlXVHlUVzZ0Mmc?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
+      "seenDate": "Sun, 12 Jul 2026 07:54:13 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿Por qué se sustituyó a Erling Haaland cuando Noruega necesitaba un gol? Explicación de la sorpresiva cambio en los cuartos de final del Mundial contra Inglaterra - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNczBGbTViNTY5Z2g0aWFDakU3anZ5OU5odnpIZHdFcVZWNVVyQ0plOGZjX0pUcXVyMmpuanRUd0ZLbVNSYkhWY1JMRE9ya0hIeWN2Qkl4elNCVldfTGc5cW5ZbG1UQTN6UXpMYnM0SjczQkVmY3RfVzNUbHRtWndSYk9GWmdvaGdGTld5cUstVW5MYjhNVFJGUmxCUk9XUVpCMGJPd2tSbUo1MFdpaTFDUnhKZjd2OVl4djh6MXlnSWZJZXo5YlA3NnUyeTdRRFZLTE45S19ZWjV6Mm9WOFhsRDU3YVl3WU9VY1FVTEMwQS01VThKZzlsb0ZfQUpwck9xWjhsYkdKcU1JOVMwb2dUcERONTdWQW5IUWxDWEVGdkM5bVhETm54MThmWG5yQy1UMlpUT3BpNTBXSzJV?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 12 Jul 2026 06:58:55 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -180,50 +222,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "VER AHORA@!!.. Mundial 2026 Noruega vs. Inglaterra en vivo gratis copa mundial la fifa 2026 futbol 11 de julio de 2026 - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNVDE0aFhLVURPSnhTa3ZYbkNQUGEwd0Nidi0wbGhnZ1pPRTd5WC1La0ljVlhOUy1aTFJla0xTLVlWS2F6UGZFaTE0Ynl5bDQ5RlJ6bVZZLXdpdHh4YU5rcU82Tm9uckNTZzQ4em95WjlncFlWeTRlUzhMRkUxaXhlRUJJZklhcURQSWg3dXZwN3NsWUpIbmpFNDl6WEItd1JCeU9yQ09uSE5EOFNrc0ltT2NoZ0g0Q3RSd2dycWVqV0xyS3NEbm5LQ2tlUDY5SkFUaUdPNWRLWTJjMzdtWDFWaFVPWWJVS3FEYVlYWW92UUcxNDl5UWgtRGdTamdaaVJ2WEwtemNvZk5RUWZvdEo0ZzNQbURXQ245Wk9iT2hycGhzUGNhV3NHTExPOW5aOWdqdkYyRE5RSnVvd01VRlRNUXJnM0RDaUU5NTNKWWlJVE9tR21zNERORm9SdUdRa01idjZOSTRyckIyT045VWxjZFhuM0tzXzNOZV9qLWZFQ1FkY1ZTSkZuZC00MTBYaVB4ZnFkWV9CelZIOFF3Zm9j?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 22:15:48 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "~??[[EN VIVO VER PARTIDO@]] Donde ver Partido de fútbol Noruega vs. Inglaterra ＥＮ ＤＩＲＥＣＴＯ ＯＮＬＩＮＥ ＧＲＡＴＩＳ 11 de julio de 2026 - Business and Investment Development Agency - CzechInvest",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNMFZQNHhmaHNxQzVPQjJzSVhvMVEzaFZ0V0F2ZHB1clJ6MzA0WDEwczkwNkVxSi1DRFZMV1BRQmd1VHRkQm1KdTNTUm5MVXdoc2FnZkpQRHo4MGROMjBBY1o0UEtZZ0MyUzB5WlZYeEpUWnp1U1lpSk5CYVFYZGVsdmluODFUT1dqSXQ2cmVVMWgwUG5fWGJYOWdGUmZ6TU5wVl9sYlhsaDF1TS14M0NKanYzNV9hTlFQVlUtbjg1R3ZuT3pXb055SXVsb19qS1B1X3h5WGFxRGZ0a2RxTmFzdzk3dDVCaXUwZVl2bG5hMmpRNE84NFUwOGtzdDJyUmRIdGRxTV9FMW9LWG4yZFpXaUI2RVFKamJ3WjhKdGFzMGdaWWZtZi1wdU1vY090d2N4RmdaS3QzcmZqZV9DenpLdWtCWWJkR1ZfcW1jQ0JtckppUVdIcFFCV1JQQUU4d1NQNFJBRXNmRXV5LVdrLVoyTkZVdzJXMkFvUTFrQ0x0ajNxNWJ5SWxZSUMwWWwyTEx6QnRPTmtrYjZ3QlQzaUFj?oc=5",
-      "domain": "czechinvest.gov.cz",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 21:55:48 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Así sería la alineación de México si se hubiera enfrentado contra Noruega en los Cuartos de Final - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnFtb0hnOTlsdXRmSG9xR0NuSHBUUUpNZGd3UUJRUDN2MGRrTWRGbGRrTEhmN1FPTURaUTVEWlMyWGZOMWVjR05HTTlhc016SGhoOE80OU52WVE4aUJtSUVlSlVLSFpLeHZQcl90VDQ3SHZTTEgyYk13aGdYSkRoQzNtaGJvcGY3YnJ5REFhTVByRjdwSko2bHhDWEhLNnJGV0h3Vmo2R25kdExs0gG6AUFVX3lxTE1SZF85NVNscjRxWkMzb1F1OXU1ZndjOFFqQlBYWXN5TkhlZFdsOWJYMlRWSzB0Z0lDcnZMejJieWNWSTZtU200MkxGQktac2JPYU94MkJSdnFBRndsMlByQkJKd0lVWVRNbWd1TXRwMlpERHBPRlFCUjNFUUctNWU4YU9WaE9FVl9NNzRVcUVOdG5GN0k5UDhXd0JKa3dTS2tXSkdrWW02RWlBQy1uQXg2NzZyYWRtLU9MZw?oc=5",
-      "domain": "www.tvazteca.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 20:57:24 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [
-        "alineación"
-      ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
       "domain": "www.infobae.com",
@@ -254,26 +252,12 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Inglaterra llega con una fuerte interna antes de enfrentar a Argentina por las semifinales - El Litoral",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR2ExbC12MEpRbksyZ0t0LTBrbmFGXy0wTVNvVHJ4UERVMU9jVjRIOXlBcDYwdmt0R2xFQU1vS0dLbnp1MU5CWDhsWmpXSGROMkVaLXpfdUt2LVV6YW9mY0dSdEVfLThmZll5cVVmcUpQcjJ0QXBHdEZrUDZCeHpiSjAwVS1PSjdmZXF2UTVOOHV4YWRfTEFjdmV4QUdyaHoxMTNvRVpJcXZ3MG5HS2x0ZHpDeVFOWk3SAbwBQVVfeXFMT3c4TWVYVXdJRXdLTHVsX0hfX01WekxBeDNDQTZNSktZUFd5dWhuMDFDMjdjVGwzLThVN2RKNzJKQ1FISmhudF80MHlvQi1tYnZicGtIcnJjdzFxQjZGeGIwY1BVRXRKTThSR2xHdzJTSG11WUdoZnZMX1ZDMGZKeXo1aXJGNV83MlluRW5WMTltelhfSzRfbG9SR1V2bU55bDMwdFRuNFJQbF9PM2Q4VTBycjZPSDhsWkVQRXA?oc=5",
-      "domain": "www.ellitoral.com",
+      "title": "Ya está decidido... El París aplica la cláusula de rescisión para fichar a la estrella francesa - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZklkVldQREVFWDhMOHYzNmpVVlhyRThQWW1WNjl0SjFyRFpEajVxS3VTbE9MMC0zenJOaHpsbUJLNTQtNVdEOG50c3VWTTJXTEZrVlhQZktrN244Q0lQNUEyUm1EN25laV83Y1J1ZUFQTzhQaHZuV1JGeVJ6LTNlWldXNXZVU0hwZExrRlpQRjlOcTZ1RnJ5S2ZGSG41UUYwWEhUZUM3VHR3UzN5SVVhUHpkRWJETFRZcHl2X0w1U21iMVZBamxOdXVpUi1POGhCbUJyQWhhcThDem1wRmFPaENn?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Mon, 13 Jul 2026 16:06:13 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "France relocate from Boston to Dallas for World Cup semi-final with Spain - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnhCdG83aVZMNWV0aERYcXBpOXFUU01vRWVUOExTektndGEtRzZjRExiZkFwX29LLVcxenN3dFVXWWRISVNrWXFLaURnUEFWYTVLQ2toS0Y1MTJLWkdyRXQwOGp3TnhxU2VXS2x4QXdDNE9OTGxTSkZWcWdsdUhxenlIRlp1VDZIcHE4V1M5cGVXQzFOVXJJVVFMQ2VEbnhOcnVPY2lCLXYyY28td1U2S0RpM3ZFenI3Y1E?oc=5",
-      "domain": "onefootball.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 13 Jul 2026 15:10:43 GMT",
+      "seenDate": "Mon, 13 Jul 2026 17:25:06 GMT",
       "image": "",
       "matchedTeams": [
         "France"
@@ -282,15 +266,30 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "La tensión entre Bellingham y Tuchel inquieta a Inglaterra - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVhiSDdTZVRXVTVjOUpTbThyYk1KRnNscXVHc0pkR1ZFYkdNOW9tZUVfNHVIU2hfZjg4Wm55RFg3UU12akkyRzN0UVZGYzdHSTlhVm5RRWhUWFBNS3U0YlVLdXJpZEJjWFhKMEZxTXJpQmViX0lhX2pxeVZiWk52UGFvUVlfM1BhYzJ5elNpZ1RzYkZR?oc=5",
-      "domain": "www.si.com",
+      "title": "France vs. Spain: How to watch, stream 2026 FIFA World Cup semifinal - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU5qLWhQQVlYOUJmZEp1N3pDZHJxc3NkT0Z5Tkhhc1hkNWdIaGxyRklYU3FCMlFZSTd6NmtRNG04d0otX0N2VjJQNGhQazdxcTZ5RkJHZ3dERjVndnJaTEg4N2xZV1RkWlpMc05MWEZ3SHZpcEU1U0RGOHl4XzhDekw5MGZfeWN4d19sTlQydXRoYUMtdEpRLVFoMWlMWDBOZEU5YmM1Q1FITlNzWlVJ?oc=5",
+      "domain": "onefootball.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Mon, 13 Jul 2026 14:24:06 GMT",
+      "seenDate": "Mon, 13 Jul 2026 14:14:33 GMT",
       "image": "",
       "matchedTeams": [
-        "England"
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "France Vs Sweden | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjctT2JQNGFNdXducWdEV2hvd2pBbEJsMWk5N3dRLTVvUWlEOG90TkhwU0hmQTU2R3REOS1SUGdSdFJCT2F6QzVMOU5XZXE1OVlPS0tMOHBWSEhOQWhLTmtudkpwS0VQREtJUGRpZzMxeUhLY3VSaWZxNUE1bHI1M3poRTQwU0FkV3VSYXppR2h5Y1lUa25rN1BmVUk4SmxUSmtnd2REdkhFaXhvQUtnRl9JVzRzbUdTZWFPZW9uUQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 10 Jul 2026 18:06:31 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "Sweden"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -298,6 +297,20 @@
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
@@ -369,20 +382,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
@@ -402,20 +401,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France relocate from Boston to Dallas for World Cup semi-final with Spain - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnhCdG83aVZMNWV0aERYcXBpOXFUU01vRWVUOExTektndGEtRzZjRExiZkFwX29LLVcxenN3dFVXWWRISVNrWXFLaURnUEFWYTVLQ2toS0Y1MTJLWkdyRXQwOGp3TnhxU2VXS2x4QXdDNE9OTGxTSkZWcWdsdUhxenlIRlp1VDZIcHE4V1M5cGVXQzFOVXJJVVFMQ2VEbnhOcnVPY2lCLXYyY28td1U2S0RpM3ZFenI3Y1E?oc=5",
-        "domain": "onefootball.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 15:10:43 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "France vs. Spain: How to watch, stream 2026 FIFA World Cup semifinal - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU5qLWhQQVlYOUJmZEp1N3pDZHJxc3NkT0Z5Tkhhc1hkNWdIaGxyRklYU3FCMlFZSTd6NmtRNG04d0otX0N2VjJQNGhQazdxcTZ5RkJHZ3dERjVndnJaTEg4N2xZV1RkWlpMc05MWEZ3SHZpcEU1U0RGOHl4XzhDekw5MGZfeWN4d19sTlQydXRoYUMtdEpRLVFoMWlMWDBOZEU5YmM1Q1FITlNzWlVJ?oc=5",
         "domain": "onefootball.com",
@@ -427,6 +412,34 @@
           "France"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Ya está decidido... El París aplica la cláusula de rescisión para fichar a la estrella francesa - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZklkVldQREVFWDhMOHYzNmpVVlhyRThQWW1WNjl0SjFyRFpEajVxS3VTbE9MMC0zenJOaHpsbUJLNTQtNVdEOG50c3VWTTJXTEZrVlhQZktrN244Q0lQNUEyUm1EN25laV83Y1J1ZUFQTzhQaHZuV1JGeVJ6LTNlWldXNXZVU0hwZExrRlpQRjlOcTZ1RnJ5S2ZGSG41UUYwWEhUZUM3VHR3UzN5SVVhUHpkRWJETFRZcHl2X0w1U21iMVZBamxOdXVpUi1POGhCbUJyQWhhcThDem1wRmFPaENn?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 13 Jul 2026 17:25:06 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -454,22 +467,6 @@
         "matchedTeams": [],
         "tags": [
           "lesión o baja"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 19:05:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [
-          "sanción"
         ],
         "discoveredBy": "Google News RSS"
       }
@@ -507,20 +504,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:07:57 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"2022 FIFA World Cup Qatar\" Group A: Qatar vs. Ecuador (Episodio de TV 2022) - Vídeos - IMDb",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwanYxSUFyVlVmUVZUbVdNZjBFX3B3NzRES05oalhmTk02MlV1WWNZaGpKcGZTVmNjNktOS3daQllyYm50cjJibmZUSTZLRHJBeEdtZERVWGNDQmdGU0ZUZTRkbk1GUlZ3QXl3Si1fZ1RGaWtuUEcyMnViVWU3d3c?oc=5",
         "domain": "www.imdb.com",
@@ -535,19 +518,17 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Así sería la alineación de México si se hubiera enfrentado contra Noruega en los Cuartos de Final - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnFtb0hnOTlsdXRmSG9xR0NuSHBUUUpNZGd3UUJRUDN2MGRrTWRGbGRrTEhmN1FPTURaUTVEWlMyWGZOMWVjR05HTTlhc016SGhoOE80OU52WVE4aUJtSUVlSlVLSFpLeHZQcl90VDQ3SHZTTEgyYk13aGdYSkRoQzNtaGJvcGY3YnJ5REFhTVByRjdwSko2bHhDWEhLNnJGV0h3Vmo2R25kdExs0gG6AUFVX3lxTE1SZF85NVNscjRxWkMzb1F1OXU1ZndjOFFqQlBYWXN5TkhlZFdsOWJYMlRWSzB0Z0lDcnZMejJieWNWSTZtU200MkxGQktac2JPYU94MkJSdnFBRndsMlByQkJKd0lVWVRNbWd1TXRwMlpERHBPRlFCUjNFUUctNWU4YU9WaE9FVl9NNzRVcUVOdG5GN0k5UDhXd0JKa3dTS2tXSkdrWW02RWlBQy1uQXg2NzZyYWRtLU9MZw?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "¡México marcó el ritmo! 🇲🇽 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhPaUVNSUl2bTFTNzRwb3R1Qk5SbFBxajdXYVRUWHBXRG83RnZiWkstcnNVMG8wSWpIT1lKMjVBdzZDSmFCQjhTczVLTGtfRkx1RTMtb052ZktXaGVOMXdTSjNhLXhDcnFNUHRRa1QtQ1RXbjZaU0RDUURXWHd5U0tFRHlTX3c?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 20:57:24 GMT",
+        "seenDate": "Wed, 01 Jul 2026 22:26:51 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [
-          "alineación"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -563,6 +544,20 @@
           "England"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -610,12 +605,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
+        "title": "VÍDEO: El padre de Erling Haaland critica con sarcasmo la anulación de un penalti a favor de Inglaterra en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORkI0ZTZaZUxzS1FXTHBFVnAyV2xFcF9RVHZZYVRBVjVIUVhkUnA1c0xQTXotQjl4cEMwYjV4TmJNRWMxVjJnejZQNmpNZnVHdm5CWEVQUS0yd0dCMlFYazRnNGQ4WTlmbTVGSGxDdncyc0dJb3ZzWWcwa3hPTkhxblpWX0NOdmtZc2hDOUdGZ3k4T3JJbXFScHNjb2dONThITi1wSTZoM3NwLUtMN3JBU3JueUhyUHpBR2E2eUNHWlMwWElya1NPUjExR1dkbUlVaVgwWEs5YTN1anVWNjNGY1BTSFZaamRHelcwVnlCa1pLTHNRV3VCWXlXVHlUVzZ0Mmc?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
+        "seenDate": "Sun, 12 Jul 2026 07:54:13 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -624,12 +619,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "VER AHORA@!!.. Mundial 2026 Noruega vs. Inglaterra en vivo gratis copa mundial la fifa 2026 futbol 11 de julio de 2026 - Business and Investment Development Agency - CzechInvest",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNVDE0aFhLVURPSnhTa3ZYbkNQUGEwd0Nidi0wbGhnZ1pPRTd5WC1La0ljVlhOUy1aTFJla0xTLVlWS2F6UGZFaTE0Ynl5bDQ5RlJ6bVZZLXdpdHh4YU5rcU82Tm9uckNTZzQ4em95WjlncFlWeTRlUzhMRkUxaXhlRUJJZklhcURQSWg3dXZwN3NsWUpIbmpFNDl6WEItd1JCeU9yQ09uSE5EOFNrc0ltT2NoZ0g0Q3RSd2dycWVqV0xyS3NEbm5LQ2tlUDY5SkFUaUdPNWRLWTJjMzdtWDFWaFVPWWJVS3FEYVlYWW92UUcxNDl5UWgtRGdTamdaaVJ2WEwtemNvZk5RUWZvdEo0ZzNQbURXQ245Wk9iT2hycGhzUGNhV3NHTExPOW5aOWdqdkYyRE5RSnVvd01VRlRNUXJnM0RDaUU5NTNKWWlJVE9tR21zNERORm9SdUdRa01idjZOSTRyckIyT045VWxjZFhuM0tzXzNOZV9qLWZFQ1FkY1ZTSkZuZC00MTBYaVB4ZnFkWV9CelZIOFF3Zm9j?oc=5",
-        "domain": "czechinvest.gov.cz",
+        "title": "¿Por qué se sustituyó a Erling Haaland cuando Noruega necesitaba un gol? Explicación de la sorpresiva cambio en los cuartos de final del Mundial contra Inglaterra - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNczBGbTViNTY5Z2g0aWFDakU3anZ5OU5odnpIZHdFcVZWNVVyQ0plOGZjX0pUcXVyMmpuanRUd0ZLbVNSYkhWY1JMRE9ya0hIeWN2Qkl4elNCVldfTGc5cW5ZbG1UQTN6UXpMYnM0SjczQkVmY3RfVzNUbHRtWndSYk9GWmdvaGdGTld5cUstVW5MYjhNVFJGUmxCUk9XUVpCMGJPd2tSbUo1MFdpaTFDUnhKZjd2OVl4djh6MXlnSWZJZXo5YlA3NnUyeTdRRFZLTE45S19ZWjV6Mm9WOFhsRDU3YVl3WU9VY1FVTEMwQS01VThKZzlsb0ZfQUpwck9xWjhsYkdKcU1JOVMwb2dUcERONTdWQW5IUWxDWEVGdkM5bVhETm54MThmWG5yQy1UMlpUT3BpNTBXSzJV?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 22:15:48 GMT",
+        "seenDate": "Sun, 12 Jul 2026 06:58:55 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -654,6 +649,20 @@
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -722,26 +731,40 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
+        "title": "Dónde y cómo ver España vs. Francia en Estados Unidos hoy: TV y streaming online de la semifinal del Mundial 2026 - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXN2RGE2RHc3Y0JGQmstZDdnLTFjcGVWLUdhbFZYYVB0RnlUdGdkUHdpZFhJZzBvZ0ZlZWFrUVd5RUFvd1JmbEJDZ1Q5QlV1anh2QVZkRnVIY1FUejhNWGw4dWVpclBMM1R3NS11d2tmMF91SFVoeWkwSllhVmtRd1NhdTVqMEUyaE9xdjNCVjNZTmY2d3BteW9hM1F4TzQ?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -796,40 +819,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Durante el Mundial, la Federación Mexicana enfrenta una dura sanción - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU2RnVlp0ZVZSaDNMZDdJdE9GaGt0cC11YkZnWXcwYnFmUktWVm0wTjhOcm1kQVhLZGRzLXJkUFlaZG03ekhDYlBMNmNfcVNDbnNqREI2LVRmLThpVndQUy1fM3ZBT18wMHpCUzdLRWUzbHhyV00zUS1xYWxlZHVIY29CdTJhUWh2bnA1U2tXYnk1b2xzOUZhd1RpNmlrTXJEcVltUEZaM2F6QnltR0RiMEkxR0JWMDVLOF9tTw?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 12:24:30 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -898,26 +907,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -986,26 +995,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1074,26 +1083,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1162,26 +1171,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1250,26 +1259,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1338,26 +1347,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1426,26 +1435,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1514,20 +1523,6 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
@@ -1576,12 +1571,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Recibió Jude Bellingham ayuda de la «spidercam»? La FIFA se pronuncia sobre el polémico incidente en el partido del Mundial de Inglaterra, mientras Noruega se muestra indignada por una decisión «ridícula» - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd3RYd1RvLUlRQTF3Y1FLS0Jhd1UyVzZMQmVCT2FiME1EWFB1aTZhZXFMOVBXWWF4TzVGanFjM3lZSjJKUzJKVU9DY0lQQjZtUUVZR1owUVVjTTNEcmV3MUJDOW1WUldLZGNPY0xoSHNzRVhWVTZubGpuSGNnMFptM1JyNFJtMUZCenhucFNiOVZpNVh5R1U1MjN6UEhyQjV6TDBFNFg0MkhJckFWZHR6VzBNQUhiQUNHMHRSWnNBZzZVb0RRT0o5a29PcUJXLU5pRl9EbjBJaDNZbGdXajJaMUNhUEpQTlZRZENraG1YN1RSN0VyMGNGczZhbFk3Z04xOEM2UXFGR0hjLWZMWlJkbTZka0Itb0x4U09lNk01eEk0amhlY21LOE0yeWd1cVM4RUIxRVNRTFdLcGhMcHdmWmNzbUZQWE41RGhrUWdKOFFQZE0xWG13S0NBZ21xS3FZLVNqTFNVUWNpQ04tcmgw?oc=5",
+        "title": "VÍDEO: El padre de Erling Haaland critica con sarcasmo la anulación de un penalti a favor de Inglaterra en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORkI0ZTZaZUxzS1FXTHBFVnAyV2xFcF9RVHZZYVRBVjVIUVhkUnA1c0xQTXotQjl4cEMwYjV4TmJNRWMxVjJnejZQNmpNZnVHdm5CWEVQUS0yd0dCMlFYazRnNGQ4WTlmbTVGSGxDdncyc0dJb3ZzWWcwa3hPTkhxblpWX0NOdmtZc2hDOUdGZ3k4T3JJbXFScHNjb2dONThITi1wSTZoM3NwLUtMN3JBU3JueUhyUHpBR2E2eUNHWlMwWElya1NPUjExR1dkbUlVaVgwWEs5YTN1anVWNjNGY1BTSFZaamRHelcwVnlCa1pLTHNRV3VCWXlXVHlUVzZ0Mmc?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 08:55:24 GMT",
+        "seenDate": "Sun, 12 Jul 2026 07:54:13 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1590,12 +1585,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "VER AHORA@!!.. Mundial 2026 Noruega vs. Inglaterra en vivo gratis copa mundial la fifa 2026 futbol 11 de julio de 2026 - Business and Investment Development Agency - CzechInvest",
-        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNVDE0aFhLVURPSnhTa3ZYbkNQUGEwd0Nidi0wbGhnZ1pPRTd5WC1La0ljVlhOUy1aTFJla0xTLVlWS2F6UGZFaTE0Ynl5bDQ5RlJ6bVZZLXdpdHh4YU5rcU82Tm9uckNTZzQ4em95WjlncFlWeTRlUzhMRkUxaXhlRUJJZklhcURQSWg3dXZwN3NsWUpIbmpFNDl6WEItd1JCeU9yQ09uSE5EOFNrc0ltT2NoZ0g0Q3RSd2dycWVqV0xyS3NEbm5LQ2tlUDY5SkFUaUdPNWRLWTJjMzdtWDFWaFVPWWJVS3FEYVlYWW92UUcxNDl5UWgtRGdTamdaaVJ2WEwtemNvZk5RUWZvdEo0ZzNQbURXQ245Wk9iT2hycGhzUGNhV3NHTExPOW5aOWdqdkYyRE5RSnVvd01VRlRNUXJnM0RDaUU5NTNKWWlJVE9tR21zNERORm9SdUdRa01idjZOSTRyckIyT045VWxjZFhuM0tzXzNOZV9qLWZFQ1FkY1ZTSkZuZC00MTBYaVB4ZnFkWV9CelZIOFF3Zm9j?oc=5",
-        "domain": "czechinvest.gov.cz",
+        "title": "¿Por qué se sustituyó a Erling Haaland cuando Noruega necesitaba un gol? Explicación de la sorpresiva cambio en los cuartos de final del Mundial contra Inglaterra - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNczBGbTViNTY5Z2g0aWFDakU3anZ5OU5odnpIZHdFcVZWNVVyQ0plOGZjX0pUcXVyMmpuanRUd0ZLbVNSYkhWY1JMRE9ya0hIeWN2Qkl4elNCVldfTGc5cW5ZbG1UQTN6UXpMYnM0SjczQkVmY3RfVzNUbHRtWndSYk9GWmdvaGdGTld5cUstVW5MYjhNVFJGUmxCUk9XUVpCMGJPd2tSbUo1MFdpaTFDUnhKZjd2OVl4djh6MXlnSWZJZXo5YlA3NnUyeTdRRFZLTE45S19ZWjV6Mm9WOFhsRDU3YVl3WU9VY1FVTEMwQS01VThKZzlsb0ZfQUpwck9xWjhsYkdKcU1JOVMwb2dUcERONTdWQW5IUWxDWEVGdkM5bVhETm54MThmWG5yQy1UMlpUT3BpNTBXSzJV?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 22:15:48 GMT",
+        "seenDate": "Sun, 12 Jul 2026 06:58:55 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1620,6 +1615,20 @@
     ],
     "67ae5751c401a98409b8566ae4897069": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1688,26 +1697,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1776,26 +1785,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1864,26 +1873,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -1952,26 +1961,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -2040,26 +2049,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -2128,26 +2137,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -2216,26 +2225,26 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
+        "title": "¿Cómo suspendió la FIFA la sanción a Balogun? La verdad detrás del caso - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3Y2TWlYc2dfcXFST1ZIUXZSdG9BTzFmaEZJR1JvRER1M2N6cnRwUm9peUIzTkIwVHgzTHNMWUhVbVZwUTcyanZoWjdnSkxHOGkzbm5SVGNYQUxMcmFBMXJ3OTRmcVJ2ai1xT3Z1LV95QzM4dzE5OGtzN2lDUzZSS2E3RmV1cnQ5RXh4Ul9SUU9CX2NwOGEwMTBIbjFDOW0tcmpR?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 01:09:18 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -2304,20 +2313,6 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Previa del Francia-España del Mundial de la FIFA 2026: todo lo que necesitas saber - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWt6SmhCRklUbU5iZUtMX2VXZzFVQjc0RkNYV2NlZ1NZdVJnQWZxTkVlM2dGYTdwdFkwLXlHN2VVTTN1QzVNbDFsU2ZtM1BxVWx1LXg0Y3F4YkhxcEZYbEJUbGllYTBPTzNqZmN1cE81Szc1d3RlVFVkbVR6RlhGQkRxbDMzZm51STR0M1pfMGFqaXNxcVB4X09sM3pIWUp0NzM1MDFvODh3M1hld1dnVlBWbkxQWEtnLUhVTEdHUWRUbnEzZnREd0ZtVUJmbHlfc2s0?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:24:44 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
