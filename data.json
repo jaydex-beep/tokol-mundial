@@ -2,7 +2,7 @@
   "meta": {
     "title": "Radar de partidos — Mundial 2026",
     "timezone": "America/Mexico_City",
-    "lastUpdated": "2026-07-17T02:37:37.051200-06:00",
+    "lastUpdated": "2026-07-17T10:43:11.088470-06:00",
     "refreshSeconds": 60,
     "sourceNote": "Calendario y marcadores: API-Football. Cuotas 1X2 y probabilidades sin margen: The Odds API. Las probabilidades reflejan el consenso del mercado, no una garantía ni un modelo propio.",
     "theOddsApi": {
@@ -16,8 +16,8 @@
       ],
       "eventsReceived": 2,
       "matchesUpdated": 0,
-      "requestsRemaining": "455",
-      "requestsUsed": "45",
+      "requestsRemaining": "454",
+      "requestsUsed": "46",
       "lastRequestCost": "1",
       "unmatchedEvents": [
         "France vs England",
