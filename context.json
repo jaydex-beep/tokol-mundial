@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-18T07:12:49.571138Z",
+    "updatedAt": "2026-07-18T15:34:53.249015Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -14,6 +14,34 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Wed, 15 Jul 2026 23:25:34 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Vídeo: Lautaro Martínez elimina a Inglaterra y Argentina iguala el récord de Brasil - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWDRKOGRaUXJpeEtaV09PZWlqRVJqc3FjR2RldVpJc19KTmtIMC1DdmhIY3cyT3BkRkVqRmhYWUVFT1ptZERjdDJmemx3cV95M0IxVFJBTkxhUFZyYW5fVzJuenE4bXlJazUtMEJRRzBWSWl1cjczQmdHWHhQa1p6bTY4WVJiMG1Va1B4emxvQTZ3WHdobUQ5VWhMODhmQTRRMENHLUFBY1c3YTZwb29pM2g5b0dTWFg3V3lPaENNUnBwM2VHY1RyRjVZWV90QnRyd2M3dg?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 15 Jul 2026 21:24:56 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -64,6 +92,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
+      "domain": "www.telemundo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Las pancartas de Argentina tras eliminar a Inglaterra reavivan la historia del conflicto por las Islas Malvinas - Quién",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb09FcGxBbFI2NHFiYUd3dy1JQkZHU1BqZldFd0J5YXI0Nmp2MF9jNVhORlo1Qm9QdnZPb1N4VDZUV1FjVkVNdnJBZ2xRZ1U4SnMwLXlnRDNaUVdaZmNVNGJiTEJ1WThhYnlCQS0tRnhpWXBpRnVuaXJDLXY5RUY5amVjVGpHRnZLLUVQTnBrU096UlByN3FWX2huWVBfWlXSAawBQVVfeXFMUEJSd1kyX1hUMVppTVNOakxTS3NiUHZBTm5HaFhScnZvcnAyYjVQWm9pTjYyTDFtWnFHZVpJY0l5VW1RZWw3ZGhaelpRa1FaR3JCRC05YTBmbTJLbGVyeURjeVFFdXpralM5RDBna012d292c3pFaHczaHMxbFpBMUNuZDE2ejNITTA3T1FHNHF3eVEtQlhuRFZId3VCRnhsUGE5VWtYZUE3QlJxYQ?oc=5",
       "domain": "www.quien.com",
@@ -84,34 +127,6 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 16 Jul 2026 21:15:32 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "«¡Tonterías!»: Michael Owen critica el «equipo de bar» de Thomas Tuchel tras la eliminación de Inglaterra en el Mundial 2026 - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZWotU1A5NW1fM0VJS0VUSHhMRWlybDRpY2Vpa0cyTGFNZEx4WUFNVUtwOXN0SjdWMjRhSlVjSnZJUDhPbzF3MW1xNVZUdWpHMy01dE5GTmFuSnhHcmJqS0c1eVBfWFd5SHNpRE8yS18zRGZMaUpHd2xwYWNmSUcxYko2N3ZDTzJfd0t6cmZISFlqOUlxX3JvLVlWN080N05XMWVsb1BfWFZTY1UxUVhuWXNMN2I1ME1tZ0VsdWxnOWdtMnFIUEhNQ3JXRkk3Z2IzQnNLYlhJSzYxYlBpUGVrN1I0VldsSkZoc01YbDV3bVNkaldOSkd3SHRGYmJ0ZWdjTWpZ?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 16 Jul 2026 18:46:45 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Haaland rompe el silencio y llena de elogios a México tras el Mundial 2026: “Yo quería jugar contra ellos” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaHhZQ3VXT0xsVzQzbXFXLVVlOEE4OEpqZkhtTW14YTFEVkpTS19PQTdxSTd2bU80cTktNnNaOUhBaWV6cWxtbmtVU2pCWF9iQjMyeks3WjNuZVdaYkdZZ3YtS1hpaE5tYXBZS0Ryb3hpUjUxRDgtTnpsR1V2UDE2NlhHRlJfVm5weWg0MkZtd21jMHlLWXlTaXp2VEpDN2paQ1djMmtGaXhlUU9CbmZSN0d6RnZDWGtWT0Q3Tk1LOVBxWHJBM0JMNUNObXlDSXRsZnMweVhkSXF5SFNzMTMzX2tDb2JmZUQ2WVIw0gGGAkFVX3lxTE56NlZOcnM2NW1kU3o3TjFCa2syNVhWZDc1X3FSQnI0R2Zta2NGNmN4NklybWRWcXpDTFA0X2dpSXJqX0ZQc2JUQlBxeWxKLTBOeGpqaTZKbkJEYWt0aFBjUzFkUGphMl9tZUswYkhoelJCcDU0RHZkd1pJdV9valhkODF6WnZkcHhXc0VHa1ZFQ0RXczZKS3JSS096N3hiUVl3UUxvNUxKYy1CdnRPS0FwaUV1LWRJeG9aUXZTdXRlb2xSRFJOVUhNZEpya2w0cVdpMFN4ejNMUXZTcTlOM1gzVWVsVWlHSWljQ0tzbXc5OHEyc0hKcnktenU5ZFFSWi1obFZTZ2c?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 16 Jul 2026 17:09:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -205,6 +220,49 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Francia e Inglaterra, frente a frente por el último lugar en el podio mundialista - El Litoral",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWnNYUlRRZk5XalpjTWpMMmdkQTdjOTJBU0pLa2dzdjZoY2xFcndLZVNFVkR5cEZyNlBMOHhZRmt6TDlWUUlRaE1OZjVuQ1JONHk5Z0lNYVJfTmdaY2d3cWVlMjZ3NzJsZy1RdUpxLXNSNFprN0lWcXMwT05DckEwVWRKZllJWUwxcXBja2NGczZFX2RzVldVQzZiVDZsYnRMNWZHRDdtUk90cHpnREJKcmNHV1dhWHl1dzgzSXNzQjdteld4b1ByRkVGLUZtQzgyeTItUEdjV2ZNams3UVg0OXpaZlBXN0RwV2Zqb0JnYjUyQXpYTmJHSTRxWdIBgAJBVV95cUxOd24ycFRrdnJ6cm5SYlRQMnBKS1RpZ1Q0UGRyT0U4RFpZMDRMYllMeXV4bkFlT1ZwbHd4eGJ0dzRQb2ktbjFtTlRjLTZZYWJ4YzBpSFB1M3hjREdZZ0JhQTdTeWJ4bWNaQ0lwRDVxRVh2N1lGRzUzam1nVlROdDZEbXVUNUxoR0tmMDVvck9UTDljbHZyNm9icTh0azN0dFMtaS1NYjVtVk5hSV9iR3h6UUhkVXpIVUptZDlHMTBlMVlmaXFkTkk3UFFucUlvNFVNb2FKeU5kc2Z2V09hNXV1QkVJNTBZVS04LWFKWGRHbXp0N2ZSMHM2dnpsZDh2dWVl?oc=5",
+      "domain": "www.ellitoral.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 18 Jul 2026 13:32:33 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "El futuro de Mauricio Pochettino en la selección de Estados Unidos se decidirá en breve - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVZ2LTFYMmlIQXhScXZTZmJWVEY2bDJSUnRzTENOeWRKRGJyV25DYTd2MVdwRGZvS3k0SFVsUXFPN243VjFXWVJ2VDlpbTkxTElrOEpNYmRZcGlSLUtwLXhsYVpRTmRHYmRtcjh3QlpVNXREQk1maUNZem1hbWtSdEFtQlBINkl4TWhST3pSQ0FaRVV0LW1aN3JvQmNqdWszckVzdjEwb19JZ192SFlaOWxtUGRoS3VILVZ3?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 18 Jul 2026 12:25:24 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 26™: What to look out for in France v England 🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS0xMHBjY3g0eFpCTWt3dE5fWVNVX051cHF5SUlkMTQ1MWItNnBuRDhEc2RqZzY2a1hITWxQemxvNjl5YnUxRGVFc3h6blVOTVVubEthU1Jyb1N2WFo0N05MdFk0SGVIaDNJQVNZUy1HN09mclo5YTU0UE9nSlZKR0I4Vl9jQ0M0eUlJU1ZCdlNCYjRfTW14aTg0a1ZELVN5eno4cmx3?oc=5",
+      "domain": "onefootball.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 18 Jul 2026 07:12:48 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Las posibles alineaciones titulares para el partido entre Francia e Inglaterra - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0lMWmRoWWxaN0NpYlV4eVhRejFpNFlueGdWVFEwOFBSVDR2clBFV1ZwUmFfcXVaV1Mya0xQWmR1ZmdaZ085RjFZSDFwMzZHb1pfUXJBX1R5OFZmbC1HMHZUd3loaFBFOXVuZXBDeTdYRkhMamdGUzQ1NmtCZjhCMg?oc=5",
       "domain": "www.si.com",
@@ -234,51 +292,6 @@
       "tags": [
         "previa"
       ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Francia vs Inglaterra: previa, predicciones y alineaciones - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0hXcmNBMGd4dzlCZ3NndF9oZGJrVF95WndaQTFrTmNpd0ZBYzV6N2V5czZOVUg1TjFyQVNJYTI2TDJYd01aUkpMNjlRLTlxVXNGbWVjR1huaEJWX1BBSzhBT1Q4UGl6ZDRiRnZqOF9la2dPQlBqTWt4S0NJS2g5dFRnLU1OVHlvY0MtR0FkSlJEMlFGVGZUU25KbW5VWmM?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 18 Jul 2026 00:55:31 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [
-        "alineación",
-        "previa"
-      ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Un gigante saudí pone en peligro el acuerdo de Onahi con el Ajax | Goal.com México - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUVIbG4tUVBMY21NM1o1bDdocXBxTWZOdGVNVU84Q1FqeE40dzdFRXZrZ3ZucUVfblgwNE1WTlFwZnE5MDFySnRObHh2eG9Yb1NnQkRDQzhwbFh0OGc3OWVFSEZUYjJtRmc5ekhxeVNGV3plTWdZdGVfNVA1R09Cb0otWTNJLUZuOEZvSEZENW9CQU5tU1F2aVJXS3BLUmJwOUFCZHNjc3B3c3NYTVE?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 17 Jul 2026 17:02:27 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Por tercera vez consecutiva, un gigante español domina la final del Mundial desde el inicio | Goal.com México - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2NnSHZzVzd6cTRkcUZXSUNPV29NMDl2Vmw0cktTa3RnM1Q4bFpmUC1FTFM3X05iNTVCeUxYb1NydVRtaHlZQVlpd0NoRXg0TjF1NEl2aXN3M3g5ZGJsLTktY09tMkFPcXh2ek1uRVNRVkVsanBsRWpucTBwNXNDS2Nkd19rdkUtaTlrN0M1ajItUjlDS2pZTHlmMVdCalJkNWZLVTQ0TWdaMjdueWJ5Z0MycEstQ3pmUnpJZWZxSkV2dG95N25Z?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 17 Jul 2026 14:02:09 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
       "discoveredBy": "Google News RSS"
     }
   ],
@@ -311,14 +324,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -351,12 +366,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -393,6 +408,35 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 26™: What to look out for in France v England 🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS0xMHBjY3g0eFpCTWt3dE5fWVNVX051cHF5SUlkMTQ1MWItNnBuRDhEc2RqZzY2a1hITWxQemxvNjl5YnUxRGVFc3h6blVOTVVubEthU1Jyb1N2WFo0N05MdFk0SGVIaDNJQVNZUy1HN09mclo5YTU0UE9nSlZKR0I4Vl9jQ0M0eUlJU1ZCdlNCYjRfTW14aTg0a1ZELVN5eno4cmx3?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 18 Jul 2026 07:12:48 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Sweden's Betsson posts higher Q2 revenue, boosted by FIFA World Cup - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVjRQbVREVU9jbUxSMDVhYUtEY2VlRFF3MUJfZGxPZ1RXVVRNZmdLR3dmVFJ0bG9VN2s2N1o2Q3Q2WmhqUDFIT3RsSXVwODVWTVllSzQ0YXF4NGxJcVJfVUROQ2dHaHhCeFVMeFlyYWlBcHpUMDZ0eGpLeWhFMEpndkZOWi12NVlEMFZzM09jUnlVQnFhV3MtM1U5aTBnRXRZbFF5Z2tEMzd5N0dRay05U2k1Ry1hQnpVZUIzcHBwQnJibGo3LXB6T0hmdkplTVgx?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 17 Jul 2026 05:45:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Sweden"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Persiguen un espejismo... ¡Miles de franceses piden que se repita el partido contra España! - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTXo4V3ctdmVNX1dQcEp6THJNeFVXZHBGdGo4bjJDWFkzY19OQ3BERUZyRTg0NTJKTDNnRmtWZC1nWWVsSXpfbGl3VW0xUFdydkRla21uM1d1MThuQXdHOGJJZU83NzdSeldQSjEyRmJWaW9BRHZpVFl1S2F5MDhTUS15Q1lDZDN3cV9sZ0FhZE5PVjNwZXl6Q1J3LU5KTEIyN3hIdU1nT0RTYXJHNFVJU25uTjZUQjNPWVNCc3ZJemxReXBCbHp3ZHdNdFV2UjJ1aTY4U3NKSW9Tdw?oc=5",
         "domain": "www.goal.com",
@@ -419,33 +463,24 @@
           "lesión o baja"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "CONFIRMADO: Definido el partido por el tercer lugar del Mundial 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFdTWTdPQktFc0NiUmRHYUlfRTJXVE5La0pwd2ZpMUwwdi1WM2pQcmY4YUd3VkJ5eURMSTNLeVdUQmMtWEczeHF3bEI5bHR3TU1sVGl1bVVpVDkyZmt0MjUtQnFwRTctc29lMHVrTnVIVlZBMFptU2hBS2NmdVVRRkxsQXBGMGl0N2pIUWFfT0ZwNnpqQ3E2LTRGRENFZ9IBqwFBVV95cUxNVWlKNHJsQUs4YzlYSDNwM3hVZ2w0aUxNTnhFdUhjVzNoWlQ3RmY3ckx2d19mamotUmhKR2luU3BMNWhjTzFIUHM0R1V4a3cwNjBiNEEzRnZHbEZmRHY1UGMwSGFWdVVCbVJ3VmtFOXZXWDBmbFdtY1R1TFZHajVETmRhRk43dnN6em1LbkpaaHdnQUt6R25sbElwWXRkTnhTV2JsZm42ZnVtZnc?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 21:32:08 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
+      {
+        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Todas las selecciones que eliminaron a México en un mundial se quedaron sin la copa - Telemundo",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd0RLRld1czlReWRXd0ZJbk80aTFEeWdYVFNqbDFJcWNkZk1pdzBSbTMzdzRleEJ3Q1hFZ1JyamU5Rm9jS0RuMXZLN280dm5OUWFoMHpLOHM4b05mdzAxcHcycDB0eGYtTGJkcDNLRm8taEoxY3o3OVBfMm1XOVZZYlFQWUlUcEktQlRYVTAyQVNONFNoQUdWNElSeXdZYXhYdGNvSHV2RnpUSzZtMHFYQURUYzlxRWtHdVJzZVZkdHpXRkpVcFpNbFVJOGRidzZpc3ozTVo1bkFlMExSOHc?oc=5",
@@ -453,20 +488,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Thu, 16 Jul 2026 21:15:32 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Haaland rompe el silencio y llena de elogios a México tras el Mundial 2026: “Yo quería jugar contra ellos” - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaHhZQ3VXT0xsVzQzbXFXLVVlOEE4OEpqZkhtTW14YTFEVkpTS19PQTdxSTd2bU80cTktNnNaOUhBaWV6cWxtbmtVU2pCWF9iQjMyeks3WjNuZVdaYkdZZ3YtS1hpaE5tYXBZS0Ryb3hpUjUxRDgtTnpsR1V2UDE2NlhHRlJfVm5weWg0MkZtd21jMHlLWXlTaXp2VEpDN2paQ1djMmtGaXhlUU9CbmZSN0d6RnZDWGtWT0Q3Tk1LOVBxWHJBM0JMNUNObXlDSXRsZnMweVhkSXF5SFNzMTMzX2tDb2JmZUQ2WVIw0gGGAkFVX3lxTE56NlZOcnM2NW1kU3o3TjFCa2syNVhWZDc1X3FSQnI0R2Zta2NGNmN4NklybWRWcXpDTFA0X2dpSXJqX0ZQc2JUQlBxeWxKLTBOeGpqaTZKbkJEYWt0aFBjUzFkUGphMl9tZUswYkhoelJCcDU0RHZkd1pJdV9valhkODF6WnZkcHhXc0VHa1ZFQ0RXczZKS3JSS096N3hiUVl3UUxvNUxKYy1CdnRPS0FwaUV1LWRJeG9aUXZTdXRlb2xSRFJOVUhNZEpya2w0cVdpMFN4ejNMUXZTcTlOM1gzVWVsVWlHSWljQ0tzbXc5OHEyc0hKcnktenU5ZFFSWi1obFZTZ2c?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 17:09:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -531,12 +552,12 @@
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "«¡Tonterías!»: Michael Owen critica el «equipo de bar» de Thomas Tuchel tras la eliminación de Inglaterra en el Mundial 2026 - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZWotU1A5NW1fM0VJS0VUSHhMRWlybDRpY2Vpa0cyTGFNZEx4WUFNVUtwOXN0SjdWMjRhSlVjSnZJUDhPbzF3MW1xNVZUdWpHMy01dE5GTmFuSnhHcmJqS0c1eVBfWFd5SHNpRE8yS18zRGZMaUpHd2xwYWNmSUcxYko2N3ZDTzJfd0t6cmZISFlqOUlxX3JvLVlWN080N05XMWVsb1BfWFZTY1UxUVhuWXNMN2I1ME1tZ0VsdWxnOWdtMnFIUEhNQ3JXRkk3Z2IzQnNLYlhJSzYxYlBpUGVrN1I0VldsSkZoc01YbDV3bVNkaldOSkd3SHRGYmJ0ZWdjTWpZ?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 18:46:45 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -644,14 +665,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -684,12 +707,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -707,6 +730,20 @@
         "image": "",
         "matchedTeams": [
           "England",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El futuro de Mauricio Pochettino en la selección de Estados Unidos se decidirá en breve - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVZ2LTFYMmlIQXhScXZTZmJWVEY2bDJSUnRzTENOeWRKRGJyV25DYTd2MVdwRGZvS3k0SFVsUXFPN243VjFXWVJ2VDlpbTkxTElrOEpNYmRZcGlSLUtwLXhsYVpRTmRHYmRtcjh3QlpVNXREQk1maUNZem1hbWtSdEFtQlBINkl4TWhST3pSQ0FaRVV0LW1aN3JvQmNqdWszckVzdjEwb19JZ192SFlaOWxtUGRoS3VILVZ3?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 18 Jul 2026 12:25:24 GMT",
+        "image": "",
+        "matchedTeams": [
           "USA"
         ],
         "tags": [],
@@ -739,14 +776,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -757,20 +796,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 15 Jul 2026 15:19:29 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
         "matchedTeams": [
           "France"
@@ -807,14 +832,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -847,12 +874,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -887,14 +914,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -927,12 +956,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -967,14 +996,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1007,12 +1038,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1047,14 +1078,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1087,12 +1120,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1127,14 +1160,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1167,12 +1202,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1207,14 +1242,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1247,12 +1284,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1287,14 +1324,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1327,12 +1366,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1367,14 +1406,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1407,12 +1448,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1421,12 +1462,12 @@
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "«¡Tonterías!»: Michael Owen critica el «equipo de bar» de Thomas Tuchel tras la eliminación de Inglaterra en el Mundial 2026 - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZWotU1A5NW1fM0VJS0VUSHhMRWlybDRpY2Vpa0cyTGFNZEx4WUFNVUtwOXN0SjdWMjRhSlVjSnZJUDhPbzF3MW1xNVZUdWpHMy01dE5GTmFuSnhHcmJqS0c1eVBfWFd5SHNpRE8yS18zRGZMaUpHd2xwYWNmSUcxYko2N3ZDTzJfd0t6cmZISFlqOUlxX3JvLVlWN080N05XMWVsb1BfWFZTY1UxUVhuWXNMN2I1ME1tZ0VsdWxnOWdtMnFIUEhNQ3JXRkk3Z2IzQnNLYlhJSzYxYlBpUGVrN1I0VldsSkZoc01YbDV3bVNkaldOSkd3SHRGYmJ0ZWdjTWpZ?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 18:46:45 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1534,14 +1575,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1574,12 +1617,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1614,14 +1657,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1654,12 +1699,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1694,14 +1739,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1734,12 +1781,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1774,14 +1821,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1814,12 +1863,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1854,14 +1903,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1894,12 +1945,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1934,14 +1985,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1974,12 +2027,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2014,14 +2067,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2054,12 +2109,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2094,14 +2149,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi bate un récord en las semifinales del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaEVoYkpJcVJtUmlwZVkwS0JMX3JTTGdVbXhGNl9DSUFILTBDTE1pZ2VjQmp3SDdONDhRRmxkbWVpenlCelkybzN2M0NualRwaW1Ib3VTZnFTd1NwWUp4ZEZDemtXSUJlVTk5aUpCel9LcFVjeFJVTmtHX19ieldOUDhfQ2dnczVVeFU3RlVZT0NLMmp0R19xSmVvUWJPcV93ZHVJdUFNR1lGQlU?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA World Cup 26™: What to look out for in England v Argentina 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇦🇷 - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkQySDQ0Y2lQOFNPQmtIanNsZHR2VWNENDl2QlV3MjdYOHVSM3JNT09tRjhlMUJURUpZbk81Nkk1bHBjY3B0b19ic3F0UHBiT1pHR1d4U2pYbTd4NHVBUWJNSzNzWlJYTlJ0aEt6ZWpNZ3BFYV9PQ3NlVkhCbERzbXV6MUctUHZtX0dlM3A0Znp5LXVlQjEwRmplUTJEd3Jmc21ZcFYtM3RsZw?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 19:29:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 19:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2134,12 +2191,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Goleadores Mundial 2026: tabla ACTUALIZADA tras gol de Mikel Oyarzabal hoy 14 de julio 2026 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW5zU1lIRE5DZnJzRlo0T0dxMFpPSHJHM3kwNnhMbmVVSnE5NkNYbWNTYnBLSnlzR1RWc0E3aFZCZUdUdkZpc1hoTTY2T3M2OE5xOXlGTlY5bDRRcWhVSk4yYk40ZVlOWmg0ZjBRX0NYZkJpOFR2R3JzY19aNzRoUFNZeElqWnpIRG56NkV1Q3B6M29qQzA4SVk5RFY4ZGMwY0VNSUE4SUJrcXNSSjl3ZzBmQm1GUVhoQ2hpd9IBygFBVV95cUxQbkZ6Vm42eGtNNERqMU9RODRJSFRUaVo5OVBDeUt3eGRveW9yWVhHdnIxVFBUenJXV3p2UnZvdjR1U1pSZmlpblkzaDNsWE9ENk5iRE14ajF5NnpJNEpmTFoyU2pmRDhxNDMyNmtFUGlpM0sxMlZNZWNycU5fWVZrWFFqNTRvOURtR24yc3FXaEkxbXAzLVVzXzRnbURTQzJUcW1ONzZoSHF6UDlibkN6S3BBMlZRV0ZoM29hVXBNUlBGUzBzT1RXQ0lR?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "La Juventus deja boquiabierta a la AS Roma con un exitoso intento de fichaje de un jugador que participará en el Mundial - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMWMzbFoxc3N5eXhBblRISkwzUmdxaTFYQnFEREtiWFdNVVhGblFjYmRQNTNoMDBqY01Od2pUQ2dRN3lGVXcxYkZQX1lEVnBqanZhbE5XdjFuZDYtOEQyS05CeW5TS3FfMFRoU0pNZkFIS090bjRhX1hIQ0pDd0dSSk1KYU9xdU9MVkFPelhJVENwRnlsdWtlUEVlQWY3cXItTnJGZU1JbWE5dmFKRjcxLWR3a2xpeHFqUjNSVG9sMGQ1SnZxdjgtdlZRdjlpYzFxQllyN1dJb3ZSbFJVMnJIMDRWNHo5anhwT1hOUUlXVEpVdVk2ZFpoVG00bTdQWVg1Ym4tcmdZWQ?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 02:01:55 GMT",
+        "seenDate": "Thu, 16 Jul 2026 23:55:50 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
