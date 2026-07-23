@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-23T17:04:52.267696Z",
+    "updatedAt": "2026-07-23T21:46:55.053680Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -114,20 +114,6 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Tue, 21 Jul 2026 15:36:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "England Vs Argentina | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWE2dGFES1R4U2hmekFFX2ZwUE1WRVdpVE9DZEZHb3R2TEphbWtCTmVYSlBfM200Rlowb0tfRG1WclBZSlEwZmNOVmRwUmx3UjhTd1Fkc0lEUWpIT3Q3NTZyX0hJXzQyQ1VoLS1BNzlZZXoxTU5maVEzT1N2dGo0MUw2OTZBcHhBRUZMVnhqYXVoakNhNGxSQ2Z4RU56VExjaGxULUxpOHluRm9adlJlQzh5UjM4VldzX0ljZWZyYlc5TFU4?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 16 Jul 2026 20:05:48 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -254,20 +240,6 @@
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -330,6 +302,18 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
@@ -361,20 +345,6 @@
           "England"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -412,6 +382,18 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -521,20 +503,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "England Vs Argentina | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWE2dGFES1R4U2hmekFFX2ZwUE1WRVdpVE9DZEZHb3R2TEphbWtCTmVYSlBfM200Rlowb0tfRG1WclBZSlEwZmNOVmRwUmx3UjhTd1Fkc0lEUWpIT3Q3NTZyX0hJXzQyQ1VoLS1BNzlZZXoxTU5maVEzT1N2dGo0MUw2OTZBcHhBRUZMVnhqYXVoakNhNGxSQ2Z4RU56VExjaGxULUxpOHluRm9adlJlQzh5UjM4VldzX0ljZWZyYlc5TFU4?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 20:05:48 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA World Cup 26™: What to look out for in France v England 🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS0xMHBjY3g0eFpCTWt3dE5fWVNVX051cHF5SUlkMTQ1MWItNnBuRDhEc2RqZzY2a1hITWxQemxvNjl5YnUxRGVFc3h6blVOTVVubEthU1Jyb1N2WFo0N05MdFk0SGVIaDNJQVNZUy1HN09mclo5YTU0UE9nSlZKR0I4Vl9jQ0M0eUlJU1ZCdlNCYjRfTW14aTg0a1ZELVN5eno4cmx3?oc=5",
         "domain": "onefootball.com",
@@ -592,23 +560,23 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Julián Quiñones afirma que Javier Aguirre se equivocó al reemplazarlo en el partido con Inglaterra - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0tRNmR0WXUyY1NadERxZ3JnckFsUzZpWGQ3OWFsS1VKTDZoMnMwMGJXVWZwZzFrN01MWV9vVEwxSUU5b3I5R3BTc29sUlpOOFZFOXUxZFFpN2wzbTNzOTdWbG9qSFBjSWktT2p4LXlBMHo1T2R1NlVvdTVsVGVYV1ViSjRUbTFTMnN5eHBtUklIQzNTNkR0bTVGc2JRR1E1b1l3ZzREXzlEY1BLRlFKU3RBNzkwaVIxaFhCX1d3R0dqWXRyXzJFZ0lOYXBSRmdSNzFVc0FNeDI0M3M0RXNTRmpOZzbSAf8BQVVfeXFMTnNBU2ZEdFcyejhyVWtKeWw5TkpnMGNHaVNxcWNrRFp4S1ZhdnNiMlQ3MkNQdFJ5UjBxcVl6bXZxakcwUDJQclZvZGZKYzFqZXdlci1WNVhidncta0tjWnhkZUxTc2hHWWZOVXNDckR1SVQ2TXA2dU0tNVR4em1WM1BQTEYxYWtSTE51ZEVqdEhLREFfSnlfYWItUG56aFAxUFJkQVB3WGRHd3FfNTVlZTBKSVE0US1PWWQ0UC1SdDdNTmI5NmlFRTVkT2dZZ0NycTdhWTM0NXdqRVU2VWVnbjk4X1A4YVRhc0duR09OMXlIUWIyZ1lwWVhERXRIUXZR?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 21 Jul 2026 15:36:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
@@ -670,26 +638,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -750,26 +716,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -830,26 +794,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -910,26 +872,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -990,26 +950,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1070,26 +1028,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1150,26 +1106,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1230,26 +1184,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1310,26 +1262,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1390,6 +1340,18 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1410,20 +1372,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "England Vs Argentina | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWE2dGFES1R4U2hmekFFX2ZwUE1WRVdpVE9DZEZHb3R2TEphbWtCTmVYSlBfM200Rlowb0tfRG1WclBZSlEwZmNOVmRwUmx3UjhTd1Fkc0lEUWpIT3Q3NTZyX0hJXzQyQ1VoLS1BNzlZZXoxTU5maVEzT1N2dGo0MUw2OTZBcHhBRUZMVnhqYXVoakNhNGxSQ2Z4RU56VExjaGxULUxpOHluRm9adlJlQzh5UjM4VldzX0ljZWZyYlc5TFU4?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 20:05:48 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA World Cup 26™: What to look out for in France v England 🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS0xMHBjY3g0eFpCTWt3dE5fWVNVX051cHF5SUlkMTQ1MWItNnBuRDhEc2RqZzY2a1hITWxQemxvNjl5YnUxRGVFc3h6blVOTVVubEthU1Jyb1N2WFo0N05MdFk0SGVIaDNJQVNZUy1HN09mclo5YTU0UE9nSlZKR0I4Vl9jQ0M0eUlJU1ZCdlNCYjRfTW14aTg0a1ZELVN5eno4cmx3?oc=5",
         "domain": "onefootball.com",
@@ -1481,23 +1429,23 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Julián Quiñones afirma que Javier Aguirre se equivocó al reemplazarlo en el partido con Inglaterra - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0tRNmR0WXUyY1NadERxZ3JnckFsUzZpWGQ3OWFsS1VKTDZoMnMwMGJXVWZwZzFrN01MWV9vVEwxSUU5b3I5R3BTc29sUlpOOFZFOXUxZFFpN2wzbTNzOTdWbG9qSFBjSWktT2p4LXlBMHo1T2R1NlVvdTVsVGVYV1ViSjRUbTFTMnN5eHBtUklIQzNTNkR0bTVGc2JRR1E1b1l3ZzREXzlEY1BLRlFKU3RBNzkwaVIxaFhCX1d3R0dqWXRyXzJFZ0lOYXBSRmdSNzFVc0FNeDI0M3M0RXNTRmpOZzbSAf8BQVVfeXFMTnNBU2ZEdFcyejhyVWtKeWw5TkpnMGNHaVNxcWNrRFp4S1ZhdnNiMlQ3MkNQdFJ5UjBxcVl6bXZxakcwUDJQclZvZGZKYzFqZXdlci1WNVhidncta0tjWnhkZUxTc2hHWWZOVXNDckR1SVQ2TXA2dU0tNVR4em1WM1BQTEYxYWtSTE51ZEVqdEhLREFfSnlfYWItUG56aFAxUFJkQVB3WGRHd3FfNTVlZTBKSVE0US1PWWQ0UC1SdDdNTmI5NmlFRTVkT2dZZ0NycTdhWTM0NXdqRVU2VWVnbjk4X1A4YVRhc0duR09OMXlIUWIyZ1lwWVhERXRIUXZR?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 21 Jul 2026 15:36:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
@@ -1559,26 +1507,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1639,26 +1585,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1719,26 +1663,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1799,26 +1741,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1879,26 +1819,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -1959,26 +1897,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -2039,26 +1975,24 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "\"Fichaje bombazo\"... Mbappé a Pérez: he convencido a una estrella mundialista para que se una al Real Madrid - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3g4QVowd1ZKV01FNFBpY2E0RHFraG55cTV3NTRGeUNOZC1mOWpJdTZIaTd6aXZBSzFyWnN6WmY4MFB0SGlrSmd0VXpWWmJRQjRtZmlpejZHcnU0aDhMT0RNblFxMnpxOTBlTS10OW4zUjVmR3Z0czY5TzRKWk16XzJmbjZjNjAtWlE0WDJhajU4OENLNkR2WlBJODBxNnZVem5xbFpPSXNwUEJMUUYtVnZsamJDYTZrcEU4RmJkak1SOWM1TUJFMjEyUDhPZ0dDX09KbjNudDFFYzVjZUdXUHlobWNSeENNYTUwZVdscw?oc=5",
         "domain": "www.goal.com",
@@ -2119,6 +2053,18 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
+        "domain": "onefootball.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
