@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-25T07:36:18.324463Z",
+    "updatedAt": "2026-07-25T15:51:49.331518Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -31,6 +31,20 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 2026 semifinals – France vs Spain - PalabrasClaras.mx",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcHdVdFdURlJ2U3ZKdExzZnlkNVdYaEhGTGxmMFJoenF4WjJuYW50VEdhNTJYbENBUmxxcmVqZm9WanVXcGF2WjV3Y19yVEFuOGFDYUxhb0dRVWtVa3ZUTUR0dXIwc0tqdzB5YWltU3dRWmk2RVhyNW5OQ0llYnk5ZnBHVDRmOExoV056NC1tRzhXZV91OFRPS3VYN1FpMTd4NXNuZTlDQmFCN0w1Rkw5THRLU2RjSWdvajhNNXNZSVBDWXNPeXZQbTNER0ZKV2tDT2MzdGtWcEczTzFBOEo3YWhzRQ?oc=5",
+      "domain": "palabrasclaras.mx",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 15 Jul 2026 15:19:29 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -122,6 +136,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "England Vs Argentina | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWE2dGFES1R4U2hmekFFX2ZwUE1WRVdpVE9DZEZHb3R2TEphbWtCTmVYSlBfM200Rlowb0tfRG1WclBZSlEwZmNOVmRwUmx3UjhTd1Fkc0lEUWpIT3Q3NTZyX0hJXzQyQ1VoLS1BNzlZZXoxTU5maVEzT1N2dGo0MUw2OTZBcHhBRUZMVnhqYXVoakNhNGxSQ2Z4RU56VExjaGxULUxpOHluRm9adlJlQzh5UjM4VldzX0ljZWZyYlc5TFU4?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 16 Jul 2026 20:05:48 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "France Vs Spain | FIFA World Cup - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk5IN2tUeVFTcXhYRjM0SHgxMEdpRmhLMmVZaU1iYlpWcmJqck1yVXhreTRlUDdwV3ZBN2tXcEJiOVMzR0NDeUNRZHlxZVJwYnh3VTZRb2ZDdHh6SktsLU5mdjJxZ3hLWUg4Vk5nUnNGU21LZGVsM2VybENCSWZQR1JvTDJrTUtSVTJpRnAzS2tYUHdheGdKWHd6Z1BHWmZfc0dUVDFIdkhoTjZQYlA5Z29rQjdGU1lpb0hYMUdR?oc=5",
       "domain": "es.concacaf.com",
@@ -175,6 +203,20 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿Rodri al PSG? El gigante francés prepara una oferta para competir con el Real Madrid por la estrella del Manchester City - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTlE4bmRSeVJmX3QxYVFKX3I1NjFuZmdMRDVlREVTNEI1WmVaUDJ5bVFzSzMwU29IU2VxUk5ENnJYQlNaTUNpWUNjeFNjV01yLURuQXozVXFXLVBzbzRNTTNmTzA2a2JGUG5EZXRKeVNLQmFjd2wtOHRXSTVmUERDV2hveG9pU0RNdHdMSmxNcHp0bzl3d1ZYbFFma2U5Sng0Y1dnam01aWVod2ZmTHN5eUpzLW94bUljRy02RDUxakhzMUo2cERQNVNZWHdFaWVMQkNTZUpJN3lxeFJkVjd5eHZpWlVDVnVQNkRvQXJGUmF6OTlOdEd6U05ZeVdaRHBzb0N4eWV3?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 25 Jul 2026 15:15:16 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -326,12 +368,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -339,6 +381,20 @@
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "FIFA World Cup 2026 semifinals – France vs Spain - PalabrasClaras.mx",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcHdVdFdURlJ2U3ZKdExzZnlkNVdYaEhGTGxmMFJoenF4WjJuYW50VEdhNTJYbENBUmxxcmVqZm9WanVXcGF2WjV3Y19yVEFuOGFDYUxhb0dRVWtVa3ZUTUR0dXIwc0tqdzB5YWltU3dRWmk2RVhyNW5OQ0llYnk5ZnBHVDRmOExoV056NC1tRzhXZV91OFRPS3VYN1FpMTd4NXNuZTlDQmFCN0w1Rkw5THRLU2RjSWdvajhNNXNZSVBDWXNPeXZQbTNER0ZKV2tDT2MzdGtWcEczTzFBOEo3YWhzRQ?oc=5",
+        "domain": "palabrasclaras.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 15:19:29 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "France Vs Spain | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk5IN2tUeVFTcXhYRjM0SHgxMEdpRmhLMmVZaU1iYlpWcmJqck1yVXhreTRlUDdwV3ZBN2tXcEJiOVMzR0NDeUNRZHlxZVJwYnh3VTZRb2ZDdHh6SktsLU5mdjJxZ3hLWUg4Vk5nUnNGU21LZGVsM2VybENCSWZQR1JvTDJrTUtSVTJpRnAzS2tYUHdheGdKWHd6Z1BHWmZfc0dUVDFIdkhoTjZQYlA5Z29rQjdGU1lpb0hYMUdR?oc=5",
@@ -384,6 +440,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "¿Rodri al PSG? El gigante francés prepara una oferta para competir con el Real Madrid por la estrella del Manchester City - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTlE4bmRSeVJmX3QxYVFKX3I1NjFuZmdMRDVlREVTNEI1WmVaUDJ5bVFzSzMwU29IU2VxUk5ENnJYQlNaTUNpWUNjeFNjV01yLURuQXozVXFXLVBzbzRNTTNmTzA2a2JGUG5EZXRKeVNLQmFjd2wtOHRXSTVmUERDV2hveG9pU0RNdHdMSmxNcHp0bzl3d1ZYbFFma2U5Sng0Y1dnam01aWVod2ZmTHN5eUpzLW94bUljRy02RDUxakhzMUo2cERQNVNZWHdFaWVMQkNTZUpJN3lxeFJkVjd5eHZpWlVDVnVQNkRvQXJGUmF6OTlOdEd6U05ZeVdaRHBzb0N4eWV3?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 25 Jul 2026 15:15:16 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
         "domain": "expansion.mx",
@@ -392,36 +462,6 @@
         "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’ - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0hVc01YbzdBTG45NEg2Rzc4OGJHYUttdWlFRGJidnlDRDgySFRJdVZkbmRXdWJfRlBiTXoyY1R2QmFSeHlFZDJSSXZpT2xRekxoNEdFWGRydXJHNnBKWFQ3VVoyMGtFT2tTQk54ZkFBS2NWYVNlUjNkaktfUGRTRm9JR0doUmhHa0Rld09xV3dVWXVybkVqclBkVXJTbFJ3UWfSAa8BQVVfeXFMTUJ2b0hjelk4UWJNN2tpOFRCWk15T09mOEpYNk84eGVtUXgzX3ZFLWtpN2JtSXNtcnZWZTUzVGxmb1MtOE9GQXhSZmJzdHJVZC0zcVpGQUdWdkhJaFZqT0lKVTZ1YUpDNnZ1R1g2UnVIa1pUekpvMlpRUTBzZm1xX2k1UDJyQWlQLXU5RFFBLS1MMHBUZTFSa0d6WmVVckYxYjRTaC1aLWlPN21xOGNBNA?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 23 Jul 2026 23:21:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [
           "sanción"
         ],
@@ -520,6 +560,20 @@
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
+        "title": "England Vs Argentina | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWE2dGFES1R4U2hmekFFX2ZwUE1WRVdpVE9DZEZHb3R2TEphbWtCTmVYSlBfM200Rlowb0tfRG1WclBZSlEwZmNOVmRwUmx3UjhTd1Fkc0lEUWpIT3Q3NTZyX0hJXzQyQ1VoLS1BNzlZZXoxTU5maVEzT1N2dGo0MUw2OTZBcHhBRUZMVnhqYXVoakNhNGxSQ2Z4RU56VExjaGxULUxpOHluRm9adlJlQzh5UjM4VldzX0ljZWZyYlc5TFU4?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 20:05:48 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup 26™: What to look out for in France v England 🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS0xMHBjY3g0eFpCTWt3dE5fWVNVX051cHF5SUlkMTQ1MWItNnBuRDhEc2RqZzY2a1hITWxQemxvNjl5YnUxRGVFc3h6blVOTVVubEthU1Jyb1N2WFo0N05MdFk0SGVIaDNJQVNZUy1HN09mclo5YTU0UE9nSlZKR0I4Vl9jQ0M0eUlJU1ZCdlNCYjRfTW14aTg0a1ZELVN5eno4cmx3?oc=5",
         "domain": "onefootball.com",
@@ -585,20 +639,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’ - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0hVc01YbzdBTG45NEg2Rzc4OGJHYUttdWlFRGJidnlDRDgySFRJdVZkbmRXdWJfRlBiTXoyY1R2QmFSeHlFZDJSSXZpT2xRekxoNEdFWGRydXJHNnBKWFQ3VVoyMGtFT2tTQk54ZkFBS2NWYVNlUjNkaktfUGRTRm9JR0doUmhHa0Rld09xV3dVWXVybkVqclBkVXJTbFJ3UWfSAa8BQVVfeXFMTUJ2b0hjelk4UWJNN2tpOFRCWk15T09mOEpYNk84eGVtUXgzX3ZFLWtpN2JtSXNtcnZWZTUzVGxmb1MtOE9GQXhSZmJzdHJVZC0zcVpGQUdWdkhJaFZqT0lKVTZ1YUpDNnZ1R1g2UnVIa1pUekpvMlpRUTBzZm1xX2k1UDJyQWlQLXU5RFFBLS1MMHBUZTFSa0d6WmVVckYxYjRTaC1aLWlPN21xOGNBNA?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 23 Jul 2026 23:21:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
@@ -679,12 +719,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -763,12 +803,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -847,12 +887,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -931,12 +971,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1015,12 +1055,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1099,12 +1139,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1183,12 +1223,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1267,12 +1307,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1351,12 +1391,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1435,12 +1475,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1448,6 +1488,20 @@
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
+      {
+        "title": "England Vs Argentina | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWE2dGFES1R4U2hmekFFX2ZwUE1WRVdpVE9DZEZHb3R2TEphbWtCTmVYSlBfM200Rlowb0tfRG1WclBZSlEwZmNOVmRwUmx3UjhTd1Fkc0lEUWpIT3Q3NTZyX0hJXzQyQ1VoLS1BNzlZZXoxTU5maVEzT1N2dGo0MUw2OTZBcHhBRUZMVnhqYXVoakNhNGxSQ2Z4RU56VExjaGxULUxpOHluRm9adlJlQzh5UjM4VldzX0ljZWZyYlc5TFU4?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 20:05:48 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA World Cup 26™: What to look out for in France v England 🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿 - OneFootball",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS0xMHBjY3g0eFpCTWt3dE5fWVNVX051cHF5SUlkMTQ1MWItNnBuRDhEc2RqZzY2a1hITWxQemxvNjl5YnUxRGVFc3h6blVOTVVubEthU1Jyb1N2WFo0N05MdFk0SGVIaDNJQVNZUy1HN09mclo5YTU0UE9nSlZKR0I4Vl9jQ0M0eUlJU1ZCdlNCYjRfTW14aTg0a1ZELVN5eno4cmx3?oc=5",
@@ -1514,20 +1568,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’ - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0hVc01YbzdBTG45NEg2Rzc4OGJHYUttdWlFRGJidnlDRDgySFRJdVZkbmRXdWJfRlBiTXoyY1R2QmFSeHlFZDJSSXZpT2xRekxoNEdFWGRydXJHNnBKWFQ3VVoyMGtFT2tTQk54ZkFBS2NWYVNlUjNkaktfUGRTRm9JR0doUmhHa0Rld09xV3dVWXVybkVqclBkVXJTbFJ3UWfSAa8BQVVfeXFMTUJ2b0hjelk4UWJNN2tpOFRCWk15T09mOEpYNk84eGVtUXgzX3ZFLWtpN2JtSXNtcnZWZTUzVGxmb1MtOE9GQXhSZmJzdHJVZC0zcVpGQUdWdkhJaFZqT0lKVTZ1YUpDNnZ1R1g2UnVIa1pUekpvMlpRUTBzZm1xX2k1UDJyQWlQLXU5RFFBLS1MMHBUZTFSa0d6WmVVckYxYjRTaC1aLWlPN21xOGNBNA?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 23 Jul 2026 23:21:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
@@ -1608,12 +1648,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1692,12 +1732,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1776,12 +1816,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1860,12 +1900,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1944,12 +1984,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2028,12 +2068,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2112,12 +2152,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2196,12 +2236,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Un Mundial con 64 selecciones? Los argumentos a favor y en contra del nuevo plan de la FIFA - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1KWDVQUUdOcnNIMC0yeF9EYUpZMDZjSG1UbUhCX1VqZnplbjdZYkZEWVpRejhVNTZaS1BOS0x4c28yVDJmQVlSRkN0LVE4LUkzblA4ZlF6YnowQkh4TTYtdHJlSEtPeVVhR3BqVTdsVzFMYkpQZ3l3S1JnM1FOaTlsYXowQjZoSTFjcktwbHY5aVB4RGVNdmhQWGw1RUQ2MHFHOVIzVUhuVUNXWnNDOVVhUFd4NEVHUlR0SGpOYw?oc=5",
-        "domain": "www.si.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - OneFootball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0FwYTA3R3ZYRzlQNXpRbS15ZkJtamQ4TGVrZk0yTGo1d0xRVEE1eVhqejNkUzVYOGFTYTBRSFFUdlQxSVFaRkdXMnpjaDRlQVJjSVZpUTBoVXdxZDNWZ29uOW1RX2ItbHVFWFZYWFRITWpFWDRvWU5tQVRGVXJMMVNTYW5DV0Jrb2xwLVJfVzhsTnpucW5XdWNrQkpUbEQtQlhNOVV3?oc=5",
+        "domain": "onefootball.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 14:10:42 GMT",
+        "seenDate": "Wed, 22 Jul 2026 16:02:55 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
