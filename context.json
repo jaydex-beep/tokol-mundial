@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-28T10:13:25.346162Z",
+    "updatedAt": "2026-07-28T17:14:34.418398Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -238,6 +238,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "France Vs Sweden | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjctT2JQNGFNdXducWdEV2hvd2pBbEJsMWk5N3dRLTVvUWlEOG90TkhwU0hmQTU2R3REOS1SUGdSdFJCT2F6QzVMOU5XZXE1OVlPS0tMOHBWSEhOQWhLTmtudkpwS0VQREtJUGRpZzMxeUhLY3VSaWZxNUE1bHI1M3poRTQwU0FkV3VSYXppR2h5Y1lUa25rN1BmVUk4SmxUSmtnd2REdkhFaXhvQUtnRl9JVzRzbUdTZWFPZW9uUQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 10 Jul 2026 18:06:31 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "Sweden"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2xaN1VEclVMSlhWVHhSaml2SHBRNDljaHFKcWhiSWswdE9WZWJvYWxHU0FkQUhTNlAyOXlMUWNKd1JaMndlYnRZWDI1OHhUaEVneDNCUVlVZ0tVWmx3Vjh1SE9NTzdBeVdzVTBVcXh5WmUzNzJmWjctejJjQTZONFpUcVZjSUlLN1lqTFlMZVZfTUxTRGZzcERtSzJ2c3NNV3M5azJ4eGFpQ0daYjNhR2llaXBlc3RMRmMtaWM2NThEdVhmQXdBOUFB?oc=5",
       "domain": "es.concacaf.com",
@@ -276,20 +291,6 @@
       "image": "",
       "matchedTeams": [
         "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Así se jugarán los octavos de final del Mundial 2026 - AS México",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUxTdnl2NnNRVDVsZW9sR1c1QzVuRlRmZjF6VjdsaEhaZFhRdkNaZGxITTM0LVlCM185M2trd1hsZWVKUUktSVVkNUp3d0ZvWURrR2hxZkJiMUs4Skh6TlFMVXJVYy0wOVR4WXlkZWNiZjVyM3Y5Z3JidlF1eFVCLUNybWhqMUJFWGhuT2R4Q0NPYWE0cnRKdkszTmo0WHhpOHfSAbYBQVVfeXFMTnVSbGFQQV9pUzc0TnZGSjg1Y3I5WXhMa2haUGlEc24wVUZWVzRtMlJ1RWNBcDZULXN1Z3lzMzdNVmNTVlg2eEJkYlFIZGdsa0tjWUQ2Rl9DbVJnSHh4RV9aUG1nQ0YyOVU0M0FWeFdJNmZ3NXdEaVBZV3l1UXN5aWl4QVJZaFU1Yi1xMk9vMjdKYWh2MmF5V2ptMlhRVWd3cXh5bDRidnpFZ1pKQk51ZlR1TWVVLXc?oc=5",
-      "domain": "mexico.as.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -385,6 +386,21 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
+        "title": "France Vs Sweden | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjctT2JQNGFNdXducWdEV2hvd2pBbEJsMWk5N3dRLTVvUWlEOG90TkhwU0hmQTU2R3REOS1SUGdSdFJCT2F6QzVMOU5XZXE1OVlPS0tMOHBWSEhOQWhLTmtudkpwS0VQREtJUGRpZzMxeUhLY3VSaWZxNUE1bHI1M3poRTQwU0FkV3VSYXppR2h5Y1lUa25rN1BmVUk4SmxUSmtnd2REdkhFaXhvQUtnRl9JVzRzbUdTZWFPZW9uUQ?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 18:06:31 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Sweden"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
         "domain": "es.concacaf.com",
@@ -454,18 +470,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup Best XI, Team of the Tournament unveiled: Full list of players - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzRk5CUndyUFRnTHZTejd2ZFhKUk44a3c4anpUaTVXalFqSWN3d21oMnotWWFaSjN3YWxEdHRVUTVuSGxMM2R1OHBzZk5PVGVDS3VjS0FWbTVGSmJiMUJKMzJfa3ExelNkM3F1bmUzaVNhYk5POHU4ZjIxOHg3Zw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 20:04:48 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -896,14 +900,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -980,14 +986,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1064,14 +1072,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1148,14 +1158,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1232,14 +1244,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1316,14 +1330,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1400,14 +1416,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1484,14 +1502,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1655,14 +1675,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1739,14 +1761,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1823,14 +1847,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1907,14 +1933,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1991,14 +2019,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2075,14 +2105,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2159,14 +2191,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2243,14 +2277,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA Power Rankings leaders after Matchday 3️⃣3️⃣🔥 at FIFA World Cup 26™ - OneFootball",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzdleDdWdjlIMzNzVlRYT2ZtREdnS0l1RkR0ZlhVQWNSdWVLeXZXMUpDSkxVN0JpaVMtTWpvZGxxRVd5dkRpVnRQLWNzdjRSdlJURDIwYS1vQ3lDV043LVNyLTVPQW4tZGU5UnQ5aldLaWNFWFRndWNxamlHRjBwQUQ1MGxNcHR5SWtZY3ZvS2xtMFRpbG1UU0UzM0J4YV9mQTR1RVJlTXdfZWpGWXFUaQ?oc=5",
-        "domain": "onefootball.com",
+        "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 05:15:48 GMT",
+        "seenDate": "Wed, 15 Jul 2026 05:35:15 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "France"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
