@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-07-31T09:15:29.817533Z",
+    "updatedAt": "2026-07-31T14:33:38.599483Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -50,6 +50,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Álvaro Fidalgo volvió al Real Betis y por fin dijo esto sobre el México vs Inglaterra - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFpBcjBXTjY5NHpLUWJldzd1UlpJWkFrMnF4bS1yM3RjaWNvNk1RNWZ5NEdKNk9JVkJCeWM3dVZvZHpCMVdGQU4xeDRuUlBBRElSY1BKOGFKZE5KbzhkZ3hnYjR2blF6LTFxU2RsN2c1NXVhMnFabmJRTEVIbWM0b29JVUQ4U2h3MkVFMFduWldtZXdrRVNsYmFTeGtzWmlhSk5uUy1zdVE1WXZ5T3RsZmd5VGjSAcIBQVVfeXFMUGFzZnRTRGVNTloyVnRrdFZuempnY0RDVlVpUTBhTVRpcVlXeGw4c0ZvZ1BBcGxOWjJDRE9BNmNkak9oMnJoT2hmRHp0eU04SkloSm9SS0VmTlVaV0c4VkZCTVlmdHl0ZTZSbjNZN3p6RDhjanNBQjd4OFB1TkdIeDJhM2tHdUxwUjhxaGZxelJleDJFUXM3aFF3R1BQZU1LeVRJajU1ZmxOLURWSTIyZ19hb0wyOGk4elVRYm55VUxwUXc?oc=5",
+      "domain": "www.tvazteca.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 29 Jul 2026 15:20:20 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "France Vs Winner Quarter Final 2 | FIFA World Cup - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTNQLVdUZEItMGtua2Y2b2RLeXFiclFTWkpHc1E1TUJGRi1ndS1KUkY5ODcxNklfdW4yZkp2anU0anhpcF9Sc3gwa3RXWnluTXBqdWNFWV9GeUVaZGtqY09wNzZXSkF6c1FCekQzeHdqZk9OdE9GNUQwdjRBWnl2MHZyQTc4VnNvcjkwU3NlX0FnOU9faEo3TzVybEdmTmowTjMwczhTV1FybXM1R1RqdEtselptcHNDTkRRYVRYUkZyRWtnT2dSbUZWb3lBVERndk02Nw?oc=5",
       "domain": "es.concacaf.com",
@@ -73,21 +88,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -158,20 +158,6 @@
       "image": "",
       "matchedTeams": [
         "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "🇲🇽 HOY ES UN DÍA HISTÓRICO PARA MÉXICO 🇲🇽 Nuestra nación vuelve a ocupar un lugar privilegiado en la historia del fútbol mundial. La Selección Mexicana será la encargada de inaugurar el Mundial 2026, un torneo histórico que marcará un antes y u - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORWNJRGkwTm1wSUpDSklVeGxtR1JUZTh1blBsRjNyM1JnNHgxUnFHTkk4TE5FUGZiSXhiX0FTb1c1RDNma2c2b09yVWRsUTVZYjhmS2xiQjhwU1JReTBWY2htS0FRallaRUF2azBNQ043VlgtVEh3MnEtTkVuWHltaHpIU3J6c2JfcmE4c3lxMDBVMzgtbEdzTTRUWnVoT3otZ0ZMa1FpT3RFVm93RGlEU3BkRzR3SzdTeTBVSkRtTFI5T0gtY1ladzVnbjZrRnl4N2FvdVlQNTVrR3hFZFVlbEg0QjVsLVV6MDlnMkZOTTU4cU0?oc=5",
-      "domain": "www.facebook.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -264,29 +250,29 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "DW News. . After violent episodes shook the country, Mexico has been investing heavily in tech security as co-host of the 2026 World Cup. #dwsports - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZk52cnRQSjlrbGRRc21PR0t6bmJmakgtcG1EVXFISXR1dVRralo2SHFLbHRURjg5VVkxUXhSOTZhTURrM1JuRlJZVWpzS1pIUzF3SFl4XzlCMmFkV3lIaU5UekdhVjZ0clcwbVFhbkFGY2ZGTENWd0FHbnZUZDBJSFhkNkZSMk5WU0pvTXZPU2NUQkZKdVZ6djREVXN6V0pxeHJqRUpTeFM0dk51SmxDZ0dCcjE0NlBfU0FHa3ZJWDg1ZEx4V2V6enVRdjlpUVlvZndpTlllT1NERzRURVlMd2lR?oc=5",
-      "domain": "www.facebook.com",
+      "title": "Michael Olise, «orgulloso» de establecer un récord en el Mundial, pero el héroe de Francia se quedó tocado tras la «enorme decepción» contra España e Inglaterra - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPd3VSNG9pc25uWU9taUhPUHhPQVZ3STV6dGROUTVIRXh6bW01TEN4SExaM0hoY2lES1NOT1VYVFhNMV9MMGJDbGZRcDlVNTFBWnU3QzltNzU3UlF0OHdmcUtRSDkyQk9vN3ItMjFLbkFzRGNvb0tmZGJqamJMZmE5c3picy02QmFNc2J1TVVOZVFFVXVtckkzQzJoX2F5eTFQTXBuTG1QRlRXR28tbGwyVlNRc1NDRldLeFZrcjhIX2pOVkhZVG4za3liR0E2bjhqMy15a183RmJ0aGtOalEzc09icmJRaTMtY2w1OTZDQlhHR2ZXaXZ1di1TQ0tfSEVSbHNkNm1Tbk1URHNRRE5heUY1Rkx4UFdnQlRYYkJnYS12bGFMZTctN2xJT3IzU2tWenlyRw?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "seenDate": "Fri, 31 Jul 2026 09:50:34 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico"
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
-      "domain": "www.tvazteca.com",
+      "title": "Artistas confirmados para la clausura del Mundial 2026 - Harper's Bazaar México",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclBVaGFtS0Nnd1FzSjk5WnRSQm9yYU9UVm8wUmszZDdxOTVPTjFxcEFiRF9NUENIRlN2N2p3bHFEcl9qS1gyN3gtVXlRTS02UWRZQzY1NlpCUmN4ZkJQXy05RUwwQ1ZMcnUxX0N2cXc2dDMtYVhVQ04yVENzX0NKYm9scWQyWVRJTTBCN1cwUW9GYmwwZWl3RFd1M3duT3pj0gGuAUFVX3lxTE1OMGxLSnE2OHcwSDRKNTRPeGlNelNVc1RVUmZLXzh4MGdlRFNVenVoN2xuMTAwcUVodHgycFN0YXBkdE9DZlNvTzlnWVFYQnhfb1hMY3EtRS1MZmo4cURLRTlyc1dzbnU3T3NRZlpwTTBlSXotSWwwQ0szVUJyYTF5UUdZSUNBc2xUUlV2UWlfc09SblVNY0xrbk1KTzBIRkFESTQyU05lNHFjNU4tZw?oc=5",
+      "domain": "www.harpersbazaar.mx",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "seenDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "England"
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -469,21 +455,6 @@
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
       {
-        "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -528,12 +499,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🇲🇽 HOY ES UN DÍA HISTÓRICO PARA MÉXICO 🇲🇽 Nuestra nación vuelve a ocupar un lugar privilegiado en la historia del fútbol mundial. La Selección Mexicana será la encargada de inaugurar el Mundial 2026, un torneo histórico que marcará un antes y u - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORWNJRGkwTm1wSUpDSklVeGxtR1JUZTh1blBsRjNyM1JnNHgxUnFHTkk4TE5FUGZiSXhiX0FTb1c1RDNma2c2b09yVWRsUTVZYjhmS2xiQjhwU1JReTBWY2htS0FRallaRUF2azBNQ043VlgtVEh3MnEtTkVuWHltaHpIU3J6c2JfcmE4c3lxMDBVMzgtbEdzTTRUWnVoT3otZ0ZMa1FpT3RFVm93RGlEU3BkRzR3SzdTeTBVSkRtTFI5T0gtY1ladzVnbjZrRnl4N2FvdVlQNTVrR3hFZFVlbEg0QjVsLVV6MDlnMkZOTTU4cU0?oc=5",
-        "domain": "www.facebook.com",
+        "title": "How Many Chivas Players Have Represented Mexico at FIFA World Cups? - Chivas",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHVNc1JUZlk2Z2xlQWhKRUhfU3Y2Q2sxWVdiSl9ZZTRRclloRmxDU3JuTDQ4b2o2TEJ1VXowa3BERnM5ZlJFVE1NUGhCQXZZWnl3eDl4MjhRQlN5UFB4aEE2RzlfQVU5ejZzOTZKaUsxOGpsYU42Qm1ZZ3Y0T2p1OWItME1kS0twc0diSEtLelZ2eWRGcjZqZHNxZkxSVHdYU2NtVkplTEhPQ29ncExyTFJGRHdVdw?oc=5",
+        "domain": "www.chivasdecorazon.com.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "seenDate": "Sun, 26 Jul 2026 02:13:50 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -542,12 +513,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "How Many Chivas Players Have Represented Mexico at FIFA World Cups? - Chivas",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHVNc1JUZlk2Z2xlQWhKRUhfU3Y2Q2sxWVdiSl9ZZTRRclloRmxDU3JuTDQ4b2o2TEJ1VXowa3BERnM5ZlJFVE1NUGhCQXZZWnl3eDl4MjhRQlN5UFB4aEE2RzlfQVU5ejZzOTZKaUsxOGpsYU42Qm1ZZ3Y0T2p1OWItME1kS0twc0diSEtLelZ2eWRGcjZqZHNxZkxSVHdYU2NtVkplTEhPQ29ncExyTFJGRHdVdw?oc=5",
-        "domain": "www.chivasdecorazon.com.mx",
+        "title": "México podría quedar ELIMINADO del próximo Mundial, de acuerdo con esta estadística devastadora - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlHR1BGLTZDVjZMVWh0bkVMR2hMLXZGaGw0UEtDQ281MFpRdlFQRGVSWHFlcnpfb3pvZmVfeG54WmZXSG81cG8zeGlsMHlPWjlZRVAweFpkakhEUDc3T1BBVGtlamEteTRoSjlfZEhtMFJfa1k0SVNYanpWMzdoVm50NDVidXpBcnVGVW1IbVhWdWlYLVQ5Z3NYbDNmM3pEeWJfaGZoV2dRd3p6QjY3aGNnNHhIRknSAcQBQVVfeXFMTjFUYXl5cTgzX3YwRHA0Vld1V2ZpVDdFY2VDYW55Z3gwbnJ5MEpBbkQ2SWF5V2dTOW52ajA5MHBCOERiUzA4REUyMGx2b0ljS2l3Q1BMZDFJTkZocDZOS3NKS1VaY0FGWENxQlIzZkFyVXU1VVhZdFlBZkRveDN5aFo3ZkFFS2NBNGRSREJGLW9OUW8yWlZ1a0REc09TaWdud1RfOGVhb2JYMXRUMXFVSXZfcHlPdUw4ajRad0tRR1BVYVZvRw?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 26 Jul 2026 02:13:50 GMT",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Artistas confirmados para la clausura del Mundial 2026 - Harper's Bazaar México",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclBVaGFtS0Nnd1FzSjk5WnRSQm9yYU9UVm8wUmszZDdxOTVPTjFxcEFiRF9NUENIRlN2N2p3bHFEcl9qS1gyN3gtVXlRTS02UWRZQzY1NlpCUmN4ZkJQXy05RUwwQ1ZMcnUxX0N2cXc2dDMtYVhVQ04yVENzX0NKYm9scWQyWVRJTTBCN1cwUW9GYmwwZWl3RFd1M3duT3pj0gGuAUFVX3lxTE1OMGxLSnE2OHcwSDRKNTRPeGlNelNVc1RVUmZLXzh4MGdlRFNVenVoN2xuMTAwcUVodHgycFN0YXBkdE9DZlNvTzlnWVFYQnhfb1hMY3EtRS1MZmo4cURLRTlyc1dzbnU3T3NRZlpwTTBlSXotSWwwQ0szVUJyYTF5UUdZSUNBc2xUUlV2UWlfc09SblVNY0xrbk1KTzBIRkFESTQyU05lNHFjNU4tZw?oc=5",
+        "domain": "www.harpersbazaar.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 17 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -600,14 +585,29 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
+        "title": "Michael Olise, «orgulloso» de establecer un récord en el Mundial, pero el héroe de Francia se quedó tocado tras la «enorme decepción» contra España e Inglaterra - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPd3VSNG9pc25uWU9taUhPUHhPQVZ3STV6dGROUTVIRXh6bW01TEN4SExaM0hoY2lES1NOT1VYVFhNMV9MMGJDbGZRcDlVNTFBWnU3QzltNzU3UlF0OHdmcUtRSDkyQk9vN3ItMjFLbkFzRGNvb0tmZGJqamJMZmE5c3picy02QmFNc2J1TVVOZVFFVXVtckkzQzJoX2F5eTFQTXBuTG1QRlRXR28tbGwyVlNRc1NDRldLeFZrcjhIX2pOVkhZVG4za3liR0E2bjhqMy15a183RmJ0aGtOalEzc09icmJRaTMtY2w1OTZDQlhHR2ZXaXZ1di1TQ0tfSEVSbHNkNm1Tbk1URHNRRE5heUY1Rkx4UFdnQlRYYkJnYS12bGFMZTctN2xJT3IzU2tWenlyRw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 31 Jul 2026 09:50:34 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Álvaro Fidalgo volvió al Real Betis y por fin dijo esto sobre el México vs Inglaterra - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFpBcjBXTjY5NHpLUWJldzd1UlpJWkFrMnF4bS1yM3RjaWNvNk1RNWZ5NEdKNk9JVkJCeWM3dVZvZHpCMVdGQU4xeDRuUlBBRElSY1BKOGFKZE5KbzhkZ3hnYjR2blF6LTFxU2RsN2c1NXVhMnFabmJRTEVIbWM0b29JVUQ4U2h3MkVFMFduWldtZXdrRVNsYmFTeGtzWmlhSk5uUy1zdVE1WXZ5T3RsZmd5VGjSAcIBQVVfeXFMUGFzZnRTRGVNTloyVnRrdFZuempnY0RDVlVpUTBhTVRpcVlXeGw4c0ZvZ1BBcGxOWjJDRE9BNmNkak9oMnJoT2hmRHp0eU04SkloSm9SS0VmTlVaV0c4VkZCTVlmdHl0ZTZSbjNZN3p6RDhjanNBQjd4OFB1TkdIeDJhM2tHdUxwUjhxaGZxelJleDJFUXM3aFF3R1BQZU1LeVRJajU1ZmxOLURWSTIyZ19hb0wyOGk4elVRYm55VUxwUXc?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 29 Jul 2026 15:20:20 GMT",
         "image": "",
         "matchedTeams": [
+          "Mexico",
           "England"
         ],
         "tags": [],
@@ -625,20 +625,6 @@
           "England"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -1565,14 +1551,29 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
+        "title": "Michael Olise, «orgulloso» de establecer un récord en el Mundial, pero el héroe de Francia se quedó tocado tras la «enorme decepción» contra España e Inglaterra - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPd3VSNG9pc25uWU9taUhPUHhPQVZ3STV6dGROUTVIRXh6bW01TEN4SExaM0hoY2lES1NOT1VYVFhNMV9MMGJDbGZRcDlVNTFBWnU3QzltNzU3UlF0OHdmcUtRSDkyQk9vN3ItMjFLbkFzRGNvb0tmZGJqamJMZmE5c3picy02QmFNc2J1TVVOZVFFVXVtckkzQzJoX2F5eTFQTXBuTG1QRlRXR28tbGwyVlNRc1NDRldLeFZrcjhIX2pOVkhZVG4za3liR0E2bjhqMy15a183RmJ0aGtOalEzc09icmJRaTMtY2w1OTZDQlhHR2ZXaXZ1di1TQ0tfSEVSbHNkNm1Tbk1URHNRRE5heUY1Rkx4UFdnQlRYYkJnYS12bGFMZTctN2xJT3IzU2tWenlyRw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 31 Jul 2026 09:50:34 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Álvaro Fidalgo volvió al Real Betis y por fin dijo esto sobre el México vs Inglaterra - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFpBcjBXTjY5NHpLUWJldzd1UlpJWkFrMnF4bS1yM3RjaWNvNk1RNWZ5NEdKNk9JVkJCeWM3dVZvZHpCMVdGQU4xeDRuUlBBRElSY1BKOGFKZE5KbzhkZ3hnYjR2blF6LTFxU2RsN2c1NXVhMnFabmJRTEVIbWM0b29JVUQ4U2h3MkVFMFduWldtZXdrRVNsYmFTeGtzWmlhSk5uUy1zdVE1WXZ5T3RsZmd5VGjSAcIBQVVfeXFMUGFzZnRTRGVNTloyVnRrdFZuempnY0RDVlVpUTBhTVRpcVlXeGw4c0ZvZ1BBcGxOWjJDRE9BNmNkak9oMnJoT2hmRHp0eU04SkloSm9SS0VmTlVaV0c4VkZCTVlmdHl0ZTZSbjNZN3p6RDhjanNBQjd4OFB1TkdIeDJhM2tHdUxwUjhxaGZxelJleDJFUXM3aFF3R1BQZU1LeVRJajU1ZmxOLURWSTIyZ19hb0wyOGk4elVRYm55VUxwUXc?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 29 Jul 2026 15:20:20 GMT",
         "image": "",
         "matchedTeams": [
+          "Mexico",
           "England"
         ],
         "tags": [],
@@ -1590,20 +1591,6 @@
           "England"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       }
     ],
