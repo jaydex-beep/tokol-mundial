@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-01T03:48:04.495897Z",
+    "updatedAt": "2026-08-01T08:33:40.976761Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -22,21 +22,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "¿Se va o se queda? Definido el futuro de Mauricio Pochettino con Estados Unidos - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnZPLU05N3E2cmtkbHZtNDZsX0FkZnYwWmctUEc1MUJNSHdlM1g4c1cwemhacWZPSFZMTjNJY3RNUlFWcXdVaW5XUWEtRzRiVnRaYkZsWk5IY21XckE3WDFZMERVLVF6QTdnVFlHQ0RhYWpjOVVfS3lOYTVqQVE3YjhxXzlkVG94SG83RjlUak1TOGIweHp3ckZBMnNQNThEbXZXSml0Szlkb09GWVE?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 29 Jul 2026 19:29:11 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
@@ -108,7 +94,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Spain beat France to reach 2026 FIFA World Cup final - Yahoo Sports",
+      "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
@@ -284,10 +270,24 @@
       "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Fri, 31 Jul 2026 14:48:06 GMT",
+      "seenDate": "Fri, 31 Jul 2026 15:42:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Fuentes: el carrilero del USMNT y del Columbus Crew Max Arfsten está ultimando un traspaso de 7,5 millones de dólares al Middlesbrough - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSHo5TnFnelJ3bVMxemlxUlJvcmdZaWdkMlVpckxEWUxqaUprdWUzekdwbm9qai1zS1l2NmRfYU9BVzVKbXJMZFhhOEdKX0VOT1FTLUdqSDV1ajFXVnFJekVSZmQ5LWh2Q01yb05lcFdROVN4UnNsNXdFVS10RDh5X1BrRjhSNEhGYmpJVmdQb3lPYVlsZXZSVlEwM2V2Q2ZyZWFlUUVXUDZCZlN2VW44Q1NnU3pKSUh2QWVvU2tRaWNYelQzWmdKY1ZBMEtWVU43V0xHbEVUcUl3MEhkTUVfdHJIRmhNYXhIaVVtS2t0UGNTUk4zNmpwWFljdGp6NjlNZW1YNllQT1NfeVN2dGtmWXdWMUZIbGdM?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 31 Jul 2026 14:10:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -295,20 +295,6 @@
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
@@ -368,7 +354,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -378,6 +364,18 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -398,7 +396,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Spain beat France to reach 2026 FIFA World Cup final - Yahoo Sports",
+        "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -426,20 +424,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -462,6 +446,22 @@
         "seenDate": "Thu, 23 Jul 2026 23:21:00 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [
           "sanción"
         ],
@@ -559,7 +559,7 @@
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -646,20 +646,6 @@
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -718,7 +704,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -728,6 +714,18 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -740,20 +738,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Thu, 30 Jul 2026 20:13:19 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Se va o se queda? Definido el futuro de Mauricio Pochettino con Estados Unidos - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnZPLU05N3E2cmtkbHZtNDZsX0FkZnYwWmctUEc1MUJNSHdlM1g4c1cwemhacWZPSFZMTjNJY3RNUlFWcXdVaW5XUWEtRzRiVnRaYkZsWk5IY21XckE3WDFZMERVLVF6QTdnVFlHQ0RhYWpjOVVfS3lOYTVqQVE3YjhxXzlkVG94SG83RjlUak1TOGIweHp3ckZBMnNQNThEbXZXSml0Szlkb09GWVE?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 29 Jul 2026 19:29:11 GMT",
         "image": "",
         "matchedTeams": [
           "USA"
@@ -791,20 +775,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -813,6 +783,36 @@
         "seenDate": "Thu, 30 Jul 2026 00:16:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’ - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0hVc01YbzdBTG45NEg2Rzc4OGJHYUttdWlFRGJidnlDRDgySFRJdVZkbmRXdWJfRlBiTXoyY1R2QmFSeHlFZDJSSXZpT2xRekxoNEdFWGRydXJHNnBKWFQ3VVoyMGtFT2tTQk54ZkFBS2NWYVNlUjNkaktfUGRTRm9JR0doUmhHa0Rld09xV3dVWXVybkVqclBkVXJTbFJ3UWfSAa8BQVVfeXFMTUJ2b0hjelk4UWJNN2tpOFRCWk15T09mOEpYNk84eGVtUXgzX3ZFLWtpN2JtSXNtcnZWZTUzVGxmb1MtOE9GQXhSZmJzdHJVZC0zcVpGQUdWdkhJaFZqT0lKVTZ1YUpDNnZ1R1g2UnVIa1pUekpvMlpRUTBzZm1xX2k1UDJyQWlQLXU5RFFBLS1MMHBUZTFSa0d6WmVVckYxYjRTaC1aLWlPN21xOGNBNA?oc=5",
+        "domain": "expansion.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 23 Jul 2026 23:21:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [
           "sanción"
         ],
@@ -821,20 +821,6 @@
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -893,7 +879,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -903,26 +889,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -981,7 +965,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -991,26 +975,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1069,7 +1051,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1079,26 +1061,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1157,7 +1137,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1167,26 +1147,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1245,7 +1223,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1255,26 +1233,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1333,7 +1309,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1343,26 +1319,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1421,7 +1395,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1431,26 +1405,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1509,7 +1481,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1521,11 +1493,23 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1612,20 +1596,6 @@
     ],
     "67ae5751c401a98409b8566ae4897069": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1684,7 +1654,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1694,26 +1664,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1772,7 +1740,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1782,26 +1750,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1860,7 +1826,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1870,26 +1836,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -1948,7 +1912,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1958,26 +1922,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -2036,7 +1998,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2046,26 +2008,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -2124,7 +2084,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2134,26 +2094,24 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
@@ -2212,7 +2170,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2224,23 +2182,21 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
@@ -2300,7 +2256,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2310,6 +2266,18 @@
         "matchedTeams": [
           "England"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
