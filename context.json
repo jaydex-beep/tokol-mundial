@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-04T14:37:54.657648Z",
+    "updatedAt": "2026-08-04T19:55:36.378734Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -8,7 +8,7 @@
   },
   "articles": [
     {
-      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
@@ -65,7 +65,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Spain beat France to reach 2026 FIFA World Cup final - Yahoo Sports",
+      "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
@@ -88,6 +88,21 @@
       "image": "",
       "matchedTeams": [
         "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "La selección de Estados Unidos jugará amistosos otoñales contra Perú, Chile, México y Canadá en sus primeros partidos tras su participación en el Mundial de 2026 - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPLVFHUnBkajNUS1gxVEZXeTJiV1BET3NhcHFDZ0VYbmJZd3VkTGt2cHpEb1luUjdnOFlEX2IwMXlfYVRxQ3hKVzdQZDFaVVRfOUlNbEg3R0haNExwdFhBSjJ1QVVZR3dmWjZ2WHpLQjY0MnVrX3BiUFphb0ZiMVdUU1Bpa3psTnI3REJBdDY3ejVORHQ0NXRkRm1pbWRUWjI4ejhPejVENmsycXNiMWtWU2h2bExqVy1SQlcydjMyaktEaTJpd0FscWtHY3FVckNTY0FFRGYySmozdjltN2Fna2FSYmplcVN4MUtyNTZkX19ibzc0eHBIdUpuVUhDLVFxcUFVSGZoV2tkOE1DcGdfSHpBVGNwcFZIZVFoRlVJMzQxMHEtRDVQZzkwREdUTWozNmlJMEh4VQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 04 Aug 2026 15:03:13 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -159,6 +174,21 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -237,7 +267,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Las increíbles responsabilidades que tendrá Pochettino en la selección de Estados Unidos - si.com",
+      "title": "Las increíbles responsabilidades que tendrá Pochettino en la selección de Estados Unidos - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFl6SFpIUlU2QXN1SnNGSzFiRlNFdTQyakc4aGJsNHZuN3IwQWdGOWltNjFoRHdTb3BJNy0zRGVwNUNQczVwZlpxOFpRdkh3S3ljRWNJNGFOZnNILXRRMkxVMHFKaHBnOUxwdWpGeDhTUWRlU2FzSmg3YXZlT2Izam1rY3JkLUw5UkNBNF83eHdkNTR6dU5WRndqZk9jRWVIU1pPUF8xX21wSTFmNVBfWG95VmQ2SlFlRjhXYw?oc=5",
       "domain": "www.si.com",
       "language": "Spanish",
@@ -251,7 +281,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "¿Se va o se queda? Decisión final de Estados Unidos con el futuro de Pochettino - si.com",
+      "title": "¿Se va o se queda? Decisión final de Estados Unidos con el futuro de Pochettino - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVRJVzNQYjVDZ2ktVUd6V19adEl5VmlMMkFocXBqcEhFdENkT21pSDB1N0RQbFFCQnJKTm9OcEJMT242eWQ0anloNlZTTjRZTXE4Z09GOGtxVkx3TWRGTkxXdE1WcjZLQVZfdEhTYThGMmk4M3lHNnE0Nl9hdV82WEZXWlNOVzF5MTZ3WFdiUld6NXhaSDcyTGU2c1hLc3hoMzU2Q2dfdnhEUVN1d3c?oc=5",
       "domain": "www.si.com",
       "language": "Spanish",
@@ -260,34 +290,6 @@
       "image": "",
       "matchedTeams": [
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mauricio Pochettino renovó hasta 2030 y seguirá al frente de Estados Unidos - El Litoral",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDZTYU5zTzZ4dGdOVXFsX2FJanpoaEZxc0JfaHctdV9namNwVWNqMHVSNWxUN3VZMEN4QzdUYS1IRDk1bFNYQ1Axb1hGdkN4Z0pVSEtDNnJYZkE5QWhPemFvQW1UQWptUFdGczVEWkxwU2U5WGh1LWpKeFhIVFVIaTFtMHNBOXA2Z1VBdm9oTDVLc2ZXT0xCTVNqdEwyZXNfZU1PcDFKNHMwUdIBrwFBVV95cUxOOThnY3pnVkdkRkUyRHFPNWFUam9fZlNfZktVX3gxdHg5TnptUjR2UnJfaUI3ZWxuNHk3WGdkXzlBck5WTHdaNzFjYk5xXzU4SGtjc2wzQjNXX1JHbmNaODhmeGJYM2hMT3FyV3NoSFBKTUhoZ2FDVlRHcmtCSVJLSlBpcTFqU3J2MDlVamxsRG9vUnpsbVJmS2xSMl9jdEg2LUJIeDVJbHctX0RQbzh3?oc=5",
-      "domain": "www.ellitoral.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 03 Aug 2026 16:44:42 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "How Many Chivas Players Have Represented Mexico at FIFA World Cups? - Chivas",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHVNc1JUZlk2Z2xlQWhKRUhfU3Y2Q2sxWVdiSl9ZZTRRclloRmxDU3JuTDQ4b2o2TEJ1VXowa3BERnM5ZlJFVE1NUGhCQXZZWnl3eDl4MjhRQlN5UFB4aEE2RzlfQVU5ejZzOTZKaUsxOGpsYU42Qm1ZZ3Y0T2p1OWItME1kS0twc0diSEtLelZ2eWRGcjZqZHNxZkxSVHdYU2NtVkplTEhPQ29ncExyTFJGRHdVdw?oc=5",
-      "domain": "www.chivasdecorazon.com.mx",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 01 Jun 2026 22:29:15 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -310,7 +312,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -340,7 +342,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -382,7 +384,7 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "Spain beat France to reach 2026 FIFA World Cup final - Yahoo Sports",
+        "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -410,6 +412,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "¿Peligra el Mundial 2030? Cuál podría ser la sanción de FIFA para Argentina - TV Azteca",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVRfQTlXV0p5NDJ5OVdYWUNfV2tZUWk0VFNlM0h2U1AzVWREaXEyNGdtMzhXTGxUd2x1WmhiQzl1RHFKaEM4amNhSGtKbC1sZnU3ZGdLY1FwdThFQnczRlRRREwyU0xYRGhMRUlSSEJqcENNRDNnNDJsY2ptblFqVDE3dzNvM0huYUN6SXRnRUswbk4yRzA40gGkAUFVX3lxTFByM3VCS0szR09vWmY2dVJadzQ3dEJlUVQ4cTVrN3kxaWViV1pCbmhJQS1aTFI4M2JHaEI4Vk5CX2piOTlQM2xCa2VNUlpHZmpUUUYxYVE0TGxDd2oyMVVPaGtURkVFY1RScjlPUUpmNjh1MEVpMjNfdWRtN2tXN0NhOVNQekh2dktacHBqOFlkbVRxTkw1QWIwM2xhYldRa2lULTFh?oc=5",
         "domain": "www.tvazteca.com",
@@ -424,7 +441,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -451,20 +468,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 29 Jul 2026 18:11:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -561,7 +564,7 @@
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -569,6 +572,21 @@
         "seenDate": "Wed, 29 Jul 2026 18:11:14 GMT",
         "image": "",
         "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
           "England"
         ],
         "tags": [],
@@ -629,23 +647,24 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 30 Jul 2026 00:16:14 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2xaN1VEclVMSlhWVHhSaml2SHBRNDljaHFKcWhiSWswdE9WZWJvYWxHU0FkQUhTNlAyOXlMUWNKd1JaMndlYnRZWDI1OHhUaEVneDNCUVlVZ0tVWmx3Vjh1SE9NTzdBeVdzVTBVcXh5WmUzNzJmWjctejJjQTZONFpUcVZjSUlLN1lqTFlMZVZfTUxTRGZzcERtSzJ2c3NNV3M5azJ4eGFpQ0daYjNhR2llaXBlc3RMRmMtaWM2NThEdVhmQXdBOUFB?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 17:11:08 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "¿Peligra el Mundial 2030? Cuál podría ser la sanción de FIFA para Argentina - TV Azteca",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVRfQTlXV0p5NDJ5OVdYWUNfV2tZUWk0VFNlM0h2U1AzVWREaXEyNGdtMzhXTGxUd2x1WmhiQzl1RHFKaEM4amNhSGtKbC1sZnU3ZGdLY1FwdThFQnczRlRRREwyU0xYRGhMRUlSSEJqcENNRDNnNDJsY2ptblFqVDE3dzNvM0huYUN6SXRnRUswbk4yRzA40gGkAUFVX3lxTFByM3VCS0szR09vWmY2dVJadzQ3dEJlUVQ4cTVrN3kxaWViV1pCbmhJQS1aTFI4M2JHaEI4Vk5CX2piOTlQM2xCa2VNUlpHZmpUUUYxYVE0TGxDd2oyMVVPaGtURkVFY1RScjlPUUpmNjh1MEVpMjNfdWRtN2tXN0NhOVNQekh2dktacHBqOFlkbVRxTkw1QWIwM2xhYldRa2lULTFh?oc=5",
@@ -661,7 +680,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -691,7 +710,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -715,23 +734,24 @@
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
-        "domain": "es.tradingview.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
+      {
+        "title": "La selección de Estados Unidos jugará amistosos otoñales contra Perú, Chile, México y Canadá en sus primeros partidos tras su participación en el Mundial de 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPLVFHUnBkajNUS1gxVEZXeTJiV1BET3NhcHFDZ0VYbmJZd3VkTGt2cHpEb1luUjdnOFlEX2IwMXlfYVRxQ3hKVzdQZDFaVVRfOUlNbEg3R0haNExwdFhBSjJ1QVVZR3dmWjZ2WHpLQjY0MnVrX3BiUFphb0ZiMVdUU1Bpa3psTnI3REJBdDY3ejVORHQ0NXRkRm1pbWRUWjI4ejhPejVENmsycXNiMWtWU2h2bExqVy1SQlcydjMyaktEaTJpd0FscWtHY3FVckNTY0FFRGYySmozdjltN2Fna2FSYmplcVN4MUtyNTZkX19ibzc0eHBIdUpuVUhDLVFxcUFVSGZoV2tkOE1DcGdfSHpBVGNwcFZIZVFoRlVJMzQxMHEtRDVQZzkwREdUTWozNmlJMEh4VQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 04 Aug 2026 15:03:13 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Ancelotti, en una confesión sorprendente: nos despedimos del Mundial por una pausa de hidratación - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFZXSjFJVXZSY00zSldPZWxyYkUwS2RLVDJLdC1KUWEwQ21OMVRiT2Y4Y1IxR3RRTFFkMGFJdjNxZUdQTWRWZ1F4djdMdTYyT180U3VjYUdQWDc4ZkpLb2ZXVjBPSzdZM2tXTVFPYVRONmRibTFRNi0wT0VqUG41MWJBRU1jYkZWWkE2V3FNZTRlckxpaGVSVnFZTGFXQVpZRGZaT1p2dGZQNUNDdlFSaTB0WVR1dUdmc1JoSnlHbHgzUWRKMXBzM3ZsVHFTQ3ZqZGZqN0NZWHFlZ25tSWN2UVd3?oc=5",
@@ -747,7 +767,22 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las increíbles responsabilidades que tendrá Pochettino en la selección de Estados Unidos - si.com",
+        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2xaN1VEclVMSlhWVHhSaml2SHBRNDljaHFKcWhiSWswdE9WZWJvYWxHU0FkQUhTNlAyOXlMUWNKd1JaMndlYnRZWDI1OHhUaEVneDNCUVlVZ0tVWmx3Vjh1SE9NTzdBeVdzVTBVcXh5WmUzNzJmWjctejJjQTZONFpUcVZjSUlLN1lqTFlMZVZfTUxTRGZzcERtSzJ2c3NNV3M5azJ4eGFpQ0daYjNhR2llaXBlc3RMRmMtaWM2NThEdVhmQXdBOUFB?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 17:11:08 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Las increíbles responsabilidades que tendrá Pochettino en la selección de Estados Unidos - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFl6SFpIUlU2QXN1SnNGSzFiRlNFdTQyakc4aGJsNHZuN3IwQWdGOWltNjFoRHdTb3BJNy0zRGVwNUNQczVwZlpxOFpRdkh3S3ljRWNJNGFOZnNILXRRMkxVMHFKaHBnOUxwdWpGeDhTUWRlU2FzSmg3YXZlT2Izam1rY3JkLUw5UkNBNF83eHdkNTR6dU5WRndqZk9jRWVIU1pPUF8xX21wSTFmNVBfWG95VmQ2SlFlRjhXYw?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -761,7 +796,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Se va o se queda? Decisión final de Estados Unidos con el futuro de Pochettino - si.com",
+        "title": "¿Se va o se queda? Decisión final de Estados Unidos con el futuro de Pochettino - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVRJVzNQYjVDZ2ktVUd6V19adEl5VmlMMkFocXBqcEhFdENkT21pSDB1N0RQbFFCQnJKTm9OcEJMT242eWQ0anloNlZTTjRZTXE4Z09GOGtxVkx3TWRGTkxXdE1WcjZLQVZfdEhTYThGMmk4M3lHNnE0Nl9hdV82WEZXWlNOVzF5MTZ3WFdiUld6NXhaSDcyTGU2c1hLc3hoMzU2Q2dfdnhEUVN1d3c?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -787,35 +822,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México mantendrá sus juegos como local en Estados Unidos - si.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUlc1VWV2YnMzVFZ0WGtUeERpUFE0dWJPOTRXRXdWMnJQZlBnUnNJaE5HM1RKWUg4TjhJeVExSmZxelVIZ1d2T0U0clVsWlBoZWlXQ0NXS1k0dWx4RzVwc2hKV0FNQ3V2dExsOXpuRnZjeDBpTWgxcm96SXBabTl6MGkxbTltcFFMMTlNS3lnclJmQQ?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 31 Jul 2026 19:11:45 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Peligra el Mundial 2030? Cuál podría ser la sanción de FIFA para Argentina - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVRfQTlXV0p5NDJ5OVdYWUNfV2tZUWk0VFNlM0h2U1AzVWREaXEyNGdtMzhXTGxUd2x1WmhiQzl1RHFKaEM4amNhSGtKbC1sZnU3ZGdLY1FwdThFQnczRlRRREwyU0xYRGhMRUlSSEJqcENNRDNnNDJsY2ptblFqVDE3dzNvM0huYUN6SXRnRUswbk4yRzA40gGkAUFVX3lxTFByM3VCS0szR09vWmY2dVJadzQ3dEJlUVQ4cTVrN3kxaWViV1pCbmhJQS1aTFI4M2JHaEI4Vk5CX2piOTlQM2xCa2VNUlpHZmpUUUYxYVE0TGxDd2oyMVVPaGtURkVFY1RScjlPUUpmNjh1MEVpMjNfdWRtN2tXN0NhOVNQekh2dktacHBqOFlkbVRxTkw1QWIwM2xhYldRa2lULTFh?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 29 Jul 2026 20:01:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
@@ -834,7 +840,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -864,7 +870,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -920,7 +926,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -950,7 +956,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1006,7 +1012,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1036,7 +1042,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1092,7 +1098,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1122,7 +1128,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1178,7 +1184,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1208,7 +1214,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1264,7 +1270,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1294,7 +1300,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1350,7 +1356,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1380,7 +1386,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1436,7 +1442,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1466,7 +1472,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1508,7 +1514,7 @@
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1516,6 +1522,21 @@
         "seenDate": "Wed, 29 Jul 2026 18:11:14 GMT",
         "image": "",
         "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
           "England"
         ],
         "tags": [],
@@ -1576,20 +1597,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 30 Jul 2026 00:16:14 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
@@ -1608,7 +1615,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1638,7 +1645,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1694,7 +1701,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1724,7 +1731,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1780,7 +1787,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1810,7 +1817,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1866,7 +1873,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1896,7 +1903,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1952,7 +1959,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1982,7 +1989,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2038,7 +2045,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -2068,7 +2075,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2124,7 +2131,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -2154,7 +2161,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2210,7 +2217,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA alista sanciones en contra de la selección de Argentina - si.com",
+        "title": "FIFA alista sanciones en contra de la selección de Argentina - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxLdWlOczZnZEpReEx2UXpsRXRxWjA3M214bDFrRml2ZFVUQjJWX1VJVXhWblZiNmxESkpHYWlENFpoeVhzQ3RlQXNmdDAza1BaWkYxOHhycVlZMWRNbF9YaFI0VEh1Z2M1VXNIcEFsMTJmS1lWYjNfbGg1a2hKTkplUGZrSlJQMmk0ajdKZUxRWUtfMlNj?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -2240,7 +2247,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
