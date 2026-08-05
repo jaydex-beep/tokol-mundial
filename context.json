@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-05T08:51:49.464427Z",
+    "updatedAt": "2026-08-05T14:31:40.238518Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -8,7 +8,7 @@
   },
   "articles": [
     {
-      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
@@ -31,6 +31,34 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
+      "domain": "elheraldodesaltillo.mx",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+      "domain": "elheraldodesaltillo.mx",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -79,7 +107,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
+      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
       "domain": "www.telemundo.com",
       "language": "Spanish",
@@ -108,7 +136,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
+      "title": "Spain beat France to reach 2026 FIFA World Cup final - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
@@ -131,6 +159,20 @@
       "image": "",
       "matchedTeams": [
         "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Max Arfsten, carrilero de la selección de Estados Unidos y del Columbus Crew, cierra su traspaso al Middlesbrough por 7,5 millones de dólares - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZTZqVnhzT21vOG9nU0EwMjdtY1JpaF9OWWdNNFdOMDF3TWtPX0w5SGhWWEpMV09aVVVsNnFxVXIyRmhrUnlWYVBlTmEySXRyNFJpZks5S1J2aC1aWDh5UWZZdnhEa2RneGlCYTh1LXRnOFFKakU4ZmdwLTVYUzhzdlVyLVpzdEVhZkxxVlJlampITFpONWh5RmZ1ODJKQjVPSmVKM1AwMWs2NzcxOWo4ZHg5SnF6Y2dHTkNMWXFtcDJ1S05vTTJJMHdVb0tJd3J5N3FjaEFsemwzaXJCSkhaSnFWYUtaTWhWLTFRRHV6dXhGa0Nzd000bkFNbFRJVGw5Z3VYX0c2M0E2N25BcElkMzNXMGx6Wk9SSjhQTlowLV8?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 04 Aug 2026 21:59:58 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -179,20 +221,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Ancelotti, en una confesión sorprendente: nos despedimos del Mundial por una pausa de hidratación - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHplLUlZTDRQVi0yN0NjUjN4Q2FKXzBuWXRpLXQ2Vko3OU5tZ3Nla3B0OGdUOTh6VThWQXU4UzBTOXp3Q0R5MUxzVHBWMDhMWGlkNWhpVTh0V2pxbkFpM0NMQzRIdWRxNVhnanRGMk4wNWwzTGdXV3ZNNzYzaHJZM2FMOXdrMU9iWHgtZmNPUmcwSS1Ub1lQejFScTJRZ200UVd5T0F6NTBLVmo2bVhJOEdNYk9lZ0lna1ZwQmh1c0NOcENXSE5KTnBKNjRmaGZPNGZuY3BPU0lTd2JqUjZtUjlZTWY4UQ?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 30 Jul 2026 20:13:17 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkJwTWgzQ1R2T1pIU2JUaDR1QW5CQjRmdER6UEpHSjFRalVoQnloRDA5ZEF4VUdabFRPbFpnLVFsc294OFltWk1BZF9DdHdUQzVzOW9JZGZRT25DM0pFS3h5Uk9neGR0aFpQNmF4VTdxOUpsaEdNczRUQmtlYzkybGZYX2dTclhGU2RybUxYQnVSdG56UjZUcEVmUHo2eHdxZlNuNU5oVFQtb1BOaENxb0MyT25UWUx3UWR0TDR4bndMd9IB3AFBVV95cUxNMnZmSkRkVk9OeE40SUNBN195cm04NnZET2N2VG9WeGpmaXBvb19YVUxsOTA2VFhzMnFBbGpNejBLcHJTVDI5MGc4TDJTemVsUlNwRVJnNFhGVER3V0wwbGM2a0N4UExnTXhDU3FPcHlUZld3SllvekFuU2RpWHo2RF9NNmRKY212ZjIxVl93ZlBGMVJ5ZEphdll4aWRKWmpZWTJUaWZJXy1TZFpfMkZCYUtuYlhFY3RCaUI3dWx4YlFrX3E0X2lac25HOXMxVjdmTnJWWWtwd1NtX0NI?oc=5",
       "domain": "www.infobae.com",
@@ -213,6 +241,20 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Sam’s Club remata Smartphone Motorola Edge 70 fusion de 256 GB: edición FIFA World Cup 2026 - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRVI2QmpFTFp1ZDl3QXllM3Ixd2RNLTBua0FMOFd4ZGVza0ZNQmdxNTZYUUx2TjgxTkV4cHA4NEgwbjROS2JRRmRHMll5enBXT09MdzRsbmNMZWhLM3dicnJZS0xVYzhrbXlNdXJRTFFFVXJWcjBpVXhDZEpWU21vSmZRcUF3MVdwNV9FaXhRdHhhbWFVOUZpdDRSRFFHaWVHSDg3dTgxMVpFdFpSaTdOeERzV1FFQzMtaFpJeW9ldnFobEY0ZWR2bWxDdktxVnJZdlBWZDhSQ3FwZTdXWlVtaFQtX1g5Zw?oc=5",
+      "domain": "heraldodemexico.com.mx",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -247,48 +289,6 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Rival HOY de México: ¿Contra quién jugaría los 16vos de Final del Mundial 2026 si terminara la Fase de Grupos? - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelhmWEU3bllfSlFFT2JvSWFMeGRpdDB2Qkh6Y3ptNDhYVk5hOVp1azRiOGhnSF9LWm5xNF9JNE1reVRRNnZMeGt1bW53VGY3MTk5SURpdXJsUnJsR1R0eE9ReG1oVnJ3eGdrRkVwdS1kUUp2QnA4aVRJTmVlT0d2MXg0QTk5NDByc3dSdlhHdmR2aVAxS01xNHRsbmVTdUQ0ZndsVUVnUGpjS0lZNklucXNpMFV6YkNsQUYzRG9n0gHLAUFVX3lxTFB4UFF4aHBLY0FmS0xHVzFCODNhelBYZ2JPbHZEaTZCUGFsQ21vQlBQaGctd09SS1hfLTlDc2xnYXFkbFN2dURMOTJWb0U2Ymp4N3JmX04xdW9MdHN3Q1JHc1ByVWY3eExPUmMwSmUydDg2VzI3d1NwSlNVMUhVTTZFZVoxR2Q2a0JLWTNIMVBETHQ0MmEteVNrQ0tMWWFJN0d1VXUxelotNTY2YjVvQUlTTU5MT1R1UGtwa1JjVVpnSjRKaG12LVV0a1NZ?oc=5",
-      "domain": "www.tvazteca.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "England Vs Winner Quarter Final 4 | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVEpZNjF1aFlSVVBfbUF5SkhLX2lMcG16Vm9fRnpFZG9Nc2xxVjRoR0JRMmQySGdabTM5Ym9EVXFjaldBTnZ1LWVxcjhZdlIxLXBnelYzZ2ExVUd4MzVmSm9xQjJ3QjRza2NKZ0w5cFpiTjBRLXhvaDJPOWpnZkxpQTNLVndsekNZMUZBU1BXeDQxQ05MbzFDWVFqenY2endrdVBNM2lHa3RIaVkwYUtBMWVXZkhJdlJrNmNfRDlEM3BScldJeWt6elB1ZDBTMWIwUlI2cVln?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 20 Jul 2026 13:22:47 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "⚽ Mundial 2026: ¿Dónde ver TODOS los partidos en México? ⬇️ - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjFzVk02LW1veDU4YXpLcVV3VnFJQ0JFUUd4SFdkLUw4Z05id2FNN3BiWWNqV2UwNURBeUxEbUFKbFdHaVlaRk1LTVhfY3VxOXdhbXhwLXh3VHNLbkhlb2c5N25lenktRTB0X3kyWlpEWnNFSzVGTVpnV1lxT2xHZGJJcHRUM0dmaXg2dkd5ZGlHWUN2VUEzUzhiYUNzclUyZkZHTXpwVkdNYWxoWEd0a2NYNGp2bTJrb3pxNEtjUWZjclhXdERZLXpfcEJXRWZH?oc=5",
-      "domain": "www.facebook.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -327,7 +327,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -353,6 +353,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -365,23 +377,11 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
+        "title": "Spain beat France to reach 2026 FIFA World Cup final - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -439,7 +439,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -497,7 +497,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
+        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
         "domain": "www.telemundo.com",
         "language": "Spanish",
@@ -558,12 +558,40 @@
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 29 Jul 2026 18:11:14 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -611,36 +639,6 @@
           "England"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -691,7 +689,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -717,16 +715,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
-        "domain": "es.tradingview.com",
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -762,20 +758,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ancelotti, en una confesión sorprendente: nos despedimos del Mundial por una pausa de hidratación - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHplLUlZTDRQVi0yN0NjUjN4Q2FKXzBuWXRpLXQ2Vko3OU5tZ3Nla3B0OGdUOTh6VThWQXU4UzBTOXp3Q0R5MUxzVHBWMDhMWGlkNWhpVTh0V2pxbkFpM0NMQzRIdWRxNVhnanRGMk4wNWwzTGdXV3ZNNzYzaHJZM2FMOXdrMU9iWHgtZmNPUmcwSS1Ub1lQejFScTJRZ200UVd5T0F6NTBLVmo2bVhJOEdNYk9lZ0lna1ZwQmh1c0NOcENXSE5KTnBKNjRmaGZPNGZuY3BPU0lTd2JqUjZtUjlZTWY4UQ?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 30 Jul 2026 20:13:17 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2xaN1VEclVMSlhWVHhSaml2SHBRNDljaHFKcWhiSWswdE9WZWJvYWxHU0FkQUhTNlAyOXlMUWNKd1JaMndlYnRZWDI1OHhUaEVneDNCUVlVZ0tVWmx3Vjh1SE9NTzdBeVdzVTBVcXh5WmUzNzJmWjctejJjQTZONFpUcVZjSUlLN1lqTFlMZVZfTUxTRGZzcERtSzJ2c3NNV3M5azJ4eGFpQ0daYjNhR2llaXBlc3RMRmMtaWM2NThEdVhmQXdBOUFB?oc=5",
         "domain": "es.concacaf.com",
@@ -791,7 +773,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Las increíbles responsabilidades que tendrá Pochettino en la selección de Estados Unidos - si.com",
+        "title": "Max Arfsten, carrilero de la selección de Estados Unidos y del Columbus Crew, cierra su traspaso al Middlesbrough por 7,5 millones de dólares - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZTZqVnhzT21vOG9nU0EwMjdtY1JpaF9OWWdNNFdOMDF3TWtPX0w5SGhWWEpMV09aVVVsNnFxVXIyRmhrUnlWYVBlTmEySXRyNFJpZks5S1J2aC1aWDh5UWZZdnhEa2RneGlCYTh1LXRnOFFKakU4ZmdwLTVYUzhzdlVyLVpzdEVhZkxxVlJlampITFpONWh5RmZ1ODJKQjVPSmVKM1AwMWs2NzcxOWo4ZHg5SnF6Y2dHTkNMWXFtcDJ1S05vTTJJMHdVb0tJd3J5N3FjaEFsemwzaXJCSkhaSnFWYUtaTWhWLTFRRHV6dXhGa0Nzd000bkFNbFRJVGw5Z3VYX0c2M0E2N25BcElkMzNXMGx6Wk9SSjhQTlowLV8?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 04 Aug 2026 21:59:58 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Las increíbles responsabilidades que tendrá Pochettino en la selección de Estados Unidos - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFl6SFpIUlU2QXN1SnNGSzFiRlNFdTQyakc4aGJsNHZuN3IwQWdGOWltNjFoRHdTb3BJNy0zRGVwNUNQczVwZlpxOFpRdkh3S3ljRWNJNGFOZnNILXRRMkxVMHFKaHBnOUxwdWpGeDhTUWRlU2FzSmg3YXZlT2Izam1rY3JkLUw5UkNBNF83eHdkNTR6dU5WRndqZk9jRWVIU1pPUF8xX21wSTFmNVBfWG95VmQ2SlFlRjhXYw?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -805,7 +801,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Se va o se queda? Decisión final de Estados Unidos con el futuro de Pochettino - si.com",
+        "title": "¿Se va o se queda? Decisión final de Estados Unidos con el futuro de Pochettino - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVRJVzNQYjVDZ2ktVUd6V19adEl5VmlMMkFocXBqcEhFdENkT21pSDB1N0RQbFFCQnJKTm9OcEJMT242eWQ0anloNlZTTjRZTXE4Z09GOGtxVkx3TWRGTkxXdE1WcjZLQVZfdEhTYThGMmk4M3lHNnE0Nl9hdV82WEZXWlNOVzF5MTZ3WFdiUld6NXhaSDcyTGU2c1hLc3hoMzU2Q2dfdnhEUVN1d3c?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -851,7 +847,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -877,6 +873,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -887,18 +895,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -935,7 +931,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -961,6 +957,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -971,18 +979,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1019,7 +1015,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1045,6 +1041,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1055,18 +1063,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1103,7 +1099,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1129,6 +1125,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1139,18 +1147,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1187,7 +1183,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1213,6 +1209,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1223,18 +1231,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1271,7 +1267,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1297,6 +1293,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1307,18 +1315,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1355,7 +1351,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1381,6 +1377,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1391,18 +1399,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1439,7 +1435,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1465,6 +1461,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1477,28 +1485,44 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 29 Jul 2026 18:11:14 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1547,36 +1571,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
@@ -1611,7 +1605,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1637,6 +1631,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1647,18 +1653,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1695,7 +1689,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1721,6 +1715,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1731,18 +1737,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1779,7 +1773,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1805,6 +1799,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1815,18 +1821,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1863,7 +1857,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1889,6 +1883,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1899,18 +1905,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1947,7 +1941,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1973,6 +1967,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -1983,18 +1989,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2031,7 +2025,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2057,6 +2051,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -2067,18 +2073,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2115,7 +2109,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2141,6 +2135,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -2151,18 +2157,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2199,7 +2193,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2225,6 +2219,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -2235,18 +2241,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Argentina face punishment for ‘direct flouting’ of FIFA rules during World Cup semi-final celebration - sports.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNwRVRuamhBalRRcXNaSDEzUDJPcmNqOG5UOXpNbTJtQ1ljTDhvbjJ4YzV5TVNxN0NVZHFOSkNqWXJxWFFlY2hIeFhDVFQ1MW5uQnJNVURNeFpoV1JCQXY2ZEZfQkpiZmdkRGxSbHlCMC1NWm9fcXpLTXEwUmNCMjY1Tm9FWUxmZUpqUkJ6ZmkyVHpk?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
