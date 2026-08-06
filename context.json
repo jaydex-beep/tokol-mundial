@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-05T19:53:23.245953Z",
+    "updatedAt": "2026-08-06T03:34:22.069164Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -8,7 +8,7 @@
   },
   "articles": [
     {
-      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+      "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
@@ -17,6 +17,20 @@
       "image": "",
       "matchedTeams": [
         "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+      "domain": "elheraldodesaltillo.mx",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -37,7 +51,7 @@
     },
     {
       "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
       "domain": "elheraldodesaltillo.mx",
       "language": "Spanish",
       "sourceCountry": "",
@@ -50,21 +64,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Así fue el FIFA World Cup Countdown Concert, transmitido de forma simultánea desde CDMX, Toronto y Los Ángeles - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZkxkMjRLb0pmcDBKVmROYVBVcHV0UmVFbVlRaGUxQi1HS3RlUWxoRFZCMzJVMXJuU1pQbTY4RVZSd0UzSm1PWFBvQ25sRDlTTXJPVm9aQlpud3RoajBmbVZ1cmZGYUFLUUhQOFdUZk1TMnFCWTRhN0ZLNDBfT1J1X2ktSERIWkFoUmc0UjVObENic2hsWHd3c2FHWjNhMzVmYUxqalRhR2xrNlZYQllSSThUNjM5RlZ0ZlpPM21MMl9BTGZpNXo0VXNINUdaU29wQ28zeVRRWXRHQUNadFJqSUQxMDJNUTFEVVBmNmtR?oc=5",
-      "domain": "oem.com.mx",
+      "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+      "domain": "elheraldodesaltillo.mx",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico"
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - tvazteca.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
       "domain": "www.tvazteca.com",
       "language": "Spanish",
@@ -73,6 +87,48 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 2026 – Round of 16 – Paraguay vs France - El Heraldo de Saltillo",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjFhUld6RjRDcTFoVHdyM09PR2JfYW1oaHlaMzQ4VmxUX1RmTHp2dkgzLXB4d0ZSc2xfbHJ5TjNRLXllWFUxM29uTkJiWldoeVhXM1NKbi1ueWVFSlJoTGIxV3g4TUtHWE9XS1JnZVV1WDJ6OVZYeV9YVG5ZY2lHOUNHSG9HOE9aRTlmZGQ0OUVYM2VmYmF6RHdtS1RvVzY2aHA0dEZSNzZaTXlYa0RtMUdoTFZublRqbmRPRjR5cDVOWjZ1VU51QWpoOWtfWHlqcGlHZUU0X2ZpcG1SSnJ0bW5jY2pGbTB4b3c?oc=5",
+      "domain": "elheraldodesaltillo.mx",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 05 Aug 2026 06:20:21 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Max Arfsten, carrilero de la selección de Estados Unidos y del Columbus Crew, cierra su traspaso al Middlesbrough por 7,5 millones de dólares - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZTZqVnhzT21vOG9nU0EwMjdtY1JpaF9OWWdNNFdOMDF3TWtPX0w5SGhWWEpMV09aVVVsNnFxVXIyRmhrUnlWYVBlTmEySXRyNFJpZks5S1J2aC1aWDh5UWZZdnhEa2RneGlCYTh1LXRnOFFKakU4ZmdwLTVYUzhzdlVyLVpzdEVhZkxxVlJlampITFpONWh5RmZ1ODJKQjVPSmVKM1AwMWs2NzcxOWo4ZHg5SnF6Y2dHTkNMWXFtcDJ1S05vTTJJMHdVb0tJd3J5N3FjaEFsemwzaXJCSkhaSnFWYUtaTWhWLTFRRHV6dXhGa0Nzd000bkFNbFRJVGw5Z3VYX0c2M0E2N25BcElkMzNXMGx6Wk9SSjhQTlowLV8?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 05 Aug 2026 03:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -122,29 +178,15 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Thomas Tuchel pasó por alto un importante detalle de Argentina previo a las Semifinales contra Inglaterra: “No - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDAtWEIxeWRzajh2M2NfcUJzUWd1TGdMNFFjU2pmaF84V0dlNFB4SE4yU3BJdV9mdDFPUzBCWUliUEUwemhhUzBUSE1zeWF6MEJYSldtSVZENDhwcVVpLTRzOC1NUDBjUVJXX0RIaHVYQlU3ODZEUFAzS2UxYzBtN18ta0wxVHc3Tnl5dXRMekhxMy1nQ1pzZkRMUGFIMWdRUmFzdVlRNVVQVWFMRTNxd1Vsc9IBwAFBVV95cUxPWmpDek1KVXpONnJYY290MTl4ZG9qSlA1Nk45c3JubjB6bXFPbmcyVzFMSHItZHlOallrRG1XM0NBOUdCUEtWWjBqRVZ0Um01c3RraVdGWHRxOGxRT2tfQVRkdHlwT1FTcWFITUZhanNJdXZpLWxjUzdLSzhtU3l2RXl5ckFDTElNcWpqLWFiRTNSOEk4Q0dZUTkyOVA5dUJ3S2F1U2JrWklJQmFwdERpWUFrTVh2bzlRdGg3d2gtX1U?oc=5",
-      "domain": "www.tvazteca.com",
+      "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Max Arfsten, carrilero de la selección de Estados Unidos y del Columbus Crew, cierra su traspaso al Middlesbrough por 7,5 millones de dólares - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZTZqVnhzT21vOG9nU0EwMjdtY1JpaF9OWWdNNFdOMDF3TWtPX0w5SGhWWEpMV09aVVVsNnFxVXIyRmhrUnlWYVBlTmEySXRyNFJpZks5S1J2aC1aWDh5UWZZdnhEa2RneGlCYTh1LXRnOFFKakU4ZmdwLTVYUzhzdlVyLVpzdEVhZkxxVlJlampITFpONWh5RmZ1ODJKQjVPSmVKM1AwMWs2NzcxOWo4ZHg5SnF6Y2dHTkNMWXFtcDJ1S05vTTJJMHdVb0tJd3J5N3FjaEFsemwzaXJCSkhaSnFWYUtaTWhWLTFRRHV6dXhGa0Nzd000bkFNbFRJVGw5Z3VYX0c2M0E2N25BcElkMzNXMGx6Wk9SSjhQTlowLV8?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 04 Aug 2026 21:59:58 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
+        "France"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -193,12 +235,26 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - Infobae",
+      "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - infobae.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkJwTWgzQ1R2T1pIU2JUaDR1QW5CQjRmdER6UEpHSjFRalVoQnloRDA5ZEF4VUdabFRPbFpnLVFsc294OFltWk1BZF9DdHdUQzVzOW9JZGZRT25DM0pFS3h5Uk9neGR0aFpQNmF4VTdxOUpsaEdNczRUQmtlYzkybGZYX2dTclhGU2RybUxYQnVSdG56UjZUcEVmUHo2eHdxZlNuNU5oVFQtb1BOaENxb0MyT25UWUx3UWR0TDR4bndMd9IB3AFBVV95cUxNMnZmSkRkVk9OeE40SUNBN195cm04NnZET2N2VG9WeGpmaXBvb19YVUxsOTA2VFhzMnFBbGpNejBLcHJTVDI5MGc4TDJTemVsUlNwRVJnNFhGVER3V0wwbGM2a0N4UExnTXhDU3FPcHlUZld3SllvekFuU2RpWHo2RF9NNmRKY212ZjIxVl93ZlBGMVJ5ZEphdll4aWRKWmpZWTJUaWZJXy1TZFpfMkZCYUtuYlhFY3RCaUI3dWx4YlFrX3E0X2lac25HOXMxVjdmTnJWWWtwd1NtX0NI?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Andrea Bocelli, Los Ángeles Azules, Belinda y Elena Rose deslumbran en México en Cuenta Regresiva de la FIFA - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3k2amxrRGQ5bHJwVGROWnhMTUVNelBGNDAwZVFZRGllTW5nZzhpSWVjX29DYkpqaWJrUVl3V1ZldFdxanJqendRQVloNGc2ZEFEWDBqOXNjal8yQmpJQ0FMTllrcV9DNUY5N00zeVN6bHQzOHloVkhjdElSMjREc0RZbDZHMTViUDRSS1FScmFQajlNZkNNY01DdnZwR0FKbzlCRG9qSQ?oc=5",
+      "domain": "www.billboard.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 11 Jun 2026 15:12:52 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -221,77 +277,17 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "Mexico City's AICM resumes renovation works after the World Cup - Aviacionline",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOVJuNkYwMEE3bVMzVWRCbk1HZUFSd0pISHVrRkVhTkJpa3lGamNmdnQ3QjFYYkd5b19lRmVHZk5fUW10R3FIeVVRdmNzczBOb0JhU2xWYi1JU3J1UEFYeExLTW5oeXBBYlhQbHBJWVd2X0VoNjNyRThfbDBuM1BZRFR0U3U4NHRYeFRHQ2dnTkJGcFd4cE90MXhDSEVSbGNWWjVEckdlNUExbkhIUFZqSHVrRE85V2JTQXVaTjNpUnVVaUJtRE1kNlJaME84Tk92NU53MUVBSmtOS3RXTXpteGZfYTgwZ2p0Z0V6OW93UFl5TnJJdG00TXA1TnlNdw?oc=5",
+      "domain": "www.aviacionline.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Horario en USA de la ceremonia de clausura del Mundial en el MetLife Stadium: dónde ver, duración y artistas - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYm9ZOGUycmJQUzZpclhGRHhqWlNXVTBYMHo1U3FYalpxMTc3b2hTUUg1WWswYWczLWhaMUdaN0MxZ2xqRzQzVUY4QkpXbVZCM19XT0ZuaUV6SDVFY2dTUTRwODlWdDVEZGx6M3c5MnJJZTlGNnhzS29pSGZXQWc5a3NFV3JTTHE3VnV3ZzlreUxsTXpSZXBFLURTZFNtWlBMSzdobjVNZkw0ZGxpc1hBYjZUY29mS0kzWEpTbk5YZ0hLRWoxSllZbElCZ04zYklDVHNSUjRyeWpwUldWTk5F0gHzAUFVX3lxTE9lOVdNdnhFMXE2R1c1VXRrV0Q1bEtaZEhaV1lhV0d1aktfb2g0UjFrRWNhemtZOEgxUk9lUWptTVhSWG9iOURzMkIzXy15QTk3YmFtQzdnNTJkal82cGpDekZOalJYRTNWbVI3aXJFbVJfR2dHeDhZNVprb0loX2NDOXhnVzdvR3JPMV9TOVlNVmJ2NkU5clE5TTlKX184OWV5M2JBTXFmNTVsNkdTTG51UjItcFI2NHNKeVhqRmRoTkNGUWVSWkNfeU5SSWQ4YXVnRGxRZnZmby1LVnlrd1Nma1REeF9GbXpaMERjOHl6dlFDQQ?oc=5",
-      "domain": "as.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Sam’s Club remata Smartphone Motorola Edge 70 fusion de 256 GB: edición FIFA World Cup 2026 - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRVI2QmpFTFp1ZDl3QXllM3Ixd2RNLTBua0FMOFd4ZGVza0ZNQmdxNTZYUUx2TjgxTkV4cHA4NEgwbjROS2JRRmRHMll5enBXT09MdzRsbmNMZWhLM3dicnJZS0xVYzhrbXlNdXJRTFFFVXJWcjBpVXhDZEpWU21vSmZRcUF3MVdwNV9FaXhRdHhhbWFVOUZpdDRSRFFHaWVHSDg3dTgxMVpFdFpSaTdOeERzV1FFQzMtaFpJeW9ldnFobEY0ZWR2bWxDdktxVnJZdlBWZDhSQ3FwZTdXWlVtaFQtX1g5Zw?oc=5",
-      "domain": "heraldodemexico.com.mx",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "seenDate": "Thu, 06 Aug 2026 01:35:51 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
       ],
       "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [
-        "sanción"
-      ],
       "discoveredBy": "Google News RSS"
     }
   ],
@@ -312,7 +308,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -328,7 +324,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -342,7 +338,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -366,34 +376,33 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "FIFA World Cup 2026 – Round of 16 – Paraguay vs France - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjFhUld6RjRDcTFoVHdyM09PR2JfYW1oaHlaMzQ4VmxUX1RmTHp2dkgzLXB4d0ZSc2xfbHJ5TjNRLXllWFUxM29uTkJiWldoeVhXM1NKbi1ueWVFSlJoTGIxV3g4TUtHWE9XS1JnZVV1WDJ6OVZYeV9YVG5ZY2lHOUNHSG9HOE9aRTlmZGQ0OUVYM2VmYmF6RHdtS1RvVzY2aHA0dEZSNzZaTXlYa0RtMUdoTFZublRqbmRPRjR5cDVOWjZ1VU51QWpoOWtfWHlqcGlHZUU0X2ZpcG1SSnJ0bW5jY2pGbTB4b3c?oc=5",
+        "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
+        "seenDate": "Wed, 05 Aug 2026 06:20:21 GMT",
         "image": "",
         "matchedTeams": [
-          "France",
-          "England"
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Spain beat France to reach 2026 FIFA World Cup final - sports.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0R6LXFvTTE2UGxTQVlxaVBZV05MSTVjd2RYM3VBcnZIendRSThzSkZxTVNSTFlELXNncU5qUVZrVUVZc3BaMjBiZHdmeVVMT25ybG13ZzhJbWE1dlh2Wmw4Q1lUam4wQXVLcGFhUkxDWFFjRDhVaVVmbGFFNTFQSktjbw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -427,7 +436,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -443,7 +452,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -453,18 +462,6 @@
         "matchedTeams": [
           "England"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -516,7 +513,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -532,6 +529,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
         "domain": "es.tradingview.com",
@@ -544,25 +555,11 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Así fue el FIFA World Cup Countdown Concert, transmitido de forma simultánea desde CDMX, Toronto y Los Ángeles - El Sol de México",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZkxkMjRLb0pmcDBKVmROYVBVcHV0UmVFbVlRaGUxQi1HS3RlUWxoRFZCMzJVMXJuU1pQbTY4RVZSd0UzSm1PWFBvQ25sRDlTTXJPVm9aQlpud3RoajBmbVZ1cmZGYUFLUUhQOFdUZk1TMnFCWTRhN0ZLNDBfT1J1X2ktSERIWkFoUmc0UjVObENic2hsWHd3c2FHWjNhMzVmYUxqalRhR2xrNlZYQllSSThUNjM5RlZ0ZlpPM21MMl9BTGZpNXo0VXNINUdaU29wQ28zeVRRWXRHQUNadFJqSUQxMDJNUTFEVVBmNmtR?oc=5",
-        "domain": "oem.com.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -577,7 +574,7 @@
       },
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -590,30 +587,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
           "England"
         ],
         "tags": [],
@@ -634,7 +615,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
+        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -646,9 +627,66 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "Senegal destituye al seleccionador Pape Thiaw tras una decepcionante campaña para el Mundial de 2026 - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMGR1MXczQlpIYWxzUklfZndmbWk3Z19KOW9CZHN3NWpaWVF2UTdKVUNHQ0g2ekdKZVc4dzh6STBhdC15RWRjcUhPNmVwejNWYzlNT1dyaDV1dTBVZlZkU2JxZ3pmV09jelc0M3RQU0hwQTV1RVlDc2otSWl4SDJjMXdJUmltbXY3OTFlNExXWHZYZVVkWGZfWG0xYlFwcFpJMkNYb283NjlLdVYxdFNLVW9kQ2tNbUpjUkFQUkZ1TFV4RTUxMm92eTVqM1NaeTZkTlJDX1VOSXItV00yWnUzakp3a2RLbHVrekVvNA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2xaN1VEclVMSlhWVHhSaml2SHBRNDljaHFKcWhiSWswdE9WZWJvYWxHU0FkQUhTNlAyOXlMUWNKd1JaMndlYnRZWDI1OHhUaEVneDNCUVlVZ0tVWmx3Vjh1SE9NTzdBeVdzVTBVcXh5WmUzNzJmWjctejJjQTZONFpUcVZjSUlLN1lqTFlMZVZfTUxTRGZzcERtSzJ2c3NNV3M5azJ4eGFpQ0daYjNhR2llaXBlc3RMRmMtaWM2NThEdVhmQXdBOUFB?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 17:11:08 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "De Egipto a Marruecos... 5 momentos excepcionales en la trayectoria de Mané con Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemFpQ1ZEazBsVXE0cldpcFJNeFVVbW1BaFFiTVVERE1zdkdSOFhJZGxJVVFqME1Eck8yaHVRYnV1UVRUT2pWMkpxdlN5MmlKNWxkRGg4NElWNURaZ1lTa2xQUmx0cVE2ODE2R2REUE1YZTBId3MzeUUwSldsY1hmNzgxNU5sMVdfck5rRk1WWUFWZC1HU0d0MTYxWDNldmtTclYybGdLVDdDSFpvYWpKS0NNaDRrU3o1OHZzWEZhTm5BMVhjaExVN0hnengwc3RBUmRIalRjNA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
@@ -664,7 +702,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -680,52 +718,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 29 Jul 2026 18:11:14 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
-        "domain": "es.tradingview.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -765,14 +763,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Horario en USA de la ceremonia de clausura del Mundial en el MetLife Stadium: dónde ver, duración y artistas - Diario AS",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYm9ZOGUycmJQUzZpclhGRHhqWlNXVTBYMHo1U3FYalpxMTc3b2hTUUg1WWswYWczLWhaMUdaN0MxZ2xqRzQzVUY4QkpXbVZCM19XT0ZuaUV6SDVFY2dTUTRwODlWdDVEZGx6M3c5MnJJZTlGNnhzS29pSGZXQWc5a3NFV3JTTHE3VnV3ZzlreUxsTXpSZXBFLURTZFNtWlBMSzdobjVNZkw0ZGxpc1hBYjZUY29mS0kzWEpTbk5YZ0hLRWoxSllZbElCZ04zYklDVHNSUjRyeWpwUldWTk5F0gHzAUFVX3lxTE9lOVdNdnhFMXE2R1c1VXRrV0Q1bEtaZEhaV1lhV0d1aktfb2g0UjFrRWNhemtZOEgxUk9lUWptTVhSWG9iOURzMkIzXy15QTk3YmFtQzdnNTJkal82cGpDekZOalJYRTNWbVI3aXJFbVJfR2dHeDhZNVprb0loX2NDOXhnVzdvR3JPMV9TOVlNVmJ2NkU5clE5TTlKX184OWV5M2JBTXFmNTVsNkdTTG51UjItcFI2NHNKeVhqRmRoTkNGUWVSWkNfeU5SSWQ4YXVnRGxRZnZmby1LVnlrd1Nma1REeF9GbXpaMERjOHl6dlFDQQ?oc=5",
-        "domain": "as.com",
+        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2xaN1VEclVMSlhWVHhSaml2SHBRNDljaHFKcWhiSWswdE9WZWJvYWxHU0FkQUhTNlAyOXlMUWNKd1JaMndlYnRZWDI1OHhUaEVneDNCUVlVZ0tVWmx3Vjh1SE9NTzdBeVdzVTBVcXh5WmUzNzJmWjctejJjQTZONFpUcVZjSUlLN1lqTFlMZVZfTUxTRGZzcERtSzJ2c3NNV3M5azJ4eGFpQ0daYjNhR2llaXBlc3RMRmMtaWM2NThEdVhmQXdBOUFB?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
+        "seenDate": "Fri, 10 Jul 2026 17:11:08 GMT",
         "image": "",
         "matchedTeams": [
+          "Belgium",
           "USA"
         ],
         "tags": [],
@@ -784,7 +783,7 @@
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 04 Aug 2026 21:59:58 GMT",
+        "seenDate": "Wed, 05 Aug 2026 03:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "USA"
@@ -837,7 +836,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -853,7 +852,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -867,7 +866,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -888,20 +901,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -923,7 +922,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -939,7 +938,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -953,7 +952,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -974,20 +987,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1009,7 +1008,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1025,7 +1024,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1039,7 +1038,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1060,20 +1073,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1095,7 +1094,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1111,7 +1110,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1125,7 +1124,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1146,20 +1159,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1181,7 +1180,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1197,7 +1196,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1211,7 +1210,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1232,20 +1245,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1267,7 +1266,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1283,7 +1282,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1297,7 +1296,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1318,20 +1331,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1353,7 +1352,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1369,7 +1368,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1383,7 +1382,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1404,20 +1417,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1439,7 +1438,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1455,7 +1454,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1469,7 +1468,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1493,25 +1506,11 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1526,7 +1525,7 @@
       },
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1539,30 +1538,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVhxZU10bG5uc0NpSy1mc3ZhNGpZNnl0ei1DaEpKdGE1RXNPc1Y3Snl3WGtJVzRuRkN2MXlkOXZoS2g4cnNocVdIbXFDYXJodEEzMHVaMVVDTElUMW14Z0lhbzlUUXRJdTUyRHBJSUdaT2lYN3RBTVE2VG9Nci1WdXAwT01sQXp3QU9jY09IR09SNTl0cWdLS3ViUjVxWGY1THJwSDl4ZjRTb1p5RXo5RVVsekxRRmp2alRxTER6NVI?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 19 Jul 2026 13:11:13 GMT",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
           "England"
         ],
         "tags": [],
@@ -1583,7 +1566,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
+        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1594,6 +1577,20 @@
           "England"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -1613,7 +1610,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1629,7 +1626,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1643,7 +1640,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1664,20 +1675,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1699,7 +1696,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1715,7 +1712,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1729,7 +1726,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1750,20 +1761,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1785,7 +1782,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1801,7 +1798,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1815,7 +1812,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1836,20 +1847,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1871,7 +1868,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1887,7 +1884,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1901,7 +1898,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -1922,20 +1933,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1957,7 +1954,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1973,7 +1970,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -1987,7 +1984,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -2008,20 +2019,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2043,7 +2040,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2059,7 +2056,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2073,7 +2070,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -2094,20 +2105,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2129,7 +2126,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2145,7 +2142,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2159,7 +2156,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -2180,20 +2191,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2215,7 +2212,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2231,7 +2228,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - Yahoo Sports",
+        "title": "FIFA launch investigation over Argentina's 'Las Malvinas' taunt after England defeat - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3BTZGVEajhveG5IVmQySXBRYkxnckVkbXQ2M3RCWi1tcEhIcFQ1NjVNcEEyS0ZLZnR2WVEwd3NQanEzQzlSd2NLVHJPNTMyQmxBOVQ5eDFPamItVjItY1dqWjc3b2ExZXZTdmk5bXBGbTFEejA5WkdBeWVwSF9MTHFDcHJ4R2RfRnJsOGg1NEtUSG1K?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
@@ -2245,7 +2242,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - TV Azteca",
+        "title": "FIFA World Cup 2026 – Group A – Czech Republic – Mexico - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkNVY1cybldNbWxOVkRTUXpDVXRFbGU2LTFrSldXOVFiMTI4M0UxUkdEMDRPX2paRGlUY1lOa0hhLVdnOWRXeFUxc3JSTURidDNPbUFRX2VFVjJHNHBWUGhsRnE5LXRmN0txZzZYanBoSkxpV081aEhrUEwwVlZWcW1ZUkZuNGxHd2JqT3lNTm0wWFgwQXlMc0xLa2x6UVFnVkY3WklCY3VQX01DRmNORmpTZE5Da2RnQ0RUM1JBM0lia0tpNVZncXVTczdsOE9UYWg1R19EbnpBY290Rldfb21mVlA?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "OFICIAL: Javier Aguirre gana premio tras su papel como DT en la Copa del Mundo - tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNm8wbndPN2ttZnhLSXhwOW1HUTZFcnB6ZnFqeWFWZ252azdQRE1RcjZ2Qmw4NHRKZWRlanFrYjR5dFBLbk04MllSY2Q2NmE3Q25BRk9XdEM3eUNHVk9MVWRKWGs1bnl4ZWJaZVhqcnR6UWwxX01Yb1ZpY0QxM0FFbWFyY3dTNmhjNDFKcjZuMzdVd1gzbVZFTkJBbExOU3p4ZE53eFhKdmNSd3RVQXh1WFlYQdIBwAFBVV95cUxOcVotMHNaZy0xR0JyLUR0cVdWenpwZzRGMzVBT1FKSFI0ZU5FTVFJSE9PZWFyaXprelZHc0l3dVZGSVVfR19kaXVFR2FRMkRORy1oMjZEWnc3aTBzNjgtVWJHdU96aEdYUTBDWkdWdTlIZ193N3hrOHhmMnZQSGJ0OEk5QklISlg3Q0lIdTJrVmNVSWZJZl9kQ2x6d2ZhRHE0TmxtTWQxU1hfV0dkTktZdzgySk9OakdwTkMtN0J2eVQ?oc=5",
         "domain": "www.tvazteca.com",
         "language": "Spanish",
@@ -2266,20 +2277,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaG9nRWRqd2tILXZGVW9YQ2lqUkkzclRTZFlOYXhjS3h4WmdWN0Y4dDQtZHpBTUIzU2xidWJwTlQyZzFPbWJJR1dJa29MdE1DNkRfb0FmajhYcjVjd2dhVnZ4dmNqRWpHSkJSTFI3YjR0YjFqemdxX1ptTl8yZXp2a1FmY3BUcmRBVDFJN3BGdy1FLWQtcmRrcm1DeS1ZaXE3WUhtdGtRMTlMS0drcVQwOWkwelVvUHlMSGRkUzJ5bVM3eDRxenY1S2E1VTJPZ0NzdzUzSmF2NXJWbjRLMDhqdmY4ckJNVWRBQ3lBWXd6ZkxDR210OW5kZmIwN3laZw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
