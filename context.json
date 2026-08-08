@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-07T19:14:22.798746Z",
+    "updatedAt": "2026-08-08T02:20:57.932344Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -59,20 +59,6 @@
       "image": "",
       "matchedTeams": [
         "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Gianni Infantino agradece a Claudia Sheinbaum y a México por el éxito del Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVNEcVp6TGp4ekVUQTlfdUpleXd5dTBrMERkT3BleDlFc3V2T1Q2djVxcHNpTl9kT28yT3VnZjFRalVDS1VkcDRKcGt2MU9pczJZcDJsT1VtamcyVnVvQW1INktPQnF5dUdVWGFLV3ktUDlBWE41VUUwcmlxV0draVR1UlRKLXRfellTbE1aS2Zja1lHd1otdVhVcy1JX0FrTDNWeUZhamNBNVd1c3JrcWpkMmk0bGMyQXl5U2pRdjdMREhhT2tfcEhadHBIRllQRWh4OdIB7wFBVV95cUxOSTFnZFBsYWpSdW1vQzBfd0lVa3pRQ2FrRGVHTVhoMk51T2lqaGpzOW5YLU1EY1pvU09LOWRjaXFWWUh2WkIyemtXYUxJRGZDMGdJOFQ0em8zdWJwS0xMMkVaSVp1T0J0RjRKemR5d3JHTmV5b0hjMFdDR3NhZzZxeGVGMi02dUl3TnFjcUFYdUlCS3lkVm90VUNsTkRrRGFMdkU0MVFNRnhLeS02ZGNoVXp1eEdsU0QwRGJ1YkdkazZMSzdIemNGQlY4aTJuUXNvSnJkT3duUHVOQXk1S0pTMW5wSU5KMUhyb3hRX0JHWQ?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -292,6 +278,20 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Argentina anuncia el «Día de las Selecciones Nacionales de Fútbol» para celebrar su dramática victoria ante Inglaterra en el Mundial 2026 - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQWM0YmQ2NS1YUzFabXBwRWVFYUVqU2VNWW1wYlZTdmJvcTk3U0V5c1EwNUZ3akNjd0kyMkZfZ0tNcjdwS2poV1U5aG5COVJDakhlNEQwaWdYd1JFY05Ec0hKNHJlekJOV0gxTFp5QjdiMWVzdWhsbDQyUGl4NmZTMm1hb01nM2tBck96TXZndkRtdHIyMDdpY3VvbDR0aWMyMjVybDlpR0FieDRLVUV0T1U1dzRwSS1xUXd4LTdlQmdEcVpmc0hQS2ZfaUJQY3lzTnMwblFCSVpkMFBzS1hOdk9rT2N4ODZrdU4zajc0c3JqY3BYQUJhWUtMd0RuSzhCX3RfcnlSeURhSDh6cjMxOHBIb3drMXBCOVlV?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 06 Aug 2026 11:23:56 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -322,6 +322,20 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
         ],
         "discoveredBy": "Google News RSS"
       },
@@ -366,18 +380,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -440,6 +442,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -453,20 +469,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -681,6 +683,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -721,18 +737,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -816,7 +820,7 @@
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 07 Aug 2026 15:56:22 GMT",
+        "seenDate": "Fri, 07 Aug 2026 21:56:22 GMT",
         "image": "",
         "matchedTeams": [
           "England",
@@ -838,6 +842,20 @@
         "matchedTeams": [],
         "tags": [
           "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
         ],
         "discoveredBy": "Google News RSS"
       },
@@ -882,18 +900,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -928,6 +934,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -968,18 +988,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1014,6 +1022,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1054,18 +1076,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1100,6 +1110,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1140,18 +1164,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1186,6 +1198,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1226,18 +1252,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1272,6 +1286,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1312,18 +1340,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1358,6 +1374,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1398,18 +1428,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1444,6 +1462,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1484,18 +1516,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1617,6 +1637,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1657,18 +1691,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1718,6 +1740,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1758,18 +1794,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1790,6 +1814,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1830,18 +1868,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1876,6 +1902,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1916,18 +1956,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1962,6 +1990,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2002,18 +2044,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2048,6 +2078,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2088,18 +2132,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2134,6 +2166,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2174,18 +2220,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2220,6 +2254,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2260,18 +2308,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
