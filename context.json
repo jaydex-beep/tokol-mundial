@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-08T07:13:22.959048Z",
+    "updatedAt": "2026-08-08T13:11:45.559751Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -167,7 +167,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "2026 FIFA World Cup Favorites, Ranked: Updated Odds After USA’s Elimination - IMDb",
+      "title": "2026 FIFA World Cup Favorites, Ranked: Updated Odds After USA’s Elimination - imdb.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NUGQ0cWZzRTlDMVNzS3AySE1tVDVHdVAxZjYwNGNUZndvT2ZoV0xKSVlNQUdDcE5UMkZJTzZnZ29BYkNLcjktLVNROXhLVV9zNzhZVVF3?oc=5",
       "domain": "www.imdb.com",
       "language": "Spanish",
@@ -312,31 +312,19 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
+        "title": "Brazil vs. Norway & Mexico vs. England: How to Watch FIFA World Cup Matches - imdb.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pckNoaDlqNHBpeFk5Y21DbEN0ak9jOG5XUnVSVVhOZXlBRzNkNUNkVFkzSGpyOWxkVDBGc1c3V01lSjQxcmQ5R0hLSlVkYW91RlZNQUNB?oc=5",
+        "domain": "www.imdb.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Thu, 06 Aug 2026 00:24:36 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
+        "matchedTeams": [
+          "Norway",
+          "Mexico",
+          "England"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -379,6 +367,20 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -428,34 +430,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -469,6 +443,34 @@
         "tags": [
           "sanción"
         ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -638,14 +640,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "Brazil vs. Norway & Mexico vs. England: How to Watch FIFA World Cup Matches - imdb.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pckNoaDlqNHBpeFk5Y21DbEN0ak9jOG5XUnVSVVhOZXlBRzNkNUNkVFkzSGpyOWxkVDBGc1c3V01lSjQxcmQ5R0hLSlVkYW91RlZNQUNB?oc=5",
+        "domain": "www.imdb.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "seenDate": "Thu, 06 Aug 2026 00:24:36 GMT",
         "image": "",
         "matchedTeams": [
+          "Norway",
+          "Mexico",
           "England"
         ],
         "tags": [],
@@ -666,34 +670,6 @@
           "USA"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -739,11 +715,39 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
-        "title": "2026 FIFA World Cup Favorites, Ranked: Updated Odds After USA’s Elimination - IMDb",
+        "title": "2026 FIFA World Cup Favorites, Ranked: Updated Odds After USA’s Elimination - imdb.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NUGQ0cWZzRTlDMVNzS3AySE1tVDVHdVAxZjYwNGNUZndvT2ZoV0xKSVlNQUdDcE5UMkZJTzZnZ29BYkNLcjktLVNROXhLVV9zNzhZVVF3?oc=5",
         "domain": "www.imdb.com",
         "language": "Spanish",
@@ -832,34 +836,6 @@
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -913,6 +889,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -920,34 +924,6 @@
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1001,6 +977,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1008,34 +1012,6 @@
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1089,6 +1065,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1096,34 +1100,6 @@
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1177,6 +1153,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1184,34 +1188,6 @@
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1265,6 +1241,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1272,34 +1276,6 @@
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1353,6 +1329,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1360,34 +1364,6 @@
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1441,6 +1417,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1448,34 +1452,6 @@
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1529,6 +1505,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1607,14 +1611,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "Brazil vs. Norway & Mexico vs. England: How to Watch FIFA World Cup Matches - imdb.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pckNoaDlqNHBpeFk5Y21DbEN0ak9jOG5XUnVSVVhOZXlBRzNkNUNkVFkzSGpyOWxkVDBGc1c3V01lSjQxcmQ5R0hLSlVkYW91RlZNQUNB?oc=5",
+        "domain": "www.imdb.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "seenDate": "Thu, 06 Aug 2026 00:24:36 GMT",
         "image": "",
         "matchedTeams": [
+          "Norway",
+          "Mexico",
           "England"
         ],
         "tags": [],
@@ -1622,34 +1628,6 @@
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -1704,6 +1682,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1726,34 +1732,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1793,6 +1771,34 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1800,34 +1806,6 @@
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1881,6 +1859,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1888,34 +1894,6 @@
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1969,6 +1947,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1976,34 +1982,6 @@
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2057,6 +2035,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2064,34 +2070,6 @@
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2145,6 +2123,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2152,34 +2158,6 @@
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2233,6 +2211,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2240,34 +2246,6 @@
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - expansion.mx",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup semifinals: Schedule, how to watch live, predictions - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOW51STBEOFBlUnl0YmZLTmNpWEtKbUtDenhUaDBTVWhjamQydGRoajlNZ1lmR29ZSzZBQlNWSkFxczZSU3RTdl81WlNxOGp1c2pZMTVoS3B5dk1sZGh6a1VtU0RGaFJJQUd1MGJzVko4WlVzdk5lOE13OGVOV1dmM08wbU5jdw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2321,6 +2299,34 @@
         "image": "",
         "matchedTeams": [
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
