@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-12T07:50:56.581576Z",
+    "updatedAt": "2026-08-12T13:45:07.483137Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -14,6 +14,20 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+      "domain": "es.tradingview.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -36,15 +50,16 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
-      "domain": "elheraldodesaltillo.mx",
+      "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - goal.com",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNWgtV3hiUkZRX0hBcm1jcUx5Sml3Q1lhbVRPVlV6ck9DcTVhZVI5Z1g0WDY3Mm83eEFGT05qejBzdWNhTlVFODlyMVR6LVJTbWVTcGRHT3M5TFlIMkV2SnRPZXItbGs2dXdYOTVienJwWEtFWllYSUs1TW5IQVJXSHFFZWpOWWdpakxEMDBlSDNuTEFUMUlRRXBnelN2WUpubzcxbEFFX3hCS0JXWXdMZFVINHhLNVBMZ2NuNVR4eHlocVRIQ291Y3AzWEdZMlpPd1pBT2h3M09JYWJXLUQxekJDS0hBRlBkLWhTYThJX2F3SE1TVUpiVjhMd2tpNk1TVm1WR2NEelNseHBXY0hkQlNkenVjbWFFOGlnV3kyZDRMNnZUd1dEV2FOaTNZQ3BrVEtBandZbHdZdHFhSnQ0NUxXWVAzSW1NRTM2bUs2Q3VhRnBlZlpfSDBIakZZUXQzRVdwMUp3NzVMQWI0Zk82dWdlUG1vam9nMHBNbnlPNlRVYld0aHVFaWZjVF9JMXhGd2NqbDNkVVJjWDA?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "seenDate": "Wed, 12 Aug 2026 11:58:29 GMT",
       "image": "",
       "matchedTeams": [
-        "England"
+        "Belgium",
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -122,21 +137,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "FIFA World Cup 2026 – Round of 32 – England vs DR Congo - El Heraldo de Saltillo",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTmJOVWhVYjZYbnVHZUNPX1B5Si00Skc2TXlLLTQ5WkdKdm02S1RGYnd5T3NCTHQyTTdLQ0tOLVdmN2RFZEh5c19iSEtZNWlNSjctcnF6Tkc4QWlQeXltQ1JzOS01TnVxMzVLN3BSWnpmQmRuV2NvOGRudnZXZ210b3l3QXU4QWRabjF4eXZvWGV1eXpxajM2MmtEUVVMTlgwaFYwSUxSTWNFbkQ5WnJISlNDZUxVT1VESGdVQWVONVFkSTY1dmtVeFNFa3BKSjM0STdxOUROb0ZYUXZiaFpfWEhfYlR0Y2dCTmR1ZzI0Q28yeTViekVQNmVxSTNrLWhjWnpmemk2VGpMWW1ZRjlpRDFPbHZfZw?oc=5",
       "domain": "elheraldodesaltillo.mx",
@@ -161,6 +161,21 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -211,7 +226,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Instrucciones firmes: ¿cómo intervino el presidente francés para frustrar el plan de Infantino? - Goal.com",
+      "title": "Instrucciones firmes: ¿cómo intervino el presidente francés para frustrar el plan de Infantino? - goal.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTmxTd296bWtOUDFoRUxEcmJielZHSzRDazBiU3R5MlJka3VXZHdHRnhZb01xdnpnMTN5ckJUZGsySzFxZkh5N2RLelVlYTlwSi1vMXUtb2NDNFM0N1ZpQ20yZ2MyVFlFaXBZZWdVdmlnRUZZZ0xrcmswVk95QU9xTGtFMzBJWW1UUV81dFpzOEJheGZSQ2N5Q2dId2JlOFduT29ZQWNORnhJNUo0NDkyTktQNXp3WnFHTENDU3lWX0MwR3hpbHlLbjB5RzlvdzdqdHRjZnRfRXVibmdUZl9Fb3F3?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
@@ -225,26 +240,26 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "2026 FIFA World Cup Favorites, Ranked: Updated Odds After USA’s Elimination - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NUGQ0cWZzRTlDMVNzS3AySE1tVDVHdVAxZjYwNGNUZndvT2ZoV0xKSVlNQUdDcE5UMkZJTzZnZ29BYkNLcjktLVNROXhLVV9zNzhZVVF3?oc=5",
+      "domain": "www.imdb.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 04 Aug 2026 16:48:40 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkJwTWgzQ1R2T1pIU2JUaDR1QW5CQjRmdER6UEpHSjFRalVoQnloRDA5ZEF4VUdabFRPbFpnLVFsc294OFltWk1BZF9DdHdUQzVzOW9JZGZRT25DM0pFS3h5Uk9neGR0aFpQNmF4VTdxOUpsaEdNczRUQmtlYzkybGZYX2dTclhGU2RybUxYQnVSdG56UjZUcEVmUHo2eHdxZlNuNU5oVFQtb1BOaENxb0MyT25UWUx3UWR0TDR4bndMd9IB3AFBVV95cUxNMnZmSkRkVk9OeE40SUNBN195cm04NnZET2N2VG9WeGpmaXBvb19YVUxsOTA2VFhzMnFBbGpNejBLcHJTVDI5MGc4TDJTemVsUlNwRVJnNFhGVER3V0wwbGM2a0N4UExnTXhDU3FPcHlUZld3SllvekFuU2RpWHo2RF9NNmRKY212ZjIxVl93ZlBGMVJ5ZEphdll4aWRKWmpZWTJUaWZJXy1TZFpfMkZCYUtuYlhFY3RCaUI3dWx4YlFrX3E0X2lac25HOXMxVjdmTnJWWWtwd1NtX0NI?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - fotmob.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVhTczBaTVpVOEU3dFdVc3hYbEludEhQQXQ0RXFzVjhMSDBSaWJGM1F5Q0RHeWx6WnBXZTJJWTV0QW5VeDFvX3N1anZIelVrd0wxcm5vaGhXWUlvQ0JfYnpnXzhOS1VjS2FPbWowYzBseklIUTR1ekJlYjBMQUVjNWNfOFlDeDU2YU5BTTlWRzAxSzFqYTlYdGlMcGp0dw?oc=5",
-      "domain": "www.fotmob.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 11 Jun 2026 22:03:18 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -267,26 +282,12 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "La rivalidad se intensifica: Argentina provoca a Inglaterra con una decisión histórica - Goal.com",
+      "title": "La rivalidad se intensifica: Argentina provoca a Inglaterra con una decisión histórica - goal.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYnJYRVhIMFhBeVRrR2FBSl9SQmItTm9sTk9PU1JkeHJDc1pxamZtSnlhOEdMSmVDZVJFZTRLMTVJSmVVNUx6VlRpNV96SVlBcVJWdS1SRURrZV9idHZYY214R2xpUjlqSW1odFRCZE0zZ0p3aGRVOEpGU3RiMzZtMlVlaTAzbDUtQ3dTRXo2Qlh5X3U2Zy1taHk1N1BSaTJfdkJ0a1k0Y2pTR202YVAxN3Fxa203bzhrWWhncFVwaU9hT0x1bVBvZ081UUxaRThtRUUwSkpub2U?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 06 Aug 2026 12:28:57 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Brilló en el Mundial: el Liverpool pugna con los dos grandes de Milán por una estrella de la selección de Inglaterra - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdVhCTEg5cGhWdzhZQjJmWk5WNTlXcXJnU0dZRzlmWUpOTEtFbWpRd3JHNmdiM3h4ZFJoSERsbVVleUFqTUZKOWtMTVZOaGo5U21zVDNqUWl4dVdLRW0yUDNqSUs5NDREQ0FqWE9ZRVdFSjg5R080ZzROZ0tNT0RNbFAwTW1NaVVEWlJoWXRrRXFENWFURXUyeTZUbUVJY0RWanJlc3BrdU5UUkpSc1BELTB3LTA2cWxGRUMyUlV2OVB3RW5oUEpZTFIzd2kzWmZPTUJCN1RkblhjQ2xCXzhXazNid0N6N3ZUdFphLXlpVzRYUk0wcEcxR19LRXhnbXdB?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 06 Aug 2026 11:31:09 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -324,20 +325,6 @@
           "Norway",
           "Mexico",
           "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 – Group E – Germany vs Ivory Coast - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3F3eHpybm1BUWFNZHJUS1pYdF90bDVVRmVSbkpCRm5JUE1FakhObEZ3eGNrUWpaSzhMcEY4UENHSF9iR1BMblJ6N1pabkQwclZGVEt0TlhqYnpUam1KY2pGMzVkbHZ1bVEzeVZLN25ieDRHU1Y1OUpOLVNITHVESk9najhwWk8yM19tQjliVVBrbjJfaldqWC1MVFNLTERHTXRCWFZ6dDhZWF9lM1VCZWNMWTJ2cUViRDJOSV90bW5VU2R6eV9Ia1MxZ29ucVE4ZWhoeFBEQUdUUUtadW0ybk5tLTVDQQ?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 20 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Ivory Coast"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -385,6 +372,20 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
@@ -403,7 +404,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Instrucciones firmes: ¿cómo intervino el presidente francés para frustrar el plan de Infantino? - Goal.com",
+        "title": "Instrucciones firmes: ¿cómo intervino el presidente francés para frustrar el plan de Infantino? - goal.com",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTmxTd296bWtOUDFoRUxEcmJielZHSzRDazBiU3R5MlJka3VXZHdHRnhZb01xdnpnMTN5ckJUZGsySzFxZkh5N2RLelVlYTlwSi1vMXUtb2NDNFM0N1ZpQ20yZ2MyVFlFaXBZZWdVdmlnRUZZZ0xrcmswVk95QU9xTGtFMzBJWW1UUV81dFpzOEJheGZSQ2N5Q2dId2JlOFduT29ZQWNORnhJNUo0NDkyTktQNXp3WnFHTENDU3lWX0MwR3hpbHlLbjB5RzlvdzdqdHRjZnRfRXVibmdUZl9Fb3F3?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -461,14 +462,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -480,7 +483,7 @@
         "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -596,20 +599,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -625,7 +614,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Brilló en el Mundial: el Liverpool pugna con los dos grandes de Milán por una estrella de la selección de Inglaterra - Goal.com",
+        "title": "Brilló en el Mundial: el Liverpool pugna con los dos grandes de Milán por una estrella de la selección de Inglaterra - goal.com",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdVhCTEg5cGhWdzhZQjJmWk5WNTlXcXJnU0dZRzlmWUpOTEtFbWpRd3JHNmdiM3h4ZFJoSERsbVVleUFqTUZKOWtMTVZOaGo5U21zVDNqUWl4dVdLRW0yUDNqSUs5NDREQ0FqWE9ZRVdFSjg5R080ZzROZ0tNT0RNbFAwTW1NaVVEWlJoWXRrRXFENWFURXUyeTZUbUVJY0RWanJlc3BrdU5UUkpSc1BELTB3LTA2cWxGRUMyUlV2OVB3RW5oUEpZTFIzd2kzWmZPTUJCN1RkblhjQ2xCXzhXazNid0N6N3ZUdFphLXlpVzRYUk0wcEcxR19LRXhnbXdB?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -653,9 +642,39 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNWgtV3hiUkZRX0hBcm1jcUx5Sml3Q1lhbVRPVlV6ck9DcTVhZVI5Z1g0WDY3Mm83eEFGT05qejBzdWNhTlVFODlyMVR6LVJTbWVTcGRHT3M5TFlIMkV2SnRPZXItbGs2dXdYOTVienJwWEtFWllYSUs1TW5IQVJXSHFFZWpOWWdpakxEMDBlSDNuTEFUMUlRRXBnelN2WUpubzcxbEFFX3hCS0JXWXdMZFVINHhLNVBMZ2NuNVR4eHlocVRIQ291Y3AzWEdZMlpPd1pBT2h3M09JYWJXLUQxekJDS0hBRlBkLWhTYThJX2F3SE1TVUpiVjhMd2tpNk1TVm1WR2NEelNseHBXY0hkQlNkenVjbWFFOGlnV3kyZDRMNnZUd1dEV2FOaTNZQ3BrVEtBandZbHdZdHFhSnQ0NUxXWVAzSW1NRTM2bUs2Q3VhRnBlZlpfSDBIakZZUXQzRVdwMUp3NzVMQWI0Zk82dWdlUG1vam9nMHBNbnlPNlRVYld0aHVFaWZjVF9JMXhGd2NqbDNkVVJjWDA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 11:58:29 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2xaN1VEclVMSlhWVHhSaml2SHBRNDljaHFKcWhiSWswdE9WZWJvYWxHU0FkQUhTNlAyOXlMUWNKd1JaMndlYnRZWDI1OHhUaEVneDNCUVlVZ0tVWmx3Vjh1SE9NTzdBeVdzVTBVcXh5WmUzNzJmWjctejJjQTZONFpUcVZjSUlLN1lqTFlMZVZfTUxTRGZzcERtSzJ2c3NNV3M5azJ4eGFpQ0daYjNhR2llaXBlc3RMRmMtaWM2NThEdVhmQXdBOUFB?oc=5",
@@ -716,33 +735,50 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
         "matchedTeams": [
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
+      {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNWgtV3hiUkZRX0hBcm1jcUx5Sml3Q1lhbVRPVlV6ck9DcTVhZVI5Z1g0WDY3Mm83eEFGT05qejBzdWNhTlVFODlyMVR6LVJTbWVTcGRHT3M5TFlIMkV2SnRPZXItbGs2dXdYOTVienJwWEtFWllYSUs1TW5IQVJXSHFFZWpOWWdpakxEMDBlSDNuTEFUMUlRRXBnelN2WUpubzcxbEFFX3hCS0JXWXdMZFVINHhLNVBMZ2NuNVR4eHlocVRIQ291Y3AzWEdZMlpPd1pBT2h3M09JYWJXLUQxekJDS0hBRlBkLWhTYThJX2F3SE1TVUpiVjhMd2tpNk1TVm1WR2NEelNseHBXY0hkQlNkenVjbWFFOGlnV3kyZDRMNnZUd1dEV2FOaTNZQ3BrVEtBandZbHdZdHFhSnQ0NUxXWVAzSW1NRTM2bUs2Q3VhRnBlZlpfSDBIakZZUXQzRVdwMUp3NzVMQWI0Zk82dWdlUG1vam9nMHBNbnlPNlRVYld0aHVFaWZjVF9JMXhGd2NqbDNkVVJjWDA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 11:58:29 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup Favorites, Ranked: Updated Odds After USA’s Elimination - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NUGQ0cWZzRTlDMVNzS3AySE1tVDVHdVAxZjYwNGNUZndvT2ZoV0xKSVlNQUdDcE5UMkZJTzZnZ29BYkNLcjktLVNROXhLVV9zNzhZVVF3?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 04 Aug 2026 16:48:40 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "El futuro del fútbol y de la movilidad están aquí, ahora, con la campaña creativa de Hyundai en Estados Unidos titulada “El futuro empieza ahora” para la Copa Mundial de la FIFA 2026™ - HyundaiNews",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqSXhmeUlGWWI4UFlqLWlwelNfRVJVZXJxNERRSEN4azBSOWg1ZWdLMVVBTEZ3VjJMWFBERTdrMWNIOW9tQmowaGphTXhsdWJpamtn?oc=5",
@@ -801,32 +837,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
@@ -875,7 +885,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -889,20 +913,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -961,7 +971,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -975,20 +999,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1047,7 +1057,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1061,20 +1085,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1133,7 +1143,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1147,20 +1171,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1219,7 +1229,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1233,20 +1257,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1305,7 +1315,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1319,20 +1343,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1391,7 +1401,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1405,20 +1429,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1477,7 +1487,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1501,40 +1525,12 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1577,7 +1573,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Brilló en el Mundial: el Liverpool pugna con los dos grandes de Milán por una estrella de la selección de Inglaterra - Goal.com",
+        "title": "Brilló en el Mundial: el Liverpool pugna con los dos grandes de Milán por una estrella de la selección de Inglaterra - goal.com",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdVhCTEg5cGhWdzhZQjJmWk5WNTlXcXJnU0dZRzlmWUpOTEtFbWpRd3JHNmdiM3h4ZFJoSERsbVVleUFqTUZKOWtMTVZOaGo5U21zVDNqUWl4dVdLRW0yUDNqSUs5NDREQ0FqWE9ZRVdFSjg5R080ZzROZ0tNT0RNbFAwTW1NaVVEWlJoWXRrRXFENWFURXUyeTZUbUVJY0RWanJlc3BrdU5UUkpSc1BELTB3LTA2cWxGRUMyUlV2OVB3RW5oUEpZTFIzd2kzWmZPTUJCN1RkblhjQ2xCXzhXazNid0N6N3ZUdFphLXlpVzRYUk0wcEcxR19LRXhnbXdB?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -1600,6 +1596,21 @@
         "image": "",
         "matchedTeams": [
           "Norway",
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
           "Mexico",
           "England"
         ],
@@ -1653,7 +1664,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1667,20 +1692,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1754,7 +1765,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1762,20 +1787,6 @@
         "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1826,7 +1837,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1840,20 +1865,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1912,7 +1923,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1926,20 +1951,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1998,7 +2009,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -2012,20 +2037,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -2084,7 +2095,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -2098,20 +2123,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -2170,7 +2181,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -2184,20 +2209,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
@@ -2256,7 +2267,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -2270,20 +2295,6 @@
       {
         "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOUlnblFISlRIY2w3b2FLSjBwMUZGV3N4Q1NsYzROVzhyZnF1cWtyT0VrVzA2NGdFdkNMTlU5dUh2dm5OUDRfMGU1WWNqRkdRU2JRb1Y1YUFHSlNWR1IzLUJ0cjFYSXpJYmlEU1FsekxkZTN4dkxUWloxal9yZlQ0VVdISUViWWdqLVVFVjJVcTNQcFJQMXpyZjdKVVR3cHp1azc3OXNnam1lTGZwaG9zYWl6ZXVLQUV0MUFFTkZlYm5hNGRiRXlJelo0VFd0UnBDQ21wYjhzRV8tMlozd1NiajFXSm41VWgwNktJLXpyZk5NRVlYSFBkbHAtMDVXdw?oc=5",
-        "domain": "elheraldodesaltillo.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup 2026 semifinals – England vs Argentina - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzlPNnFDMUNzSVd4eGpnZ25MQU91S3JiYi12bDg4UmY5RlVsc1c1ZVV1dUZyaG84cHJFOVd5UFB3ajNubTJfSWU3eVJ2R1I2elJVdHdOUnF6R08zM1RsWkFvd2tzSEh4ZHJxcVUyN0MyYWVBb3RPc3U4cC00dHpTc0h1cVJ2SVljVTRsSEdPX05uZHBhUDk3VzVDMS1xZGdxakRkZ1A4UGNPSmJEancyZ2QzSmJIYnhoRUxURGVwaENUX1Jqcl8ybUFMTWRVN3VQNW1HeXRqZGlRaU1RQWFRTnRtbDJNckh6QTFmRWRVVUU4NzBIWlg4Wm96TQ?oc=5",
         "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
