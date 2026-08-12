@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-12T02:43:03.209115Z",
+    "updatedAt": "2026-08-12T07:50:56.581576Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -239,6 +239,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - fotmob.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVhTczBaTVpVOEU3dFdVc3hYbEludEhQQXQ0RXFzVjhMSDBSaWJGM1F5Q0RHeWx6WnBXZTJJWTV0QW5VeDFvX3N1anZIelVrd0wxcm5vaGhXWUlvQ0JfYnpnXzhOS1VjS2FPbWowYzBseklIUTR1ekJlYjBMQUVjNWNfOFlDeDU2YU5BTTlWRzAxSzFqYTlYdGlMcGp0dw?oc=5",
+      "domain": "www.fotmob.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 11 Jun 2026 22:03:18 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "🇲🇽 HOY ES UN DÍA HISTÓRICO PARA MÉXICO 🇲🇽 Nuestra nación vuelve a ocupar un lugar privilegiado en la historia del fútbol mundial. La Selección Mexicana será la encargada de inaugurar el Mundial 2026, un torneo histórico que marcará un antes y u - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORWNJRGkwTm1wSUpDSklVeGxtR1JUZTh1blBsRjNyM1JnNHgxUnFHTkk4TE5FUGZiSXhiX0FTb1c1RDNma2c2b09yVWRsUTVZYjhmS2xiQjhwU1JReTBWY2htS0FRallaRUF2azBNQ043VlgtVEh3MnEtTkVuWHltaHpIU3J6c2JfcmE4c3lxMDBVMzgtbEdzTTRUWnVoT3otZ0ZMa1FpT3RFVm93RGlEU3BkRzR3SzdTeTBVSkRtTFI5T0gtY1ladzVnbjZrRnl4N2FvdVlQNTVrR3hFZFVlbEg0QjVsLVV6MDlnMkZOTTU4cU0?oc=5",
       "domain": "www.facebook.com",
@@ -279,22 +293,6 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Brazil vs. Norway & Mexico vs. England: How to Watch FIFA World Cup Matches - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pckNoaDlqNHBpeFk5Y21DbEN0ak9jOG5XUnVSVVhOZXlBRzNkNUNkVFkzSGpyOWxkVDBGc1c3V01lSjQxcmQ5R0hLSlVkYW91RlZNQUNB?oc=5",
-      "domain": "www.imdb.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 06 Aug 2026 00:24:36 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Norway",
-        "Mexico",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -326,6 +324,20 @@
           "Norway",
           "Mexico",
           "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA World Cup 2026 – Group E – Germany vs Ivory Coast - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3F3eHpybm1BUWFNZHJUS1pYdF90bDVVRmVSbkpCRm5JUE1FakhObEZ3eGNrUWpaSzhMcEY4UENHSF9iR1BMblJ6N1pabkQwclZGVEt0TlhqYnpUam1KY2pGMzVkbHZ1bVEzeVZLN25ieDRHU1Y1OUpOLVNITHVESk9najhwWk8yM19tQjliVVBrbjJfaldqWC1MVFNLTERHTXRCWFZ6dDhZWF9lM1VCZWNMWTJ2cUViRDJOSV90bW5VU2R6eV9Ia1MxZ29ucVE4ZWhoeFBEQUdUUUtadW0ybk5tLTVDQQ?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 20 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -371,18 +383,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -461,7 +461,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -716,7 +716,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -744,7 +744,7 @@
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
-        "title": "El futuro del fútbol y de la movilidad están aquí, ahora, con la campaña creativa de Hyundai en Estados Unidos titulada “El futuro empieza ahora” para la Copa Mundial de la FIFA 2026™ - hyundainews.com",
+        "title": "El futuro del fútbol y de la movilidad están aquí, ahora, con la campaña creativa de Hyundai en Estados Unidos titulada “El futuro empieza ahora” para la Copa Mundial de la FIFA 2026™ - HyundaiNews",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqSXhmeUlGWWI4UFlqLWlwelNfRVJVZXJxNERRSEN4azBSOWg1ZWdLMVVBTEZ3VjJMWFBERTdrMWNIOW9tQmowaGphTXhsdWJpamtn?oc=5",
         "domain": "www.hyundainews.com",
         "language": "Spanish",
@@ -817,7 +817,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -875,7 +875,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -961,7 +961,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1047,7 +1047,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1133,7 +1133,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1219,7 +1219,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1305,7 +1305,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1391,7 +1391,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1477,7 +1477,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1653,7 +1653,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1754,7 +1754,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1826,7 +1826,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1912,7 +1912,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -1998,7 +1998,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -2084,7 +2084,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -2170,7 +2170,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -2256,7 +2256,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - DAZN",
+        "title": "Messi is an alien! | Leo takes the World Cup by storm FIFA World Cup™ - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3ZtM3ljSVNtcGl1Nkt4X1AxZUF6azVlT3ppZmw3aWlLM25DOFJ2MndNU0FvVk04VGRTU2lMTlU2cWhxLV9GMkJlNnBJWENPalRrYU1yd21Pa2lnVk5Zb1RWSjhzbVZSV2J5VW9BWHlYdVgxUlppNDVQWTktblRJSVRwdHVISzdFT0xmSA?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
