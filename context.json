@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-14T07:49:37.896191Z",
+    "updatedAt": "2026-08-14T13:41:21.517814Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -121,6 +121,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Mexico Vs Ecuador | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1JFV0VlM0N1MnIwOGtxTFJ2NmlhanBRZHlUanFac2lpaEh0V0RIbTRyQU52TW5MQl8zeVpQeHJNYlhfN3pkQUdqZU1RM0xyVF8tTjhuRFVhUjdfcmt2MjZTVzZkbDZVUGtwUFBhbjhrRDVUT2RmS2FVczQ4LXBBbk1sSkt4bzBBZ0c0RFFveVB1TWVYbUE1STJDRGN0TndOY0RoRFFMSFZGenQ4c0VJMm1vVWVsNEtVVW1kdUdERHQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 21:11:04 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
       "domain": "es.concacaf.com",
@@ -196,21 +211,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "FIFA World Cup 2026 – Round of 32 – Cote d’Ivoire vs Norway - El Heraldo de Saltillo",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbFkxcExIVHl2cHd0X3FkNHhQRzF1dWlFaVpsMWZ5OW96TmxNejlRMHdaZlM5MzNlcm1CMEpBRHNDTDk5dkNXdlRKb0l6S01rbXdyam1tN0kwODJpOVlLbzJBV2JfRHJyWEpSZG5YNjBvVVBwdmtiRnk3ZHdYWmt5QUE5ZVpFaEJQemlQa2MyTmN6MTNpdGFlaVJkTXFINmkwekQ1SnNrbGFFQ0FrbXFXeXlhcFNVZzhuOXhUMHdDaFRJTjNYb180Vzh6V0o2eTFWQ1lnM19XRHFKa1VNX3ZkbHNEaVBMMmNNRExUVGVpTjBUUFhKeWt5NUdscUlYZG04Q2pqRFZwN2Y5djAzMGZYdFpB?oc=5",
-      "domain": "elheraldodesaltillo.mx",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Ivory Coast",
-        "Norway"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
       "domain": "www.goal.com",
@@ -220,6 +220,21 @@
       "image": "",
       "matchedTeams": [
         "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "CôTe D'Ivoire Vs Ecuador | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2hVNm9lOUgyQVlVM1NCNWNhSFpoVDZyVWZSTzNqMzY0c2lZM3k1b2FUZ2xDdkZ6YmViTmtIaEZzVDBNdEREVzhtNzVfYjVkcXdMTzVQRFZYMUZXcGJIeFZpbzQ4WXBLeVJ6TVd0eUpkakx0RXRQTlh2eVFCQ1NjWDJmSVNuNnFCdUVsZXpoaHh2OHZqTFE1Z21oQmtyeG5hbEd5amUyak41UHZuTmlna2xQUFdPQU5FWEpCZUQ3UmtOWUNRUHdYNWpIcjRHMlRf?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 18 Jun 2026 22:55:54 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ivory Coast",
+        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -279,37 +294,21 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Brazil vs. Norway & Mexico vs. England: How to Watch FIFA World Cup Matches - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pckNoaDlqNHBpeFk5Y21DbEN0ak9jOG5XUnVSVVhOZXlBRzNkNUNkVFkzSGpyOWxkVDBGc1c3V01lSjQxcmQ5R0hLSlVkYW91RlZNQUNB?oc=5",
-      "domain": "www.imdb.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 06 Aug 2026 00:24:36 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Norway",
-        "Mexico",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
       {
-        "title": "FIFA World Cup 2026 – Round of 32 – Cote d’Ivoire vs Norway - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbFkxcExIVHl2cHd0X3FkNHhQRzF1dWlFaVpsMWZ5OW96TmxNejlRMHdaZlM5MzNlcm1CMEpBRHNDTDk5dkNXdlRKb0l6S01rbXdyam1tN0kwODJpOVlLbzJBV2JfRHJyWEpSZG5YNjBvVVBwdmtiRnk3ZHdYWmt5QUE5ZVpFaEJQemlQa2MyTmN6MTNpdGFlaVJkTXFINmkwekQ1SnNrbGFFQ0FrbXFXeXlhcFNVZzhuOXhUMHdDaFRJTjNYb180Vzh6V0o2eTFWQ1lnM19XRHFKa1VNX3ZkbHNEaVBMMmNNRExUVGVpTjBUUFhKeWt5NUdscUlYZG04Q2pqRFZwN2Y5djAzMGZYdFpB?oc=5",
-        "domain": "elheraldodesaltillo.mx",
+        "title": "CôTe D'Ivoire Vs Ecuador | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2hVNm9lOUgyQVlVM1NCNWNhSFpoVDZyVWZSTzNqMzY0c2lZM3k1b2FUZ2xDdkZ6YmViTmtIaEZzVDBNdEREVzhtNzVfYjVkcXdMTzVQRFZYMUZXcGJIeFZpbzQ4WXBLeVJ6TVd0eUpkakx0RXRQTlh2eVFCQ1NjWDJmSVNuNnFCdUVsZXpoaHh2OHZqTFE1Z21oQmtyeG5hbEd5amUyak41UHZuTmlna2xQUFdPQU5FWEpCZUQ3UmtOWUNRUHdYNWpIcjRHMlRf?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "seenDate": "Thu, 18 Jun 2026 22:55:54 GMT",
         "image": "",
         "matchedTeams": [
           "Ivory Coast",
-          "Norway"
+          "Ecuador"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -479,6 +478,21 @@
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
       {
+        "title": "Mexico Vs Ecuador | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1JFV0VlM0N1MnIwOGtxTFJ2NmlhanBRZHlUanFac2lpaEh0V0RIbTRyQU52TW5MQl8zeVpQeHJNYlhfN3pkQUdqZU1RM0xyVF8tTjhuRFVhUjdfcmt2MjZTVzZkbDZVUGtwUFBhbjhrRDVUT2RmS2FVczQ4LXBBbk1sSkt4bzBBZ0c0RFFveVB1TWVYbUE1STJDRGN0TndOY0RoRFFMSFZGenQ4c0VJMm1vVWVsNEtVVW1kdUdERHQ?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 21:11:04 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
         "domain": "www.infobae.com",
@@ -545,21 +559,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
-        "domain": "www.telemundo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
