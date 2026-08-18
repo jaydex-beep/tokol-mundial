@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-17T18:56:24.280090Z",
+    "updatedAt": "2026-08-18T01:49:57.981133Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -51,20 +51,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-      "domain": "www.tvazteca.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
       "domain": "www.infobae.com",
@@ -109,6 +95,35 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
       "domain": "www.infobae.com",
@@ -124,9 +139,9 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
-      "domain": "www.telemundo.com",
+      "title": "Gilberto Mora hace historia: roza un récord de Pelé tras ser titular con México ante Ecuador en el Mundial 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcW8yOHo4WlM4TXdSLUJZaFJkMzdvblJKZkJWdko4LWl3bVNvbUFuVlVSY29uMXdic0Z6bktmODZIekVGLWV6d1ppTDNnRng4cUZNVW9KeDNZSE9tekRPRWx2dDNhMmxQNi1DUV94S3V5UzVESGpnbnlqT2pPWGdrZGphMVNlZk9wUXh3dHpVSW9kNjJiR1FGSUxvaU5xOGtwVnNqSFhNSVhyTEF5blBfNXRiWU9yQmRMOXBfLWpoR1FrOW9EN01UQ0prM3cySjN4dkRQQlU3Z0hQd2ZPZmd4cURaNGxxendaMUpJbFlhSlV3aFBU0gGPAkFVX3lxTE1mOHNSNFFUNGcydW5SMlI5VFJ2T0tDXzA4UjdQMG1Ebnh0NmpkaUVoakpTSG5yOXBvbmZXQ3VrUjJBeUExZ2gycm9xOXhpcmV1eGdVM0RvenRLQUhEQVJ4dmNUN3I2MkM0aDVMekpIeTJpWjN4YTRiSm9Cc294N0ZjLTZmcng5Rk9lR2Z5dTQ4Tng5ZTF4MXFXWlc5bWFWTUhwLU1HVktyZUZzcDZ2UUNXQU52czdFSXZsSnBLd0xsek85OWJGUlY0MnhFdlVFU1pwSE5ORlBqRTlhenVueDZHenBpVVZEbWF3VV9GcC1kTmlDLW1OdVhvU18tNzRHNnlHQ0c0SGUzNXlNek1ZbGM?oc=5",
+      "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
@@ -139,27 +154,27 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "FIFA World Cup 2026 – Mexico vs. Ecuador - El Heraldo de Saltillo",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYm5TXzJYNHVDVkJMemR1MHlzaGRDQm0xWE5aOGUyd3BieVNGcEVLQVdqc2hwd29lQThwbGk0anQ3c0RxWnp5YUs1Z1lIVTc2TTd2ZkZYSDdLdlY2bU81THdiSUZ4dmdudjBRWl83aUZmc0xCUnlIV3J0SkxyR0FyQ2dadWlGV1E3SndsZUNicWNKVGMxQmZQM21WZHoxMEM2UGV4Q3dxNDF0SjNfelRDMnNCVW1laGhwTUhNSDBVY2psTWFMTVEteEZ1R3VvM1N0?oc=5",
-      "domain": "elheraldodesaltillo.mx",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-      "domain": "www.goal.com",
+      "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
+      "domain": "es.concacaf.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium",
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
       "image": "",
       "matchedTeams": [
         "Belgium"
@@ -211,6 +226,36 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Jarell Quansah suspendido por dos partidos tras ser expulsado ante México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1xVEE0QkFRQWVnYWo1RVRsNHlLNEQ0YVRNY0xJQXg3QVhHcFg2RVBJSW1XVHZobUlTRUhZWW55WWpITk9CZU1hU3lwY1RRUVpSanUzcm5vUTlqb0NrcXNIWGl6cnlOMFNSUXY4Y3UyYng5T0xmaGt1OGcteFFBb0hUSDJnRkpiZF9faVd6ZzNzczRZWW5UZnBTVFNWS2NDel9ad1dCVEN6THZxX25rNVNLSFpaZDNKeERtSlR1bWVhVUY0MDhDenFHdWpsdWsz?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [
+        "sanción"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
       "domain": "www.goal.com",
@@ -221,21 +266,6 @@
       "matchedTeams": [
         "Belgium",
         "Senegal"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 03:51:29 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium",
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -256,45 +286,15 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbERyZlJrSEtfb0FQVWlZbzVTcWg4dHI2S1JsS2NtVDR0UWxCeWlZTTBheExDNlNDeUI0SlhYUDh6WUtGTWJER1JaZmJwNmlyZlZLM0hJZ1YzMFp6UTZzZVo3YlAwTjVfRkNFVDB4YmlsMG9IeE5kcEcxdE9fR0hkcWt5M0c5SkZCQ2hCcG5oa2c2MEJYcTFsYVlrMVFZbm8tOTFITEtCYUNidjh2eVIw?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "¿Cuándo juega México su siguiente partido oficial? Fecha y rival del próximo partido de la Selección Mexicana - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVFXM0Rsd2Vla0owU0xmNXEzcUxXZ2gtWE5QdFNVQkR6d1Z5WDVMYWJhbnpMWmRJWG5OekIwUEdTV3ZZYkhfZkYxUm5waDVnN0c4VnpkT21JTHJKbG9idjdWNlJyWmxVS29WMXpTRFNYMlBra2ZtdFJKbWJkS2Y2TWI0Nzh6S3ljcFhVblVQRk42em1NbldZXzd6Q01zVGxLcjBZRHY5WWw4OU5aS2tTbnNwM0lHblVuVWpobWxFa3jSAc4BQVVfeXFMTll4TWZYTHdHNENIUER2WUdKcnp0cFY4TEVCYjlGZC1VNHBTX0tKQUdNSEZlZTVMb0FlWlRXbXlsNHRXV1ZIUnN6STJNdGdtcldscllGdHVvWklORWlrYlB3bmduOWRScjRwWDItN0RZR2JvcWxNTjFZRzFpbWFDQWd5YnB4bHV2aVZCNUYzdjdPZ3c3QXdYMFhQWnpPaTRaYndqdFZ2SjBGMmZBVjBKa2IyZThuSkVWRENqSDN4WGI3UGlTX3pZd3dtWWszQUE?oc=5",
+      "domain": "www.tvazteca.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sun, 05 Jul 2026 00:13:42 GMT",
+      "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "France"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWm1hb2RlankwQ0VxMnpxQzVrM1pBbkdKMlBLYkZzTDR4ck9fdmY5ZFJtRm9ScU95YWVpUzRJSTAxLU0xUVZ3d0ZNYkU4VXNuWG53Ni1IeFkzWWJYWUVkcVZFZk9uSF82U1BSZGZvWUJiQ3hiR0stczZXZGN0dGlCdkhQekxkMXZYWHhzb0Q0NVVkWkpiNDdBZ25KYi1kOFlrSS1jNTdzekY5cW1Namx5d3pYeHhUWm4wU29Cc0R3?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 27 Jun 2026 00:08:54 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Ivory Coast",
-        "Norway"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "England"
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -313,21 +313,6 @@
         "matchedTeams": [
           "Ivory Coast",
           "Norway"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Norway Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczVEUkR6THQ3c1dfVHU3WGF5WjZ5Tk00cEk1OHJHWnNsbzdTMUhXLWxHd3pXLUNQbmF2MnNZVFJTZHhyTDRYVzQ4SV9aNGpDS0FsQmFXSFdCTlRKakJSWmtkM3U2TkhvVFU4a1NKdVdwcFJ4RGZxNXdqX3E0ZkNsTUJjdm1UeE5uN1dCVEhTU29BLUI0Y2lRckkxdW9FX29oekRDS0M3Q0k0VlM0Q2pz?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 03:45:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Norway",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -386,6 +371,21 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNWgtV3hiUkZRX0hBcm1jcUx5Sml3Q1lhbVRPVlV6ck9DcTVhZVI5Z1g0WDY3Mm83eEFGT05qejBzdWNhTlVFODlyMVR6LVJTbWVTcGRHT3M5TFlIMkV2SnRPZXItbGs2dXdYOTVienJwWEtFWllYSUs1TW5IQVJXSHFFZWpOWWdpakxEMDBlSDNuTEFUMUlRRXBnelN2WUpubzcxbEFFX3hCS0JXWXdMZFVINHhLNVBMZ2NuNVR4eHlocVRIQ291Y3AzWEdZMlpPd1pBT2h3M09JYWJXLUQxekJDS0hBRlBkLWhTYThJX2F3SE1TVUpiVjhMd2tpNk1TVm1WR2NEelNseHBXY0hkQlNkenVjbWFFOGlnV3kyZDRMNnZUd1dEV2FOaTNZQ3BrVEtBandZbHdZdHFhSnQ0NUxXWVAzSW1NRTM2bUs2Q3VhRnBlZlpfSDBIakZZUXQzRVdwMUp3NzVMQWI0Zk82dWdlUG1vam9nMHBNbnlPNlRVYld0aHVFaWZjVF9JMXhGd2NqbDNkVVJjWDA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 12:03:12 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -495,9 +495,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup 2026 – Mexico vs. Ecuador - El Heraldo de Saltillo",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYm5TXzJYNHVDVkJMemR1MHlzaGRDQm0xWE5aOGUyd3BieVNGcEVLQVdqc2hwd29lQThwbGk0anQ3c0RxWnp5YUs1Z1lIVTc2TTd2ZkZYSDdLdlY2bU81THdiSUZ4dmdudjBRWl83aUZmc0xCUnlIV3J0SkxyR0FyQ2dadWlGV1E3SndsZUNicWNKVGMxQmZQM21WZHoxMEM2UGV4Q3dxNDF0SjNfelRDMnNCVW1laGhwTUhNSDBVY2psTWFMTVEteEZ1R3VvM1N0?oc=5",
-        "domain": "elheraldodesaltillo.mx",
+        "title": "Gilberto Mora hace historia: roza un récord de Pelé tras ser titular con México ante Ecuador en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcW8yOHo4WlM4TXdSLUJZaFJkMzdvblJKZkJWdko4LWl3bVNvbUFuVlVSY29uMXdic0Z6bktmODZIekVGLWV6d1ppTDNnRng4cUZNVW9KeDNZSE9tekRPRWx2dDNhMmxQNi1DUV94S3V5UzVESGpnbnlqT2pPWGdrZGphMVNlZk9wUXh3dHpVSW9kNjJiR1FGSUxvaU5xOGtwVnNqSFhNSVhyTEF5blBfNXRiWU9yQmRMOXBfLWpoR1FrOW9EN01UQ0prM3cySjN4dkRQQlU3Z0hQd2ZPZmd4cURaNGxxendaMUpJbFlhSlV3aFBU0gGPAkFVX3lxTE1mOHNSNFFUNGcydW5SMlI5VFJ2T0tDXzA4UjdQMG1Ebnh0NmpkaUVoakpTSG5yOXBvbmZXQ3VrUjJBeUExZ2gycm9xOXhpcmV1eGdVM0RvenRLQUhEQVJ4dmNUN3I2MkM0aDVMekpIeTJpWjN4YTRiSm9Cc294N0ZjLTZmcng5Rk9lR2Z5dTQ4Tng5ZTF4MXFXWlc5bWFWTUhwLU1HVktyZUZzcDZ2UUNXQU52czdFSXZsSnBLd0xsek85OWJGUlY0MnhFdlVFU1pwSE5ORlBqRTlhenVueDZHenBpVVZEbWF3VV9GcC1kTmlDLW1OdVhvU18tNzRHNnlHQ0c0SGUzNXlNek1ZbGM?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
@@ -525,7 +525,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - informador.mx",
+        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - El Informador",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbFRhLUdoR2ZodTF4NXBYczJxTlZIaGphV252M3pZOVpPYmlSQTItNjJuYU1vSEpDSWhCd2tna2NoaGNQX19namtpcjJYT0xIak9DeFFJVzhUOHRWVTlsYTN5a216a1hMTjBkc2VSV1h3dVRDeDB2SUdFdGd6SEpKUzBWa2FVYVRHWXJYVmhSbWZIcDJfdTJKZmFvMFJld0JtcXJ4N2VNVjRNTTNsSUlkTlBXNjQ0VjdPRGJpSlBZOUo0MkduQ3ZTaXdOVG5aSmo1RlBkRGs1QkRBMFpuMDBNLWFxdFJtNjZlQlIzQ2lBT2lOcEFjd1dqWVlGOVYzUzBZamFtetIBigJBVV95cUxNV0F6dloyWUJvY0pZNmdTel9DUkxZS3lsRmZqQnJnVjRDTzJfZzR5NXpMdnN3WXN4TXBwMjN6S0VIcmk2VVBaUXlUVHA1RENxMzZ0Snpva3ZMelpPbllWdVdoNDJoWVRUZmxXa2VUYkg5VXFvdUtYeEM1SW5WMVNfSDExdmxOMThlTUgxckxmTlF3LTZkenNHQnpaaHhZeURZVDNqOGdzckxZZVBLVFNEQ05aa2Rja0Y3RXFwa1B6UWt5NVdMWUV5U0hOZUlGWEtpY010OEhfSnR2RjBMZHFPYW5ndnZlWW1wS1ZXajcxck1qRVVGMkxYandqNFVwOE9pVV9wYWdKWjUxQQ?oc=5",
         "domain": "www.informador.mx",
         "language": "Spanish",
@@ -555,18 +555,19 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
-        "domain": "www.telemundo.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "Ecuador"
+          "Mexico"
         ],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -578,6 +579,21 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -617,41 +633,27 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "England Vs Winner Quarter Final 4 | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVEpZNjF1aFlSVVBfbUF5SkhLX2lMcG16Vm9fRnpFZG9Nc2xxVjRoR0JRMmQySGdabTM5Ym9EVXFjaldBTnZ1LWVxcjhZdlIxLXBnelYzZ2ExVUd4MzVmSm9xQjJ3QjRza2NKZ0w5cFpiTjBRLXhvaDJPOWpnZkxpQTNLVndsekNZMUZBU1BXeDQxQ05MbzFDWVFqenY2endrdVBNM2lHa3RIaVkwYUtBMWVXZkhJdlJrNmNfRDlEM3BScldJeWt6elB1ZDBTMWIwUlI2cVln?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Mon, 20 Jul 2026 13:22:47 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Norway Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczVEUkR6THQ3c1dfVHU3WGF5WjZ5Tk00cEk1OHJHWnNsbzdTMUhXLWxHd3pXLUNQbmF2MnNZVFJTZHhyTDRYVzQ4SV9aNGpDS0FsQmFXSFdCTlRKakJSWmtkM3U2TkhvVFU4a1NKdVdwcFJ4RGZxNXdqX3E0ZkNsTUJjdm1UeE5uN1dCVEhTU29BLUI0Y2lRckkxdW9FX29oekRDS0M3Q0k0VlM0Q2pz?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 03:45:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Norway",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -692,30 +694,30 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-        "domain": "www.goal.com",
+        "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Belgium"
+          "Belgium",
+          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
+        "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 03:51:29 GMT",
+        "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
         "image": "",
         "matchedTeams": [
-          "Belgium",
-          "USA"
+          "Belgium"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -768,12 +770,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
+        "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 03:51:29 GMT",
+        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium",
@@ -792,6 +794,20 @@
         "image": "",
         "matchedTeams": [
           "Mexico",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
           "USA"
         ],
         "tags": [],
@@ -825,20 +841,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -917,14 +919,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1004,14 +1008,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1091,14 +1097,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1178,14 +1186,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1265,14 +1275,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1352,14 +1364,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1439,14 +1453,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1526,14 +1542,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1546,6 +1564,21 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -1585,41 +1618,27 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "England Vs Winner Quarter Final 4 | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVEpZNjF1aFlSVVBfbUF5SkhLX2lMcG16Vm9fRnpFZG9Nc2xxVjRoR0JRMmQySGdabTM5Ym9EVXFjaldBTnZ1LWVxcjhZdlIxLXBnelYzZ2ExVUd4MzVmSm9xQjJ3QjRza2NKZ0w5cFpiTjBRLXhvaDJPOWpnZkxpQTNLVndsekNZMUZBU1BXeDQxQ05MbzFDWVFqenY2endrdVBNM2lHa3RIaVkwYUtBMWVXZkhJdlJrNmNfRDlEM3BScldJeWt6elB1ZDBTMWIwUlI2cVln?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Mon, 20 Jul 2026 13:22:47 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Norway Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczVEUkR6THQ3c1dfVHU3WGF5WjZ5Tk00cEk1OHJHWnNsbzdTMUhXLWxHd3pXLUNQbmF2MnNZVFJTZHhyTDRYVzQ4SV9aNGpDS0FsQmFXSFdCTlRKakJSWmtkM3U2TkhvVFU4a1NKdVdwcFJ4RGZxNXdqX3E0ZkNsTUJjdm1UeE5uN1dCVEhTU29BLUI0Y2lRckkxdW9FX29oekRDS0M3Q0k0VlM0Q2pz?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 03:45:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Norway",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Javier Aguirre da su postura sobre el posible CAMBIO DE HORARIO vs Inglaterra de octavos de final del Mundial - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUG9OcjgtNU9yNjU3UDhfRHRfYmRGUW9nU0VwS2YwMHRyY2tNLUVBTnI3UnAwTFJvMzVfLXlnT2Z3UV9acV81eEFtcDBhZk1scXdEcEZRdGdhVTU5a293bE1PRHJtOTBMenVBY2VTNHhMM19GVmhHNVFVWTVkQk02eW9rczI1N2g3Mm9kUGJ1cDZXckg2TV82Y0hSVWlqWjllYWRvdEFDY3h3VDV5NC1Sa1U1R0NiRXZBYkRuVEV2UXBpZjJ3YmfSAdMBQVVfeXFMUDBLSDlYd3ZjQXUtQzh2b3RFLXNaYWpseGJrNjdvbkpzM0E5eU8tU3lHRzZ2UTNFMFNhWEltWnp2ZkY5SkNBZDdFTFh2ejNvbDhqS04xai1ZbFJ4Y1dKMDFxWFd3dVI0blpGNHg0ZHBoYjNFYk83YUNMWHVDdjZ6UDhNVV9HOXpkZnJyWXR5ZDRrWm80TmhKbTZ1M3lFZTZ2ck5JYWc2bmRkTFdlN0NRZm5mc0UyX3NiMUdabmpmQlhjTU55aG1GS1o3WGxyQzJYNGZzWQ?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 03 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1703,14 +1722,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1790,14 +1811,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1877,14 +1900,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1964,14 +1989,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2051,14 +2078,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2138,14 +2167,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2225,14 +2256,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2312,14 +2345,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
