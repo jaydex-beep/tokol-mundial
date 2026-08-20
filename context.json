@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-20T13:10:30.151437Z",
+    "updatedAt": "2026-08-20T18:58:10.410080Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -196,20 +196,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Ver Senegal - México Online en Directo | DAZN MX - DAZN",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkREY2p0eWxHdHBsam9FWWZob0ZVWktpcnZIMEhxenAzdFlTZ3FrTGFnUVRPNjAzczNVclc1R0czcEtycVEyejlaMy03TllfUFNJWHZVZFVFVk9qUlAwLTd5UktNM29jX3RjeGFUaS1KNkZac0tLTS03N2JHb2FPX1R3Y2hrd1o4elZDc1VR?oc=5",
       "domain": "www.dazn.com",
@@ -292,6 +278,21 @@
       "matchedTeams": [
         "Belgium",
         "Senegal"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 03:51:29 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium",
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -709,20 +710,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
         "domain": "es.concacaf.com",
@@ -747,6 +734,20 @@
         "image": "",
         "matchedTeams": [
           "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
