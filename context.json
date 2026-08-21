@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-21T13:09:42.141154Z",
+    "updatedAt": "2026-08-21T18:55:05.037640Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -36,6 +36,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+      "domain": "www.imdb.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
       "domain": "www.goal.com",
@@ -46,20 +60,6 @@
       "matchedTeams": [
         "Belgium",
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-      "domain": "www.tvazteca.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -95,21 +95,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
       "domain": "www.si.com",
@@ -124,8 +109,8 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
+      "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
@@ -133,8 +118,7 @@
       "image": "",
       "matchedTeams": [
         "Mexico",
-        "Ecuador",
-        "USA"
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -165,6 +149,20 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "No es Harry Kane: Al-Hilal abre sus arcas por un delantero de Inglaterra - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczFNM0hXUVpSQVVoR21pU2xDNmczNXVCMm9rMV96Y0pDTnk3Q0ZQU3RXSmRLSTVCaHBraGtQY3BwT2VHbWd3OUVfQWRlYjlTaFRpU1J0N216M2x5ZkdPV29kQ2RqOU9TRkxUTXR4aGlmVGc1cjhkNHc0T3Fvai1RQm1SSjF5VUN5ZVkybnBSV0ctUm9aUkpGT2Ytb2l3WTBOSHU0R18tdlBnWE9HZmROcWJpOEtxcmNTUDl6bk5fRXlyQQ?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 18 Aug 2026 20:51:57 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -227,34 +225,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkJwTWgzQ1R2T1pIU2JUaDR1QW5CQjRmdER6UEpHSjFRalVoQnloRDA5ZEF4VUdabFRPbFpnLVFsc294OFltWk1BZF9DdHdUQzVzOW9JZGZRT25DM0pFS3h5Uk9neGR0aFpQNmF4VTdxOUpsaEdNczRUQmtlYzkybGZYX2dTclhGU2RybUxYQnVSdG56UjZUcEVmUHo2eHdxZlNuNU5oVFQtb1BOaENxb0MyT25UWUx3UWR0TDR4bndMd9IB3AFBVV95cUxNMnZmSkRkVk9OeE40SUNBN195cm04NnZET2N2VG9WeGpmaXBvb19YVUxsOTA2VFhzMnFBbGpNejBLcHJTVDI5MGc4TDJTemVsUlNwRVJnNFhGVER3V0wwbGM2a0N4UExnTXhDU3FPcHlUZld3SllvekFuU2RpWHo2RF9NNmRKY212ZjIxVl93ZlBGMVJ5ZEphdll4aWRKWmpZWTJUaWZJXy1TZFpfMkZCYUtuYlhFY3RCaUI3dWx4YlFrX3E0X2lac25HOXMxVjdmTnJWWWtwd1NtX0NI?oc=5",
       "domain": "www.infobae.com",
@@ -293,6 +263,35 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium",
+        "Senegal"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -360,6 +359,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -373,23 +386,23 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
@@ -463,20 +476,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
@@ -541,22 +540,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -570,6 +553,20 @@
         "tags": [
           "sanción"
         ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -712,34 +709,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
         "domain": "es.concacaf.com",
@@ -750,6 +719,34 @@
         "matchedTeams": [
           "Belgium",
           "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Oficial: una leyenda de Francia, nuevo entrenador de Senegal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXZqbG50clpjUjJ1bnc4LUh0djh0X2ltdGlCbTgzSFpmWDVxQlhDbm1acDVoWDRRMFdGSDYwekpMd0g1YW1pZ2dEQ0RoYUdpMTBYQXJSdGhhckZaWU5KdDFBRXA2RmRDMjhQX0hLeU1WQ25KaUhCLVZSNngwMjZBNXNVZWxfZ1ZTczB4YUVqQ2lmNE9QVWQtc1c3M2FYTGtCcS1CeHV3QVJaTDV1SnU5VFNSMGI?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 18 Aug 2026 13:44:01 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -802,22 +799,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "A pesar de la incertidumbre sobre su futuro, Rashford causa admiración en el Manchester United - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM0VvbklfZDg2MkFpU0N2djBuSTFSNGNYUUFYeHBCT3RIdUN1RE1TRG42VkpYVEI0X2FZVG02ckgzeUk3UnhyZ081NGJaanFQbmtnRFprV3k1Z0ZCRmxyQ09PREg4TFl4WXQ0VmdfWFYzMnFnNmtRUkNDWkU1UGtpa2ptRzYydTE3anBPZGY2NXktc1diZlBmN2ZoNkpnbzIxUmRMLTQxNHdjdnF2VTI3eVlrcmdfLVV3c05lODBxLUFpcVpkbllld2hKWU03VExEbjNvSnJiWFM0RWlxT29JbnR4SQ?oc=5",
         "domain": "www.goal.com",
@@ -843,6 +824,22 @@
           "USA"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -892,6 +889,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -902,20 +913,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -982,6 +979,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -992,20 +1003,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1072,6 +1069,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1082,20 +1093,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1162,6 +1159,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1172,20 +1183,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1252,6 +1249,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1262,20 +1273,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1342,6 +1339,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1352,20 +1363,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1432,6 +1429,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1442,20 +1453,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1522,6 +1519,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1532,20 +1543,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1704,6 +1701,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1714,20 +1725,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1794,6 +1791,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1804,20 +1815,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1884,6 +1881,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1894,20 +1905,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1974,6 +1971,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -1984,20 +1995,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2064,6 +2061,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -2074,20 +2085,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2154,6 +2151,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -2164,20 +2175,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2244,6 +2241,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -2254,20 +2265,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2334,6 +2331,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
+        "domain": "www.imdb.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 15:19:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
@@ -2344,20 +2355,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
