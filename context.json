@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-21T01:56:34.926291Z",
+    "updatedAt": "2026-08-21T07:06:42.081224Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -197,6 +197,34 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Ver Senegal - México Online en Directo | DAZN MX - DAZN",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkREY2p0eWxHdHBsam9FWWZob0ZVWktpcnZIMEhxenAzdFlTZ3FrTGFnUVRPNjAzczNVclc1R0czcEtycVEyejlaMy03TllfUFNJWHZVZFVFVk9qUlAwLTd5UktNM29jX3RjeGFUaS1KNkZac0tLTS03N2JHb2FPX1R3Y2hrd1o4elZDc1VR?oc=5",
       "domain": "www.dazn.com",
@@ -263,36 +291,6 @@
       "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium",
-        "Senegal"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 03:51:29 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium",
         "USA"
       ],
       "tags": [],
@@ -407,6 +405,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2026 3rd place playoff – France vs England - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVGpPOHdNV3Ztck9VR2NhNVc3aTUwM1pyWGx4bkRQbk1Ba29fcjZLNXpwLUFQVkg3YXYza1dQSEd4VUFodTFlc0pRWFNWNGl5RUVmUkV3a3VvckZobEdLVUh3aUdqSnZzWWNYMDhsM1p1TURjNmQyOWt0LWpmQ3RscnNIT2NUR2hDUlVDUEdSNUprak01SmZaSFJ6ejVIVlFKLTZTMkphR09wQUtkOGtpNmJkQWdjOWN1aFBUQ1ZiTGhCUG1GcE11LVZyZldPb0FRUUhJNFlBUW1Nd1NxWlpLWU9mOHFfN045amd4Mld4dDBlbXV4RWlSMXpJOEczTFNEdE0tbGJBX3AtRkdpMjZnMURQN1VXVmJ2RXhB?oc=5",
+        "domain": "elheraldodesaltillo.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "France Vs Spain | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWM5QXZBc2JZTTNRdmN5eG5zMk40U2FNbHljSEdVV3FGaERCTEE3amJaTkluT0N2ejVJeDVuNndZQUhVaTRoWkVwQVhGVVZremRWMGpBLU5oZF9JaUFBRmJBbU52c1NnY2sxaVNXOXR0aWtWODhkQ0kxMWZzSXdPcENfRW04UVJQY2Rzd3dFVFJ0SkJNTTB4b0lIU09ReEwxSmNjaUJaSi1rVEow?oc=5",
         "domain": "es.concacaf.com",
@@ -462,20 +475,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -633,15 +632,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA World Cup 2026 3rd place playoff – France vs England - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVGpPOHdNV3Ztck9VR2NhNVc3aTUwM1pyWGx4bkRQbk1Ba29fcjZLNXpwLUFQVkg3YXYza1dQSEd4VUFodTFlc0pRWFNWNGl5RUVmUkV3a3VvckZobEdLVUh3aUdqSnZzWWNYMDhsM1p1TURjNmQyOWt0LWpmQ3RscnNIT2NUR2hDUlVDUEdSNUprak01SmZaSFJ6ejVIVlFKLTZTMkphR09wQUtkOGtpNmJkQWdjOWN1aFBUQ1ZiTGhCUG1GcE11LVZyZldPb0FRUUhJNFlBUW1Nd1NxWlpLWU9mOHFfN045amd4Mld4dDBlbXV4RWlSMXpJOEczTFNEdE0tbGJBX3AtRkdpMjZnMURQN1VXVmJ2RXhB?oc=5",
+        "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
+          "France",
           "England"
         ],
         "tags": [],
@@ -671,21 +670,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0FJRC1lbVVzWlpZRnBTbzZaS1ZVU1hiaXlNb0MxNkFiZlJfRklFcXc0bGZ1TDJHdkJTWUNtcWdrMzBHSU0wTWg4UGwxRkpjSF9ZWGNsRVd3RVk4T2U3a3drcW40a0k4R29haHRTbmNQbjBUSTJWQ3N5djFWZ2lWY1JoWWNnSHpJWnNlWlpBcUl6SWQ3bEszRUVRQzRWdlpsRHd5V1puRU9ZelBjUElOdg?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 28 Jun 2026 05:15:26 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium",
@@ -725,6 +709,34 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
         "domain": "es.concacaf.com",
@@ -735,20 +747,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Oficial: una leyenda de Francia, nuevo entrenador de Senegal - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXZqbG50clpjUjJ1bnc4LUh0djh0X2ltdGlCbTgzSFpmWDVxQlhDbm1acDVoWDRRMFdGSDYwekpMd0g1YW1pZ2dEQ0RoYUdpMTBYQXJSdGhhckZaWU5KdDFBRXA2RmRDMjhQX0hLeU1WQ25KaUhCLVZSNngwMjZBNXNVZWxfZ1ZTczB4YUVqQ2lmNE9QVWQtc1c3M2FYTGtCcS1CeHV3QVJaTDV1SnU5VFNSMGI?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 18 Aug 2026 13:44:01 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Senegal"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1625,15 +1623,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA World Cup 2026 3rd place playoff – France vs England - El Heraldo de Saltillo",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVGpPOHdNV3Ztck9VR2NhNVc3aTUwM1pyWGx4bkRQbk1Ba29fcjZLNXpwLUFQVkg3YXYza1dQSEd4VUFodTFlc0pRWFNWNGl5RUVmUkV3a3VvckZobEdLVUh3aUdqSnZzWWNYMDhsM1p1TURjNmQyOWt0LWpmQ3RscnNIT2NUR2hDUlVDUEdSNUprak01SmZaSFJ6ejVIVlFKLTZTMkphR09wQUtkOGtpNmJkQWdjOWN1aFBUQ1ZiTGhCUG1GcE11LVZyZldPb0FRUUhJNFlBUW1Nd1NxWlpLWU9mOHFfN045amd4Mld4dDBlbXV4RWlSMXpJOEczTFNEdE0tbGJBX3AtRkdpMjZnMURQN1VXVmJ2RXhB?oc=5",
+        "domain": "elheraldodesaltillo.mx",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
+          "France",
           "England"
         ],
         "tags": [],
