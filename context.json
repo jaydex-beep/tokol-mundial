@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-26T01:57:07.229523Z",
+    "updatedAt": "2026-08-26T07:08:02.587991Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -45,6 +45,21 @@
       "image": "",
       "matchedTeams": [
         "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium",
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -278,21 +293,6 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium",
-        "Senegal"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -371,14 +371,17 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -673,6 +676,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
         "domain": "es.concacaf.com",
@@ -729,23 +747,24 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
+      {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
@@ -819,20 +838,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
@@ -895,6 +900,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -903,20 +923,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -981,6 +987,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -989,20 +1010,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1067,6 +1074,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1075,20 +1097,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1153,6 +1161,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1161,20 +1184,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1239,6 +1248,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1247,20 +1271,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1325,6 +1335,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1333,20 +1358,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1411,6 +1422,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1419,20 +1445,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1497,6 +1509,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1505,20 +1532,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1675,6 +1688,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1683,20 +1711,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1761,6 +1775,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1769,20 +1798,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1847,6 +1862,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1855,20 +1885,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1933,6 +1949,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -1941,20 +1972,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2019,6 +2036,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -2027,20 +2059,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2105,6 +2123,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -2113,20 +2146,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2191,6 +2210,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -2199,20 +2233,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2277,6 +2297,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
@@ -2285,20 +2320,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
