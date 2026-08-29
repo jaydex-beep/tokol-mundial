@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-29T07:03:14.253678Z",
+    "updatedAt": "2026-08-29T16:42:32.588382Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -139,22 +139,8 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Brazil Vs Norway | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmphU1A2czRsaHVQc0hFQ0M2S3p4dkczMnhkUHhrOXBoQVdfSE5ORV9fWnl5bEI2MnBVZ3VLYXlqa0Z2a1QyWWJWVkRESmJXelJ4Y1ozWVNPYldXZExSMW43Yk1WSnRHX1NEYk1pSnBCbjhoWm9Dc0xNTHBjUWFDRnJOdHpGbUVXT3dTWG9ZeG9fUFVuOEx4NTJuWHN6QVNzc213VzI3TmotWEFIS1E?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 20:06:51 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Norway"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlE?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
@@ -294,6 +280,20 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Jiménez marca su primer gol en una Copa Mundial y México vence a Sudáfrica - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkVsSzNUc0c5QWI1eTZsTmt0X3h6WHZwdzZzUEl5aE1zWkpRckRPOHgwQmdzM0dURThzU3pPOUdHUjJKZE03MjdPRXNLOXdNVnFvVU5UUDhfaXdPQldGRVVTdmFSZWNIQm5ETDRTUzU5Q0xTc213SWctaENzQVdiZlduMDdNbFhTcjRKUjhfam9jNUhhb2hKOFdFV2RSVHBwQUxkV2dDWk00blY0dEI3OXN5SFNnb2lSSnI4MWwtajctWV9XcjRjekctWQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -308,20 +308,6 @@
         "image": "",
         "matchedTeams": [
           "Ivory Coast",
-          "Norway"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Brazil Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmphU1A2czRsaHVQc0hFQ0M2S3p4dkczMnhkUHhrOXBoQVdfSE5ORV9fWnl5bEI2MnBVZ3VLYXlqa0Z2a1QyWWJWVkRESmJXelJ4Y1ozWVNPYldXZExSMW43Yk1WSnRHX1NEYk1pSnBCbjhoWm9Dc0xNTHBjUWFDRnJOdHpGbUVXT3dTWG9ZeG9fUFVuOEx4NTJuWHN6QVNzc213VzI3TmotWEFIS1E?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 20:06:51 GMT",
-        "image": "",
-        "matchedTeams": [
           "Norway"
         ],
         "tags": [],
@@ -384,23 +370,21 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      }
-    ],
-    "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      },
       {
-        "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbERyZlJrSEtfb0FQVWlZbzVTcWg4dHI2S1JsS2NtVDR0UWxCeWlZTTBheExDNlNDeUI0SlhYUDh6WUtGTWJER1JaZmJwNmlyZlZLM0hJZ1YzMFp6UTZzZVo3YlAwTjVfRkNFVDB4YmlsMG9IeE5kcEcxdE9fR0hkcWt5M0c5SkZCQ2hCcG5oa2c2MEJYcTFsYVlrMVFZbm8tOTFITEtCYUNidjh2eVIw?oc=5",
+        "title": "FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 00:13:42 GMT",
+        "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
-        "matchedTeams": [
-          "France"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
+      }
+    ],
+    "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
         "title": "France Vs Spain | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWM5QXZBc2JZTTNRdmN5eG5zMk40U2FNbHljSEdVV3FGaERCTEE3amJaTkluT0N2ejVJeDVuNndZQUhVaTRoWkVwQVhGVVZremRWMGpBLU5oZF9JaUFBRmJBbU52c1NnY2sxaVNXOXR0aWtWODhkQ0kxMWZzSXdPcENfRW04UVJQY2Rzd3dFVFJ0SkJNTTB4b0lIU09ReEwxSmNjaUJaSi1rVEow?oc=5",
@@ -472,12 +456,26 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
       {
         "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
