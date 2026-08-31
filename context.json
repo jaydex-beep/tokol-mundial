@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-08-31T05:31:49.994881Z",
+    "updatedAt": "2026-08-31T13:46:02.092161Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -45,6 +45,20 @@
       "image": "",
       "matchedTeams": [
         "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -281,24 +295,25 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Jiménez marca su primer gol en una Copa Mundial y México vence a Sudáfrica - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkVsSzNUc0c5QWI1eTZsTmt0X3h6WHZwdzZzUEl5aE1zWkpRckRPOHgwQmdzM0dURThzU3pPOUdHUjJKZE03MjdPRXNLOXdNVnFvVU5UUDhfaXdPQldGRVVTdmFSZWNIQm5ETDRTUzU5Q0xTc213SWctaENzQVdiZlduMDdNbFhTcjRKUjhfam9jNUhhb2hKOFdFV2RSVHBwQUxkV2dDWk00blY0dEI3OXN5SFNnb2lSSnI4MWwtajctWV9XcjRjekctWQ?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWm1hb2RlankwQ0VxMnpxQzVrM1pBbkdKMlBLYkZzTDR4ck9fdmY5ZFJtRm9ScU95YWVpUzRJSTAxLU0xUVZ3d0ZNYkU4VXNuWG53Ni1IeFkzWWJYWUVkcVZFZk9uSF82U1BSZGZvWUJiQ3hiR0stczZXZGN0dGlCdkhQekxkMXZYWHhzb0Q0NVVkWkpiNDdBZ25KYi1kOFlrSS1jNTdzekY5cW1Namx5d3pYeHhUWm4wU29Cc0R3?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 27 Jun 2026 00:08:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -368,39 +383,9 @@
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
-      {
-        "title": "France Vs Sweden | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjctT2JQNGFNdXducWdEV2hvd2pBbEJsMWk5N3dRLTVvUWlEOG90TkhwU0hmQTU2R3REOS1SUGdSdFJCT2F6QzVMOU5XZXE1OVlPS0tMOHBWSEhOQWhLTmtudkpwS0VQREtJUGRpZzMxeUhLY3VSaWZxNUE1bHI1M3poRTQwU0FkV3VSYXppR2h5Y1lUa25rN1BmVUk4SmxUSmtnd2REdkhFaXhvQUtnRl9JVzRzbUdTZWFPZW9uUQ?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 18:06:31 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "Sweden"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA World Cup 2026 Schedule Today (July 9): How to Watch France vs. Morocco Quarterfinal Match - IMDb",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56QXVXY2ZoOUNDUVg1VENQdWt0TUhQakFlY1R3RGFOQi1MUDl6aXYtLVRlSC1sTXVLZS1BczRNLUJBcm5zQlloV2VUYVZ4V0ZHb3c?oc=5",
@@ -467,6 +452,20 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup returns to Mexico after 40 years, but locals feel left out as crypto sponsors move in - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcGdYcU5GTFdzd2ROUTMyX2k5M0E4VFg4UE1nM3RfRFdCYjdYdW5NQmxPLW9FbUZvQUtCT2JTX2lEUklvY3hybDVJV3N4MGc3UjBReVJKVzZ6V014VDdYQzJHN29aekZoTFhMRFY3TjlNMW9vMlhlejUtTlhUMEJrVjVzWU0wSUFFdlFmWEk5ZGcxSlJTMW1zVm9NVllzanJ3a3l4SzFpb05OZXBTUTVqWHhySTROdWk4eVIxWXVGYTNXeHJ2bG9KbzhKbzJoUHVfTWY2b1ZCVlpIX2lwWUhYejNEMVl0VnRfN2tCeGZibw?oc=5",
+        "domain": "es.tradingview.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -914,16 +913,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1001,16 +999,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1088,16 +1085,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1175,16 +1171,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1262,16 +1257,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1349,16 +1343,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1436,16 +1429,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1523,16 +1515,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1702,16 +1693,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1789,16 +1779,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1876,16 +1865,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1963,16 +1951,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2050,16 +2037,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2137,16 +2123,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2224,16 +2209,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2311,16 +2295,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
