@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-01T16:38:20.280427Z",
+    "updatedAt": "2026-09-01T21:01:33.562292Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -36,7 +36,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+      "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
@@ -45,6 +45,35 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+      "domain": "www.tvazteca.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ivory Coast",
+        "Norway"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -80,21 +109,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - infobae.com",
+      "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
@@ -110,7 +125,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
+      "title": "Brazil Vs Norway | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmphU1A2czRsaHVQc0hFQ0M2S3p4dkczMnhkUHhrOXBoQVdfSE5ORV9fWnl5bEI2MnBVZ3VLYXlqa0Z2a1QyWWJWVkRESmJXelJ4Y1ozWVNPYldXZExSMW43Yk1WSnRHX1NEYk1pSnBCbjhoWm9Dc0xNTHBjUWFDRnJOdHpGbUVXT3dTWG9ZeG9fUFVuOEx4NTJuWHN6QVNzc213VzI3TmotWEFIS1E?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 20:06:51 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Norway"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
       "domain": "www.telemundo.com",
       "language": "Spanish",
@@ -125,7 +154,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - infobae.com",
+      "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
@@ -135,20 +164,6 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "México enfrenta a República Checa en el cierre de la fase de grupos - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0ZmSzEtOVgyNjhlRmVmc09Kcml5ZXZqd3hvZjdPR2pZZl84bi1kdkVwck5ZWUEySkgySzZhUG9NRGIwbjBoT19LVF9PSF8zTTdCbFhVVXF4U0Nyc1pGMG9OUDFfSi1JY05qVVdnTHJVc19icnRHOGRkdzRpN1dZTmF6QWFjaVd0Nk40U3BGWEVwMEhvSzV0Um02VmJzbWgzcU5PeVJMQ25GVTFrRmN0b1kxdWYxcWNidVJIQ2VBVTc2Zw?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -197,21 +212,37 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "El Liverpool abandona el fichaje de Ismaila Sarr después de que el Crystal Palace rechazara una oferta de 50 millones de libras y se frustrara el traspaso del delantero senegalés a Anfield - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbFVqR3Q5VEFxWDdkUEUxem9MV29mcTJVcEdHbTNtVUNCelUwSXo2RXZVc2R4YzFDVHU1LWFYcmRIakhPYzFmRUV3WFAtUTdSVFZTV1I4YVFDcVpIamlmcXhpU3ZNUnpNVl9oSFJiZ2pZNjBUMy1zNkVkOTUwMkN1NFlRd2U0UlVhVDk4a0lxYjQ5RDFfNlBCNFlzV3VZc0RXSjliclRlNTZWVEdtRFJxSFRDbW9OVTNvVWo1SEtoeW9hdVZnVU1adDUxalQ5YXBoczNGTjZjcGhDbjJGZWJCdnNMU0hpc3VoV3RDR2lDaHNWaU1QOUo2Rjh0MURBOFdMM3gyNGVmV0oydk5BaTFQckh1azJiX3AyUFRpZjF1ZWdSLWlFNkJzc1dxVThQTEU1SXM2U3MyZW80WXJTN0twUGd4R2JoX2E1UnBGbzJLUndnc0h0MnBNVWNpb1lPeHZEalE?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
+      "seenDate": "Tue, 01 Sep 2026 17:37:36 GMT",
       "image": "",
       "matchedTeams": [
-        "Belgium"
+        "Senegal"
+      ],
+      "tags": [
+        "sanción"
+      ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Así es el camino de México hacia la final del Mundial 2026: cruces y posibles rivales ronda por ronda - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnNCT193NUVOVHNzTnk5R2RWbUJQX0hpWFJzUlo5b3JXZ1hVN29vNlh1R1lDVjRuTnNzV1FvRDhzNEFyQzFEMWNUSGhGTFRHX0Jqa0hfeHk3Z1QxREZmUmJUT3R6d1diZV94RHFoOS04Y1M0S2FweG10OGxXeDRycFJPWGhOcmNrdnEzWkJSZy0ySk15T0dpVjVOLU9VUl9fYlQ2OGZybEk0VzRFeHVFa1Zkc0lIREc1V0NPcHlqcXM1Vk10dkZOM09iQXM?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - infobae.com",
+      "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkJwTWgzQ1R2T1pIU2JUaDR1QW5CQjRmdER6UEpHSjFRalVoQnloRDA5ZEF4VUdabFRPbFpnLVFsc294OFltWk1BZF9DdHdUQzVzOW9JZGZRT25DM0pFS3h5Uk9neGR0aFpQNmF4VTdxOUpsaEdNczRUQmtlYzkybGZYX2dTclhGU2RybUxYQnVSdG56UjZUcEVmUHo2eHdxZlNuNU5oVFQtb1BOaENxb0MyT25UWUx3UWR0TDR4bndMd9IB3AFBVV95cUxNMnZmSkRkVk9OeE40SUNBN195cm04NnZET2N2VG9WeGpmaXBvb19YVUxsOTA2VFhzMnFBbGpNejBLcHJTVDI5MGc4TDJTemVsUlNwRVJnNFhGVER3V0wwbGM2a0N4UExnTXhDU3FPcHlUZld3SllvekFuU2RpWHo2RF9NNmRKY212ZjIxVl93ZlBGMVJ5ZEphdll4aWRKWmpZWTJUaWZJXy1TZFpfMkZCYUtuYlhFY3RCaUI3dWx4YlFrX3E0X2lac25HOXMxVjdmTnJWWWtwd1NtX0NI?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
@@ -225,23 +256,8 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNWgtV3hiUkZRX0hBcm1jcUx5Sml3Q1lhbVRPVlV6ck9DcTVhZVI5Z1g0WDY3Mm83eEFGT05qejBzdWNhTlVFODlyMVR6LVJTbWVTcGRHT3M5TFlIMkV2SnRPZXItbGs2dXdYOTVienJwWEtFWllYSUs1TW5IQVJXSHFFZWpOWWdpakxEMDBlSDNuTEFUMUlRRXBnelN2WUpubzcxbEFFX3hCS0JXWXdMZFVINHhLNVBMZ2NuNVR4eHlocVRIQ291Y3AzWEdZMlpPd1pBT2h3M09JYWJXLUQxekJDS0hBRlBkLWhTYThJX2F3SE1TVUpiVjhMd2tpNk1TVm1WR2NEelNseHBXY0hkQlNkenVjbWFFOGlnV3kyZDRMNnZUd1dEV2FOaTNZQ3BrVEtBandZbHdZdHFhSnQ0NUxXWVAzSW1NRTM2bUs2Q3VhRnBlZlpfSDBIakZZUXQzRVdwMUp3NzVMQWI0Zk82dWdlUG1vam9nMHBNbnlPNlRVYld0aHVFaWZjVF9JMXhGd2NqbDNkVVJjWDA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
@@ -250,6 +266,20 @@
       "matchedTeams": [
         "Belgium",
         "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVhTczBaTVpVOEU3dFdVc3hYbEludEhQQXQ0RXFzVjhMSDBSaWJGM1F5Q0RHeWx6WnBXZTJJWTV0QW5VeDFvX3N1anZIelVrd0wxcm5vaGhXWUlvQ0JfYnpnXzhOS1VjS2FPbWowYzBseklIUTR1ekJlYjBMQUVjNWNfOFlDeDU2YU5BTTlWRzAxSzFqYTlYdGlMcGp0dw?oc=5",
+      "domain": "www.fotmob.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 11 Jun 2026 22:03:18 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -267,47 +297,17 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Jiménez marca su primer gol en una Copa Mundial y México vence a Sudáfrica - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkVsSzNUc0c5QWI1eTZsTmt0X3h6WHZwdzZzUEl5aE1zWkpRckRPOHgwQmdzM0dURThzU3pPOUdHUjJKZE03MjdPRXNLOXdNVnFvVU5UUDhfaXdPQldGRVVTdmFSZWNIQm5ETDRTUzU5Q0xTc213SWctaENzQVdiZlduMDdNbFhTcjRKUjhfam9jNUhhb2hKOFdFV2RSVHBwQUxkV2dDWk00blY0dEI3OXN5SFNnb2lSSnI4MWwtajctWV9XcjRjekctWQ?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Jarell Quansah suspendido por dos partidos tras ser expulsado ante México - infobae.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1xVEE0QkFRQWVnYWo1RVRsNHlLNEQ0YVRNY0xJQXg3QVhHcFg2RVBJSW1XVHZobUlTRUhZWW55WWpITk9CZU1hU3lwY1RRUVpSanUzcm5vUTlqb0NrcXNIWGl6cnlOMFNSUXY4Y3UyYng5T0xmaGt1OGcteFFBb0hUSDJnRkpiZF9faVd6ZzNzczRZWW5UZnBTVFNWS2NDel9ad1dCVEN6THZxX25rNVNLSFpaZDNKeERtSlR1bWVhVUY0MDhDenFHdWpsdWsz0gHrAUFVX3lxTE5xcTZDRHRDMGVyU1VYc1ZaY0dFa2gxcEdnQ0xBeE9sc1lpYWlwSmRhOUxTRnBOVjVnNllSa0ZqV1EtdG9GTHpJak5LMmJhNGxKeVJOcnNqRVhlbmlMZ0lrZmljekxlNzJZM3VacjFWTTZlOVZta2RRdzVRdk5jeDUxaGZ4YVl3OGpHT2FkODRLbWludlBibGtvLWtEVG1hRzZHbmRGRVJiUTFMa2kydGFyS3Y5clBnN3ZOYlRPNlZPUHdiV2lZVEZSWWVhTHAwQ3BISzNNU201RXN0NDlTcVFKVnlFeC1RM0l5QzA?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [
-        "sanción"
-      ],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
       {
         "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWm1hb2RlankwQ0VxMnpxQzVrM1pBbkdKMlBLYkZzTDR4ck9fdmY5ZFJtRm9ScU95YWVpUzRJSTAxLU0xUVZ3d0ZNYkU4VXNuWG53Ni1IeFkzWWJYWUVkcVZFZk9uSF82U1BSZGZvWUJiQ3hiR0stczZXZGN0dGlCdkhQekxkMXZYWHhzb0Q0NVVkWkpiNDdBZ25KYi1kOFlrSS1jNTdzekY5cW1Namx5d3pYeHhUWm4wU29Cc0R3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 27 Jun 2026 00:08:54 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
           "Ivory Coast",
@@ -317,7 +317,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "Brazil Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmphU1A2czRsaHVQc0hFQ0M2S3p4dkczMnhkUHhrOXBoQVdfSE5ORV9fWnl5bEI2MnBVZ3VLYXlqa0Z2a1QyWWJWVkRESmJXelJ4Y1ozWVNPYldXZExSMW43Yk1WSnRHX1NEYk1pSnBCbjhoWm9Dc0xNTHBjUWFDRnJOdHpGbUVXT3dTWG9ZeG9fUFVuOEx4NTJuWHN6QVNzc213VzI3TmotWEFIS1E?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 20:06:51 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -371,20 +385,6 @@
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
@@ -419,21 +419,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "France Vs Spain | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWM5QXZBc2JZTTNRdmN5eG5zMk40U2FNbHljSEdVV3FGaERCTEE3amJaTkluT0N2ejVJeDVuNndZQUhVaTRoWkVwQVhGVVZremRWMGpBLU5oZF9JaUFBRmJBbU52c1NnY2sxaVNXOXR0aWtWODhkQ0kxMWZzSXdPcENfRW04UVJQY2Rzd3dFVFJ0SkJNTTB4b0lIU09ReEwxSmNjaUJaSi1rVEow?oc=5",
         "domain": "es.concacaf.com",
@@ -448,7 +433,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnVad0x1UkxyVkc2Y3Q1RVVoTy1nSkd3MXQ3VGMxT3ZPeHFnUFkzYmVfYm83ZW1OTzN2OU9TdXI0c082anZ5dGFBUmw0NkNpWnFEVG55Mmh0elB4NTZSR2dXRUljT0g4bEJXMFktQXBKUUg3VXBHbGNsTjZOaVQ5dEpkV3MzVS1VNnIwdFhEQTc2SzhXa0RCbl9TdEhjU0dwTnl6ejJGY245ajB1MnUzTjluOFFjODF2QzV6YXY1T1g?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 03:20:32 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
+        "domain": "www.dazn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 18:23:19 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -462,45 +476,16 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
       {
-        "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - infobae.com",
+        "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs Ecuador | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDQ4LWtCQUlzR1I1VGoyeV9vOGNpSDJvcjFWeTNLN1JfX2pGUlVEMmJXSnhBci1KbVl0NFc1QzQ4TFdsZ3dMYUc5VG00V2xhTTc5RHNDZ195MF9mWFpNRUE5UzB5Vk5MdXM5QS1OcVRWM01BcThVdXY3WHZ6RWttRXk5NENQM2VSRnVXb0ZrMzFnZjRNV2hDLVUwSWNyRkw3VWJ6YlZBS2xfUmRYcnNB?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 28 Jun 2026 00:10:20 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -540,7 +525,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - infobae.com",
+        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -556,7 +541,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
+        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
         "domain": "www.telemundo.com",
         "language": "Spanish",
@@ -568,6 +553,22 @@
           "Ecuador"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -588,22 +589,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - infobae.com",
+        "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -618,7 +604,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - infobae.com",
+        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -648,12 +634,27 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Cuatro victorias, portería en cero y un récord histórico: México enfrenta a Inglaterra en los octavos de final de la FIFA World Cup 2026 - El Informador",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWERIa19TZ1ZfQ0NKa2tkTUFuUDh6TDgtYzFJaWpoZnQtWGhOb3ZZa1BiNFNQVl8tcFQxVmFPVlJwc0xmWVMwMUtlQ0ZJa2F0ckZtWW9laG82X3I2TTUzNEFLVVJZUkp0dlVsUVBJTy0xamtMWkt4VS1BaE9YNkV4N3hpbEw2NklsekdRNVNQWFVkcUlDVHktMlc4N3lfX29xR0pONENtSnQ1X3gtMU8xWUZhRC1kMDRzdDhQYTlyWktLTjBSYTFBVjkyWG15c1NMQm1JbGI0TDBZY19aa3c3UWlpakljMmFNMWhucml6cmwzQkR5eXJIVC10bjF5SEIwZFZWUXdjRVVRbU1UNmRWRDVyQzBZOVHSAZwCQVVfeXFMT0h2U0FyOEdUNVc3LXBLdzlRVlhXUVlVbndUc19pMlJLZk14R3F5NEdiTlZvTmNXUGItaUZEcjhTbUZCTVduSGVYMHdCOUFrcDFuTGxXVy0tQjB3YlhXM25PQ2V6UG5kS19wUVhVeGU0TlBseUdKU0IyNTYxXzlSb1RVSEtSM1BMaldPcExlOEJ1OVBXQ0hkUGM2X090RzZSeFBrYkFCMkNEczNLa3hYVHFGWUptellvR2FfOUFvRi1sVlQ4aUlHNXdHcTQ0c09Bd1JXNjdLOWFQZnhxbVpQT0hvSHBYZ09Vc2piVWVvN2N5YkxWdF9LN29LOGJFWWVoTURpZUJUWDZmMjZRdXVKbWl6VGEwNnZ2aVlYMDQ?oc=5",
+        "domain": "www.informador.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -694,22 +695,8 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 05:09:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNWgtV3hiUkZRX0hBcm1jcUx5Sml3Q1lhbVRPVlV6ck9DcTVhZVI5Z1g0WDY3Mm83eEFGT05qejBzdWNhTlVFODlyMVR6LVJTbWVTcGRHT3M5TFlIMkV2SnRPZXItbGs2dXdYOTVienJwWEtFWllYSUs1TW5IQVJXSHFFZWpOWWdpakxEMDBlSDNuTEFUMUlRRXBnelN2WUpubzcxbEFFX3hCS0JXWXdMZFVINHhLNVBMZ2NuNVR4eHlocVRIQ291Y3AzWEdZMlpPd1pBT2h3M09JYWJXLUQxekJDS0hBRlBkLWhTYThJX2F3SE1TVUpiVjhMd2tpNk1TVm1WR2NEelNseHBXY0hkQlNkenVjbWFFOGlnV3kyZDRMNnZUd1dEV2FOaTNZQ3BrVEtBandZbHdZdHFhSnQ0NUxXWVAzSW1NRTM2bUs2Q3VhRnBlZlpfSDBIakZZUXQzRVdwMUp3NzVMQWI0Zk82dWdlUG1vam9nMHBNbnlPNlRVYld0aHVFaWZjVF9JMXhGd2NqbDNkVVJjWDA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -735,6 +722,22 @@
           "USA"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El Liverpool abandona el fichaje de Ismaila Sarr después de que el Crystal Palace rechazara una oferta de 50 millones de libras y se frustrara el traspaso del delantero senegalés a Anfield - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbFVqR3Q5VEFxWDdkUEUxem9MV29mcTJVcEdHbTNtVUNCelUwSXo2RXZVc2R4YzFDVHU1LWFYcmRIakhPYzFmRUV3WFAtUTdSVFZTV1I4YVFDcVpIamlmcXhpU3ZNUnpNVl9oSFJiZ2pZNjBUMy1zNkVkOTUwMkN1NFlRd2U0UlVhVDk4a0lxYjQ5RDFfNlBCNFlzV3VZc0RXSjliclRlNTZWVEdtRFJxSFRDbW9OVTNvVWo1SEtoeW9hdVZnVU1adDUxalQ5YXBoczNGTjZjcGhDbjJGZWJCdnNMU0hpc3VoV3RDR2lDaHNWaU1QOUo2Rjh0MURBOFdMM3gyNGVmV0oydk5BaTFQckh1azJiX3AyUFRpZjF1ZWdSLWlFNkJzc1dxVThQTEU1SXM2U3MyZW80WXJTN0twUGd4R2JoX2E1UnBGbzJLUndnc0h0MnBNVWNpb1lPeHZEalE?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 01 Sep 2026 17:37:36 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -770,7 +773,7 @@
       },
       {
         "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPNWgtV3hiUkZRX0hBcm1jcUx5Sml3Q1lhbVRPVlV6ck9DcTVhZVI5Z1g0WDY3Mm83eEFGT05qejBzdWNhTlVFODlyMVR6LVJTbWVTcGRHT3M5TFlIMkV2SnRPZXItbGs2dXdYOTVienJwWEtFWllYSUs1TW5IQVJXSHFFZWpOWWdpakxEMDBlSDNuTEFUMUlRRXBnelN2WUpubzcxbEFFX3hCS0JXWXdMZFVINHhLNVBMZ2NuNVR4eHlocVRIQ291Y3AzWEdZMlpPd1pBT2h3M09JYWJXLUQxekJDS0hBRlBkLWhTYThJX2F3SE1TVUpiVjhMd2tpNk1TVm1WR2NEelNseHBXY0hkQlNkenVjbWFFOGlnV3kyZDRMNnZUd1dEV2FOaTNZQ3BrVEtBandZbHdZdHFhSnQ0NUxXWVAzSW1NRTM2bUs2Q3VhRnBlZlpfSDBIakZZUXQzRVdwMUp3NzVMQWI0Zk82dWdlUG1vam9nMHBNbnlPNlRVYld0aHVFaWZjVF9JMXhGd2NqbDNkVVJjWDA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -799,7 +802,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - infobae.com",
+        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -829,7 +832,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -847,7 +850,7 @@
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -903,7 +906,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -917,16 +920,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -934,7 +936,7 @@
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -990,7 +992,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1004,16 +1006,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1021,7 +1022,7 @@
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1077,7 +1078,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1091,16 +1092,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1108,7 +1108,7 @@
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1164,7 +1164,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1178,16 +1178,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1195,7 +1194,7 @@
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1251,7 +1250,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1265,16 +1264,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1282,7 +1280,7 @@
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1338,7 +1336,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1352,16 +1350,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1369,7 +1366,7 @@
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1425,7 +1422,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1439,16 +1436,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1456,7 +1452,7 @@
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1512,7 +1508,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1526,16 +1522,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1558,22 +1553,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - infobae.com",
+        "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1588,7 +1568,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - infobae.com",
+        "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1618,12 +1598,27 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Cuatro victorias, portería en cero y un récord histórico: México enfrenta a Inglaterra en los octavos de final de la FIFA World Cup 2026 - El Informador",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWERIa19TZ1ZfQ0NKa2tkTUFuUDh6TDgtYzFJaWpoZnQtWGhOb3ZZa1BiNFNQVl8tcFQxVmFPVlJwc0xmWVMwMUtlQ0ZJa2F0ckZtWW9laG82X3I2TTUzNEFLVVJZUkp0dlVsUVBJTy0xamtMWkt4VS1BaE9YNkV4N3hpbEw2NklsekdRNVNQWFVkcUlDVHktMlc4N3lfX29xR0pONENtSnQ1X3gtMU8xWUZhRC1kMDRzdDhQYTlyWktLTjBSYTFBVjkyWG15c1NMQm1JbGI0TDBZY19aa3c3UWlpakljMmFNMWhucml6cmwzQkR5eXJIVC10bjF5SEIwZFZWUXdjRVVRbU1UNmRWRDVyQzBZOVHSAZwCQVVfeXFMT0h2U0FyOEdUNVc3LXBLdzlRVlhXUVlVbndUc19pMlJLZk14R3F5NEdiTlZvTmNXUGItaUZEcjhTbUZCTVduSGVYMHdCOUFrcDFuTGxXVy0tQjB3YlhXM25PQ2V6UG5kS19wUVhVeGU0TlBseUdKU0IyNTYxXzlSb1RVSEtSM1BMaldPcExlOEJ1OVBXQ0hkUGM2X090RzZSeFBrYkFCMkNEczNLa3hYVHFGWUptellvR2FfOUFvRi1sVlQ4aUlHNXdHcTQ0c09Bd1JXNjdLOWFQZnhxbVpQT0hvSHBYZ09Vc2piVWVvN2N5YkxWdF9LN29LOGJFWWVoTURpZUJUWDZmMjZRdXVKbWl6VGEwNnZ2aVlYMDQ?oc=5",
+        "domain": "www.informador.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -1635,7 +1630,7 @@
     ],
     "67ae5751c401a98409b8566ae4897069": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1691,7 +1686,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1705,16 +1700,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1722,7 +1716,7 @@
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1778,7 +1772,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1792,16 +1786,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1809,7 +1802,7 @@
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1865,7 +1858,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1879,16 +1872,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1896,7 +1888,7 @@
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1952,7 +1944,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -1966,16 +1958,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1983,7 +1974,7 @@
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2039,7 +2030,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2053,16 +2044,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2070,7 +2060,7 @@
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2126,7 +2116,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2140,16 +2130,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2157,7 +2146,7 @@
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2213,7 +2202,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2227,16 +2216,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2244,7 +2232,7 @@
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - infobae.com",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2300,7 +2288,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - infobae.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
         "language": "Spanish",
@@ -2314,16 +2302,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "England"
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
