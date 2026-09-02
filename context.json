@@ -1,12 +1,26 @@
 {
   "meta": {
-    "updatedAt": "2026-09-01T21:01:33.562292Z",
+    "updatedAt": "2026-09-02T04:30:47.388852Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
+    {
+      "title": "Ver 1966 | Inglaterra - Alemania Occidental Online en Directo | DAZN MX - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVpoWlNsZEFMa2FvWldHMWdOZ1h2anlaTWJqZFcyYzRJY2lVeWlJNlBHOU0yTDY4NWVuZjYxTnJULWJ6ZmVuLWZoSlpib1ZsMmxoS0dpMG1hbks3akFZY1BQT3Vra2JrMTFlWllkMEZuSS00b2ozcG50c3haWlB3M2VLa29jeUdhSEVF?oc=5",
+      "domain": "www.dazn.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 24 Jun 2026 13:34:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
     {
       "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
@@ -50,21 +64,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-      "domain": "www.tvazteca.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+      "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
       "domain": "es.concacaf.com",
       "language": "Spanish",
@@ -79,7 +79,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
+      "title": "Mexico Vs England | FIFA World Cup - es.concacaf.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
       "domain": "es.concacaf.com",
       "language": "Spanish",
@@ -94,7 +94,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
+      "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - es.concacaf.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
       "domain": "es.concacaf.com",
       "language": "Spanish",
@@ -109,8 +109,8 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
+      "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
       "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
@@ -118,14 +118,27 @@
       "image": "",
       "matchedTeams": [
         "Mexico",
-        "Ecuador",
-        "USA"
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Brazil Vs Norway | FIFA World Cup - Concacaf | Official Website",
+      "title": "Paraguay Vs France | FIFA World Cup - es.concacaf.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNak9kY3Q3WGI0Z2lqaTlRamNkVUJENzJlZTE1ZG5fWTBGalVrcFFHV1RjTEt2LUhGS3pyNnJmOUw3SDZXNDZwX3Q5d1BQaHJUa0M1RjRCLUF6M05ueTFXOTgyWHNmZ1BNUWtvNzhWRXlfN1RLS1VBZGNOQnVVeWtFd1gzS0ZGWWoyY3VxV0ZkXzBnbG5lNHNIaDJFSUNCM2RtNWNlUFYwY2dESnNYRmdZVg?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 05:16:15 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Brazil Vs Norway | FIFA World Cup - es.concacaf.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmphU1A2czRsaHVQc0hFQ0M2S3p4dkczMnhkUHhrOXBoQVdfSE5ORV9fWnl5bEI2MnBVZ3VLYXlqa0Z2a1QyWWJWVkRESmJXelJ4Y1ozWVNPYldXZExSMW43Yk1WSnRHX1NEYk1pSnBCbjhoWm9Dc0xNTHBjUWFDRnJOdHpGbUVXT3dTWG9ZeG9fUFVuOEx4NTJuWHN6QVNzc213VzI3TmotWEFIS1E?oc=5",
       "domain": "es.concacaf.com",
       "language": "Spanish",
@@ -134,21 +147,6 @@
       "image": "",
       "matchedTeams": [
         "Norway"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
-      "domain": "www.telemundo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -169,7 +167,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
+      "title": "Mexico - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsZFZyYXd6Snp1VFRXZW1kbmN1YXVweHgxb25BM0Fuc2xyM3dTZGZKd0tRQzlId3ZONnNRMEhXTFpFUUxzUnpZdU40WnYtSVQ5WTNWUzJUak5VOW44LV9HbHZ5eFd5RjVCc2lZUTFCYlptZE9nUGg0NXBBZW4?oc=5",
+      "domain": "www.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 16 Jun 2026 23:34:34 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - es.concacaf.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
       "domain": "es.concacaf.com",
       "language": "Spanish",
@@ -212,22 +224,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "El Liverpool abandona el fichaje de Ismaila Sarr después de que el Crystal Palace rechazara una oferta de 50 millones de libras y se frustrara el traspaso del delantero senegalés a Anfield - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbFVqR3Q5VEFxWDdkUEUxem9MV29mcTJVcEdHbTNtVUNCelUwSXo2RXZVc2R4YzFDVHU1LWFYcmRIakhPYzFmRUV3WFAtUTdSVFZTV1I4YVFDcVpIamlmcXhpU3ZNUnpNVl9oSFJiZ2pZNjBUMy1zNkVkOTUwMkN1NFlRd2U0UlVhVDk4a0lxYjQ5RDFfNlBCNFlzV3VZc0RXSjliclRlNTZWVEdtRFJxSFRDbW9OVTNvVWo1SEtoeW9hdVZnVU1adDUxalQ5YXBoczNGTjZjcGhDbjJGZWJCdnNMU0hpc3VoV3RDR2lDaHNWaU1QOUo2Rjh0MURBOFdMM3gyNGVmV0oydk5BaTFQckh1azJiX3AyUFRpZjF1ZWdSLWlFNkJzc1dxVThQTEU1SXM2U3MyZW80WXJTN0twUGd4R2JoX2E1UnBGbzJLUndnc0h0MnBNVWNpb1lPeHZEalE?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 01 Sep 2026 17:37:36 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Senegal"
-      ],
-      "tags": [
-        "sanción"
-      ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Así es el camino de México hacia la final del Mundial 2026: cruces y posibles rivales ronda por ronda - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnNCT193NUVOVHNzTnk5R2RWbUJQX0hpWFJzUlo5b3JXZ1hVN29vNlh1R1lDVjRuTnNzV1FvRDhzNEFyQzFEMWNUSGhGTFRHX0Jqa0hfeHk3Z1QxREZmUmJUT3R6d1diZV94RHFoOS04Y1M0S2FweG10OGxXeDRycFJPWGhOcmNrdnEzWkJSZy0ySk15T0dpVjVOLU9VUl9fYlQ2OGZybEk0VzRFeHVFa1Zkc0lIREc1V0NPcHlqcXM1Vk10dkZOM09iQXM?oc=5",
       "domain": "www.si.com",
@@ -242,15 +238,15 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Colombia iguala a México y rompe récord de asistencia en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkJwTWgzQ1R2T1pIU2JUaDR1QW5CQjRmdER6UEpHSjFRalVoQnloRDA5ZEF4VUdabFRPbFpnLVFsc294OFltWk1BZF9DdHdUQzVzOW9JZGZRT25DM0pFS3h5Uk9neGR0aFpQNmF4VTdxOUpsaEdNczRUQmtlYzkybGZYX2dTclhGU2RybUxYQnVSdG56UjZUcEVmUHo2eHdxZlNuNU5oVFQtb1BOaENxb0MyT25UWUx3UWR0TDR4bndMd9IB3AFBVV95cUxNMnZmSkRkVk9OeE40SUNBN195cm04NnZET2N2VG9WeGpmaXBvb19YVUxsOTA2VFhzMnFBbGpNejBLcHJTVDI5MGc4TDJTemVsUlNwRVJnNFhGVER3V0wwbGM2a0N4UExnTXhDU3FPcHlUZld3SllvekFuU2RpWHo2RF9NNmRKY212ZjIxVl93ZlBGMVJ5ZEphdll4aWRKWmpZWTJUaWZJXy1TZFpfMkZCYUtuYlhFY3RCaUI3dWx4YlFrX3E0X2lac25HOXMxVjdmTnJWWWtwd1NtX0NI?oc=5",
-      "domain": "www.infobae.com",
+      "title": "Un aburrimiento histórico: Inglaterra y Argentina marcan un récord negativo sin precedentes - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMGVmeDA1T0l0ZHlHejlCcmZMTXA0emJXT3RDalNlMFFFeHpPbWQyb0UxOV8wZUZMUVZBNTVnU3JYZC00NloteDUyandPYTBnbklGWnJfOXJpOVZZZzRnY1puNVlLZ2NIQ0Mtd3cxMzdQX2kzbzVpU3NORzVwNXF0b1dmVDhvYmVrSU51N3FsMWxReHJQcnkyV05pczJwS1kyeVlBeFFCSFJPSTFNLTJCalZGOWk2LTlHN1N5WjhyLVU0NEN1RXVjSEZEMDE3ODFTc3EzZ3MwY2VHNDlQSHNF?oc=5",
+      "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico"
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -302,7 +298,7 @@
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -317,7 +313,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Brazil Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "title": "Brazil Vs Norway | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmphU1A2czRsaHVQc0hFQ0M2S3p4dkczMnhkUHhrOXBoQVdfSE5ORV9fWnl5bEI2MnBVZ3VLYXlqa0Z2a1QyWWJWVkRESmJXelJ4Y1ozWVNPYldXZExSMW43Yk1WSnRHX1NEYk1pSnBCbjhoWm9Dc0xNTHBjUWFDRnJOdHpGbUVXT3dTWG9ZeG9fUFVuOEx4NTJuWHN6QVNzc213VzI3TmotWEFIS1E?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -375,7 +371,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -389,7 +385,7 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "France Vs Sweden | FIFA World Cup - Concacaf | Official Website",
+        "title": "France Vs Sweden | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjctT2JQNGFNdXducWdEV2hvd2pBbEJsMWk5N3dRLTVvUWlEOG90TkhwU0hmQTU2R3REOS1SUGdSdFJCT2F6QzVMOU5XZXE1OVlPS0tMOHBWSEhOQWhLTmtudkpwS0VQREtJUGRpZzMxeUhLY3VSaWZxNUE1bHI1M3poRTQwU0FkV3VSYXppR2h5Y1lUa25rN1BmVUk4SmxUSmtnd2REdkhFaXhvQUtnRl9JVzRzbUdTZWFPZW9uUQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -419,7 +415,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France Vs Spain | FIFA World Cup - Concacaf | Official Website",
+        "title": "Paraguay Vs France | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNak9kY3Q3WGI0Z2lqaTlRamNkVUJENzJlZTE1ZG5fWTBGalVrcFFHV1RjTEt2LUhGS3pyNnJmOUw3SDZXNDZwX3Q5d1BQaHJUa0M1RjRCLUF6M05ueTFXOTgyWHNmZ1BNUWtvNzhWRXlfN1RLS1VBZGNOQnVVeWtFd1gzS0ZGWWoyY3VxV0ZkXzBnbG5lNHNIaDJFSUNCM2RtNWNlUFYwY2dESnNYRmdZVg?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 05:16:15 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "France Vs Spain | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWM5QXZBc2JZTTNRdmN5eG5zMk40U2FNbHljSEdVV3FGaERCTEE3amJaTkluT0N2ejVJeDVuNndZQUhVaTRoWkVwQVhGVVZremRWMGpBLU5oZF9JaUFBRmJBbU52c1NnY2sxaVNXOXR0aWtWODhkQ0kxMWZzSXdPcENfRW04UVJQY2Rzd3dFVFJ0SkJNTTB4b0lIU09ReEwxSmNjaUJaSi1rVEow?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -433,7 +443,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
+        "title": "France Vs Morocco | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnVad0x1UkxyVkc2Y3Q1RVVoTy1nSkd3MXQ3VGMxT3ZPeHFnUFkzYmVfYm83ZW1OTzN2OU9TdXI0c082anZ5dGFBUmw0NkNpWnFEVG55Mmh0elB4NTZSR2dXRUljT0g4bEJXMFktQXBKUUg3VXBHbGNsTjZOaVQ5dEpkV3MzVS1VNnIwdFhEQTc2SzhXa0RCbl9TdEhjU0dwTnl6ejJGY245ajB1MnUzTjluOFFjODF2QzV6YXY1T1g?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -460,22 +470,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
@@ -486,6 +480,21 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mexico Vs Ecuador | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDQ4LWtCQUlzR1I1VGoyeV9vOGNpSDJvcjFWeTNLN1JfX2pGUlVEMmJXSnhBci1KbVl0NFc1QzQ4TFdsZ3dMYUc5VG00V2xhTTc5RHNDZ195MF9mWFpNRUE5UzB5Vk5MdXM5QS1OcVRWM01BcThVdXY3WHZ6RWttRXk5NENQM2VSRnVXb0ZrMzFnZjRNV2hDLVUwSWNyRkw3VWJ6YlZBS2xfUmRYcnNB?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 28 Jun 2026 00:10:20 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -510,43 +519,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
+        "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
-        "domain": "www.telemundo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -570,11 +548,25 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
+        "title": "Mexico Vs England | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -583,6 +575,35 @@
         "image": "",
         "matchedTeams": [
           "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
           "England"
         ],
         "tags": [],
@@ -619,39 +640,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
+        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
         "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuatro victorias, portería en cero y un récord histórico: México enfrenta a Inglaterra en los octavos de final de la FIFA World Cup 2026 - El Informador",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWERIa19TZ1ZfQ0NKa2tkTUFuUDh6TDgtYzFJaWpoZnQtWGhOb3ZZa1BiNFNQVl8tcFQxVmFPVlJwc0xmWVMwMUtlQ0ZJa2F0ckZtWW9laG82X3I2TTUzNEFLVVJZUkp0dlVsUVBJTy0xamtMWkt4VS1BaE9YNkV4N3hpbEw2NklsekdRNVNQWFVkcUlDVHktMlc4N3lfX29xR0pONENtSnQ1X3gtMU8xWUZhRC1kMDRzdDhQYTlyWktLTjBSYTFBVjkyWG15c1NMQm1JbGI0TDBZY19aa3c3UWlpakljMmFNMWhucml6cmwzQkR5eXJIVC10bjF5SEIwZFZWUXdjRVVRbU1UNmRWRDVyQzBZOVHSAZwCQVVfeXFMT0h2U0FyOEdUNVc3LXBLdzlRVlhXUVlVbndUc19pMlJLZk14R3F5NEdiTlZvTmNXUGItaUZEcjhTbUZCTVduSGVYMHdCOUFrcDFuTGxXVy0tQjB3YlhXM25PQ2V6UG5kS19wUVhVeGU0TlBseUdKU0IyNTYxXzlSb1RVSEtSM1BMaldPcExlOEJ1OVBXQ0hkUGM2X090RzZSeFBrYkFCMkNEczNLa3hYVHFGWUptellvR2FfOUFvRi1sVlQ4aUlHNXdHcTQ0c09Bd1JXNjdLOWFQZnhxbVpQT0hvSHBYZ09Vc2piVWVvN2N5YkxWdF9LN29LOGJFWWVoTURpZUJUWDZmMjZRdXVKbWl6VGEwNnZ2aVlYMDQ?oc=5",
-        "domain": "www.informador.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
-        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
@@ -666,7 +657,7 @@
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
-        "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
+        "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -710,7 +701,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "title": "United States Vs Belgium | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -722,22 +713,6 @@
           "USA"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El Liverpool abandona el fichaje de Ismaila Sarr después de que el Crystal Palace rechazara una oferta de 50 millones de libras y se frustrara el traspaso del delantero senegalés a Anfield - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbFVqR3Q5VEFxWDdkUEUxem9MV29mcTJVcEdHbTNtVUNCelUwSXo2RXZVc2R4YzFDVHU1LWFYcmRIakhPYzFmRUV3WFAtUTdSVFZTV1I4YVFDcVpIamlmcXhpU3ZNUnpNVl9oSFJiZ2pZNjBUMy1zNkVkOTUwMkN1NFlRd2U0UlVhVDk4a0lxYjQ5RDFfNlBCNFlzV3VZc0RXSjliclRlNTZWVEdtRFJxSFRDbW9OVTNvVWo1SEtoeW9hdVZnVU1adDUxalQ5YXBoczNGTjZjcGhDbjJGZWJCdnNMU0hpc3VoV3RDR2lDaHNWaU1QOUo2Rjh0MURBOFdMM3gyNGVmV0oydk5BaTFQckh1azJiX3AyUFRpZjF1ZWdSLWlFNkJzc1dxVThQTEU1SXM2U3MyZW80WXJTN0twUGd4R2JoX2E1UnBGbzJLUndnc0h0MnBNVWNpb1lPeHZEalE?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 01 Sep 2026 17:37:36 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Senegal"
-        ],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -753,11 +728,26 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
+        "domain": "www.dazn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 18:23:19 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
-        "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
+        "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -787,7 +777,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
+        "title": "United States Vs Belgium | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -802,23 +792,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
+        "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -845,6 +819,20 @@
         "tags": [
           "sanción"
         ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "DW News. . Fans all over the world are lauding Mexico as the best host of the 2026 World Cup. Scenes of fans celebrating together have spread across social media. #dwsports - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3BhNTBPcDRxeW8tRkN1TmdENi1rWUZxRUxUa2FaT08yS0RQTlBCd1FNTXJ0bVRrc1htbmMwS3hDN2hVbUNMbUVQbUVYVzJwZFFnMkVGZWRDX0dXUXhnaEJsYW5uYXYzX0dMYkFCMTNRQXUyMGZBTEZySE1fZzZNelYtUV96eXF4THkwZ3RvT1RLV1BUUzlpaDBDclM0eXdn?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -894,7 +882,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -920,15 +908,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -980,7 +969,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1006,15 +995,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1066,7 +1056,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1092,15 +1082,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1152,7 +1143,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1178,15 +1169,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1238,7 +1230,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1264,15 +1256,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1324,7 +1317,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1350,15 +1343,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1410,7 +1404,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1436,15 +1430,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1496,7 +1491,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1522,15 +1517,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1538,7 +1534,7 @@
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
+        "title": "Mexico Vs England | FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1547,6 +1543,35 @@
         "image": "",
         "matchedTeams": [
           "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
           "England"
         ],
         "tags": [],
@@ -1583,39 +1608,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
+        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
         "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuatro victorias, portería en cero y un récord histórico: México enfrenta a Inglaterra en los octavos de final de la FIFA World Cup 2026 - El Informador",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWERIa19TZ1ZfQ0NKa2tkTUFuUDh6TDgtYzFJaWpoZnQtWGhOb3ZZa1BiNFNQVl8tcFQxVmFPVlJwc0xmWVMwMUtlQ0ZJa2F0ckZtWW9laG82X3I2TTUzNEFLVVJZUkp0dlVsUVBJTy0xamtMWkt4VS1BaE9YNkV4N3hpbEw2NklsekdRNVNQWFVkcUlDVHktMlc4N3lfX29xR0pONENtSnQ1X3gtMU8xWUZhRC1kMDRzdDhQYTlyWktLTjBSYTFBVjkyWG15c1NMQm1JbGI0TDBZY19aa3c3UWlpakljMmFNMWhucml6cmwzQkR5eXJIVC10bjF5SEIwZFZWUXdjRVVRbU1UNmRWRDVyQzBZOVHSAZwCQVVfeXFMT0h2U0FyOEdUNVc3LXBLdzlRVlhXUVlVbndUc19pMlJLZk14R3F5NEdiTlZvTmNXUGItaUZEcjhTbUZCTVduSGVYMHdCOUFrcDFuTGxXVy0tQjB3YlhXM25PQ2V6UG5kS19wUVhVeGU0TlBseUdKU0IyNTYxXzlSb1RVSEtSM1BMaldPcExlOEJ1OVBXQ0hkUGM2X090RzZSeFBrYkFCMkNEczNLa3hYVHFGWUptellvR2FfOUFvRi1sVlQ4aUlHNXdHcTQ0c09Bd1JXNjdLOWFQZnhxbVpQT0hvSHBYZ09Vc2piVWVvN2N5YkxWdF9LN29LOGJFWWVoTURpZUJUWDZmMjZRdXVKbWl6VGEwNnZ2aVlYMDQ?oc=5",
-        "domain": "www.informador.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
-        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
@@ -1674,7 +1669,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1700,15 +1695,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1760,7 +1756,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1786,15 +1782,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1846,7 +1843,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1872,15 +1869,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1932,7 +1930,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -1958,15 +1956,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2018,7 +2017,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -2044,15 +2043,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2104,7 +2104,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -2130,15 +2130,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2190,7 +2191,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -2216,15 +2217,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2276,7 +2278,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup - Concacaf | Official Website",
+        "title": "FIFA World Cup - es.concacaf.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdmpRM0Y3cGdYM1JVcFpOZ0NXNlNxQWhXMEJtRTJBaWpPc09WeG1OTmt2bTAxZ29EdFdNM0NYeE44Q1IzSUVXQ196eXAyWWpvZ2VTLS1NbjRsTXV1anZxNTVJR1pJdDJlRTNF?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
@@ -2302,15 +2304,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - es.concacaf.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "Ivory Coast",
+          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
