@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-06T10:54:26.554075Z",
+    "updatedAt": "2026-09-06T15:27:08.830599Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -17,20 +17,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Ver Belgium - Türkiye Online en Directo | DAZN MX - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUtOS2NmRVR4ZDI4Y1luXzZyTnBhRlliVzRORmJWSkJwNVRRR2FEZjF6NThMeV82ZzNaak8yV1hhR0hOdU9DYTNsUFh1QlMySURzb3c0OURWQ2NuenZaby1CS0xPMWN1aERkVzFMc191NWQxVEhyRjVaUE9sUVo3eFFXRUZfRDJoZXJzeQ?oc=5",
-      "domain": "www.dazn.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 02 Sep 2026 18:19:24 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -95,22 +81,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador",
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
       "domain": "www.telemundo.com",
@@ -121,6 +91,20 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -185,22 +169,8 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - goal.com",
+      "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - goal.com",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
@@ -227,7 +197,22 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - goal.com",
+      "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
@@ -256,23 +241,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Jarell Quansah suspendido por dos partidos tras ser expulsado ante México - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1xVEE0QkFRQWVnYWo1RVRsNHlLNEQ0YVRNY0xJQXg3QVhHcFg2RVBJSW1XVHZobUlTRUhZWW55WWpITk9CZU1hU3lwY1RRUVpSanUzcm5vUTlqb0NrcXNIWGl6cnlOMFNSUXY4Y3UyYng5T0xmaGt1OGcteFFBb0hUSDJnRkpiZF9faVd6ZzNzczRZWW5UZnBTVFNWS2NDel9ad1dCVEN6THZxX25rNVNLSFpaZDNKeERtSlR1bWVhVUY0MDhDenFHdWpsdWsz0gHrAUFVX3lxTE5xcTZDRHRDMGVyU1VYc1ZaY0dFa2gxcEdnQ0xBeE9sc1lpYWlwSmRhOUxTRnBOVjVnNllSa0ZqV1EtdG9GTHpJak5LMmJhNGxKeVJOcnNqRVhlbmlMZ0lrZmljekxlNzJZM3VacjFWTTZlOVZta2RRdzVRdk5jeDUxaGZ4YVl3OGpHT2FkODRLbWludlBibGtvLWtEVG1hRzZHbmRGRVJiUTFMa2kydGFyS3Y5clBnN3ZOYlRPNlZPUHdiV2lZVEZSWWVhTHAwQ3BISzNNU201RXN0NDlTcVFKVnlFeC1RM0l5QzA?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [
-        "sanción"
-      ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - goal.com",
+      "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
@@ -300,10 +269,54 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Belgium Vs Senegal | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0FJRC1lbVVzWlpZRnBTbzZaS1ZVU1hiaXlNb0MxNkFiZlJfRklFcXc0bGZ1TDJHdkJTWUNtcWdrMzBHSU0wTWg4UGwxRkpjSF9ZWGNsRVd3RVk4T2U3a3drcW40a0k4R29haHRTbmNQbjBUSTJWQ3N5djFWZ2lWY1JoWWNnSHpJWnNlWlpBcUl6SWQ3bEszRUVRQzRWdlpsRHd5V1puRU9ZelBjUElOdg?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 28 Jun 2026 05:15:26 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "México, primero en avanzar a los Dieciseisavos de Final de la Copa Mundial - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElZMXYwTG53QVBDWmM0VmxrTUlaSEU3Z3MwcWRWMkJjZkN2RzRrckJJcFdwV251YlliZjFxMDNGalBOMlZnSGkzWVp6NlJSYlVTa2dPZHVDVVJ6SklKY0doRnlydUVXdmdSanV4eFZNS0U5WkNacDNOemROb3ljUUdpdGxfMFkxZXpZNWI4R25uZGtQNmhvNGZ1N0F0RnJLdnZWVnZiYW1vYjQyMW5QMTdHLWpHTWNINnZXTmtlMy1tYUp2Q0hmUkZB?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 21 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWm1hb2RlankwQ0VxMnpxQzVrM1pBbkdKMlBLYkZzTDR4ck9fdmY5ZFJtRm9ScU95YWVpUzRJSTAxLU0xUVZ3d0ZNYkU4VXNuWG53Ni1IeFkzWWJYWUVkcVZFZk9uSF82U1BSZGZvWUJiQ3hiR0stczZXZGN0dGlCdkhQekxkMXZYWHhzb0Q0NVVkWkpiNDdBZ25KYi1kOFlrSS1jNTdzekY5cW1Namx5d3pYeHhUWm4wU29Cc0R3?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 27 Jun 2026 00:08:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -374,35 +387,20 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "France Vs Sweden | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjctT2JQNGFNdXducWdEV2hvd2pBbEJsMWk5N3dRLTVvUWlEOG90TkhwU0hmQTU2R3REOS1SUGdSdFJCT2F6QzVMOU5XZXE1OVlPS0tMOHBWSEhOQWhLTmtudkpwS0VQREtJUGRpZzMxeUhLY3VSaWZxNUE1bHI1M3poRTQwU0FkV3VSYXppR2h5Y1lUa25rN1BmVUk4SmxUSmtnd2REdkhFaXhvQUtnRl9JVzRzbUdTZWFPZW9uUQ?oc=5",
+        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 18:06:31 GMT",
+        "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
         "image": "",
         "matchedTeams": [
           "France",
-          "Sweden"
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -541,22 +539,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
         "domain": "www.telemundo.com",
@@ -569,6 +551,22 @@
           "Ecuador"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -604,7 +602,22 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - goal.com",
+        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -621,21 +634,6 @@
         "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Qué pasó con el horario del partido México vs Inglaterra en el Mundial 2026? La cronología de un cambio que no fue - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1VLcXNENVVIS0tpUXlzZ2VlM0NCaXZ4Y3E4Qy1tei1uUV82dmZFc2hvUHFPLU9keUNYLTBTREdicnp6d0ZMemJlTDZXQzdKZlNZMlFSbkJRU2NkU1p4M0JDVG5DNmRZUmJTWUdYcDRNNnFFYjdfMmI1UEJmRHBtdW9tRUkzUWdSNVYwbTZaWGo4SWR0SExoYTdqTEdvbVFIMTdoa0lMZ21xR1cxTG5wMDhzeFpSQlEzUktsNjFrS25tZk0wV2VEZV9GZXR5SnZuR3ZqQmRFM05UcW85Y3c?oc=5",
-        "domain": "www.si.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
@@ -665,7 +663,7 @@
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
-        "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - goal.com",
+        "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -710,21 +708,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - goal.com",
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -749,6 +733,20 @@
         "matchedTeams": [
           "Belgium",
           "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -771,7 +769,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - goal.com",
+        "title": "Youri Tielemans explica cómo el cambio de postura de la FIFA sobre la tarjeta roja a Folarin Balogun inspiró la victoria de Bélgica en el Mundial contra la selección de Estados Unidos mientras la intervención de Donald Trump salió mal - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbUliYnV0di1tcV8xQ2wwaUFENkN3OWw0VUduTTVaQTdKTEF6SHR2WEx5QVhOT2NTVnFBTUp2WWxvNklXaDIyYlVpcDJlQ091TXNJTll4VVhKd0l1SkwtbWQ3T3h5Q0FIQUNsaGE0MzFHanljUS0yVDhYVHZwWWtSVDROOEwwUmJndVpjbHNyLUJ2UTF6MnAwbUVtZ0Z0LUZabkk1X3BveTdhaV9CSThqaDQ3dGt4Wk9IU1RDc2lJY19RYU13WDJQQ2U3bHJVZUROc3R3NTJXT2Jsb0E1V1ZEOWVpSVVDS0U5VkoxZnM0MUJLaTJoWjhYT0pUdUdGVFhpeHFLT0tnUHFkUWNVcjlBTVpHUHFFbWJGdzJDUXlMSHJQUWx3b3oxVktwVFZXSEVHTkdXS3kzYjhBUDFEa0tXSVkwRE05UnEwNGFjUThvZ2w1bUpxckNJVnFyMXdCSFR0TTh6YklyNkVmcDJSek1MVE9EWXcteUR0eXdwWFhNRTJqcGltWE5RYU5iWVV1blhCRlJpUnNfSjMtUmFHemk0?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -801,16 +799,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Esposa de Orbelín Pineda denuncia que usaron su nombre para estafar a gente con entradas para el partido de México y Ecuador - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMnJpeDFMSnUtU21VUGI1WHZsdjhlZ25BcWwwa183VmNIOHQtWWtCbmJXX2k2M3BZZ2xab1NTRERWZ1pVQmIyWWt5X3dpdEtFOExJalRUNHJQQXZUWkROQ0lJelVnZTZCTDNwNHZjNmtsb0ROcW1sX244UjhaaVBqeE1CWXNDM0NzajY3WnV4eEJrcFlLT01OU1gxMGE5dXhyT2JKNmhGa0kzRGdaWjYwclpGMFdMYTFsU3FhbWNUWnBqZ0Y3RTJyWnBpdFdRcVV6YTJWblhnRlZLd09lZDNETkY1UmVpN1phM3hEcHlBNUliV1BybHdJN1d2OFRNZ2lZdDhEV1dkc9IBogJBVV95cUxNYVh2NEFqSnlCTUthRG1ONFNWdVAzSE8wRHU4eWktSVAzazN0MVRSdkx5Y25KNGNNa1RkT0c5OXNKc3FXOUtlWHM2TlVDbFRxTUNLOVo1SFFUcmZVdGRjVjBNdTB0S2w2bkZBYUNjSXNfYkFxWXpZN2VCa1Y1T1Z4UDY1OXBGOXZyeUVWTGpIeU1VaEs0eUxEa3piamU5dUZFUGlBWTQ5bzdaVEF2cnRwWVJLRnkyNzREUy1ncVlqTnR1djI1VXJtbndON3BzOGJBMEtTSXFHMF9fekt0N0tCaG5YemlxdXNtSHBTWWpVZEZCeG1pOXI2c2JfZ1BDazB2WW95WDJ4aU1CV1ozVTEyN3FwTUhHRVZwNS1JVW5FUWt0QQ?oc=5",
-        "domain": "www.infobae.com",
+        "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico",
-          "Ecuador",
           "USA"
         ],
         "tags": [],
@@ -1583,7 +1579,22 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - goal.com",
+        "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
@@ -1600,21 +1611,6 @@
         "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Qué pasó con el horario del partido México vs Inglaterra en el Mundial 2026? La cronología de un cambio que no fue - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1VLcXNENVVIS0tpUXlzZ2VlM0NCaXZ4Y3E4Qy1tei1uUV82dmZFc2hvUHFPLU9keUNYLTBTREdicnp6d0ZMemJlTDZXQzdKZlNZMlFSbkJRU2NkU1p4M0JDVG5DNmRZUmJTWUdYcDRNNnFFYjdfMmI1UEJmRHBtdW9tRUkzUWdSNVYwbTZaWGo4SWR0SExoYTdqTEdvbVFIMTdoa0lMZ21xR1cxTG5wMDhzeFpSQlEzUktsNjFrS25tZk0wV2VEZV9GZXR5SnZuR3ZqQmRFM05UcW85Y3c?oc=5",
-        "domain": "www.si.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
