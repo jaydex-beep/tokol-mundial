@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-08T21:09:10.222027Z",
+    "updatedAt": "2026-09-09T04:40:03.422756Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -52,7 +52,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+      "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
       "domain": "www.si.com",
       "language": "Spanish",
@@ -91,20 +91,6 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -156,6 +142,20 @@
     {
       "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
@@ -225,6 +225,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
       "domain": "www.goal.com",
@@ -280,20 +294,6 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "México, primero en avanzar a los Dieciseisavos de Final de la Copa Mundial - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElZMXYwTG53QVBDWmM0VmxrTUlaSEU3Z3MwcWRWMkJjZkN2RzRrckJJcFdwV251YlliZjFxMDNGalBOMlZnSGkzWVp6NlJSYlVTa2dPZHVDVVJ6SklKY0doRnlydUVXdmdSanV4eFZNS0U5WkNacDNOemROb3ljUUdpdGxfMFkxZXpZNWI4R25uZGtQNmhvNGZ1N0F0RnJLdnZWVnZiYW1vYjQyMW5QMTdHLWpHTWNINnZXTmtlMy1tYUp2Q0hmUkZB?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 21 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -376,7 +376,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -512,7 +512,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - El Informador",
+        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - informador.mx",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbFRhLUdoR2ZodTF4NXBYczJxTlZIaGphV252M3pZOVpPYmlSQTItNjJuYU1vSEpDSWhCd2tna2NoaGNQX19namtpcjJYT0xIak9DeFFJVzhUOHRWVTlsYTN5a216a1hMTjBkc2VSV1h3dVRDeDB2SUdFdGd6SEpKUzBWa2FVYVRHWXJYVmhSbWZIcDJfdTJKZmFvMFJld0JtcXJ4N2VNVjRNTTNsSUlkTlBXNjQ0VjdPRGJpSlBZOUo0MkduQ3ZTaXdOVG5aSmo1RlBkRGs1QkRBMFpuMDBNLWFxdFJtNjZlQlIzQ2lBT2lOcEFjd1dqWVlGOVYzUzBZamFtetIBigJBVV95cUxNV0F6dloyWUJvY0pZNmdTel9DUkxZS3lsRmZqQnJnVjRDTzJfZzR5NXpMdnN3WXN4TXBwMjN6S0VIcmk2VVBaUXlUVHA1RENxMzZ0Snpva3ZMelpPbllWdVdoNDJoWVRUZmxXa2VUYkg5VXFvdUtYeEM1SW5WMVNfSDExdmxOMThlTUgxckxmTlF3LTZkenNHQnpaaHhZeURZVDNqOGdzckxZZVBLVFNEQ05aa2Rja0Y3RXFwa1B6UWt5NVdMWUV5U0hOZUlGWEtpY010OEhfSnR2RjBMZHFPYW5ndnZlWW1wS1ZXajcxck1qRVVGMkxYandqNFVwOE9pVV9wYWdKWjUxQQ?oc=5",
         "domain": "www.informador.mx",
         "language": "Spanish",
@@ -711,6 +711,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
         "domain": "es.concacaf.com",
@@ -735,20 +749,6 @@
         "matchedTeams": [
           "Belgium",
           "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -786,12 +786,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
+        "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
         "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "USA"
@@ -905,7 +905,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -995,7 +995,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1085,7 +1085,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1175,7 +1175,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1265,7 +1265,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1355,7 +1355,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1445,7 +1445,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1535,7 +1535,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1716,7 +1716,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1806,7 +1806,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1896,7 +1896,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -1986,7 +1986,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -2076,7 +2076,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -2166,7 +2166,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -2256,7 +2256,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
@@ -2346,7 +2346,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - si.com",
+        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
         "domain": "www.si.com",
         "language": "Spanish",
