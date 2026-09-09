@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-09T04:40:03.422756Z",
+    "updatedAt": "2026-09-09T11:20:36.316706Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -154,20 +154,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
       "domain": "es.concacaf.com",
@@ -179,6 +165,22 @@
         "Belgium"
       ],
       "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "El Liverpool abandona el fichaje de Ismaila Sarr después de que el Crystal Palace rechazara una oferta de 50 millones de libras y se frustrara el traspaso del delantero senegalés a Anfield - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbFVqR3Q5VEFxWDdkUEUxem9MV29mcTJVcEdHbTNtVUNCelUwSXo2RXZVc2R4YzFDVHU1LWFYcmRIakhPYzFmRUV3WFAtUTdSVFZTV1I4YVFDcVpIamlmcXhpU3ZNUnpNVl9oSFJiZ2pZNjBUMy1zNkVkOTUwMkN1NFlRd2U0UlVhVDk4a0lxYjQ5RDFfNlBCNFlzV3VZc0RXSjliclRlNTZWVEdtRFJxSFRDbW9OVTNvVWo1SEtoeW9hdVZnVU1adDUxalQ5YXBoczNGTjZjcGhDbjJGZWJCdnNMU0hpc3VoV3RDR2lDaHNWaU1QOUo2Rjh0MURBOFdMM3gyNGVmV0oydk5BaTFQckh1azJiX3AyUFRpZjF1ZWdSLWlFNkJzc1dxVThQTEU1SXM2U3MyZW80WXJTN0twUGd4R2JoX2E1UnBGbzJLUndnc0h0MnBNVWNpb1lPeHZEalE?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 01 Sep 2026 17:37:36 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Senegal"
+      ],
+      "tags": [
+        "sanción"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -220,20 +222,6 @@
       "matchedTeams": [
         "France",
         "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -294,6 +282,20 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "México, primero en avanzar a los Dieciseisavos de Final de la Copa Mundial - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElZMXYwTG53QVBDWmM0VmxrTUlaSEU3Z3MwcWRWMkJjZkN2RzRrckJJcFdwV251YlliZjFxMDNGalBOMlZnSGkzWVp6NlJSYlVTa2dPZHVDVVJ6SklKY0doRnlydUVXdmdSanV4eFZNS0U5WkNacDNOemROb3ljUUdpdGxfMFkxZXpZNWI4R25uZGtQNmhvNGZ1N0F0RnJLdnZWVnZiYW1vYjQyMW5QMTdHLWpHTWNINnZXTmtlMy1tYUp2Q0hmUkZB?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 21 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -512,7 +514,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - informador.mx",
+        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - El Informador",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbFRhLUdoR2ZodTF4NXBYczJxTlZIaGphV252M3pZOVpPYmlSQTItNjJuYU1vSEpDSWhCd2tna2NoaGNQX19namtpcjJYT0xIak9DeFFJVzhUOHRWVTlsYTN5a216a1hMTjBkc2VSV1h3dVRDeDB2SUdFdGd6SEpKUzBWa2FVYVRHWXJYVmhSbWZIcDJfdTJKZmFvMFJld0JtcXJ4N2VNVjRNTTNsSUlkTlBXNjQ0VjdPRGJpSlBZOUo0MkduQ3ZTaXdOVG5aSmo1RlBkRGs1QkRBMFpuMDBNLWFxdFJtNjZlQlIzQ2lBT2lOcEFjd1dqWVlGOVYzUzBZamFtetIBigJBVV95cUxNV0F6dloyWUJvY0pZNmdTel9DUkxZS3lsRmZqQnJnVjRDTzJfZzR5NXpMdnN3WXN4TXBwMjN6S0VIcmk2VVBaUXlUVHA1RENxMzZ0Snpva3ZMelpPbllWdVdoNDJoWVRUZmxXa2VUYkg5VXFvdUtYeEM1SW5WMVNfSDExdmxOMThlTUgxckxmTlF3LTZkenNHQnpaaHhZeURZVDNqOGdzckxZZVBLVFNEQ05aa2Rja0Y3RXFwa1B6UWt5NVdMWUV5U0hOZUlGWEtpY010OEhfSnR2RjBMZHFPYW5ndnZlWW1wS1ZXajcxck1qRVVGMkxYandqNFVwOE9pVV9wYWdKWjUxQQ?oc=5",
         "domain": "www.informador.mx",
         "language": "Spanish",
@@ -711,20 +713,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Spain Vs Belgium | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXZvMGtZd2NXcFA4OVB3S0hqckZVdU55UWFfTTMtR0c2Ukw5U3FJWnp4OUY0MlZCcnBfLXZOeEtCSUtKd2R1SWdnSHdSa2pEOGowRm1BQXJud2F3NGZtVTlMYnN6dEVXaHlSVVBVUVlRNTBmU1UyXzBma2J1c0NxR2tqZm1UVzhBUVhLTXhpdUJkT2dBR0prWkVFMEdQQk1oUGVMaHJ1RlZiV01EeHc?oc=5",
         "domain": "es.concacaf.com",
@@ -751,6 +739,22 @@
           "USA"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "El Liverpool abandona el fichaje de Ismaila Sarr después de que el Crystal Palace rechazara una oferta de 50 millones de libras y se frustrara el traspaso del delantero senegalés a Anfield - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbFVqR3Q5VEFxWDdkUEUxem9MV29mcTJVcEdHbTNtVUNCelUwSXo2RXZVc2R4YzFDVHU1LWFYcmRIakhPYzFmRUV3WFAtUTdSVFZTV1I4YVFDcVpIamlmcXhpU3ZNUnpNVl9oSFJiZ2pZNjBUMy1zNkVkOTUwMkN1NFlRd2U0UlVhVDk4a0lxYjQ5RDFfNlBCNFlzV3VZc0RXSjliclRlNTZWVEdtRFJxSFRDbW9OVTNvVWo1SEtoeW9hdVZnVU1adDUxalQ5YXBoczNGTjZjcGhDbjJGZWJCdnNMU0hpc3VoV3RDR2lDaHNWaU1QOUo2Rjh0MURBOFdMM3gyNGVmV0oydk5BaTFQckh1azJiX3AyUFRpZjF1ZWdSLWlFNkJzc1dxVThQTEU1SXM2U3MyZW80WXJTN0twUGd4R2JoX2E1UnBGbzJLUndnc0h0MnBNVWNpb1lPeHZEalE?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 01 Sep 2026 17:37:36 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Senegal"
+        ],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -780,20 +784,6 @@
         "image": "",
         "matchedTeams": [
           "Belgium",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
           "USA"
         ],
         "tags": [],
@@ -839,6 +829,21 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
