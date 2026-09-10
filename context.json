@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-10T04:40:22.408136Z",
+    "updatedAt": "2026-09-10T11:17:22.813042Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -110,6 +110,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
       "domain": "www.infobae.com",
@@ -120,20 +134,6 @@
       "matchedTeams": [
         "Mexico",
         "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -254,25 +254,23 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "El Liverpool abandona el fichaje de Ismaila Sarr después de que el Crystal Palace rechazara una oferta de 50 millones de libras y se frustrara el traspaso del delantero senegalés a Anfield - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbFVqR3Q5VEFxWDdkUEUxem9MV29mcTJVcEdHbTNtVUNCelUwSXo2RXZVc2R4YzFDVHU1LWFYcmRIakhPYzFmRUV3WFAtUTdSVFZTV1I4YVFDcVpIamlmcXhpU3ZNUnpNVl9oSFJiZ2pZNjBUMy1zNkVkOTUwMkN1NFlRd2U0UlVhVDk4a0lxYjQ5RDFfNlBCNFlzV3VZc0RXSjliclRlNTZWVEdtRFJxSFRDbW9OVTNvVWo1SEtoeW9hdVZnVU1adDUxalQ5YXBoczNGTjZjcGhDbjJGZWJCdnNMU0hpc3VoV3RDR2lDaHNWaU1QOUo2Rjh0MURBOFdMM3gyNGVmV0oydk5BaTFQckh1azJiX3AyUFRpZjF1ZWdSLWlFNkJzc1dxVThQTEU1SXM2U3MyZW80WXJTN0twUGd4R2JoX2E1UnBGbzJLUndnc0h0MnBNVWNpb1lPeHZEalE?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 01 Sep 2026 17:37:36 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Senegal"
-      ],
-      "tags": [
-        "sanción"
-      ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "México termina invicto en el Grupo A con victoria sobre Chequia - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjdkVGpESEhHZ0JzZk5hWXpqRkZYd2hOVUVNbXJTYS15OXNZN2Z5YlBYcUJHaktRMm9kRFpVUHpzVk5DOXpUcmJYOWV5dzBwUjE4OFZNbC1Obmp5cjExSk9nYzRRMGF6ZEpUMEdJekladTdzMGxPaU12a0dBbW9Jb0FYUEt1ME9uTGozS2htRFlsc3YtdnZnOHVSUllwQVlnelpnTjFEQnBETUdET1dIRXZkMTlteHEwQk0yag?oc=5",
       "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Así es el camino de México hacia la final del Mundial 2026: cruces y posibles rivales ronda por ronda - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnNCT193NUVOVHNzTnk5R2RWbUJQX0hpWFJzUlo5b3JXZ1hVN29vNlh1R1lDVjRuTnNzV1FvRDhzNEFyQzFEMWNUSGhGTFRHX0Jqa0hfeHk3Z1QxREZmUmJUT3R6d1diZV94RHFoOS04Y1M0S2FweG10OGxXeDRycFJPWGhOcmNrdnEzWkJSZy0ySk15T0dpVjVOLU9VUl9fYlQ2OGZybEk0VzRFeHVFa1Zkc0lIREc1V0NPcHlqcXM1Vk10dkZOM09iQXM?oc=5",
+      "domain": "www.si.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 25 Jun 2026 07:00:00 GMT",
