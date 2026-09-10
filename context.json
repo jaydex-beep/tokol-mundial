@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-09T20:55:16.753006Z",
+    "updatedAt": "2026-09-10T04:40:22.408136Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -36,12 +36,27 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Watch Mexico vs Ecuador - TOD",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0NabHNhbFY3azRDdVUxM2FuUnk3eGRqclV5RWxmOTladzR6M3V1Q0pRVDlMaFJ4cVExUTctRFJ2Nm1fNEgwejFPbjJ6bXFuTDAtS0lyNHFicmE0Z3FKQjl5ZVhMa2ZoOGV0Uy14b05iYm1jV3RCYjlXWmtsMTlZbGttUHVLNXZqY0QxeFZfNlNlakdy?oc=5",
+      "domain": "www.tod.tv",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 09 Sep 2026 14:17:28 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "La estrella del Real Madrid Thibaut Courtois se perderá la campaña de la Liga de Naciones tras una reunión decisiva con el seleccionador de Bélgica Mark van Bommel - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPLW9OUS1OeGZxU1RpYi12eW01dTFEM3hjeVIzcGhJM0ZzbzJJd1p3X0p3cDlJd19lTkNzZXc0LVdUR3FSWUhqczhSYTJuVlVQXzJKd1p2U2I1SlFkZ29tRzAyTFJYUWJwYWlQOTFEbWY2bmtzcU1UaDRETkMtbThBRmxvcnlsLWdUSE5iMHJ4dnlWWmQwc2FscmRHT3A2TFFIQmQzUy1pSnhfZ21EeTJmYy0wY0Q5Y3dxRFlKeEZnRm03RkFucWZDWUE0SVhCS1BZUTIxeVVEdkdNV1Z1MlM4N0xZSWJ1THRnZ1ZNYTVXTks1eUtxTmNIek9DcEdvTHJVaVBGQWhJYWc3TkJQbmlpOWxTNmpPdE5UUElVQ1RXejFOa3hoMkhUaGFCcjVPVHRTS0NYMnlSQVMtbVRVbFBYdQ?oc=5",
       "domain": "www.goal.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 09 Sep 2026 13:27:06 GMT",
+      "seenDate": "Wed, 09 Sep 2026 13:30:18 GMT",
       "image": "",
       "matchedTeams": [
         "Belgium"
@@ -124,7 +139,22 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
+      "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
       "domain": "www.telemundo.com",
       "language": "Spanish",
@@ -139,16 +169,15 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
-      "domain": "www.infobae.com",
+      "title": "This is Mexico's Heartbeat: Tradition, Color and Football - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVRSRUJYNFE2SjU5TldRekZ2bm5KZlp2Wk13LWMxd2l5R3dnRW1kR19CS21YejVPRjBRdUVBSFlJSzZCOTg3dEVxU3JWNnFaUER2Z0hjRUozSVNNSHkwM3lHcTdYeUllWnNoODNFM2lmNlZSZXNTd1dPZTc4VEZpVVQ2NnhjdDF1dDJfeXptWVRxUllXVnowcHlEVEcxYU91ZGpJX25TYld6YjQ5LVo3R2RnYjQ?oc=5",
+      "domain": "es.concacaf.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico",
-        "Ecuador"
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -267,35 +296,6 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "France Vs England | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVFKUUxiblhOeFdzellJbEVsMUM3WXcybTF6X25YWi1GdzFaaEpqWjlTcFZNQWxNRzA3YTZSSkdha1NwdEpEcnZibWVncVRLRXM1b2dfVnVXenFNU0U5TVpSVENQZk9QeDhxcXo3c3dETzlJQmRYeXZIcmI3cjB2ZEZ5Sm9MVzBjb1lBU04zeW0yYTEzWENhX1lkSjlNLUFra0NWc1RSMzEwUkdHT0hV?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 16 Jul 2026 00:07:04 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -406,6 +406,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "France Vs Spain | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWM5QXZBc2JZTTNRdmN5eG5zMk40U2FNbHljSEdVV3FGaERCTEE3amJaTkluT0N2ejVJeDVuNndZQUhVaTRoWkVwQVhGVVZremRWMGpBLU5oZF9JaUFBRmJBbU52c1NnY2sxaVNXOXR0aWtWODhkQ0kxMWZzSXdPcENfRW04UVJQY2Rzd3dFVFJ0SkJNTTB4b0lIU09ReEwxSmNjaUJaSi1rVEow?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 21:51:32 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Leandro Paredes, a punto de dejar Argentina: la estrella de Boca, lista para marcharse tras la sanción del Mundial - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRFc5OHRsbEpjY25zSTNxeUlCTXNmR0M2WWdnVV8zTHNrVlNFcWxZeFVkVENXQVEtcmJSc2dacHFyTXpKdm9CQ052aklZdzdGSEZIR0FFaEY0b1ZQS05YOG5mTnhMNkJYSWJZdDlnX2JlRTY0eC1oQkQ4LXZ4aEdBUDQyNEQ5R2UwU3NOYldoVmtPZmdaSTFtYXJadVVCT0tQOTF3d25kMEEtME40QnhMdjB2Wk1IbmRHd19PbUZjV0Q5UTl5N3VLTUZXLXMwVjRfc0JGR0syX1ItWDE0eDkxUmNucldUdWh6UHM4S1RzN2xPY2RWSHp1MGdjUQ?oc=5",
         "domain": "www.goal.com",
@@ -462,21 +476,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
@@ -486,7 +485,7 @@
         "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -526,6 +525,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Watch Mexico vs Ecuador - TOD",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0NabHNhbFY3azRDdVUxM2FuUnk3eGRqclV5RWxmOTladzR6M3V1Q0pRVDlMaFJ4cVExUTctRFJ2Nm1fNEgwejFPbjJ6bXFuTDAtS0lyNHFicmE0Z3FKQjl5ZVhMa2ZoOGV0Uy14b05iYm1jV3RCYjlXWmtsMTlZbGttUHVLNXZqY0QxeFZfNlNlakdy?oc=5",
+        "domain": "www.tod.tv",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 09 Sep 2026 14:17:28 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "México mantiene su racha triunfal ante Ecuador y avanza a los octavos de final - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2NIQmpqdGNKZ3ZyWDN2a2JMaURJTEY4TXpXMDY5ZW1WbVFOSDhTYTl5UzJZUGtUY1poQUZqU3JzaWt5R2NYRV85RWJjR1lXdTY0V1htem9YUno2YXREVThTYVBnVG12WUh0a2x4ZHdNTDlEblI1eFlzZjYtNVNmYXJpLWR1RFVrX1BZVUljYVlTSGtaUFJiamFDakNHOTN4aU5EUlNTNlJTcUxDSV96WnpaV3NRZ0lIcnp0RV9wSlNwRVVqQXk5N3JOOVRtallL?oc=5",
         "domain": "es.concacaf.com",
@@ -541,7 +555,7 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - telemundo.com",
+        "title": "OFICIAL: México vs Ecuador se retrasa por condiciones meteorológicas - Telemundo",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDNobjVTWEtyemphRFhYRy1CMkRSSC1OTXpRTHNJbDZJcEU0RXpHSVJkcE1HMFExWDZFRHg2YTAwTGdwMFR0SEpnYmpDNFVndkFFSzdkZVhRTTltYi1FQnpGQ3FyOU9BZU9ndjlDQjF0ZXNfVTJtMGp4S2g3REFFMTlXNmVMT29aU3lMTnVRd21XMFNtNXI1ekNDYS1QNWtmSko4RGFLNkNILW5rVDRWQjMzLXlXMWtrWlozME5aTVZuV2lWQ2I1b0hlbmpJX1BhVHV2cVkzNzlrdw?oc=5",
         "domain": "www.telemundo.com",
         "language": "Spanish",
@@ -553,22 +567,6 @@
           "Ecuador"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       }
     ],
