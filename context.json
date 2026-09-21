@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-20T20:47:22.760446Z",
+    "updatedAt": "2026-09-21T04:52:54.847099Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -28,6 +28,35 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ivory Coast",
+        "Norway"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¡México marcó el ritmo! 🇲🇽 - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhPaUVNSUl2bTFTNzRwb3R1Qk5SbFBxajdXYVRUWHBXRG83RnZiWkstcnNVMG8wSWpIT1lKMjVBdzZDSmFCQjhTczVLTGtfRkx1RTMtb052ZktXaGVOMXdTSjNhLXhDcnFNUHRRa1QtQ1RXbjZaU0RDUURXWHd5U0tFRHlTX3c?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 22:26:51 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -254,20 +283,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "«Esto es la muerte»: Thomas Tuchel admite que fue «torturado» por el desplome de Inglaterra en el Mundial contra Argentina y asume la culpa por el fracaso táctico - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOME94dVB0ZnJzX01NeW5lWjVjWG1sdlh2QjlzNkRCdi1aOUZCS25LRnc2cFZkX3VuQ25TTEFhbnZwTHFMSWRUc095dnZ6c1FZMEZHS09vM3JyNUFJZGRVWjM1ZXRVTTVOVXA0ZjhaQVZOYnA5RXFKMlhzc096RS1JaWk2cWM4SGFrblNxbGtZeVZENTVBN1dLYTBBem9DbnhLb21vUFQ5RnhySnVWTTV3NzVLODlQUmdabUVMNW94MXRrLUhXVFBUbndlM2U3OHcxR19oZElIR2lrYnZKU3l2MFJaUXlGQVF4eHQ2QTNKQ1BRY1RsZzBHdnE5b1JSb2ExQ09meF8zbkFNX2prUkNVUlFDZ3pSR0V6VmlrUERBYTF1MVpTMGlCdHV3NUl6NlpudWpsTg?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 17 Sep 2026 07:30:22 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVhTczBaTVpVOEU3dFdVc3hYbEludEhQQXQ0RXFzVjhMSDBSaWJGM1F5Q0RHeWx6WnBXZTJJWTV0QW5VeDFvX3N1anZIelVrd0wxcm5vaGhXWUlvQ0JfYnpnXzhOS1VjS2FPbWowYzBseklIUTR1ekJlYjBMQUVjNWNfOFlDeDU2YU5BTTlWRzAxSzFqYTlYdGlMcGp0dw?oc=5",
       "domain": "www.fotmob.com",
@@ -280,26 +295,25 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Jarell Quansah suspendido por dos partidos tras ser expulsado ante México - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1xVEE0QkFRQWVnYWo1RVRsNHlLNEQ0YVRNY0xJQXg3QVhHcFg2RVBJSW1XVHZobUlTRUhZWW55WWpITk9CZU1hU3lwY1RRUVpSanUzcm5vUTlqb0NrcXNIWGl6cnlOMFNSUXY4Y3UyYng5T0xmaGt1OGcteFFBb0hUSDJnRkpiZF9faVd6ZzNzczRZWW5UZnBTVFNWS2NDel9ad1dCVEN6THZxX25rNVNLSFpaZDNKeERtSlR1bWVhVUY0MDhDenFHdWpsdWsz0gHrAUFVX3lxTE5xcTZDRHRDMGVyU1VYc1ZaY0dFa2gxcEdnQ0xBeE9sc1lpYWlwSmRhOUxTRnBOVjVnNllSa0ZqV1EtdG9GTHpJak5LMmJhNGxKeVJOcnNqRVhlbmlMZ0lrZmljekxlNzJZM3VacjFWTTZlOVZta2RRdzVRdk5jeDUxaGZ4YVl3OGpHT2FkODRLbWludlBibGtvLWtEVG1hRzZHbmRGRVJiUTFMa2kydGFyS3Y5clBnN3ZOYlRPNlZPUHdiV2lZVEZSWWVhTHAwQ3BISzNNU201RXN0NDlTcVFKVnlFeC1RM0l5QzA?oc=5",
-      "domain": "www.infobae.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [
-        "sanción"
-      ],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -372,26 +386,11 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
+        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - dazn.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
         "domain": "www.dazn.com",
         "language": "Spanish",
@@ -450,6 +449,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -460,20 +474,6 @@
         "matchedTeams": [
           "Mexico",
           "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -604,20 +604,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "«Esto es la muerte»: Thomas Tuchel admite que fue «torturado» por el desplome de Inglaterra en el Mundial contra Argentina y asume la culpa por el fracaso táctico - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOME94dVB0ZnJzX01NeW5lWjVjWG1sdlh2QjlzNkRCdi1aOUZCS25LRnc2cFZkX3VuQ25TTEFhbnZwTHFMSWRUc095dnZ6c1FZMEZHS09vM3JyNUFJZGRVWjM1ZXRVTTVOVXA0ZjhaQVZOYnA5RXFKMlhzc096RS1JaWk2cWM4SGFrblNxbGtZeVZENTVBN1dLYTBBem9DbnhLb21vUFQ5RnhySnVWTTV3NzVLODlQUmdabUVMNW94MXRrLUhXVFBUbndlM2U3OHcxR19oZElIR2lrYnZKU3l2MFJaUXlGQVF4eHQ2QTNKQ1BRY1RsZzBHdnE5b1JSb2ExQ09meF8zbkFNX2prUkNVUlFDZ3pSR0V6VmlrUERBYTF1MVpTMGlCdHV3NUl6NlpudWpsTg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 17 Sep 2026 07:30:22 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
         "domain": "www.goal.com",
@@ -650,6 +636,21 @@
         "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
         "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
@@ -889,6 +890,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -913,21 +929,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -979,6 +980,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1003,21 +1019,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1069,6 +1070,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1093,21 +1109,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1159,6 +1160,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1183,21 +1199,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1249,6 +1250,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1273,21 +1289,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1339,6 +1340,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1363,21 +1379,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1429,6 +1430,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1453,21 +1469,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1519,6 +1520,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1543,21 +1559,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1589,20 +1590,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "«Esto es la muerte»: Thomas Tuchel admite que fue «torturado» por el desplome de Inglaterra en el Mundial contra Argentina y asume la culpa por el fracaso táctico - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOME94dVB0ZnJzX01NeW5lWjVjWG1sdlh2QjlzNkRCdi1aOUZCS25LRnc2cFZkX3VuQ25TTEFhbnZwTHFMSWRUc095dnZ6c1FZMEZHS09vM3JyNUFJZGRVWjM1ZXRVTTVOVXA0ZjhaQVZOYnA5RXFKMlhzc096RS1JaWk2cWM4SGFrblNxbGtZeVZENTVBN1dLYTBBem9DbnhLb21vUFQ5RnhySnVWTTV3NzVLODlQUmdabUVMNW94MXRrLUhXVFBUbndlM2U3OHcxR19oZElIR2lrYnZKU3l2MFJaUXlGQVF4eHQ2QTNKQ1BRY1RsZzBHdnE5b1JSb2ExQ09meF8zbkFNX2prUkNVUlFDZ3pSR0V6VmlrUERBYTF1MVpTMGlCdHV3NUl6NlpudWpsTg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 17 Sep 2026 07:30:22 GMT",
-        "image": "",
-        "matchedTeams": [
           "England"
         ],
         "tags": [],
@@ -1641,6 +1628,21 @@
         "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
         "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
@@ -1699,6 +1701,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1723,21 +1740,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1789,6 +1791,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1813,21 +1830,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1879,6 +1881,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1903,21 +1920,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1969,6 +1971,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -1993,21 +2010,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2059,6 +2061,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -2083,21 +2100,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2149,6 +2151,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -2173,21 +2190,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2239,6 +2241,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -2263,21 +2280,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2329,6 +2331,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ivory Coast",
+          "Norway"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
         "domain": "es.concacaf.com",
@@ -2353,21 +2370,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
