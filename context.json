@@ -1,12 +1,26 @@
 {
   "meta": {
-    "updatedAt": "2026-09-28T13:50:32.192340Z",
+    "updatedAt": "2026-09-28T23:14:57.486678Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
+    {
+      "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+      "domain": "au.sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
     {
       "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
@@ -95,15 +109,15 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
+      "title": "This is Mexico's Heartbeat: Tradition, Color and Football - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVRSRUJYNFE2SjU5TldRekZ2bm5KZlp2Wk13LWMxd2l5R3dnRW1kR19CS21YejVPRjBRdUVBSFlJSzZCOTg3dEVxU3JWNnFaUER2Z0hjRUozSVNNSHkwM3lHcTdYeUllWnNoODNFM2lmNlZSZXNTd1dPZTc4VEZpVVQ2NnhjdDF1dDJfeXptWVRxUllXVnowcHlEVEcxYU91ZGpJX25TYld6YjQ5LVo3R2RnYjQ?oc=5",
       "domain": "es.concacaf.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "USA"
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -119,6 +133,20 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -251,21 +279,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium",
-        "Senegal"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "United States Vs Belgium | FIFA World Cup - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDFIeUdzT3JjUEwyaTA0aFRBOWVFc3doZmRyck9IaWw4NUoybWVTUnZUdjZoejRZb0JyTE1rWE5NaVZEXzk1ODgxMXh5SlVrM2NUZFNUWDFnNGoyZW1DRFN5ZDRncFJRX19jU1BXbVdidlJIZjh3WHZPRDBzVG1IeDZpempmU3o2cnpJMkpVWEJwQVByWmlfWFpCTkNXb2xnV0h6Q2xOb3ZlcmV6c0ZnVkladWVVM2Zs?oc=5",
       "domain": "es.concacaf.com",
@@ -276,20 +289,6 @@
       "matchedTeams": [
         "Belgium",
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "México, primero en avanzar a los Dieciseisavos de Final de la Copa Mundial - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElZMXYwTG53QVBDWmM0VmxrTUlaSEU3Z3MwcWRWMkJjZkN2RzRrckJJcFdwV251YlliZjFxMDNGalBOMlZnSGkzWVp6NlJSYlVTa2dPZHVDVVJ6SklKY0doRnlydUVXdmdSanV4eFZNS0U5WkNacDNOemROb3ljUUdpdGxfMFkxZXpZNWI4R25uZGtQNmhvNGZ1N0F0RnJLdnZWVnZiYW1vYjQyMW5QMTdHLWpHTWNINnZXTmtlMy1tYUp2Q0hmUkZB?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 21 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -314,14 +313,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -386,21 +387,6 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 05 Jun 2026 18:23:19 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -417,14 +403,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -467,6 +455,21 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -535,6 +538,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
@@ -544,21 +561,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -655,21 +657,6 @@
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
-        "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
         "domain": "es.concacaf.com",
@@ -700,36 +687,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 05 Jun 2026 18:23:19 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -743,6 +700,49 @@
         "tags": [
           "sanción"
         ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -792,21 +792,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "César Montes causa baja de la Selección Mexicana y Dagoberto Espinoza toma su lugar - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDdiX0NrM2tqMldRbE94Uk1SMUZXcGdlb2Q0NFVkcHhLRzBPdFc2MG5ZNDRTSTNrcUpHT3oySnY5eGhoREtWekVYR1Jnakp1a0NIcFduVXFIaHA3ak1yMlFJNUFyVzN0U1A3UE52TFNPQkRCVG9lZHd0Ynl6RHljQzJBMGwyNVNlYmp3VzdEZkRDMTMxYmgxRDd1RVVFZVFtVS1EWjB1T0pGbDNKd0Y3Wl92TlVhUQ?oc=5",
         "domain": "www.si.com",
@@ -835,6 +820,20 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Japón contra los latinos: ¿cuándo y dónde ver la Kirin Challenge Cup EN VIVO y en español en Estados Unidos? - Telemundo",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWhhR014WTNwN3J6NDNvNGdYdEF4UlRGazBDXzQ4NmVoYnZXTzd2UkpoNWF4azhPQ25ELVpkWDVyMHBJVzFLMkNIc0NqQURWVXVKU3ZTTkdndmRQQWZDamQ3MXctTzVQUWkyazVQYmFXdmluZUM2Y3VGRXkwc0JmMDEyY1FJRHJ5OHloNWlDYVVkbW5WOVBGb0x4WkpGeUFNazVqTFZIMnlZOVktQ0hManBGVnh2VTFjTUxDbnpmOTc5dw?oc=5",
+        "domain": "www.telemundo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 24 Sep 2026 02:16:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
@@ -855,14 +854,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -943,14 +944,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1031,14 +1034,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1119,14 +1124,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1207,14 +1214,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1295,14 +1304,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1383,14 +1394,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1471,14 +1484,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1648,14 +1663,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1736,14 +1753,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1824,14 +1843,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1912,14 +1933,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2000,14 +2023,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2088,14 +2113,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2176,14 +2203,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2264,14 +2293,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Bruno Guimaraes sigue atormentado por su decisivo penalti fallado en el Mundial mientras Brasil busca redimirse ante Australia - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT0VMdl9hRVFuQV84amIxc1dRRmFoVVBNMU1uZnRtZUU2THg3TVp5bjlaMV9MUEFLdlRwMTZaMFZsSHUxcG5JenNXVC05cG9laWZPZ3BQTTcya2ZVWDNOaExOMWlfdjFydlpOdEpPUlJrRXpPai1UdkJoeFhwRGRTRUliRmZtYVVrdm04N2ptQ3ZBVUdxNDN6Umg5RUlMX01nT0FIZUZpVm1sZ0tPX0EzaXJaY3ZmeFNSSFJ1Q1YtR1Zpc1J4Zzl5X0FmMmJIN1FweWZoNHp3aGFyenBkRjNrbHhoeWMyalc2dVRvbUZESnF2STUwY3BwaGc3Y1R1NkJRRDZDYVFRbGNYNnZYbFRR?oc=5",
-        "domain": "www.goal.com",
+        "title": "Which nation will Mexico face in the 2026 FIFA World Cup Round of 32? - Yahoo Sport Australia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ka3U2Vm81VUFsaTc2WE9PLXM2TXlKNFBlamlsd2dPc3JiSEw0aU95Z2ZNQ0otOXFEVTE3ckpwMTM4S3hmdGtmeDNTNFVUMHA3azlrMWV3dmlmNElzSl8zR2s2MmJZTGV5ZXQyWG5tMXRFUXVLcVh2ZkpxWQ?oc=5",
+        "domain": "au.sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 23 Sep 2026 12:56:49 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
