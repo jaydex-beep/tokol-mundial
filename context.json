@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-01T22:40:03.861044Z",
+    "updatedAt": "2026-10-02T05:34:25.998061Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -210,7 +210,7 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Javier Aguirre, a 23 partidos de entrar en la historia de LaLiga - mexico.as.com",
+      "title": "Javier Aguirre, a 23 partidos de entrar en la historia de LaLiga - AS México",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbE95NFFHVDZYamhwMHBrNUtMbXdwLTZvckZHT1RDdjZFckR6c0pFZm5yY3NkQ1ozZkpKVi1Qc3BpQWd2MzhNQzJZUGw1Uk92TGU0Vk5JN1hJMGFUOURSdU5jRUllcXowUWxtU0NFRzZVLU9fa19zT3N3eUh1dTVtUGVLdXdEcmVILThaaEo4THRvMDItN2dJSEFJUUVQZWN2S3NvMjVR0gG6AUFVX3lxTE9JdzRUMWxzTE1YMDZHQ1NTTHR3YUhDQXNkOGZaUjA4V1VLV0RIeTZRS3pEeHdEMXV5QjZ3LXJhZVVub3JkNHdFX2dTR0t6STBYeEgwUFMxZjBpV2VUZVlZMHdEeU0zMlJjdGFCcmtRVnpJQUJMOTlmOUJzMmFRYXpWMnRZWllnLWVtWkJHakJUTkp5ekdCMWp4RzljLTZuSHBHWXlvanRLNE14c19PYTFyNzA3TFUxYlp5QQ?oc=5",
       "domain": "mexico.as.com",
       "language": "Spanish",
@@ -219,20 +219,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Japón contra los latinos: ¿cuándo y dónde ver la Kirin Challenge Cup EN VIVO y en español en Estados Unidos? - Telemundo",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWhhR014WTNwN3J6NDNvNGdYdEF4UlRGazBDXzQ4NmVoYnZXTzd2UkpoNWF4azhPQ25ELVpkWDVyMHBJVzFLMkNIc0NqQURWVXVKU3ZTTkdndmRQQWZDamQ3MXctTzVQUWkyazVQYmFXdmluZUM2Y3VGRXkwc0JmMDEyY1FJRHJ5OHloNWlDYVVkbW5WOVBGb0x4WkpGeUFNazVqTFZIMnlZOVktQ0hManBGVnh2VTFjTUxDbnpmOTc5dw?oc=5",
-      "domain": "www.telemundo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 24 Sep 2026 02:16:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -291,6 +277,20 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "México, primero en avanzar a los Dieciseisavos de Final de la Copa Mundial - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElZMXYwTG53QVBDWmM0VmxrTUlaSEU3Z3MwcWRWMkJjZkN2RzRrckJJcFdwV251YlliZjFxMDNGalBOMlZnSGkzWVp6NlJSYlVTa2dPZHVDVVJ6SklKY0doRnlydUVXdmdSanV4eFZNS0U5WkNacDNOemROb3ljUUdpdGxfMFkxZXpZNWI4R25uZGtQNmhvNGZ1N0F0RnJLdnZWVnZiYW1vYjQyMW5QMTdHLWpHTWNINnZXTmtlMy1tYUp2Q0hmUkZB?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 21 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -785,6 +785,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "«La energía cambió»: Mauricio Pochettino revela cómo el drama de la tarjeta roja arruinó el sueño mundialista de la selección de Estados Unidos - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSm95N1ZwUzBzb3N4cVpHa1hfM1ZFaldsWVp0ZFRBb3BwcC01blFTV3BJTEppUE9RODBGam9uTTZVLThrcGNjNU54Z0lzMHM3ZkRwamVDTVdubko3dy1IUl9ObFRzdE9xdHFTNUxSeFFLeWhXcW1SQTNvU0hxaVpkTk05S0JNRUd1bEZnRnpEZTl4U3NsVDZaWjQ4T3FDX2lCRnZhUUgyb0lQY0puejQzcmIwWnhROXczanlEWXYtQlYtM3VQc2ozUmkxUXpRXy1QNk9WTGpsNDBWUl9zYzVlVm1HZDIxR01aT29JVzJocFlRZWR6UzZMSUJPY01STW8yNzViRFNKQUo4UTF5UmxyM2k5QWI4dUVOdmg3WVBVRDVmUQ?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 26 Sep 2026 06:29:33 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
         "domain": "es.concacaf.com",
@@ -822,20 +836,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Japón contra los latinos: ¿cuándo y dónde ver la Kirin Challenge Cup EN VIVO y en español en Estados Unidos? - Telemundo",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWhhR014WTNwN3J6NDNvNGdYdEF4UlRGazBDXzQ4NmVoYnZXTzd2UkpoNWF4azhPQ25ELVpkWDVyMHBJVzFLMkNIc0NqQURWVXVKU3ZTTkdndmRQQWZDamQ3MXctTzVQUWkyazVQYmFXdmluZUM2Y3VGRXkwc0JmMDEyY1FJRHJ5OHloNWlDYVVkbW5WOVBGb0x4WkpGeUFNazVqTFZIMnlZOVktQ0hManBGVnh2VTFjTUxDbnpmOTc5dw?oc=5",
-        "domain": "www.telemundo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 24 Sep 2026 02:16:00 GMT",
         "image": "",
         "matchedTeams": [
           "USA"
