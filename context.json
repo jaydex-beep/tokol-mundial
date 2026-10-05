@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-04T21:22:41.972202Z",
+    "updatedAt": "2026-10-05T05:36:25.480088Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -238,17 +238,19 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Jiménez marca su primer gol en una Copa Mundial y México vence a Sudáfrica - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkVsSzNUc0c5QWI1eTZsTmt0X3h6WHZwdzZzUEl5aE1zWkpRckRPOHgwQmdzM0dURThzU3pPOUdHUjJKZE03MjdPRXNLOXdNVnFvVU5UUDhfaXdPQldGRVVTdmFSZWNIQm5ETDRTUzU5Q0xTc213SWctaENzQVdiZlduMDdNbFhTcjRKUjhfam9jNUhhb2hKOFdFV2RSVHBwQUxkV2dDWk00blY0dEI3OXN5SFNnb2lSSnI4MWwtajctWV9XcjRjekctWQ?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "Jarell Quansah suspendido por dos partidos tras ser expulsado ante México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1xVEE0QkFRQWVnYWo1RVRsNHlLNEQ0YVRNY0xJQXg3QVhHcFg2RVBJSW1XVHZobUlTRUhZWW55WWpITk9CZU1hU3lwY1RRUVpSanUzcm5vUTlqb0NrcXNIWGl6cnlOMFNSUXY4Y3UyYng5T0xmaGt1OGcteFFBb0hUSDJnRkpiZF9faVd6ZzNzczRZWW5UZnBTVFNWS2NDel9ad1dCVEN6THZxX25rNVNLSFpaZDNKeERtSlR1bWVhVUY0MDhDenFHdWpsdWsz0gHrAUFVX3lxTE5xcTZDRHRDMGVyU1VYc1ZaY0dFa2gxcEdnQ0xBeE9sc1lpYWlwSmRhOUxTRnBOVjVnNllSa0ZqV1EtdG9GTHpJak5LMmJhNGxKeVJOcnNqRVhlbmlMZ0lrZmljekxlNzJZM3VacjFWTTZlOVZta2RRdzVRdk5jeDUxaGZ4YVl3OGpHT2FkODRLbWludlBibGtvLWtEVG1hRzZHbmRGRVJiUTFMa2kydGFyS3Y5clBnN3ZOYlRPNlZPUHdiV2lZVEZSWWVhTHAwQ3BISzNNU201RXN0NDlTcVFKVnlFeC1RM0l5QzA?oc=5",
+      "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
       ],
-      "tags": [],
+      "tags": [
+        "sanción"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -601,6 +603,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
         "domain": "www.infobae.com",
@@ -639,21 +656,6 @@
         "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
           "England"
         ],
         "tags": [],
@@ -1578,6 +1580,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Michael Owen, exfutbolista de Inglaterra lanza dura y culpa a México del fracaso de su país en el Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVdTamxKTi1rRl9CZWpVdHlZMW9QRjJHcTVqMTBxZ1dwLWJDN2Q3M296UGs3bzZucEZmTDFuS2VnejVoTE5nWmRmd1RURUEyTVJkcktUbGZocHBHU3hYQ0VLU3FPbkpENDlLOFBkazBiTlAxaUp4LWg5V2dZWk9LX3BVMjktTmh2TE1NWWdmRnROVnVoTzd3TFo1Z21jWWREZFpXaDNqZlBwMXN1dTBTd3FzMWUtbS1tNmpJaTRwdFNieTZDWVRYSjNVeTduc0ZjcFMxOERsZWtaT18xN0tJVl9CWXd3eVZPVExuUXFHNE1fZ0nSAY4CQVVfeXFMTVlodElRNFV2aFp3d3UtVnVYZ3hQb01abkt5MTllS1VTNks3VDg0RFNWOVRKWlJqaXVHN1lTajNKSzVlS3hXa3VxbV91Z0JmQmhCR2ZlRWtrZmNXMDVZY3dTTU5fblUtRThXY1RsbHRrWW1Oc3JkeVc5aEtZNmFvdzREeVR5b3h2Wlc5ekpGZWI5TTV3TVFrU05iNmo5U19QdlpnZFAzNm16ZHBFQlNPMVdoeklpU19VV1ltX28ycW1UaUxwNlpfNjV2NWp3OGlsREhQY0FmUXdQZ1ZKWWVETkVDZ3dsa1dUT21lZnMwOEFyR2d5akRzRGNmN29meW9Zb0ZNcTRqQVk2ak9ERlhR?oc=5",
         "domain": "www.infobae.com",
@@ -1616,21 +1633,6 @@
         "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
           "England"
         ],
         "tags": [],
