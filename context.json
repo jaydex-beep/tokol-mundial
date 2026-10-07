@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-07T05:56:56.425641Z",
+    "updatedAt": "2026-10-07T13:20:06.104435Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -168,20 +168,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "«No se me respetó del todo en Inglaterra»: Anthony Gordon carga contra su reputación en la Premier League y explica por qué tuvo que fichar por el Barcelona - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeFI5Z0I3YmFGX19aS1M0M3ptbTRLYWlCRWpLV1BxcVRLQ21kejJfVmpnNDI1Mzg4Vl9lQWg1YzRRbTdudno4SlhVemRlX1E4MDJrLUJvSGxFajlYb3JUWE5YY09FWlF3b1BGYklFaEVvUzlYWTlHSl9MMEhtSkVvY25UaGFjNGZ6NVctUEpsOWlEUjd2ZG93SU1tMWJXMU96V29UeDFYem40eXRaU0tGU3BkV1dEdDlmMG1NNi1qVEFURVlKZzN2THliOUtzRG1sSk9MMWw2QlVBVjF0ZHdoQlBubmQxS2xidDM4bXJCb1ZRQkxrT2M3T0tEVW9PUUlhbDVZUjRCR212YURQcHNaWEttQ0htcmNkTkx3dVYxdldjR0ZldVJQeEVzZHo5S2xKaVpz?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 29 Sep 2026 07:23:30 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "México enfrenta a República Checa en el cierre de la fase de grupos - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0ZmSzEtOVgyNjhlRmVmc09Kcml5ZXZqd3hvZjdPR2pZZl84bi1kdkVwck5ZWUEySkgySzZhUG9NRGIwbjBoT19LVF9PSF8zTTdCbFhVVXF4U0Nyc1pGMG9OUDFfSi1JY05qVVdnTHJVc19icnRHOGRkdzRpN1dZTmF6QWFjaVd0Nk40U3BGWEVwMEhvSzV0Um02VmJzbWgzcU5PeVJMQ25GVTFrRmN0b1kxdWYxcWNidVJIQ2VBVTc2Zw?oc=5",
       "domain": "es.concacaf.com",
@@ -206,6 +192,34 @@
       "matchedTeams": [
         "Belgium",
         "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 2022 – Final Argentina vs France - El Grito del Sur",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkFpV0pRQ1BMV2R5MWpLQzJ6ZXFaN18zTFRvaWJBUjU2YUJDTzFWd2J2VFl3U1I3OFljOUxxeW5nQUlURWZ3TGp3aGNIRHNvZlE0U0xVYzZNem44bGFnZzJ3c3VtelY5M3d1SjB4SmphbEZWM2lMZnJ3eUlRLTBka2pQd1lHSG9wZUFqLXJkMDVSVU93OTV6d0JoWUh3MnR2VXpZQndpbkZ1UXlrTUVpclFqQ3lxVWhyZjFJYy1OWk5SVThaZHBQblF3dUZxclJG?oc=5",
+      "domain": "elgritodelsur.com.ar",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 06 Oct 2026 23:48:35 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -278,21 +292,6 @@
       "matchedTeams": [
         "England",
         "DR Congo"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mexico Vs Ecuador | FIFA World Cup - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDQ4LWtCQUlzR1I1VGoyeV9vOGNpSDJvcjFWeTNLN1JfX2pGUlVEMmJXSnhBci1KbVl0NFc1QzQ4TFdsZ3dMYUc5VG00V2xhTTc5RHNDZ195MF9mWFpNRUE5UzB5Vk5MdXM5QS1OcVRWM01BcThVdXY3WHZ6RWttRXk5NENQM2VSRnVXb0ZrMzFnZjRNV2hDLVUwSWNyRkw3VWJ6YlZBS2xfUmRYcnNB?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 28 Jun 2026 00:10:20 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -372,21 +371,33 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "FIFA World Cup 2022 – Final Argentina vs France - El Grito del Sur",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkFpV0pRQ1BMV2R5MWpLQzJ6ZXFaN18zTFRvaWJBUjU2YUJDTzFWd2J2VFl3U1I3OFljOUxxeW5nQUlURWZ3TGp3aGNIRHNvZlE0U0xVYzZNem44bGFnZzJ3c3VtelY5M3d1SjB4SmphbEZWM2lMZnJ3eUlRLTBka2pQd1lHSG9wZUFqLXJkMDVSVU93OTV6d0JoWUh3MnR2VXpZQndpbkZ1UXlrTUVpclFqQ3lxVWhyZjFJYy1OWk5SVThaZHBQblF3dUZxclJG?oc=5",
+        "domain": "elgritodelsur.com.ar",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 06 Oct 2026 23:48:35 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
@@ -454,21 +465,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -676,6 +672,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Bélgica recurrirá la decisión de la FIFA sobre Folarin Balogun, y la RBFA, indignada, emite un comunicado sobre la impactante decisión de la tarjeta roja - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWnc1VGJobjIxc1lTZUVQRlNnWHhzTzgtd3U5bTkxYUlxdWotVVBMMzNKU2xXekxPOWk0dzRwLUo5Z0hoN20tWUg2b0Y0UF9XU0E4Z3R0NlI5cF9Mb195dTlnd2kzTmg3bnBaVEdOSGI5Rzk5ajhvVGpUN2pFUEFwODY0LThXN0dJN2hhbTRJMG5ISlFFeFNoQWtsMnRjamRyZWVpVUFqWjJYeUkwLVRBTElRdGd1UmlZMDhrQlNyRkxuaTVCV3dwazUzd2ZsSEF3VWc4enp3Y1VFNFB0TE1PeDZSb0dWQmlRcGhfQlpHSUV3eGR4dElMMDRsNF9pZ2c2TWQ0MUZnZnVPRWlrbFJmbHlMU0J2a05GQkN5dnRscUdYNU9PR3FVZzJJZm5YbkU?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
         "domain": "es.concacaf.com",
@@ -730,20 +740,6 @@
         "seenDate": "Wed, 10 Jun 2026 16:14:07 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México recibe a Sudáfrica en el partido inaugural de la Copa Mundial - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXR0dnJudUxLNFZlRGMxNTRLX2hUaXZoaFoydllIQlM2bmlEbkxEemdVblQwSFI2bndpYnVNTEtGNzhjWWl5YWlNeHdnQnFmbXBaY3Q3eG52RzYyUTVKZ2doQm50dmMwM09iLVJfb3NtYmVFSjdrNUFNRzI1bkZPZ3JYd2JWUnZkY1JheG01UTFnelY2RUd1MmhXd3JnZUhVTkdqS0llYjZDekxxUDY5aUQtMEwwdGx0TUkyaVNCc2xFQVU?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -896,31 +892,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -983,31 +974,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1070,31 +1056,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1157,31 +1138,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1244,31 +1220,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1331,31 +1302,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1418,31 +1384,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1505,31 +1466,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1683,31 +1639,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1785,17 +1736,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1858,31 +1806,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1945,31 +1888,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2032,31 +1970,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2119,31 +2052,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2206,31 +2134,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2293,31 +2216,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "CôTe D'Ivoire Vs Norway | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYTBVZmJGTkpTWVlJUmZtaFNBYVVZS2EwN2FZeV96c3h6Sk03aUlsOFJMc1owSG4xcDg0NUprMFR0Z2JqZFd4cHRjR3hlbnJlUWVpZjBsVjdFYk5UOTJYbGVPTUJ1ejFJVGNDTkRCYlAyS1hXczUxdVJfVGlKT2hmclZYcTF5NXFfVG1CRjhpcW1IVHR0Wk56c3JuZ0gyYWhBUnI1V1BscmtLNHFlaDJHaDlLVnduVFo4NW9OY2E4em52NTVSWDZwaUZnMWIwSlU?oc=5",
-        "domain": "es.concacaf.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 05 Aug 2026 12:00:55 GMT",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
-        "matchedTeams": [
-          "Ivory Coast",
-          "Norway"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Contra quién juega México en octavos de final del Mundial 2026: rival, fecha, hora y sede - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFlZS3dQSTE0Vy1fQnlMSU53bE5CVzJScEV6RklrWjBoeU1WZDlsUmZoV2Fab1VPODNLbEtlMmx0RHpfUFhiOVpFTTNEX3JhN1BFMEY4dW9xNmRkT0plN0lQLTNQUmZGaTBjRVFubmNxSGVfclBvMGNudVRxeS1IZVBiS2tsdVdacFZncEFzbHNRV2RUclBnWUtzd01vMjVSNTNtTXNqOWNkOC1mWmpUaGs2WHZ3bVB3OWhkbVB4WXFjWFNhMVRENQ?oc=5",
-        "domain": "www.si.com",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
