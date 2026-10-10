@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-10T05:50:01.130557Z",
+    "updatedAt": "2026-10-10T12:29:04.480948Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -25,6 +25,20 @@
       "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
       "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+      "domain": "www.tvazteca.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
@@ -225,22 +239,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "¿Cuál es la situación de Arnold? Kane y Bellingham encabezan la alineación de Inglaterra ante República Checa - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQ1ByM2R4M3BhMHJQWHNPVURnWWsxdWFMVnozMExVRzlHMEhnTjlPTWdZU0w0aGJYdm5ZemNqMGhqVlpzSkFBOEdmMzNfYkJfWE9OV3NRLTkwU0M0eHpqS2h1anA5TzNsN1hJSDNIUVhnaWdWTmdad1ZwOVc4QjZCNUNsa1BOUmhmS0ZObjlUNW1HN2c5bUJndm4yN3haUXdQUWRPZlRadFdaQTJHZXdxWXhia2NsTlhiMDRBR2FMMkgzZ080VjUzZFBnbjRtZnoyOW4zUUFTSFVlTE1OZU1uZGtVTGlnZUl4RFBHSDFXSmQzdTlraWc?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 06 Oct 2026 18:04:24 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [
-        "alineación"
-      ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "México termina invicto en el Grupo A con victoria sobre Chequia - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjdkVGpESEhHZ0JzZk5hWXpqRkZYd2hOVUVNbXJTYS15OXNZN2Z5YlBYcUJHaktRMm9kRFpVUHpzVk5DOXpUcmJYOWV5dzBwUjE4OFZNbC1Obmp5cjExSk9nYzRRMGF6ZEpUMEdJekladTdzMGxPaU12a0dBbW9Jb0FYUEt1ME9uTGozS2htRFlsc3YtdnZnOHVSUllwQVlnelpnTjFEQnBETUdET1dIRXZkMTlteHEwQk0yag?oc=5",
       "domain": "es.concacaf.com",
@@ -269,17 +267,19 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "«Esto es la muerte»: Thomas Tuchel admite que fue «torturado» por el desplome de Inglaterra en el Mundial contra Argentina y asume la culpa por el fracaso táctico - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNWtDc0pZT3FKUVRBTzNxcWMzTm1QVWNYeEJtMWNxemtfZjBJSHBLTm1JQVhzTzcxaG5BM1pIVnptWjVzemtyVHIyNUdCWXFZWkdkMWdOdjVPZW13WkFjMnloU2FGTExHY3dORG5MR1ZkeFNveU51aEljeEtBcDE2d1VIeENRTnR5U2NFZWREdEZOdGJHbUtzcG1CMk9qZnFnRDBuRGozRU94d1EwRXl3MENwZTdQbGZNVmp2VW1lYkNiRDBZbEVSbnlweUJKLXRTMm9uVVRkYkEwWFdVT1cwV2h2WG1GNzJEZHdaUHhlcjVKUG13V25mdndJdm9GMVlYa1UwVC1iT3pHbzJUMmE5VzNKX3VnR2FVZXdCcjIxT3RxNGs3UFFJWk5HM0FBMWUyS0dXLV9zWmM?oc=5",
-      "domain": "www.goal.com",
+      "title": "Jarell Quansah suspendido por dos partidos tras ser expulsado ante México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1xVEE0QkFRQWVnYWo1RVRsNHlLNEQ0YVRNY0xJQXg3QVhHcFg2RVBJSW1XVHZobUlTRUhZWW55WWpITk9CZU1hU3lwY1RRUVpSanUzcm5vUTlqb0NrcXNIWGl6cnlOMFNSUXY4Y3UyYng5T0xmaGt1OGcteFFBb0hUSDJnRkpiZF9faVd6ZzNzczRZWW5UZnBTVFNWS2NDel9ad1dCVEN6THZxX25rNVNLSFpaZDNKeERtSlR1bWVhVUY0MDhDenFHdWpsdWsz0gHrAUFVX3lxTE5xcTZDRHRDMGVyU1VYc1ZaY0dFa2gxcEdnQ0xBeE9sc1lpYWlwSmRhOUxTRnBOVjVnNllSa0ZqV1EtdG9GTHpJak5LMmJhNGxKeVJOcnNqRVhlbmlMZ0lrZmljekxlNzJZM3VacjFWTTZlOVZta2RRdzVRdk5jeDUxaGZ4YVl3OGpHT2FkODRLbWludlBibGtvLWtEVG1hRzZHbmRGRVJiUTFMa2kydGFyS3Y5clBnN3ZOYlRPNlZPUHdiV2lZVEZSWWVhTHAwQ3BISzNNU201RXN0NDlTcVFKVnlFeC1RM0l5QzA?oc=5",
+      "domain": "www.infobae.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "England"
+        "Mexico"
       ],
-      "tags": [],
+      "tags": [
+        "sanción"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -344,6 +344,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -364,21 +378,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -458,14 +457,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -610,20 +611,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "«Esto es la muerte»: Thomas Tuchel admite que fue «torturado» por el desplome de Inglaterra en el Mundial contra Argentina y asume la culpa por el fracaso táctico - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNWtDc0pZT3FKUVRBTzNxcWMzTm1QVWNYeEJtMWNxemtfZjBJSHBLTm1JQVhzTzcxaG5BM1pIVnptWjVzemtyVHIyNUdCWXFZWkdkMWdOdjVPZW13WkFjMnloU2FGTExHY3dORG5MR1ZkeFNveU51aEljeEtBcDE2d1VIeENRTnR5U2NFZWREdEZOdGJHbUtzcG1CMk9qZnFnRDBuRGozRU94d1EwRXl3MENwZTdQbGZNVmp2VW1lYkNiRDBZbEVSbnlweUJKLXRTMm9uVVRkYkEwWFdVT1cwV2h2WG1GNzJEZHdaUHhlcjVKUG13V25mdndJdm9GMVlYa1UwVC1iT3pHbzJUMmE5VzNKX3VnR2FVZXdCcjIxT3RxNGs3UFFJWk5HM0FBMWUyS0dXLV9zWmM?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 17 Sep 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
@@ -645,6 +632,21 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -884,6 +886,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -904,21 +920,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -969,6 +970,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -989,21 +1004,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1054,6 +1054,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1074,21 +1088,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1139,6 +1138,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1159,21 +1172,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1224,6 +1222,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1244,21 +1256,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1309,6 +1306,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1329,21 +1340,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1394,6 +1390,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1414,21 +1424,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1479,6 +1474,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1499,21 +1508,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1544,20 +1538,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "«Esto es la muerte»: Thomas Tuchel admite que fue «torturado» por el desplome de Inglaterra en el Mundial contra Argentina y asume la culpa por el fracaso táctico - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNWtDc0pZT3FKUVRBTzNxcWMzTm1QVWNYeEJtMWNxemtfZjBJSHBLTm1JQVhzTzcxaG5BM1pIVnptWjVzemtyVHIyNUdCWXFZWkdkMWdOdjVPZW13WkFjMnloU2FGTExHY3dORG5MR1ZkeFNveU51aEljeEtBcDE2d1VIeENRTnR5U2NFZWREdEZOdGJHbUtzcG1CMk9qZnFnRDBuRGozRU94d1EwRXl3MENwZTdQbGZNVmp2VW1lYkNiRDBZbEVSbnlweUJKLXRTMm9uVVRkYkEwWFdVT1cwV2h2WG1GNzJEZHdaUHhlcjVKUG13V25mdndJdm9GMVlYa1UwVC1iT3pHbzJUMmE5VzNKX3VnR2FVZXdCcjIxT3RxNGs3UFFJWk5HM0FBMWUyS0dXLV9zWmM?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 17 Sep 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
           "England"
         ],
         "tags": [],
@@ -1600,6 +1580,21 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 18 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "México recibe a Inglaterra en el duelo de Octavos de Final de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE1aVmtySkZXbnZuVmt0cjZyejIxNm1IV3JBQk43Tk8tZVVVZ19LVFJuQjE2T3RMY2laNXJCclNLTEJlZThJU0Rib3ptdGR5WjByRDF1dklGWF9fLVhaRjNuNlZVNTZKOEh3OTFyYzNmc3N4cXVOUGJSLVpsTWI5ckpvLVp3RUNXbUxlMG4wZWwzZXpWSmg2bnVQZ1RmZE1WVDZveDFqMzFmY1JXMU5mUTdYWVBoZ1I1OVRrRXRXNmhCOWJpNjRoLVI3Y3poLXM?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico",
@@ -1655,6 +1650,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1675,21 +1684,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1755,24 +1749,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1825,6 +1821,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1845,21 +1855,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1910,6 +1905,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1930,21 +1939,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1995,6 +1989,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -2015,21 +2023,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2080,6 +2073,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -2100,21 +2107,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2165,6 +2157,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -2185,21 +2191,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2250,6 +2241,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -2270,21 +2275,6 @@
         "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico Vs England | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWVHenlFdHRMcEVQT3FRVm5Pc0wwQm9uT0VJMTAyZHFwcENxOGo2YXRQM2dsc2U3Z0FmU1BZODZaLXI2YUtVSkQxd2ZNdGotWWo4dVBOQWRsSV9zbFF4dTJNX09ZZmN1eWhJNjhZYzc5Y0Nlb19WUlBtaGRfcElsbnloX0RPQ2hsS2JuSVllTmlRMzlidFA0NWdsMGNWaTJIWHByUHBrLTdtQU44MVR3?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 20:06:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
