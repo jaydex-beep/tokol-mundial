@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-14T11:48:31.871904Z",
+    "updatedAt": "2026-10-14T17:08:33.353231Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -59,20 +59,6 @@
       "image": "",
       "matchedTeams": [
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Jorge Sánchez da la cara tras la derrota de México ante Chile - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXdlc0M4ZXlJanFubXptRWxsWnozamZUbHFNUFhHWXFwRFNUQnA3cVN1X0VpNTVKSUZOZnJ5cjM4X1RDQUoxc3hteERQeUREeHdnSjh4VVFGWS0waWJubjBSTlV4VkFZa050c2tHZk9NX0JmMTY3eTUwZ1lubWZYaENqNHRTVmNSTk1hZXczSjVQdGVNdzEybQ?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 07 Oct 2026 15:43:19 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -201,6 +187,20 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Mexico - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsZFZyYXd6Snp1VFRXZW1kbmN1YXVweHgxb25BM0Fuc2xyM3dTZGZKd0tRQzlId3ZONnNRMEhXTFpFUUxzUnpZdU40WnYtSVQ5WTNWUzJUak5VOW44LV9HbHZ5eFd5RjVCc2lZUTFCYlptZE9nUGg0NXBBZW4?oc=5",
+      "domain": "www.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 16 Jun 2026 23:34:34 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -385,20 +385,6 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnVad0x1UkxyVkc2Y3Q1RVVoTy1nSkd3MXQ3VGMxT3ZPeHFnUFkzYmVfYm83ZW1OTzN2OU9TdXI0c082anZ5dGFBUmw0NkNpWnFEVG55Mmh0elB4NTZSR2dXRUljT0g4bEJXMFktQXBKUUg3VXBHbGNsTjZOaVQ5dEpkV3MzVS1VNnIwdFhEQTc2SzhXa0RCbl9TdEhjU0dwTnl6ejJGY245ajB1MnUzTjluOFFjODF2QzV6YXY1T1g?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 10 Jul 2026 03:20:32 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "«Antes de la gala de Londres»: una encuesta francesa deja en evidencia a Yamal y sienta a Mbappé en el trono del Balón de Oro - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUdyT0JsTkhzTUJ6ck50dlV5UWlFWTZEVll1MDNaT3pSa1JDTG1MWHdVZ3NNZUV5ajNkMW1RQWNWdm1DSmwzcVl0NU5JT3dLaHI4U0dyZHgzWXRjSW1Ham1TTVUtWXZNVHROaGJHekIySTBtSDYwQXEzNXRlQmVrSjRhbndnMXNTUU1naDF2aTRGd3lYU2szemtEUDNWMDdiZzBOQVRUSFNOY1RqWHoycTZPa01fYm12VFFSM2UzeEhOSnFESkxCSDdlLW5keW80OVhlckxZRkNwR1Uxb3dxai1HQTRzaHdid01scE03UnlIT1ZpQVlDNGNFUW92ZElWN2gtemhXLVlCUQ?oc=5",
         "domain": "www.goal.com",
@@ -466,6 +452,20 @@
         "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
