@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-14T04:50:38.821868Z",
+    "updatedAt": "2026-10-14T11:48:31.871904Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -209,20 +209,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Mexico - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsZFZyYXd6Snp1VFRXZW1kbmN1YXVweHgxb25BM0Fuc2xyM3dTZGZKd0tRQzlId3ZONnNRMEhXTFpFUUxzUnpZdU40WnYtSVQ5WTNWUzJUak5VOW44LV9HbHZ5eFd5RjVCc2lZUTFCYlptZE9nUGg0NXBBZW4?oc=5",
-      "domain": "www.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 16 Jun 2026 23:34:34 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
       "domain": "es.concacaf.com",
@@ -292,6 +278,22 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Jarell Quansah suspendido por dos partidos tras ser expulsado ante México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1xVEE0QkFRQWVnYWo1RVRsNHlLNEQ0YVRNY0xJQXg3QVhHcFg2RVBJSW1XVHZobUlTRUhZWW55WWpITk9CZU1hU3lwY1RRUVpSanUzcm5vUTlqb0NrcXNIWGl6cnlOMFNSUXY4Y3UyYng5T0xmaGt1OGcteFFBb0hUSDJnRkpiZF9faVd6ZzNzczRZWW5UZnBTVFNWS2NDel9ad1dCVEN6THZxX25rNVNLSFpaZDNKeERtSlR1bWVhVUY0MDhDenFHdWpsdWsz0gHrAUFVX3lxTE5xcTZDRHRDMGVyU1VYc1ZaY0dFa2gxcEdnQ0xBeE9sc1lpYWlwSmRhOUxTRnBOVjVnNllSa0ZqV1EtdG9GTHpJak5LMmJhNGxKeVJOcnNqRVhlbmlMZ0lrZmljekxlNzJZM3VacjFWTTZlOVZta2RRdzVRdk5jeDUxaGZ4YVl3OGpHT2FkODRLbWludlBibGtvLWtEVG1hRzZHbmRGRVJiUTFMa2kydGFyS3Y5clBnN3ZOYlRPNlZPUHdiV2lZVEZSWWVhTHAwQ3BISzNNU201RXN0NDlTcVFKVnlFeC1RM0l5QzA?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [
+        "sanción"
+      ],
+      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -307,6 +309,20 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [
           "sanción"
         ],
@@ -365,23 +381,23 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "France Vs Morocco | FIFA World Cup - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnVad0x1UkxyVkc2Y3Q1RVVoTy1nSkd3MXQ3VGMxT3ZPeHFnUFkzYmVfYm83ZW1OTzN2OU9TdXI0c082anZ5dGFBUmw0NkNpWnFEVG55Mmh0elB4NTZSR2dXRUljT0g4bEJXMFktQXBKUUg3VXBHbGNsTjZOaVQ5dEpkV3MzVS1VNnIwdFhEQTc2SzhXa0RCbl9TdEhjU0dwTnl6ejJGY245ajB1MnUzTjluOFFjODF2QzV6YXY1T1g?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 03:20:32 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "«Antes de la gala de Londres»: una encuesta francesa deja en evidencia a Yamal y sienta a Mbappé en el trono del Balón de Oro - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUdyT0JsTkhzTUJ6ck50dlV5UWlFWTZEVll1MDNaT3pSa1JDTG1MWHdVZ3NNZUV5ajNkMW1RQWNWdm1DSmwzcVl0NU5JT3dLaHI4U0dyZHgzWXRjSW1Ham1TTVUtWXZNVHROaGJHekIySTBtSDYwQXEzNXRlQmVrSjRhbndnMXNTUU1naDF2aTRGd3lYU2szemtEUDNWMDdiZzBOQVRUSFNOY1RqWHoycTZPa01fYm12VFFSM2UzeEhOSnFESkxCSDdlLW5keW80OVhlckxZRkNwR1Uxb3dxai1HQTRzaHdid01scE03UnlIT1ZpQVlDNGNFUW92ZElWN2gtemhXLVlCUQ?oc=5",
@@ -428,6 +444,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -436,34 +466,6 @@
         "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -578,9 +580,38 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
@@ -621,54 +652,9 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
-      {
-        "title": "En vídeo: Remontada loca: Bélgica resucita y elimina a Senegal del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2xtcXlVemprUUVhZHlnZFRoQ2JMUUNoSUJiZG5BOXVqTnpKTlR4Wk90Vk5VTUlHLURZU3hQV1VOZThna1RyckVOa3B4Tk4xNlR3WGpQODRhMlV3ejU4ZVRKakFKLUhyVDM1ejJhSm90UVdWU1ZGaUdDdTRtbTItcGktVTUyRjVidldBRjI4T0oyS1BtQjdOM3Etc0thcXM3U3VUaFRSbXV5SkVlMS0yeTZ2ekZTMmpsMWZtcmN1S0c5aXJEelFz?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "Senegal"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
@@ -739,6 +725,20 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [
           "sanción"
         ],
@@ -853,6 +853,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -902,20 +916,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -939,6 +939,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -988,20 +1002,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1025,6 +1025,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1074,20 +1088,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1111,6 +1111,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1160,20 +1174,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1197,6 +1197,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1246,20 +1260,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1283,6 +1283,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1332,20 +1346,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1369,86 +1369,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      }
-    ],
-    "537c0997cd899394f47f16545b7068b2": [
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [
           "sanción"
         ],
@@ -1507,17 +1435,89 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      }
+    ],
+    "537c0997cd899394f47f16545b7068b2": [
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
         "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "USA"
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1540,9 +1540,38 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿A que hora es el partido de Mexico hoy en la Copa Mundial vs Inglaterra? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXlJdVlEWWdrVnNiSjRqYVNyczFGVFpDQzdKRk5BMWJkc3FrLWpVLXBWSTdSMlBiSTByV3c3bURvbkI0YUFIZ3Z3Ym00SEVGakVjUUMxd2w2LWotVS1pcHUtSFlsNmhXRFNRdGFMTUs4UkJRWHBnUW5CN1E3MmVSMTZtREpJMjg?oc=5",
+        "domain": "es-us.noticias.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
@@ -1583,36 +1612,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Esta es la canción que sonará en el Estadio Ciudad de México si Inglaterra elimina a México en el Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaVF0WVExNzU0RlBsVzM1NHNiZ0Y5ODgyUGwzOGJXNFF6SFZRblVOc3ZDeHVabGVWeGMzUHdXODBKaFBCbUVSZHpKckhGX1RjcHFTZlFiUHFPa3dUTW1IYWRBLTQyZ3JGdy05enZ0U3ZLU0duT3NFdTVrQUJ0eFFaUGpZWFRWS29qN1ppVEVKZ01Lc0lGLTVZN0J1Ulo1Q1ZUN0dDYndKMlRrOERpQXNDRVhZVkJYOXpuQUh1N0dSUkxBVTNib2NGcWRnbmhyNVlvUS1abUd4enR5M0Ffc2tJMGpQQnlPeTVtS0FnVnhxZUg1dDJ30gGPAkFVX3lxTE1RV1FLcWRQbTFOcWRyaS1vZFMzSXBwNE1wbDZwd3JoLWpiRUkwRURBMHRySVFxMkhDZnU5RFRBTHRMYThIZnRJc3h4MHB2WFcyeDJlVFNJZUpLck1XUk43VTIzUGRiQVkyd1g3VTY1bnAyV2pVWkYzMU00Y08tNkxyc2RaOE1rY2dCYVhjRmlXQXk1QlFDX1Q3dl95MVdNd19lYUJPSWpzVFRoRnVRcEwtTU5ickZNc29CUm1idFdWcE9oN1dQZENGcWFHVFQxUUpaUUtJYlowR1ZZRGZ0TWY3V19KTWhwem42b05xTlZVMEVwakNQX2VaUmZEYjh0aDFjVlNjVkFPT1lUaUdnaU0?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "México termina su camino mundialista ante Inglaterra en los Octavos de Final - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoyd1JZakZRYnFMd3lKNVNJSUpGaVVZUTJGaU9kVjNSTVJwUG90Tm0yVjh1MkR1SHhKNkVHTEJWcDNVVkZMMXl2ZXR3cF9VQmtNeXZRbi1nWktyRFoxbGdMOENxU2ZJRUxKVXRRaHY0RFJERjlqVGFoZVd5VV9taWF4WU5KN3Vkb2Vvd0xCazFZV2NabVRVQ0Juc2lvX2RMb3NOSnR3NDVFTC1fbWNURGtqdlpwLXgzUTAyWUZGbldWT2k2UDU0ZTBkN1dndw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
@@ -1627,6 +1626,20 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [
           "sanción"
         ],
@@ -1682,20 +1695,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1719,6 +1718,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1768,20 +1781,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1805,6 +1804,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1854,20 +1867,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1891,6 +1890,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1940,20 +1953,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1977,6 +1976,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -2026,20 +2039,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2063,6 +2062,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -2112,20 +2125,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2149,86 +2148,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      }
-    ],
-    "5a34afe2de99513ba48360b983cfe80c": [
-      {
-        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
-        "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [
           "sanción"
         ],
@@ -2287,17 +2214,89 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      }
+    ],
+    "5a34afe2de99513ba48360b983cfe80c": [
+      {
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Balugon rompe su silencio sobre la crisis por la anulación de su expulsión tras la eliminación de Estados Unidos del Mundial - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM1p6cVdyZDdhWXF1anJjR2RWMTRkYnI1WllHREdzQ1BsSS1CUDZGbU9yb3hLLU04WmpuWjh5Wm51a1ZkcERCalhXSUZhaU5Odk1OWnNzSmdUODNoVEIya2xUQVkwZ2lNMHh3M2ZpVl9CTXZvRkVETHNJYUI2OHU1bWFHUEpoRkRoQ19iT1RJd0dUcmxoaGxqaTVDbDJ6aWdETGsydDdpajBBYUFKMF9DNGFlcHpSVG81TkplaUxpZ19tY1FrTS1XN2ZPUkY3VGhHNHZscEpNaE9adFcwVExCQVJQbU40UzRyWUk2UFpnSmZlSWdyM29zSmlmTXpGa1NCT01Sd01lbDZpMHpK?oc=5",
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
         "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "USA"
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
