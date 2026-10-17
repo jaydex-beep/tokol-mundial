@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-17T04:22:51.260454Z",
+    "updatedAt": "2026-10-17T10:40:27.810286Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -133,6 +133,21 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
+      "domain": "www.infobae.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -279,20 +294,6 @@
         "sanción"
       ],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -386,20 +387,6 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "«Antes de la gala de Londres»: una encuesta francesa deja en evidencia a Yamal y sienta a Mbappé en el trono del Balón de Oro - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUdyT0JsTkhzTUJ6ck50dlV5UWlFWTZEVll1MDNaT3pSa1JDTG1MWHdVZ3NNZUV5ajNkMW1RQWNWdm1DSmwzcVl0NU5JT3dLaHI4U0dyZHgzWXRjSW1Ham1TTVUtWXZNVHROaGJHekIySTBtSDYwQXEzNXRlQmVrSjRhbndnMXNTUU1naDF2aTRGd3lYU2szemtEUDNWMDdiZzBOQVRUSFNOY1RqWHoycTZPa01fYm12VFFSM2UzeEhOSnFESkxCSDdlLW5keW80OVhlckxZRkNwR1Uxb3dxai1HQTRzaHdid01scE03UnlIT1ZpQVlDNGNFUW92ZElWN2gtemhXLVlCUQ?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 12 Oct 2026 11:33:21 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
         "domain": "www.dazn.com",
@@ -471,9 +458,38 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
+        "domain": "www.tvazteca.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
+      {
+        "title": "Más de un millón de aficionados celebra en CDMX tras triunfo de México ante Ecuador en el Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLV9nTEZ6WUN0cWpKTUZkLWdDSXNwX2tZbERNZ3R3WTRwQW56MjFwMDJRZXhXME43anZMbUhWd1g0STZzZXIwVzRGZ0xRWnNRQnRTb3NoNjdhdk9VSXJsbTdxb1E2dWU1NVRlNTVMeG0yMXhOUmI1dUNkSGd6WGpZdXJUeUFVOThYbHlrU1Z5c2syZFctZGFlWjRMT3JhUVVhUmxYOEZaT2lib2R1TjlTamRmVnFmMnkwcHVNN3g5NURkY1Vwc2hBazhFVVJEYWVEU2hHUmplVXNPcUZrQlHSAfgBQVVfeXFMTnUwY0VpRk1Falhac1pFeDNxSXVodm1JUTZOYzZzM2FTeGhwallLcWMxekU1T2twbnc2a1J5d1ZZbWFKc0d5RGQ4UHFYc2tpWFVhajRlTHVHeDFyeldETzhScGotY1RLVmlIbzBEeGtZZXJxbk9BR0t2ZXVlQjJHb1NSSDgyaXRPbDA4ZTJyRU5FblRlMFNmcXhWRnFTek9fWk1pN1E1SmVqS0tyYzh5ZTJXZEY3dUJTQXFMenViX2RYRmU0c25hcUN6WFVtT3Z1RS1SYi1MZVh3R042M01PT2NuQTJsYTFrR05uc0F3SFlaUUV6ZnI0Q0U?oc=5",
+        "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Mexico Vs Ecuador | FIFA World Cup - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDQ4LWtCQUlzR1I1VGoyeV9vOGNpSDJvcjFWeTNLN1JfX2pGUlVEMmJXSnhBci1KbVl0NFc1QzQ4TFdsZ3dMYUc5VG00V2xhTTc5RHNDZ195MF9mWFpNRUE5UzB5Vk5MdXM5QS1OcVRWM01BcThVdXY3WHZ6RWttRXk5NENQM2VSRnVXb0ZrMzFnZjRNV2hDLVUwSWNyRkw3VWJ6YlZBS2xfUmRYcnNB?oc=5",
@@ -549,20 +565,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
-        "domain": "www.facebook.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
