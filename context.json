@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-18T11:01:36.855407Z",
+    "updatedAt": "2026-10-18T15:50:22.280684Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -42,6 +42,20 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¡México marcó el ritmo! 🇲🇽 - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhPaUVNSUl2bTFTNzRwb3R1Qk5SbFBxajdXYVRUWHBXRG83RnZiWkstcnNVMG8wSWpIT1lKMjVBdzZDSmFCQjhTczVLTGtfRkx1RTMtb052ZktXaGVOMXdTSjNhLXhDcnFNUHRRa1QtQ1RXbjZaU0RDUURXWHd5U0tFRHlTX3c?oc=5",
+      "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 01 Jul 2026 22:26:51 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -280,20 +294,6 @@
         "sanción"
       ],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Estados Unidos derrota a Bosnia y Herzegovina y avanza a los Octavos de Final - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWdTS05WTWFKczJBOTRLeC0wUlRnVFZlTXVDSF8tM19GRWpoTnE5ajlPdEVsM0d3dFFfZXQ5MnRvUDJvOWZKdWMzajk0dy1YcXdaRHdLazBGNlM2T2hja2Zwajk5YmlWc2NGZ3FVNm9HbS1pS19jeTBEeDc5ZDdMcUhtTkx5MUlhb2FRMnJPN0RhZEpCOC1nYmo0TUNiOXlFMXJnRWMwRWdHcmlfekEtQ2NjOTQ3QzR1bXlWQWdNWk5SQ0VDVnExaVhycXk0YjQ?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
@@ -326,6 +326,18 @@
         "tags": [
           "sanción"
         ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -367,18 +379,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -430,6 +430,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -447,20 +459,6 @@
         "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
         "domain": "www.infobae.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
@@ -868,6 +866,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -906,18 +916,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -954,6 +952,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -992,18 +1002,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1040,6 +1038,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1078,18 +1088,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1126,6 +1124,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1164,18 +1174,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1212,6 +1210,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1250,18 +1260,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1298,6 +1296,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1336,18 +1346,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1384,6 +1382,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1422,18 +1432,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1470,6 +1468,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1508,18 +1518,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1647,6 +1645,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1685,18 +1695,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1733,6 +1731,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1771,18 +1781,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1819,6 +1817,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1857,18 +1867,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1905,6 +1903,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -1943,18 +1953,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1991,6 +1989,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -2029,18 +2039,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2077,6 +2075,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -2115,18 +2125,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2163,6 +2161,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -2201,18 +2211,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2249,6 +2247,18 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
         "domain": "www.facebook.com",
@@ -2287,18 +2297,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
