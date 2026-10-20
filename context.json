@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-20T04:47:23.321499Z",
+    "updatedAt": "2026-10-20T11:33:06.845403Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -696,21 +696,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Una cifra impactante para el protagonista del incidente de Trump frente a Bélgica - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWS1QUmdCTmZ5M0tyanVHQzE0dy1yZXJqQVNucVZ6al82eEhDQ1FxOEx6QmVORU1fMkFielVtWGxBWTVFRzlUVUFSSGRhWk5oQ2twalNEczFTWHJydVprM0tUSzJhR3EyLUtNZFA3OWJWZHlMX1hBZUhUU2t0ZUZYbV9ucEdYQXc2dzhLUmlZRWlUandDVnBkSXB2cVMwaE9jNExTTXZsQTJVQUpfSzM0VERmUmVMMjdXNmxPRTUxdW83OTZ1MWdranNOYjN2ZlBpN1FB?oc=5",
         "domain": "www.goal.com",
@@ -738,6 +723,20 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Tras la intervención de Trump: la FIFA justifica la polémica del caso Balogun: \"Las normas no estaban claras\" - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVUpjVmhfQ0VsSnVrSE9YUkhkSmdCUURLMnZMVWl2amdHUDRwRDZ6QXpVWDI1MnJrWkttUlZNNnk3MVFSTUkxZ0xna3h0dnluUm1VazQ0UVhkMTNqRnpsS3Z3bHpsbFZJVHJKaXhVS2NIWGtpamx1VmprWkhhRllvVmtpMktuLUhrT0VDRnBRTVpkT1NWLXI1U1V2SmxucFJDX0xUMjdZOVZKU0szQ3JMRG5zVF90TWFpcWlYd2xlNjJoaDRhUGZucm5CNkJTeURwbExsZWs5MjM3Yk5ZcklvbURVek01ektMZmFiQi1raw?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 14 Oct 2026 17:49:47 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
@@ -748,21 +747,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium",
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Estados Unidos enfrenta a Bélgica en los Octavos de Final del Mundial - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lSWnowZXQyeWtZaEZYQlp6ZWpSNmlyTEp1UTZ3Uy1SWWlGcUF5OHdVYzU0UjBEV1Z0QmlEZXYyczZna0pscGpqZHpIdGFjTFA1ZGs3ajJHY1hHTWl1cnNTVUdzeDMyakVhemU1cTBSa1VRV25zOFFPSEZVZVhJM19feEhqNzVYUlRLcFg1Y2pnY0k2cnUwckhMaGltSjJUMWlneGFwWm9PQjg4bmJ5MnFZWXlVSFJIaDhtc2tJSnl5YXRR?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 04 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Belgium",
@@ -829,6 +813,18 @@
         "tags": [
           "sanción"
         ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
