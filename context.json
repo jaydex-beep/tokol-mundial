@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-24T20:46:39.147996Z",
+    "updatedAt": "2026-10-25T04:38:03.577155Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
@@ -45,20 +45,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Este es el Heartbeat de Estados Unidos: Arte, ciudad y fútbol - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmFVU3htUVRMNFNWRTVlSWx0UVoxWVdBRVN3emZsd2FzczhkcktReVNvSXRJUXNjamtwVVBNSXlXOUh0ZkFWRllJOVhiX05oTjVvb0p0MmJ1MmY2VnQtWXFPQVVKakNVd2ZQaGpFZVRjVGY2ZkhCTjkyVWdRRGFuUnlYY05aTmtrSURGSU5qcHZpNXhNSHlUMnZERF9QOWN3WjdqbV9lNmFfclE1WTJqOERpMGdwWVo3YWc?oc=5",
-      "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 01 Jul 2026 19:21:52 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -183,6 +169,20 @@
       "title": "México termina invicto en el Grupo A con victoria sobre Chequia - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjdkVGpESEhHZ0JzZk5hWXpqRkZYd2hOVUVNbXJTYS15OXNZN2Z5YlBYcUJHaktRMm9kRFpVUHpzVk5DOXpUcmJYOWV5dzBwUjE4OFZNbC1Obmp5cjExSk9nYzRRMGF6ZEpUMEdJekladTdzMGxPaU12a0dBbW9Jb0FYUEt1ME9uTGozS2htRFlsc3YtdnZnOHVSUllwQVlnelpnTjFEQnBETUdET1dIRXZkMTlteHEwQk0yag?oc=5",
       "domain": "es.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Así es el camino de México hacia la final del Mundial 2026: cruces y posibles rivales ronda por ronda - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnNCT193NUVOVHNzTnk5R2RWbUJQX0hpWFJzUlo5b3JXZ1hVN29vNlh1R1lDVjRuTnNzV1FvRDhzNEFyQzFEMWNUSGhGTFRHX0Jqa0hfeHk3Z1QxREZmUmJUT3R6d1diZV94RHFoOS04Y1M0S2FweG10OGxXeDRycFJPWGhOcmNrdnEzWkJSZy0ySk15T0dpVjVOLU9VUl9fYlQ2OGZybEk0VzRFeHVFa1Zkc0lIREc1V0NPcHlqcXM1Vk10dkZOM09iQXM?oc=5",
+      "domain": "www.si.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 25 Jun 2026 07:00:00 GMT",
@@ -343,6 +343,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -355,30 +369,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -429,6 +427,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -441,30 +453,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -501,9 +497,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026™ - El Sol de México",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3BoenRUdEpfSS1YYkd6UXRZYkFpWTlyMUttU0Rfa3o0MDJoUmNjLTRlb0pEV0FVaXlEV0Nyc1lzY0k0bGVlMFpUZEpRZEdnWm5NUm5ITlcyVEloM2tsSmxiQkcxVkRsWThDUlROOE5HQW83anZrYVRVaHp0WDVlZmNFLTBOUzJ1d1lOVWZQcEI0bHBLZzl4MDlnellTQmZyVVh2S29zSWd1R3pjNjhSbGlsaFd2X0lvVXdyWDJFaWl2Nlk5X3I4bE9ZX3dQZFhGSE9XRi1WbUduS2JXYkY5U1JhNU5saExPNmoxTlUtNkVTcjc0QzlnZHVn?oc=5",
-        "domain": "oem.com.mx",
+        "title": "Con la mejor fase de grupos de su historia, México abre los dieciseisavos de final ante Ecuador en la FIFA World Cup 2026 - El Informador",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbFRhLUdoR2ZodTF4NXBYczJxTlZIaGphV252M3pZOVpPYmlSQTItNjJuYU1vSEpDSWhCd2tna2NoaGNQX19namtpcjJYT0xIak9DeFFJVzhUOHRWVTlsYTN5a216a1hMTjBkc2VSV1h3dVRDeDB2SUdFdGd6SEpKUzBWa2FVYVRHWXJYVmhSbWZIcDJfdTJKZmFvMFJld0JtcXJ4N2VNVjRNTTNsSUlkTlBXNjQ0VjdPRGJpSlBZOUo0MkduQ3ZTaXdOVG5aSmo1RlBkRGs1QkRBMFpuMDBNLWFxdFJtNjZlQlIzQ2lBT2lOcEFjd1dqWVlGOVYzUzBZamFtetIBigJBVV95cUxNV0F6dloyWUJvY0pZNmdTel9DUkxZS3lsRmZqQnJnVjRDTzJfZzR5NXpMdnN3WXN4TXBwMjN6S0VIcmk2VVBaUXlUVHA1RENxMzZ0Snpva3ZMelpPbllWdVdoNDJoWVRUZmxXa2VUYkg5VXFvdUtYeEM1SW5WMVNfSDExdmxOMThlTUgxckxmTlF3LTZkenNHQnpaaHhZeURZVDNqOGdzckxZZVBLVFNEQ05aa2Rja0Y3RXFwa1B6UWt5NVdMWUV5U0hOZUlGWEtpY010OEhfSnR2RjBMZHFPYW5ndnZlWW1wS1ZXajcxck1qRVVGMkxYandqNFVwOE9pVV9wYWdKWjUxQQ?oc=5",
+        "domain": "www.informador.mx",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Mon, 29 Jun 2026 07:00:00 GMT",
@@ -788,20 +784,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Este es el Heartbeat de Estados Unidos: Arte, ciudad y fútbol - Concacaf | Official Website",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmFVU3htUVRMNFNWRTVlSWx0UVoxWVdBRVN3emZsd2FzczhkcktReVNvSXRJUXNjamtwVVBNSXlXOUh0ZkFWRllJOVhiX05oTjVvb0p0MmJ1MmY2VnQtWXFPQVVKakNVd2ZQaGpFZVRjVGY2ZkhCTjkyVWdRRGFuUnlYY05aTmtrSURGSU5qcHZpNXhNSHlUMnZERF9QOWN3WjdqbV9lNmFfclE1WTJqOERpMGdwWVo3YWc?oc=5",
-        "domain": "es.concacaf.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 01 Jul 2026 19:21:52 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Estados Unidos recibe a Bosnia y Herzegovina en la Ronda de 32 - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0dzamNFa0ZGRG9ITHI3dnhzcURySFlYaXdsVlZhWmdJMmxRTFJQSjVhUF9fRThVWjE3ZHNmNE16c1Z2TU9QVTFDaWpIOTBxcVNKTHNUWUtkR1FhZUQ0aktqUURUb1hNRXZsSzJwd1Q3NzJIWFVJenQ4OXpydGZfYTRjRW84Y1N5QTdxMUROVENwU1oxNDdzSFA0Snd4N3JUX2sxYW5lTnNnVnBMMnZFd1dZTkJMdTI0bnk4?oc=5",
         "domain": "es.concacaf.com",
@@ -827,6 +809,20 @@
           "USA"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
+        "domain": "expansion.mx",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -876,6 +872,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -888,30 +898,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -962,6 +956,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -974,30 +982,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1048,6 +1040,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1060,30 +1066,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1134,6 +1124,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1146,30 +1150,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1220,6 +1208,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1232,30 +1234,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1306,6 +1292,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1318,30 +1318,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1392,6 +1376,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1404,30 +1402,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1478,6 +1460,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1490,30 +1486,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1655,6 +1635,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1667,30 +1661,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1741,6 +1719,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1753,30 +1745,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1827,6 +1803,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1839,30 +1829,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1913,6 +1887,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -1925,30 +1913,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1999,6 +1971,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -2011,30 +1997,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2085,6 +2055,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -2097,30 +2081,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2171,6 +2139,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -2183,30 +2165,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2257,6 +2223,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
         "domain": "es.concacaf.com",
@@ -2269,30 +2249,14 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
