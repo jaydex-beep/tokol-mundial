@@ -1,12 +1,26 @@
 {
   "meta": {
-    "updatedAt": "2026-10-26T04:43:41.231126Z",
+    "updatedAt": "2026-10-26T12:58:02.257435Z",
     "source": "Google News RSS",
     "articleCount": 60,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
+    {
+      "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+      "domain": "www.facebook.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
     {
       "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
@@ -94,15 +108,16 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "This is Mexico's Heartbeat: Tradition, Color and Football - Concacaf | Official Website",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVRSRUJYNFE2SjU5TldRekZ2bm5KZlp2Wk13LWMxd2l5R3dnRW1kR19CS21YejVPRjBRdUVBSFlJSzZCOTg3dEVxU3JWNnFaUER2Z0hjRUozSVNNSHkwM3lHcTdYeUllWnNoODNFM2lmNlZSZXNTd1dPZTc4VEZpVVQ2NnhjdDF1dDJfeXptWVRxUllXVnowcHlEVEcxYU91ZGpJX25TYld6YjQ5LVo3R2RnYjQ?oc=5",
-      "domain": "es.concacaf.com",
+      "title": "When does Mexico play again in the World Cup? How to watch vs. England - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYnczWDE3NkpQbDd3R09qNFBWeDhRbWxYcmZoWlRwOHJBWW9sLTFKZmZGMnBlU0xOOHlreEwwNVNrb01aMGNTV1dNa0hyT0M5N3VaYjdINmxhcEh0Rmp6S2Q0N2VBRVVPUzdXa1BoVXAzdS10MnVhNFhvS255XzJ5QWZHWQ?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico"
+        "Mexico",
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -151,6 +166,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Mexico - Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsZFZyYXd6Snp1VFRXZW1kbmN1YXVweHgxb25BM0Fuc2xyM3dTZGZKd0tRQzlId3ZONnNRMEhXTFpFUUxzUnpZdU40WnYtSVQ5WTNWUzJUak5VOW44LV9HbHZ5eFd5RjVCc2lZUTFCYlptZE9nUGg0NXBBZW4?oc=5",
+      "domain": "www.concacaf.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 16 Jun 2026 23:34:34 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Estados Unidos termina su camino mundialista ante Bélgica en los Octavos de Final - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDBVcEc2TVZmUWlFWXlfZ19md3FkUW9JMkdUbXJFbE9qRUZ1U0hodWNINXZRT3ExekoxU1F6TlQ5ak5XRVQxc09Xdi0xQWZQdFRVTk50ZGREcmx2RVpDelVtS3pVR3JqNjcwckt0TXVqY3RPM0o3Q0NoTmctTkJ2cVI2d21ISHZWWU5qanEtWVVRcjNIZHlweDJKdS1nMUNXZDVVejVQUExERnlCcGF6RG95c2hISjRzV2JyRzFXVUNPWUVBYms0ajg3cXZqTmdwVTZ1Mw?oc=5",
       "domain": "es.concacaf.com",
@@ -183,20 +212,6 @@
       "title": "México termina invicto en el Grupo A con victoria sobre Chequia - Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjdkVGpESEhHZ0JzZk5hWXpqRkZYd2hOVUVNbXJTYS15OXNZN2Z5YlBYcUJHaktRMm9kRFpVUHpzVk5DOXpUcmJYOWV5dzBwUjE4OFZNbC1Obmp5cjExSk9nYzRRMGF6ZEpUMEdJekladTdzMGxPaU12a0dBbW9Jb0FYUEt1ME9uTGozS2htRFlsc3YtdnZnOHVSUllwQVlnelpnTjFEQnBETUdET1dIRXZkMTlteHEwQk0yag?oc=5",
       "domain": "es.concacaf.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Así es el camino de México hacia la final del Mundial 2026: cruces y posibles rivales ronda por ronda - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnNCT193NUVOVHNzTnk5R2RWbUJQX0hpWFJzUlo5b3JXZ1hVN29vNlh1R1lDVjRuTnNzV1FvRDhzNEFyQzFEMWNUSGhGTFRHX0Jqa0hfeHk3Z1QxREZmUmJUT3R6d1diZV94RHFoOS04Y1M0S2FweG10OGxXeDRycFJPWGhOcmNrdnEzWkJSZy0ySk15T0dpVjVOLU9VUl9fYlQ2OGZybEk0VzRFeHVFa1Zkc0lIREc1V0NPcHlqcXM1Vk10dkZOM09iQXM?oc=5",
-      "domain": "www.si.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 25 Jun 2026 07:00:00 GMT",
@@ -279,38 +294,10 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "La alegría se descontroló... Tres muertos en las celebraciones de México por su histórica clasificación - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWGdQZ2hoR0V6VS14U2YydHZGcnRDZGVkaEF2cHM4UFk3dDhmUFpBd1lBWW9hMGJDZDVKMTlpZ21uNzhLSndxR3IteE9FQVZDYmF0bzh3akh1MWJkMkt2ZUFWUm5WTWJWTTN4ZTQ3b0diNzlzTXU5MEZyZE84NWNxSFJpUzFIeFZZSTVmdHZfWGg4YVREWHBvRjFoZ3Q5cFhFaW43ejNBdFJWUGFHZ051d2VYUkpPc2hxWUlCeDhpTWlkVXFaZnhsUkpnbkllMEJGTDQwMmlJcDBja3RKWlA3LW5hZVZQRU02SHQzRg?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -328,28 +315,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -384,17 +383,18 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
+        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Fri, 05 Jun 2026 18:23:19 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
+        "matchedTeams": [
+          "France",
+          "Senegal"
         ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -414,38 +414,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
-        "domain": "www.infobae.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -454,9 +452,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Vuelve el Mundial a México: qué se sabe sobre la posibilidad de ser la sede en 2038 - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dna1lObUdIZVUzTFgyYnE1QzF5eTFUdkhadHBfOFBvWE9hVWtURk84QldmMFB3NXV0WHA1OWo0MUFlSUNRb1dCT3h5YS1NVWpKanZUREJnUWswTkdCUDh5el9RekJ5UmdndGhLbjFZcDRXeTFXLXFqWWY4TVQ5M1dVTGlRdmVTYkI0S0diOXI3aVVOVFdWUmRn0gGnAUFVX3lxTFBRZU1KRnpzcGxQTUJUX05mTmhuZUhLSHN1S3dURnZEQmJiOGprR0VRZ0VYdm10ZkRPQUwxTm9KWlJvSVI3QXRIR1VfaGZBejRjY3hKZjJ5U09CUmlpQ2Y3eU8waGJHWkNjeEFiUWZBYVpzQVVHOWlyZU5wUk0tOHdqSGZralBVWVlicE43V3ktYnRXbDBvYTYxRzREZ3gwZWtGRDBkZnB3?oc=5",
-        "domain": "www.tvazteca.com",
+        "title": "En qué lugar quedó posicionado México tras quedar eliminado del Mundial 2026 - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXljX0d5d25leF8xRE1qUkpXaG8wYWNLa2ZOQURNQmxEOG00VFdCVUwtY0x5QWxMU21OcDF3THRia1ZtZnhlN25ocVpmWGxicXlZaVV6UzdocjVMdC10WktrZkt0WHZLTHh3WUpnbFhQVmR5OXk4ZklwMXVTTkNuQTZRVXJ5akRUN2p1WW51OHJzOU1UMFVHSWlNMldqWERucXY2MmE5T29vUTg5NjBrUWVOMFVzZ3IyQTBpcHhXT1pIQThZaTQ00gHiAUFVX3lxTE9RaDNqU1kxYkZMTVNIWnQ1RlJ1bThsb1Yxc1JZRExNYXd5aTgtRTFEdzA3enhINGxoM1NBOHVSUHBIeXpReTF1YzczejBLSVVoc0ZxUW8yUmpXenRnQW4yXzBFYXEwbTRSeERCZjY3OTczYUJyZXNJWWU0eVZYRnlXTS1qNWlvaVphVTg5RVAxYVhwZ3pYYTdyUkFsRkJCUUpjb1E2MW91MmFpVy1CRUloWFNlbXFqT2xCblBJZGNkZWRpdFVtVE5kM2szSGgyakYtaXNDeTFYa1F4M1RPQ0F4WkE?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
@@ -577,6 +575,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "When does Mexico play again in the World Cup? How to watch vs. England - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYnczWDE3NkpQbDd3R09qNFBWeDhRbWxYcmZoWlRwOHJBWW9sLTFKZmZGMnBlU0xOOHlreEwwNVNrb01aMGNTV1dNa0hyT0M5N3VaYjdINmxhcEh0Rmp6S2Q0N2VBRVVPUzdXa1BoVXAzdS10MnVhNFhvS255XzJ5QWZHWQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Las mejores postales que dejó el México vs Inglaterra en los octavos de final del Mundial 2026 - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o0Zy1WOFNlaVZMZjVBR0hwTnRiWlNYbEdrWnRDejdzLTZScTV6bG1zaWotcTdiUXJnMmhTT3hEM0wzT1RzUDJucU5NaE5BRlFCVmhxWnlQMnN0XzMxZUoxeWdfR1NVa0JubF9OMlZ5QV9ZNnVtLUFmamFJRk5XaWJfOWFZTjVJS1N2N1BBa2tkTWJ4T1hyZkc1bmlRcURjZUI1dHJoMGFKTEdWTUItdHc2dUxUZEJoMFM2QjMxQTNmck0wazhmS1M0U1ZuTERzeWZNaU9NNUJMVkZCbVFV0gH6AUFVX3lxTE9EWkxHNkdtT0FTVFN6UEoxRlFLWlgtYm5CMDFMX2tHaWpORXhOZUo5WXQzOXJKQ09iZlpUUzFvVnYwSVVpWXVpSGRfVVRxVGFLZHFQcVBuU3RCaUFMbEFnSE5PS0JpVjhFQzVsUTBZcFVJQi1IZUpocTFQVDQzUmtQX0NSM2RlU3hwdUJIY29KRGNOcUE5OHJGWXI2czFuWEJhWHVQdlNUcDAtXzVvWjJldi1JLV9sQnVfOXJhM2laUFZuS2YzMDVYNGNJMWMxM3lXZGtpWWNOd1o3Sm1EUTdwcmpwNlNlSkx4anBxZkFiTUdNOHh4NENxLWc?oc=5",
         "domain": "www.infobae.com",
@@ -631,20 +644,6 @@
         "image": "",
         "matchedTeams": [
           "Mexico",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
           "England"
         ],
         "tags": [],
@@ -712,6 +711,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Watch France vs. Senegal Live Stream Online | DAZN MX - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUtCa2c3Q2t3d3hxWG9ubGg5Mk1MSTViOGpxM0ljVWllY2l5QUI5RnFaZlVyVFhOV0J5TjZNUFYwai1sUEItVUZsNXZqR1VqR1UxMXJxQlhkb3F1OE1wZXNicHBlZHlkRk5OT1BuQUkzajVFYTdKbDFkU2JETGpjM1VmWmNvVVZ0cHhXMw?oc=5",
+        "domain": "www.dazn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 18:23:19 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "Senegal"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Ver Bélgica - Turquía Online en Directo | DAZN MX - DAZN",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSks5ckIzVkM5eEFxWHpBeWo3X0JBX2I5Qmc5YzFpRU5hdnZFZ1VpOWRRdVJDREFGREpUUXNMYW5RT19oak84NTJOVURKXzlMMlpqdWF3cEUtSVRzYjR1SHFuU0hNNzc2YzUzWHFUczlkS3FnUW1hOVJ1MzVCRE91aEIzNnViMm1qQUdPWGh3?oc=5",
         "domain": "www.dazn.com",
@@ -723,20 +737,6 @@
           "Belgium"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -814,14 +814,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
+        "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
+        "domain": "www.infobae.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [
           "sanción"
         ],
@@ -829,20 +831,6 @@
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -860,28 +848,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -916,20 +916,6 @@
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -946,28 +932,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1002,20 +1000,6 @@
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1032,28 +1016,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1088,20 +1084,6 @@
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1118,28 +1100,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1174,20 +1168,6 @@
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1204,28 +1184,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1260,20 +1252,6 @@
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1290,28 +1268,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1346,20 +1336,6 @@
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1376,28 +1352,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1432,20 +1420,6 @@
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1462,28 +1436,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1521,6 +1507,21 @@
         "title": "Por el pase a cuartos de final del Mundial 2026: cuándo, a qué hora y dónde jugará México e Inglaterra - Infobae",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVQ4dVFiem95ODJjSkktS3Z2a1BZWXpTT2l6NWpIaE41ZGUycE5VVmRDNTBEMFhHbHBramc1NndHMl9yMVlVTW5uc3YwZFZkVjNibGdpLWRxam9aUDhsY1pjTFdVTVc4X1lFU3FveG9xZHJYRElhZktMb2k3Snc0YzBkbks4OGVBejJQU0lhcy15ckRnTnh3eng0YWRYRU82dzM0RTlqR2dfZUVxVmfSAcgBQVVfeXFMTzN0cjRwc3NzQnV0YkU1MW1ya0FDelUtUzNvSk54ZjJwb3pfY2FscEpLcS1IV2hoT3RwSXk5N2FMVkZMdzJDN3pZRHcwcEVPc0xmSXNvd1pCZkNQX1k4eVc5UkhtRHFrOFV4UGhZXzVqNnpNcS1aOUJQa3RBT0VidC1va2JjSW9OQjN6Tmh5NWhpc1lBbG5XbTBpejd3d2l1OFpzd1pyT2FLYjdycDdReUdGZUZRLUc1U1g1dWRXSDNBWkhfODUtSDk?oc=5",
         "domain": "www.infobae.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "When does Mexico play again in the World Cup? How to watch vs. England - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYnczWDE3NkpQbDd3R09qNFBWeDhRbWxYcmZoWlRwOHJBWW9sLTFKZmZGMnBlU0xOOHlreEwwNVNrb01aMGNTV1dNa0hyT0M5N3VaYjdINmxhcEh0Rmp6S2Q0N2VBRVVPUzdXa1BoVXAzdS10MnVhNFhvS255XzJ5QWZHWQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 01 Jul 2026 07:00:00 GMT",
@@ -1591,37 +1592,9 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "El camino de Inglaterra hacia la final del Mundial: semifinal contra Argentina, información sobre la sede, la lucha por la Bota de Oro y más - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWthV3JuNEF1aXppZC14bmNlVXg5TUZSUmdLZ3lMS2xuM1pfckx1U2RrNDFfZm9vV005ckE1RktHd3loaGZsZnlCLWstMWdWaE13Rm05U3ViNlJkcWFoMFB6NUtrTUJnSDF6Y2NIdThCY0xuYmZ0eDRMZXg5SUpXMVJmeUpQR2JtTW5uNEl6cHZnZ0dmWEdydjFkRmtmdDhpdFhVQUJRX0hOemtPNHRvdGE2ZlV6a1k1UHJiRnYxTjJ4YUZMcVNWN1I2cF83QTdlX24wbVJPM3B4eDhWa0ZmN25WZHVYQTl0Wk1ZdjdFc0dBM0FoaE9EZk9wZG5iV3p6SDl0WlZiRWhMR2VhNk1uR2dtREMwMjJ2amdvQTBB?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
-      {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
@@ -1639,28 +1612,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1695,20 +1680,6 @@
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1725,28 +1696,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1781,20 +1764,6 @@
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1811,28 +1780,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1867,20 +1848,6 @@
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1897,28 +1864,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1953,20 +1932,6 @@
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -1983,28 +1948,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2039,20 +2016,6 @@
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2069,28 +2032,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2125,20 +2100,6 @@
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2155,28 +2116,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2211,20 +2184,6 @@
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
-        "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones - Expansión",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3NMNkRWSm9id0RwNUphNUhwQlJldzFkbjNHTEFSeFFmUF8xM08wSVBhbG9OaGIzbEo0RklBdjNhZ1RTalI3ZGctVWdpdU5VSHFUYVo2SVZfUTNETDVHeG01dVhtUkFNMHRnZk91SXctcGlpLUFWU29vam03T0tlUHF2UG1wVDB6NkRHMGJyZU5zS3hDNWNKWFJ30gGnAUFVX3lxTFBLZ1pRaVFPOXVyNnlIa056NVlpekVHNnFjRkluZTdKY0R2cVZXQ19WZC1tXzB0OW1QSjBhVWU4TmZKVGhHY2Z2WEhNTTVqd2VGVmhfb0I3QTFQaG1rOW5CWEUwS1VPN3g1LTFtdXVhZG1tTWZuS3YxOVBjSXFSUFhzR1dlSW5JM1l4MXBpWDk3QlRsSndWQ2RGUzQ4U3loVTFhNmVublB3?oc=5",
-        "domain": "expansion.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA investigaría a México por el grito prohibido en el Mundial 2026: la FMF podría enfrentar una dura sanción - Infobae",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGJxTzNyNGVBbzlvSGpxYnUwbGw3d1E1OGxINlBnMVM4ejZDcVQyc3VxWDR5UWQ3NmsyVWFYYXdoZUs5c3NfSDJpWlZ3dEVZV1haUlBjSUZqVlF3OFdfaXAwVkFDTkFNVFZsWGVSTFBqQnBSU2xWeUE3blQ3VnowN1N1MzFKWTkwRnhIYmRCdVYxTWllNTJMcFRuWHFKU01KTS01aDFhZkx6M2RLd0ZyY1BKNjBJc1pwRGZPRzdJLUpZdFZuSURIU2I4YzFidTJ6V3hIVi01MDVELUZaeE1oemRTTUM0b1IxNEE2TUt6aHRtbjjSAY4CQVVfeXFMT1I1SWc2U2lHNk54XzVrTXhLcnRnR2tFT09JdFJEX1VlYjJrOUcxN0lfWWg5MkdsTXZvNFZGUFJ5dzZiaGQtV1pPYzhrSVdTNl9OeHM1TFZKUVJpTm5CdHA4UE1kdWxHVVV1UVluSG5fZ0ZDemNjclRabzFEUHdXYUxKejFLU053QnhaVFNwVDJtLWJVLS1XVzV3U2ttM1pZMElzekZfQWk2UXVTdGd1VkhaRl8yVGoyQi1WaE1WU0xFNHpVLVFFaUFiejRkLVFFUENwOGYtdnFYektIanQ2aE40YTVoM2REemR0RFFKQ1FsNGpLVGVsTy1QTWcwalN4dE41cWNiX2hUTHBqVkNB?oc=5",
         "domain": "www.infobae.com",
@@ -2241,28 +2200,40 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mundial: el caso Balogun se complica. ¿Hubo una llamada entre Trump e Infantino antes de anular la sanción? Respuesta de la FIFA - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeXQzNFRLVUFoVE1iSlFIaURkWHRSS1lGUldxWm5lcmFxUlVhRkxZX1VjU2YxWWdBRkJUYmF0MFBJVEJlOGtMNWw4djVsWjRGY1hGOWltLXNKNHI2Sm9nSnkzT3ZTX1k5aEQ1WWdkQ1F2WnhJek9uZzFRdHhUVVFrQXZrVU9GYV9LeGNNTUFZeVZTdmpJTDl2bGVUM0hvZjMtY1VJcFo3bkFUSmVwNjc5aUFuWVZyemdZT25TLWhKMDZfclp1QlBjQjZDVnBhYlZvaXdROHMxdmNDOGd6U0Z4dS1ZMVkxaHpmTm5zbEptNk5FTnp6dVJ3VjkybXdwMmJmSGVSWm5DWVdWdVUt?oc=5",
-        "domain": "www.goal.com",
+        "title": "Canadá avanzó por primera vez a la fase eliminatoria de la Copa Mundial - Concacaf | Official Website",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjN1UnoxQ3NKLVE1YWxjcm5DN01NYTYzSU1aNGRCUjVVNTd6OGZZenlsdi1lVEctNlR0S3IxeVdid192eHNsRTNBUDJyTjV2WE5faEZmQUlHZXVpQkxkc2gtN3dHNnRCd1RzN3F3SXlIZFhqcXNMbGlMTnF0WndSNGtUb1JlQmo0MU5zYnQtUTJZR1ZDR2hmUUI0VFJ1QzlienVKaXBadTFRSkRlWG9MSVBxVzVDdw?oc=5",
+        "domain": "es.concacaf.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA concede a Irak una excepción respecto a Arabia Saudí en señal de respeto a Su Majestad - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUc1dUZ5dFg1RVR6V3JOMnoteTVuNHJoVm9qRGt1UVY5dHVlUExwdXFIV0U3bWJ4Q1A4R2FXbkpVVXlGcmVuLWs0ZXM3R1MzZFJPQjBuMzZxS1NlaFJDTnlYeVhiTUxDWnlhVlBfM185VEJON0RxTWxRZWkwSUdFM0JPMlRJNWJlOXRzSjJPNWI5V0I0Z05za2twV0hNQnRzOTNpMTR5dTlLdUIwazVmYndUYWZwV0UyQXZoTmRnTmg3TkRFUVlsbGdQZkZHQmhoRG50aVdJT1JnbjNVcGFWWg?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3pEaG1jSTA3Z2lSdDJ3S043NDM1SlFCMVZGbThna3U2NDREUlBLV3FrdE1iUGUwNlh0ZzVJTlJNdFZhMDFKVjV0dUtfMTF1MUZiV3ZoM1lJZUd2VUZsV3FzVmx4cXp3S1dnVTQxeEtfQXBJaVEyamFPQk54RS1JQjhR?oc=5",
+        "domain": "www.dazn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 21 Oct 2026 18:25:14 GMT",
         "image": "",
         "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "MILENIO. . ⚽ “Está bendito por los dioses”, Gianni Infantino elogió al Estadio Ciudad de México y destacó lo que significa que sea la sede del partido inaugural del Mundial. 🏆🔥 📹 Enrique Martínez - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczl0TVVLZkZlakRkNmFSSzAwSXI3ak5LbWVyeXdOZlhjUE9CTVJCeW83ZlYxRG96T0hyNEh0alJ6T1dLZjRmbmhpUURybVBEeE1wcjYzZm1xRk9QUDNOb08wNlpWOXBiLXgtWERGcjdIM0JBbEpCZHhWZFA4QVNJSHpycVlOY2RmT1UzUmpRVERmenFaaTl2YXJVeHlXeVhxMUg4TzRyZG4xc3BRTVVxUkhpS19DZTVEVTEwRy1Lbmg3Vi16d0drd1BYN2RZaE1LaVhpVGhyRzBkMG1CT05aRWZxMEhLblJ4RGRHc0VaSQ?oc=5",
+        "domain": "www.facebook.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
