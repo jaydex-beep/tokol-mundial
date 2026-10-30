@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-29T22:43:37.742552Z",
+    "updatedAt": "2026-10-30T05:44:12.915650Z",
     "source": "Google News RSS",
     "articleCount": 33,
     "queryCount": 1,
@@ -115,6 +115,20 @@
       "image": "",
       "matchedTeams": [
         "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Has Mexico ever won the World Cup? All about El Tri history and best finish at FIFA tournament - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfWmNKZUpiUWVNZk1WSm1zMFBLUjlsTWN2NWJ2dUF6YWR0T3hLdzRFNk9jMnQ4R25qSC12bUFzZk5uclZ5YmlfZnNmNVdKcnQwNnN0TWdobjAwYUE5djY4VUxqT0ZUdlY2VmlaMl81bHA5Y2ctdjZNRGduZmtPYW8?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -421,6 +435,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Has Mexico ever won the World Cup? All about El Tri history and best finish at FIFA tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfWmNKZUpiUWVNZk1WSm1zMFBLUjlsTWN2NWJ2dUF6YWR0T3hLdzRFNk9jMnQ4R25qSC12bUFzZk5uclZ5YmlfZnNmNVdKcnQwNnN0TWdobjAwYUE5djY4VUxqT0ZUdlY2VmlaMl81bHA5Y2ctdjZNRGduZmtPYW8?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2xsVEVRa3NyU1FRYkI3Z1Y2NkZ1bllNNnV0SUtuM0ZMS1N1WjlhR0hXMkxaQnNNX1RwUkNNSGlUQzVPYzFnZVM2ZFQyTHd1YmZ0Vm9wdXhKRUdncU1vSUtnR2xCWVdQek5qNkoyTmpaRjZFZjU0aXBReXF6X1VicUhxU2pFZmpOUV9SRWstWjJxa0k?oc=5",
         "domain": "www.fotmob.com",
@@ -460,20 +488,6 @@
           "Ecuador"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       }
     ],
