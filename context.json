@@ -1,26 +1,12 @@
 {
   "meta": {
-    "updatedAt": "2026-10-30T22:16:34.895537Z",
+    "updatedAt": "2026-10-31T05:37:10.910026Z",
     "source": "Google News RSS",
-    "articleCount": 32,
+    "articleCount": 19,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
-    {
-      "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
     {
       "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
@@ -31,34 +17,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "How to live stream Spain vs France: FIFA World Cup 2026, TV channel - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTG93Mmtrc29keE5rOTViM2V5Q3pZekpFS0p5RkFDOGpMM09kN1R1b2FEQnJIUHI2c2xXdEJrMmFwQXFiQ1ZwV1p3RlpzbHNpQnRfWVU3b3hLcGxvT1dPNk9PYndNclVZTDZ4ajZrWW1xbGpsLWZvVzhvNUxkUDhoeWNn?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "FIFA World Cup manager Fabio Cannavaro breaks silence on USA’s ‘disgraceful’ security search - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTHNidXNqcngweVh5Ml9McndJeV9waFA4aEJwQldTU1QzbkhaMFhTNjhfVUdmTzRTRVhVXzN1QV9pemNkZXp0R05iYXpnSE1wMkJrQTRhX0M5Y3FSbVdlel9oNEJSN1I1OVlod3RJdVAxcnZ4dVNQaTdWRWhrQ0lpV25oaw?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -92,34 +50,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "How To Watch 2026 FIFA World Cup Qualifiers In the USA? Live Streams, Cable & TV Channels - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NXVSN0NMUFJHbTFfSzEzeEs0U3ZYWHRIbVJKN1VLZkJuN3J2YUZYOV9Ya3M5dVMwSGx5MVdqdEo5bmd4QlNNR2x6blkyN2RmYUpWTUJyRlBuc0RnaUQ5TjdHUW5XNGR3R09uXzZ6LVh2ZnZhWTZ0OGtFalBSU2c?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Former England referee chief gives ‘no doubt’ verdict to FIFA World Cup ‘rigged’ allegations - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0xBdWdNT1lwNVZ2eDdqd1VnamJWZDZIRmtPcERzbFZDMUZOMUlCNkZnTnAtVHdkR1N2TGJpNEZZSkNEN0RKck9Dal9meUFlc21qd0ZJc05EN3o2cEx6WWRVaXlVWlZDNzFLWWdNeC1IVGlVcHZEYW5tUTAyS0tHYTRVazRNQnF2N01N?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
       "domain": "www.beinsports.com",
@@ -133,20 +63,6 @@
       "tags": [
         "alineación"
       ],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2xsVEVRa3NyU1FRYkI3Z1Y2NkZ1bllNNnV0SUtuM0ZMS1N1WjlhR0hXMkxaQnNNX1RwUkNNSGlUQzVPYzFnZVM2ZFQyTHd1YmZ0Vm9wdXhKRUdncU1vSUtnR2xCWVdQek5qNkoyTmpaRjZFZjU0aXBReXF6X1VicUhxU2pFZmpOUV9SRWstWjJxa0k?oc=5",
-      "domain": "www.fotmob.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 13 Jun 2026 23:35:05 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -164,6 +80,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "England Under-15s in fresh World Cup controversy after uncontested penalty drama - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklyTFZ6ZzB2czA4X1duTVRQWENZUWN5RDVQOWhQdk5JZGM4aHQtSV9jMnlkbzFrWjlhV0NqM1pDNTNDVmlsVURnaU8yamVQTXJlM1U5VUFMMWVmTmxRODVzRFZCZTBkNXJrOVFiS0tqTy1PVkZteGFjRkVkNkk4NEV6Zks?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 30 Oct 2026 12:26:12 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Ecuador 2026 Season FIFA World Cup Scoring Stats - ESPN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3c5WVZYQXF0U1hWMzl3Ri1NWUxROFFVRWNOeWZPQ3hNQ2IxM1lrVHZXc3cyTGNyckxDSEN5OTQtNG41dk5OREViQlMzZDlYNk91UFhPMFg1TE5DWDgzWm1SMXRURnltc2FrYWc5aHQ1N0toTzJYV3cwQm1xNVpSS2d6UQ?oc=5",
       "domain": "www.espn.com",
@@ -173,20 +103,6 @@
       "image": "",
       "matchedTeams": [
         "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Where is USA soccer playing today vs Paraguay in FIFA World Cup? - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGd5N3kyOUtYSC1mb1N0Ti1yMWY3WENfcFFuOV9WSUxUc2VuangtWXlIQ05fRlR1X2hiUjZlcU1kT0dtUm9XMFA3OFVGeDJBUUVWa1E2eUVYajJYMF9LZG9kNF9kb1ZrZnkyLUVvSnVtbVVNTXBiZVNWTlV0UVNBdzhZVlEtMFdUbGRwMElaeDdJX2dlUVJoLUptVjFKdnZ2bWM3SFRUX282X002YlA3amtn?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -223,20 +139,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -253,59 +155,57 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "England"
+          "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
-      {
-        "title": "How to live stream Spain vs France: FIFA World Cup 2026, TV channel - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTG93Mmtrc29keE5rOTViM2V5Q3pZekpFS0p5RkFDOGpMM09kN1R1b2FEQnJIUHI2c2xXdEJrMmFwQXFiQ1ZwV1p3RlpzbHNpQnRfWVU3b3hLcGxvT1dPNk9PYndNclVZTDZ4ajZrWW1xbGpsLWZvVzhvNUxkUDhoeWNn?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
@@ -321,20 +221,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -351,24 +237,50 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -405,20 +317,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2xsVEVRa3NyU1FRYkI3Z1Y2NkZ1bllNNnV0SUtuM0ZMS1N1WjlhR0hXMkxaQnNNX1RwUkNNSGlUQzVPYzFnZVM2ZFQyTHd1YmZ0Vm9wdXhKRUdncU1vSUtnR2xCWVdQek5qNkoyTmpaRjZFZjU0aXBReXF6X1VicUhxU2pFZmpOUV9SRWstWjJxa0k?oc=5",
-        "domain": "www.fotmob.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 13 Jun 2026 23:35:05 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
         "domain": "www.gob.mx",
@@ -447,61 +345,47 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
+        "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
+        "domain": "www.beinsports.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+        "seenDate": "Sat, 20 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
+        "title": "England Under-15s in fresh World Cup controversy after uncontested penalty drama - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklyTFZ6ZzB2czA4X1duTVRQWENZUWN5RDVQOWhQdk5JZGM4aHQtSV9jMnlkbzFrWjlhV0NqM1pDNTNDVmlsVURnaU8yamVQTXJlM1U5VUFMMWVmTmxRODVzRFZCZTBkNXJrOVFiS0tqTy1PVkZteGFjRkVkNkk4NEV6Zks?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Fri, 30 Oct 2026 12:26:12 GMT",
         "image": "",
         "matchedTeams": [
           "England"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Former England referee chief gives ‘no doubt’ verdict to FIFA World Cup ‘rigged’ allegations - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0xBdWdNT1lwNVZ2eDdqd1VnamJWZDZIRmtPcERzbFZDMUZOMUlCNkZnTnAtVHdkR1N2TGJpNEZZSkNEN0RKck9Dal9meUFlc21qd0ZJc05EN3o2cEx6WWRVaXlVWlZDNzFLWWdNeC1IVGlVcHZEYW5tUTAyS0tHYTRVazRNQnF2N01N?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -521,24 +405,50 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -563,58 +473,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -624,6 +482,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -631,62 +539,6 @@
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
-        "title": "FIFA World Cup manager Fabio Cannavaro breaks silence on USA’s ‘disgraceful’ security search - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTHNidXNqcngweVh5Ml9McndJeV9waFA4aEJwQldTU1QzbkhaMFhTNjhfVUdmTzRTRVhVXzN1QV9pemNkZXp0R05iYXpnSE1wMkJrQTRhX0M5Y3FSbVdlel9oNEJSN1I1OVlod3RJdVAxcnZ4dVNQaTdWRWhrQ0lpV25oaw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 09 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "How To Watch 2026 FIFA World Cup Qualifiers In the USA? Live Streams, Cable & TV Channels - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NXVSN0NMUFJHbTFfSzEzeEs0U3ZYWHRIbVJKN1VLZkJuN3J2YUZYOV9Ya3M5dVMwSGx5MVdqdEo5bmd4QlNNR2x6blkyN2RmYUpWTUJyRlBuc0RnaUQ5TjdHUW5XNGR3R09uXzZ6LVh2ZnZhWTZ0OGtFalBSU2c?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Where is USA soccer playing today vs Paraguay in FIFA World Cup? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGd5N3kyOUtYSC1mb1N0Ti1yMWY3WENfcFFuOV9WSUxUc2VuangtWXlIQ05fRlR1X2hiUjZlcU1kT0dtUm9XMFA3OFVGeDJBUUVWa1E2eUVYajJYMF9LZG9kNF9kb1ZrZnkyLUVvSnVtbVVNTXBiZVNWTlV0UVNBdzhZVlEtMFdUbGRwMElaeDdJX2dlUVJoLUptVjFKdnZ2bWM3SFRUX282X002YlA3amtn?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -700,88 +552,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      }
-    ],
-    "a518ac20df8f5c732b881e213ae0c230": [
-      {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
-        "domain": "www.beinsports.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 20 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Belgium"
-        ],
-        "tags": [
-          "alineación"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -794,6 +564,138 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "a518ac20df8f5c732b881e213ae0c230": [
+      {
+        "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
+        "domain": "www.beinsports.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 20 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -801,20 +703,6 @@
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -831,44 +719,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -878,6 +728,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -885,20 +785,6 @@
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -915,44 +801,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -962,6 +810,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -969,20 +867,6 @@
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -999,44 +883,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1046,6 +892,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1053,20 +949,6 @@
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1083,44 +965,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1130,6 +974,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1137,20 +1031,6 @@
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1167,44 +1047,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1214,6 +1056,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1221,20 +1113,6 @@
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1251,44 +1129,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1298,6 +1138,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1305,20 +1195,6 @@
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1332,44 +1208,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1385,49 +1223,71 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
+        "title": "England Under-15s in fresh World Cup controversy after uncontested penalty drama - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdklyTFZ6ZzB2czA4X1duTVRQWENZUWN5RDVQOWhQdk5JZGM4aHQtSV9jMnlkbzFrWjlhV0NqM1pDNTNDVmlsVURnaU8yamVQTXJlM1U5VUFMMWVmTmxRODVzRFZCZTBkNXJrOVFiS0tqTy1PVkZteGFjRkVkNkk4NEV6Zks?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Fri, 30 Oct 2026 12:26:12 GMT",
         "image": "",
         "matchedTeams": [
           "England"
         ],
         "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Former England referee chief gives ‘no doubt’ verdict to FIFA World Cup ‘rigged’ allegations - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0xBdWdNT1lwNVZ2eDdqd1VnamJWZDZIRmtPcERzbFZDMUZOMUlCNkZnTnAtVHdkR1N2TGJpNEZZSkNEN0RKck9Dal9meUFlc21qd0ZJc05EN3o2cEx6WWRVaXlVWlZDNzFLWWdNeC1IVGlVcHZEYW5tUTAyS0tHYTRVazRNQnF2N01N?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1447,24 +1307,50 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1473,20 +1359,6 @@
     ],
     "67ae5751c401a98409b8566ae4897069": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1503,44 +1375,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1550,6 +1384,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1557,20 +1441,6 @@
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1587,44 +1457,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1634,6 +1466,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1641,20 +1523,6 @@
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1671,44 +1539,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1718,6 +1548,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1725,20 +1605,6 @@
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1755,44 +1621,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1802,6 +1630,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1809,20 +1687,6 @@
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1839,44 +1703,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1886,6 +1712,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1893,20 +1769,6 @@
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1923,44 +1785,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1970,6 +1794,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -1977,20 +1851,6 @@
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -2007,44 +1867,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -2054,6 +1876,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -2061,20 +1933,6 @@
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "domain": "www.reuters.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -2091,44 +1949,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA World Cup’s all-time attendance record broken just six days into 2026 tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEZyZEdsYXlSbW41M1hQTk1ZdmJhSExESlM0WVZKUlBTdENGMGpiblR5amY4UHdKalNmTTNPeEZzWVhid0RMS2Y5OVhja0huTzI0SE5FcHdTQ1BZUmEyWHliUHBhYnpCblk4YVBOY3NLcllLMnpBeEdKZEYzQkxBODRORDRkZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Why England doesn't have Trent Alexander-Arnold at World Cup - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ21fZzZDaTFSZlV3c3BxOWxMTG5xMkM2MDdQc3JjQ0s0SnBZQmtBaC1hWC1rOFVBeEpndkdUdDJ6UnFvem5jRlI3elgtRXZ5WlVWRy1OQlNDN3hnc2NLdmNCcGU3MnpWQWNnbkJhOGQ0cGxUNUI4cHg2R3ZTOFZBNjBGR1pmTFFLOGZR?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -2138,6 +1958,56 @@
         "image": "",
         "matchedTeams": [
           "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
+        "domain": "www.rocketleague.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Brazil U15 thrash Ghana and play for fifth at FIFA World Cup and Festival - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHprRlRBdmJDR3E5c1pXaWhkd0dhVy1MTkpaZjYtZ2l3cndLNk4xZ0tXRWZfcy1NLVJNY29XVHdELWpSY3NxUVhRZmtNaUVNclRmZUNlMEt0TV9JLVY0Xzd6VzlxVzAtb1U1dWhGX05VcXA3UHJ1OWg0SlVaeGdYcjJWUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 19:54:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "French FA president Philippe Diallo confirms France’s potential bid to co-host 2038 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEs3UzlYX2ZPYnF6R3JBS2tmSWdpX0o2NDhoTWNOQVpLQmNxSkpsVktMcjNPaXhKRlUxbE1iRUNrSFJhNEVvcUhqdnFyQnFYdVl0bW41LThsRDZjNUtKYWdiLWZFU25HbjRtSE5YWUlBQkg5UFBzMXJCM29xMDlvZ3hNUFJ0dWxla2habg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 29 Oct 2026 12:01:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
