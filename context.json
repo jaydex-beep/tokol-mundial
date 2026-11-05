@@ -1,21 +1,23 @@
 {
   "meta": {
-    "updatedAt": "2026-11-05T06:41:49.787952Z",
+    "updatedAt": "2026-11-05T19:54:51.702882Z",
     "source": "Google News RSS",
-    "articleCount": 14,
+    "articleCount": 26,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
   "articles": [
     {
-      "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-      "domain": "www.fifa.com",
+      "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "image": "",
-      "matchedTeams": [],
+      "matchedTeams": [
+        "Mexico"
+      ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
@@ -34,36 +36,26 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-      "domain": "www.rocketleague.com",
+      "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+      "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
       "image": "",
-      "matchedTeams": [],
+      "matchedTeams": [
+        "England"
+      ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-      "domain": "www.rocketleague.com",
+      "title": "Hirving 'Chucky' Lozano Excluded From Mexico's Preliminary World Cup Roster - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObU5JZ2ZVbXZObEMwbHpKcFNlOEZMWWtLZkp6RmxQWVowY0pKZlVDbG9PZ0dBZC01aUlkWVd3WGVyNkYwcEFHOWNfdktOVjlFckV5UXBEZmpGQ2E4a29MME1pUk91LXJxSl9KLVRNNjdHV0NOZVR6SzlGUGFKRnZFdEJ6OG1tTEgzZ2Q4M3YtLVowMkdLM1BSNjdwMWFoSGlVZnlYblZjaDZ1RXFw0gGsAUFVX3lxTE1mTVp5TktTQnpENDVwRDRIZXB6TmVqLUJJUFdaVDYxV295TTR5OVlrcUFpU2hWZXoyamEwUWRnZEQ2dS01dEh2RGUxdjdrU2VPbHFIWE5ldmNFbzZHQnF2OFh6VWJRYVRNQ25nandjVG9maGYxYWZBTnRVT2RlWTVMeTJqazVYSHN4am1uSXJGdGRqeUN2WXNGWkxGWlFHemQyajlFV1J6anBfZlo?oc=5",
+      "domain": "www.foxsports.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-      "image": "",
-      "matchedTeams": [],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Estaría listo para entrar en acción: cobra forma un regreso bomba en torno a Nagelsmann | Goal.com México - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY0dPTWdkRVFUMk5ZNnlXOVpSb25rQjF2RllfN0F6RGx1eVU5LUNqa2JBazJ4R0lQQUMxNGtZdnRnSGd3UXVua2d0ZWdwejQyMTY5d1dLUHM3SzlJQi1QXy1PZ3k5OG9uYWJwb0IzLThpbEVoc0FMbzZ4cEFhZ0NxRWRSQzJGZEFBNlZxN2ZjZ0c3czFJd3hld3JlYm5obkZOSHAwSTFlQzVHZVBSVEFqSzl3SGRyYmpUVG44MkcwYUYyMWRnQmNYaTZ0Nk1wdjBacnlIQXNkMGV6WkxPTl9na0M3bFVGRldDdW15UUZCWER0dVRaSVB3ckl5RktQS01ZYW9qREstMjZkOEtq?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Wed, 04 Nov 2026 08:11:00 GMT",
+      "seenDate": "Tue, 19 May 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -72,38 +64,44 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Hakimi se pronuncia con un emotivo mensaje tras la muerte del delantero del Tenerife - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkNZcUpLa3pNNEx6RUY2LUYyV3M0V1o0YVpwRV96WVFzeUE1Y25MZjU1Q1ZUVTRuSVNwcDI3VlZwOENYc01ybXFvdndpOWYzNTRwdVFvT3RzRFJoelBidDFPeUg4RE83SVQ2RHJ0Y1RTdEwzSGU1cV9rVUVSUENCZGhyb2Fxc0M2b055eGJSUWM1WElBOXptNmpzSmFpa3BQUzU1NzQ1NVdocG5SLW01MEx1WmZWNEYwcEtiNXp1dlBySktVUjVWMlpBaDUwSF93b21JQTFCOA?oc=5",
-      "domain": "www.goal.com",
+      "title": "How to live stream Spain vs France: FIFA World Cup 2026, TV channel - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTG93Mmtrc29keE5rOTViM2V5Q3pZekpFS0p5RkFDOGpMM09kN1R1b2FEQnJIUHI2c2xXdEJrMmFwQXFiQ1ZwV1p3RlpzbHNpQnRfWVU3b3hLcGxvT1dPNk9PYndNclVZTDZ4ajZrWW1xbGpsLWZvVzhvNUxkUDhoeWNn?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Tue, 03 Nov 2026 22:19:45 GMT",
+      "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "image": "",
-      "matchedTeams": [],
+      "matchedTeams": [
+        "France"
+      ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Julián Quiñones escribe su nombre con letras de oro en la historia del fútbol mexicano - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUdxN2xaaldyRE4zdVduZG1DQ0NpWVpya19LVHR2dGJGLU5DUXEydEkxVEpoSmxIa3c4MzV2aVpwT2dmWW9fNFhqMk5DSkRNVXU3d28zWkNQd3lnUTI5Z1FrZ0dIYjlRMGxyeDVOSEl1TjlwRXZ3dGgwM2d5UGtMR0tIQTZ5eW5RaW4wOXh1VzJENXR4QU9oUWJURmRDVWZ2N0lld0hxMzNaaGFHcXRpcQ?oc=5",
-      "domain": "www.si.com",
+      "title": "How To Watch 2026 FIFA World Cup Qualifiers In the USA? Live Streams, Cable & TV Channels - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NXVSN0NMUFJHbTFfSzEzeEs0U3ZYWHRIbVJKN1VLZkJuN3J2YUZYOV9Ya3M5dVMwSGx5MVdqdEo5bmd4QlNNR2x6blkyN2RmYUpWTUJyRlBuc0RnaUQ5TjdHUW5XNGR3R09uXzZ6LVh2ZnZhWTZ0OGtFalBSU2c?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Tue, 03 Nov 2026 18:33:47 GMT",
+      "seenDate": "Thu, 26 Mar 2026 07:00:00 GMT",
       "image": "",
-      "matchedTeams": [],
+      "matchedTeams": [
+        "USA"
+      ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-      "domain": "espndeportes.espn.com",
+      "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2xsVEVRa3NyU1FRYkI3Z1Y2NkZ1bllNNnV0SUtuM0ZMS1N1WjlhR0hXMkxaQnNNX1RwUkNNSGlUQzVPYzFnZVM2ZFQyTHd1YmZ0Vm9wdXhKRUdncU1vSUtnR2xCWVdQek5qNkoyTmpaRjZFZjU0aXBReXF6X1VicUhxU2pFZmpOUV9SRWstWjJxa0k?oc=5",
+      "domain": "www.fotmob.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
+      "seenDate": "Sat, 13 Jun 2026 23:35:05 GMT",
       "image": "",
-      "matchedTeams": [],
+      "matchedTeams": [
+        "Mexico"
+      ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
@@ -122,30 +120,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "FIFA World Cup 2026: Austria ready to make up for lost time - All players, full squad list, key stats and schedule - Olympics",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi1OdXpUc1otZGlNT084ODVwbHdVeGxwUG56YzRkRHRfOF8wczFFaU1mTlNETnN1RjZhOW54N19QY3VMMDJlMk1sSHRZRDlaZ1BCSVJMOFNfeWhLMUJsQ2VWVjJuMnRFeTYtZnNZNmt3eWw4Q1VoWnZzcW9KZFpDTTRGSTZyaW5lZjJYY0pKSXV5SFRXNEkwUmsyVnNlNWM?oc=5",
-      "domain": "www.olympics.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 18 May 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "FIFA World Cup 2026 opening ceremonies: Shakira, Tyla, J Balvin headline acts - Everything you need to know - Olympics",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWElQd3RiT1k2MzNEYlM2WWxqOEZocjVHVHZ3VkNGS1lWVUdid2t0NXJPTVhQV0d2dGdXZ3cweEEtLTFVVkRZT1QzQ3RNQWJwdDlyZWZvdS1LaDRkb3BUZjFoRHdyU1haTFBub2x0U0daUEppcS1IdC1QczRCbzdnVFNYY0ZWU3BsZHRlb21mQXJaendpTzdianpmLXpLTHZx?oc=5",
-      "domain": "www.olympics.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 08 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Ecuador 2026 Season FIFA World Cup Scoring Stats - ESPN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3c5WVZYQXF0U1hWMzl3Ri1NWUxROFFVRWNOeWZPQ3hNQ2IxM1lrVHZXc3cyTGNyckxDSEN5OTQtNG41dk5OREViQlMzZDlYNk91UFhPMFg1TE5DWDgzWm1SMXRURnltc2FrYWc5aHQ1N0toTzJYV3cwQm1xNVpSS2d6UQ?oc=5",
       "domain": "www.espn.com",
@@ -160,14 +134,16 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Opening goal of FIFA World Cup caught by Referee View, powered by Lenovo AI - Lenovo StoryHub",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13RWZBZ0VIdzA2WmNhMjBucFJCY2NNMTZXRDJmbDhNRXdkT1NOUHdReldVZDlteUc5OE9aZmRzWjAxcW9vczZfNnAyaVRLVkE3MmhQZ09mYVFvNmI2dk5ONUtOd3JuNTV5UWxqaGlxZ3hDOWc?oc=5",
-      "domain": "news.lenovo.com",
+      "title": "Where is USA soccer playing today vs Paraguay in FIFA World Cup? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGd5N3kyOUtYSC1mb1N0Ti1yMWY3WENfcFFuOV9WSUxUc2VuangtWXlIQ05fRlR1X2hiUjZlcU1kT0dtUm9XMFA3OFVGeDJBUUVWa1E2eUVYajJYMF9LZG9kNF9kb1ZrZnkyLUVvSnVtbVVNTXBiZVNWTlV0UVNBdzhZVlEtMFdUbGRwMElaeDdJX2dlUVJoLUptVjFKdnZ2bWM3SFRUX282X002YlA3amtn?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Fri, 12 Jun 2026 07:00:00 GMT",
       "image": "",
-      "matchedTeams": [],
+      "matchedTeams": [
+        "USA"
+      ],
       "tags": [],
       "discoveredBy": "Google News RSS"
     },
@@ -203,6 +179,34 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -229,44 +233,64 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "England"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
+        "title": "How to live stream Spain vs France: FIFA World Cup 2026, TV channel - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTG93Mmtrc29keE5rOTViM2V5Q3pZekpFS0p5RkFDOGpMM09kN1R1b2FEQnJIUHI2c2xXdEJrMmFwQXFiQ1ZwV1p3RlpzbHNpQnRfWVU3b3hLcGxvT1dPNk9PYndNclVZTDZ4ajZrWW1xbGpsLWZvVzhvNUxkUDhoeWNn?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -293,51 +317,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Mexico"
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -345,12 +333,54 @@
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
       {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Hirving 'Chucky' Lozano Excluded From Mexico's Preliminary World Cup Roster - FOX Sports",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObU5JZ2ZVbXZObEMwbHpKcFNlOEZMWWtLZkp6RmxQWVowY0pKZlVDbG9PZ0dBZC01aUlkWVd3WGVyNkYwcEFHOWNfdktOVjlFckV5UXBEZmpGQ2E4a29MME1pUk91LXJxSl9KLVRNNjdHV0NOZVR6SzlGUGFKRnZFdEJ6OG1tTEgzZ2Q4M3YtLVowMkdLM1BSNjdwMWFoSGlVZnlYblZjaDZ1RXFw0gGsAUFVX3lxTE1mTVp5TktTQnpENDVwRDRIZXB6TmVqLUJJUFdaVDYxV295TTR5OVlrcUFpU2hWZXoyamEwUWRnZEQ2dS01dEh2RGUxdjdrU2VPbHFIWE5ldmNFbzZHQnF2OFh6VWJRYVRNQ25nandjVG9maGYxYWZBTnRVT2RlWTVMeTJqazVYSHN4am1uSXJGdGRqeUN2WXNGWkxGWlFHemQyajlFV1J6anBfZlo?oc=5",
+        "domain": "www.foxsports.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 19 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2xsVEVRa3NyU1FRYkI3Z1Y2NkZ1bllNNnV0SUtuM0ZMS1N1WjlhR0hXMkxaQnNNX1RwUkNNSGlUQzVPYzFnZVM2ZFQyTHd1YmZ0Vm9wdXhKRUdncU1vSUtnR2xCWVdQek5qNkoyTmpaRjZFZjU0aXBReXF6X1VicUhxU2pFZmpOUV9SRWstWjJxa0k?oc=5",
+        "domain": "www.fotmob.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 13 Jun 2026 23:35:05 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -385,14 +415,44 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
+      }
+    ],
+    "5ff7744314f224c18d1604ee9cc19263": [
       {
-        "title": "Estaría listo para entrar en acción: cobra forma un regreso bomba en torno a Nagelsmann | Goal.com México - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY0dPTWdkRVFUMk5ZNnlXOVpSb25rQjF2RllfN0F6RGx1eVU5LUNqa2JBazJ4R0lQQUMxNGtZdnRnSGd3UXVua2d0ZWdwejQyMTY5d1dLUHM3SzlJQi1QXy1PZ3k5OG9uYWJwb0IzLThpbEVoc0FMbzZ4cEFhZ0NxRWRSQzJGZEFBNlZxN2ZjZ0c3czFJd3hld3JlYm5obkZOSHAwSTFlQzVHZVBSVEFqSzl3SGRyYmpUVG44MkcwYUYyMWRnQmNYaTZ0Nk1wdjBacnlIQXNkMGV6WkxPTl9na0M3bFVGRldDdW15UUZCWER0dVRaSVB3ckl5RktQS01ZYW9qREstMjZkOEtq?oc=5",
-        "domain": "www.goal.com",
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 04 Nov 2026 08:11:00 GMT",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -400,32 +460,6 @@
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
-      {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      }
-    ],
-    "5ff7744314f224c18d1604ee9cc19263": [
       {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
@@ -461,50 +495,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -531,6 +555,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -539,50 +577,68 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
+        "title": "How To Watch 2026 FIFA World Cup Qualifiers In the USA? Live Streams, Cable & TV Channels - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NXVSN0NMUFJHbTFfSzEzeEs0U3ZYWHRIbVJKN1VLZkJuN3J2YUZYOV9Ya3M5dVMwSGx5MVdqdEo5bmd4QlNNR2x6blkyN2RmYUpWTUJyRlBuc0RnaUQ5TjdHUW5XNGR3R09uXzZ6LVh2ZnZhWTZ0OGtFalBSU2c?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Where is USA soccer playing today vs Paraguay in FIFA World Cup? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGd5N3kyOUtYSC1mb1N0Ti1yMWY3WENfcFFuOV9WSUxUc2VuangtWXlIQ05fRlR1X2hiUjZlcU1kT0dtUm9XMFA3OFVGeDJBUUVWa1E2eUVYajJYMF9LZG9kNF9kb1ZrZnkyLUVvSnVtbVVNTXBiZVNWTlV0UVNBdzhZVlEtMFdUbGRwMElaeDdJX2dlUVJoLUptVjFKdnZ2bWM3SFRUX282X002YlA3amtn?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -601,56 +657,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -661,6 +667,34 @@
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -687,6 +721,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -695,50 +743,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -765,6 +803,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -773,50 +825,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -843,6 +885,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -851,50 +907,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -921,6 +967,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -929,50 +989,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -999,6 +1049,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1007,50 +1071,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1077,6 +1131,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1085,50 +1153,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1155,6 +1213,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1163,50 +1235,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1233,6 +1295,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1241,50 +1317,54 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1319,50 +1399,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1389,6 +1459,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1397,50 +1481,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "13eab94a136b9c264ba974cf437a5f71": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1467,6 +1541,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1475,50 +1563,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1545,6 +1623,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1553,50 +1645,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1623,6 +1705,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1631,50 +1727,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1701,6 +1787,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1709,50 +1809,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1779,6 +1869,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1787,50 +1891,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1857,6 +1951,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1865,50 +1973,40 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Quinones nets again as Mexico create FIFA World Cup history - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDhPbXVUeVVvUFdpOTdjdXAxUGQtWTUwX0NVeDVwaVNCcDJNdDNVcXp2b1VZSnZ4R3BrVFQtZjZrUDVGMUlvcEdfTkRmVmRhY1djQ215NXA1WE8wUGUyQW05YVdYbTFQeC1Gb3AzWlI0R0NCWDZlRW9ZWDVsQXV2QzJnWU93UXdUSUE?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
         "domain": "www.fifa.com",
@@ -1935,6 +2033,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFpMeDQwRmNydTUybEhPcS1YOEFFT285ZWZGY2htNjRId2hadndxdTZ2WGtjenBuNGt4cXpVcTQtb2Z0VThWZi1nSUpmRDJSYUp4b1F4RnZtdEt2UFlyY3NaT05scy1IenVNaTk3TVk4aEJSVnlLMg?oc=5",
         "domain": "www.rocketleague.com",
@@ -1943,44 +2055,6 @@
         "seenDate": "Wed, 07 Oct 2026 04:55:14 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Evento por tiempo limitado FIFA World Cup 2026™ - Rocket League ®",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmFtT1EwZXV4ZW9IU1VTbkRXSTZvbmlReUh2Mnk5YmhGcWtlR0RfUllWcVRKMlRXNUpHeWJZU0xfSmRkc1pzNWZXeDh1dHNIc1llOTNUQ2JSa3NkYk5DVkpSZTVxS05LV1p3R2p6alc5ZTBsMFVwVw?oc=5",
-        "domain": "www.rocketleague.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 07 Oct 2026 01:14:22 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Cuadro de FIFA World Cup 2026 - ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Zk9qcFc5Y1BFdlo1VWx4NDZhdzljWGFwbFdWaDBrYU9oQTZ4cTlINmcyS2tQa0tad0JSWnprQXhlcTJhdDBKSVVQUkhmQUdldlo3cXRn?oc=5",
-        "domain": "espndeportes.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Thu, 01 Dec 2022 17:43:05 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
