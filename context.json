@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-07T05:56:00.647986Z",
+    "updatedAt": "2026-11-07T12:57:22.411117Z",
     "source": "Google News RSS",
-    "articleCount": 43,
+    "articleCount": 48,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -61,20 +61,6 @@
       "matchedTeams": [
         "Mexico",
         "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Hirving 'Chucky' Lozano Excluded From Mexico's Preliminary World Cup Roster - FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObU5JZ2ZVbXZObEMwbHpKcFNlOEZMWWtLZkp6RmxQWVowY0pKZlVDbG9PZ0dBZC01aUlkWVd3WGVyNkYwcEFHOWNfdktOVjlFckV5UXBEZmpGQ2E4a29MME1pUk91LXJxSl9KLVRNNjdHV0NOZVR6SzlGUGFKRnZFdEJ6OG1tTEgzZ2Q4M3YtLVowMkdLM1BSNjdwMWFoSGlVZnlYblZjaDZ1RXFw0gGsAUFVX3lxTE1mTVp5TktTQnpENDVwRDRIZXB6TmVqLUJJUFdaVDYxV295TTR5OVlrcUFpU2hWZXoyamEwUWRnZEQ2dS01dEh2RGUxdjdrU2VPbHFIWE5ldmNFbzZHQnF2OFh6VWJRYVRNQ25nandjVG9maGYxYWZBTnRVT2RlWTVMeTJqazVYSHN4am1uSXJGdGRqeUN2WXNGWkxGWlFHemQyajlFV1J6anBfZlo?oc=5",
-      "domain": "www.foxsports.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 19 May 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -150,6 +136,50 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Mexico 2026 FIFA World Cup Squad - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82b0VYQmJmTjBCTGRhNUF5T1JvZzYtWldyZDZhZk5JcXBJT2hOTGl1Zm90ZFZfTkM2LWZSR2luc1JSRi16R3pmdGJnZEFKa04xOVI3YUpFZXRoazUzbW4wNFJ4WENPTW4tejJLNnZ2OFZPcUk?oc=5",
+      "domain": "www.espn.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA clears Folarin Balogun to play for United States against Belgium in World Cup - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBiN0pVS09KX1NjbnVxank4d1Y0VU5YMW9aVGVZd0ZqazIzNU9VQWVnTHFDQmZSQ2xaVUNObVlybkl4SnNRcmZCM19mbjFwNENMYmJ4Y0V4YzVyQUZCRUJfMDc5NmdNRlVScU80TVdYVlowZzZmVmlyb1Z5MVdkbkJqSGRMVDhr?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium",
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Who does Mexico play in the round of 32? Ecuador matchup nears - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHYVhibHd4ZjZSVXp3Uk9NdWlJSS1ZenY0bm4wOGtsTXpRNDlwQmgtWGh5TE1nY2Rfa2QzTjBYWHZiOEwtanV2b3dhX2lWVTVWY0ktcWVrUVkyZUZiTTdDT3BNWTJHY3pmN0NxRUs2aU8wLTdMUng0SDlqdzhUVEU?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 27 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Minutes played - Mexico stats for FIFA World Cup 2026 - FotMob",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2xsVEVRa3NyU1FRYkI3Z1Y2NkZ1bllNNnV0SUtuM0ZMS1N1WjlhR0hXMkxaQnNNX1RwUkNNSGlUQzVPYzFnZVM2ZFQyTHd1YmZ0Vm9wdXhKRUdncU1vSUtnR2xCWVdQek5qNkoyTmpaRjZFZjU0aXBReXF6X1VicUhxU2pFZmpOUV9SRWstWjJxa0k?oc=5",
       "domain": "www.fotmob.com",
@@ -178,16 +208,15 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Erling Haaland’s father blames referee for Norway defeat to England - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXBhYUVVTDFFY0tuOERELWw5VnBySXBfUy1rSjF4WnVWVGZScllNMDEyamVuS1JIWTF5MUJZNHc5cVZ1X1U4dUNxUUN3eWdHbzYyZWhGWEo4aHhNVExGSDFocUpQdTRIUXFvbXhJVEo5RDJfeGtkdEpHcUFVZkxWbXU3WFd4a3QzNU9qQ1pB?oc=5",
-      "domain": "sports.yahoo.com",
+      "title": "Mexico 2026 FIFA World Cup Qualifying - Concacaf Squad - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeW9reUptOEVYNU9neVBzaXhFZ2lNZmFzQkpIczNlUnJiZEJsVWtwazZ1aGFSM3Fqc0ZrYlhLbGlZTEJUTm92OG1uNi1BdlpIOTNzMV9hQzdGZ2U4UWNUaGRteVlvRk56U1BhdkNDZjNrV21iVFFydGV2SWJpRUsxMw?oc=5",
+      "domain": "www.espn.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "seenDate": "Sat, 08 Jun 2019 19:35:32 GMT",
       "image": "",
       "matchedTeams": [
-        "Norway",
-        "England"
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -202,20 +231,6 @@
       "image": "",
       "matchedTeams": [
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Explore DAZN | DAZN Mexico - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PYkJnTnFzc3h5eWU4TDRpbjZLTjlocWlGLW9RUzVpWjlWVU1lVWNQaEZuZ08tZlhSRlV0TmptVmc3QThfNXc?oc=5",
-      "domain": "www.dazn.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 30 Nov 2020 12:35:33 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -263,29 +278,15 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "DT de Jamaica se rinde vs México previo a su juego de la Concacaf Nations League: “Entendemos el monstruo que enfrentamos” - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN1FvQnBwN1dGZjlIX245WWRsNDhqVC16OWttYnFWTWpXZXdBd1N5dm1xdl95V09PTnZuZFZUVkp4QTd2bWpnWEZpRmRSeEdyb0RtVlpfUXIyV2lzSC1RM0p0YzlRXzVaZ0VaQnBLMWRYbVhfWXE2Q0dUM3ZvaUlYaXMzMlhUb2k0b052NW54elpmQnhiMkJvOTZzclBERFlwaUx1bmlVQ200b1RUdzFzbkNIcEtyUi1rNWpkb0dVaVhXMzRsbkhoZDVkeGRWRy1Zek5UNE55OTVzT2ZkMVFNUWJORjllSU9KbUpGemYxdWxiZw?oc=5",
-      "domain": "www.tvazteca.com",
+      "title": "Erling Haaland slams France vs Morocco referee after latest nightmare for World Cup officials - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG5FSXNoNlp3dzNCTXJ6TFltWTdRcUtVRVdmeTBhWk4zVXpCYTFjT2Q0SkxwUEZEVGR3bkl3a1RsbnJwOVBybEM2bFAtY0FHX0VvX3BGVFlnX1FFYjdxeUxNNW92aWdTZkU1TnhUbTE0RTdXWWJtOG5HaE9LUVFIdkVFcEVRZw?oc=5",
+      "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Fri, 06 Nov 2026 21:16:19 GMT",
+      "seenDate": "Fri, 10 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Sorpresa en Inglaterra: Rashford se queda fuera de la lista y Trent se mantiene entre los convocados - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGtoMVpxRUVfWTgzWS0ybkZ5dzlDNm4wZE9GTVRWbGhGSUkzaDVYS3VQbUZuNXEwUlJLRkdhR2EyMDhScXIyUFFoZFhzNk4tZGNNazVKdGVxZVNLVjNOUEU3akRuUEp4bXFoMHgwT0tiTWZzSFR5V2x3cjlkNkxPVDZLTWY4NktDWHpVYW0zYlJMT0NtWEFoVnFiOTZyeVFTZFhUY3o5c2EzazRNcU0xN092ODRPWTkzWDhSWUIxTG16QQ?oc=5",
-      "domain": "www.si.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 06 Nov 2026 13:03:54 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
+        "France"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -308,21 +309,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Erling Haaland’s father blames referee for Norway defeat to England - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXBhYUVVTDFFY0tuOERELWw5VnBySXBfUy1rSjF4WnVWVGZScllNMDEyamVuS1JIWTF5MUJZNHc5cVZ1X1U4dUNxUUN3eWdHbzYyZWhGWEo4aHhNVExGSDFocUpQdTRIUXFvbXhJVEo5RDJfeGtkdEpHcUFVZkxWbXU3WFd4a3QzNU9qQ1pB?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Norway",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
         "domain": "www.mlssoccer.com",
@@ -337,75 +323,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup fans left stunned by price of FIFA hospitality package for Sunday’s final - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHZvc0I1TzYtZGVYRHRrSWZmcGFnRzhqVmNfelphSnl5R1hyT1gwWGdPT3JHbnVvLUtqZFloSk16MW55UGVYanRINE5zN0xVa2JZWE84QW9oWHp6WWMyM3NaLXluQm1rSmlqWFYta0NPNmRUc3ZucGRQd0RIeVlZM0V3?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      }
-    ],
-    "0b5491529142c9bcc3f88bf45ccb0a7b": [
-      {
-        "title": "How to live stream Spain vs France: FIFA World Cup 2026, TV channel - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTG93Mmtrc29keE5rOTViM2V5Q3pZekpFS0p5RkFDOGpMM09kN1R1b2FEQnJIUHI2c2xXdEJrMmFwQXFiQ1ZwV1p3RlpzbHNpQnRfWVU3b3hLcGxvT1dPNk9PYndNclVZTDZ4ajZrWW1xbGpsLWZvVzhvNUxkUDhoeWNn?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
-        "domain": "www.mlssoccer.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "previa"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -449,6 +369,86 @@
         "matchedTeams": [
           "Mexico"
         ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      }
+    ],
+    "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "How to live stream Spain vs France: FIFA World Cup 2026, TV channel - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTG93Mmtrc29keE5rOTViM2V5Q3pZekpFS0p5RkFDOGpMM09kN1R1b2FEQnJIUHI2c2xXdEJrMmFwQXFiQ1ZwV1p3RlpzbHNpQnRfWVU3b3hLcGxvT1dPNk9PYndNclVZTDZ4ajZrWW1xbGpsLWZvVzhvNUxkUDhoeWNn?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Erling Haaland slams France vs Morocco referee after latest nightmare for World Cup officials - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG5FSXNoNlp3dzNCTXJ6TFltWTdRcUtVRVdmeTBhWk4zVXpCYTFjT2Q0SkxwUEZEVGR3bkl3a1RsbnJwOVBybEM2bFAtY0FHX0VvX3BGVFlnX1FFYjdxeUxNNW92aWdTZkU1TnhUbTE0RTdXWWJtOG5HaE9LUVFIdkVFcEVRZw?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
+        "domain": "www.mlssoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup fans left stunned by price of FIFA hospitality package for Sunday’s final - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHZvc0I1TzYtZGVYRHRrSWZmcGFnRzhqVmNfelphSnl5R1hyT1gwWGdPT3JHbnVvLUtqZFloSk16MW55UGVYanRINE5zN0xVa2JZWE84QW9oWHp6WWMyM3NaLXluQm1rSmlqWFYta0NPNmRUc3ZucGRQd0RIeVlZM0V3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -485,6 +485,21 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Who does Mexico play in the round of 32? Ecuador matchup nears - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHYVhibHd4ZjZSVXp3Uk9NdWlJSS1ZenY0bm4wOGtsTXpRNDlwQmgtWGh5TE1nY2Rfa2QzTjBYWHZiOEwtanV2b3dhX2lWVTVWY0ktcWVrUVkyZUZiTTdDT3BNWTJHY3pmN0NxRUs2aU8wLTdMUng0SDlqdzhUVEU?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 27 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -499,12 +514,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Hirving 'Chucky' Lozano Excluded From Mexico's Preliminary World Cup Roster - FOX Sports",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObU5JZ2ZVbXZObEMwbHpKcFNlOEZMWWtLZkp6RmxQWVowY0pKZlVDbG9PZ0dBZC01aUlkWVd3WGVyNkYwcEFHOWNfdktOVjlFckV5UXBEZmpGQ2E4a29MME1pUk91LXJxSl9KLVRNNjdHV0NOZVR6SzlGUGFKRnZFdEJ6OG1tTEgzZ2Q4M3YtLVowMkdLM1BSNjdwMWFoSGlVZnlYblZjaDZ1RXFw0gGsAUFVX3lxTE1mTVp5TktTQnpENDVwRDRIZXB6TmVqLUJJUFdaVDYxV295TTR5OVlrcUFpU2hWZXoyamEwUWRnZEQ2dS01dEh2RGUxdjdrU2VPbHFIWE5ldmNFbzZHQnF2OFh6VWJRYVRNQ25nandjVG9maGYxYWZBTnRVT2RlWTVMeTJqazVYSHN4am1uSXJGdGRqeUN2WXNGWkxGWlFHemQyajlFV1J6anBfZlo?oc=5",
-        "domain": "www.foxsports.com",
+        "title": "Mexico 2026 FIFA World Cup Squad - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82b0VYQmJmTjBCTGRhNUF5T1JvZzYtWldyZDZhZk5JcXBJT2hOTGl1Zm90ZFZfTkM2LWZSR2luc1JSRi16R3pmdGJnZEFKa04xOVI3YUpFZXRoazUzbW4wNFJ4WENPTW4tejJLNnZ2OFZPcUk?oc=5",
+        "domain": "www.espn.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Tue, 19 May 2026 07:00:00 GMT",
+        "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -519,20 +534,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 13 Jun 2026 23:35:05 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-        "domain": "www.gob.mx",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -585,21 +586,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Erling Haaland’s father blames referee for Norway defeat to England - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXBhYUVVTDFFY0tuOERELWw5VnBySXBfUy1rSjF4WnVWVGZScllNMDEyamVuS1JIWTF5MUJZNHc5cVZ1X1U4dUNxUUN3eWdHbzYyZWhGWEo4aHhNVExGSDFocUpQdTRIUXFvbXhJVEo5RDJfeGtkdEpHcUFVZkxWbXU3WFd4a3QzNU9qQ1pB?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Norway",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Sorpresa en Inglaterra: Rashford se queda fuera de la lista y Trent se mantiene entre los convocados - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGtoMVpxRUVfWTgzWS0ybkZ5dzlDNm4wZE9GTVRWbGhGSUkzaDVYS3VQbUZuNXEwUlJLRkdhR2EyMDhScXIyUFFoZFhzNk4tZGNNazVKdGVxZVNLVjNOUEU3akRuUEp4bXFoMHgwT0tiTWZzSFR5V2x3cjlkNkxPVDZLTWY4NktDWHpVYW0zYlJMT0NtWEFoVnFiOTZyeVFTZFhUY3o5c2EzazRNcU0xN092ODRPWTkzWDhSWUIxTG16QQ?oc=5",
         "domain": "www.si.com",
@@ -626,9 +612,36 @@
           "previa"
         ],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "FIFA clears Folarin Balogun to play for United States against Belgium in World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBiN0pVS09KX1NjbnVxank4d1Y0VU5YMW9aVGVZd0ZqazIzNU9VQWVnTHFDQmZSQ2xaVUNObVlybkl4SnNRcmZCM19mbjFwNENMYmJ4Y0V4YzVyQUZCRUJfMDc5NmdNRlVScU80TVdYVlowZzZmVmlyb1Z5MVdkbkJqSGRMVDhr?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "2026 FIFA World Cup: Group A preview, what to know - MLSsoccer.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWczcnA3YTFkRUlnQzlBc1AxcWpRVWp1LWRGcHVDeXFaaGpjQVBZS0thb0NfZDJGS0ppOHlOVGhleDZuMmdBb3JRWHJVQzlwNzVUdE1vT0hMa0ZxbTVQUDF2RTJRRkg1WHJWaVM1Vm0tV2xiN2QzSkFyeTZyQVZ0eTJBZzVfeUVINXJ1V2pFb0hIRUVPX2owUG9fU054N19GTVg1Yk9fU09XQQ?oc=5",
@@ -644,9 +657,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -692,20 +705,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 10 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
@@ -732,6 +731,21 @@
         "seenDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "FIFA clears Folarin Balogun to play for United States against Belgium in World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBiN0pVS09KX1NjbnVxank4d1Y0VU5YMW9aVGVZd0ZqazIzNU9VQWVnTHFDQmZSQ2xaVUNObVlybkl4SnNRcmZCM19mbjFwNENMYmJ4Y0V4YzVyQUZCRUJfMDc5NmdNRlVScU80TVdYVlowZzZmVmlyb1Z5MVdkbkJqSGRMVDhr?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium",
           "USA"
         ],
         "tags": [],
@@ -778,18 +792,6 @@
           "previa"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
@@ -808,9 +810,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -888,9 +890,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -968,9 +970,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1048,9 +1050,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1128,9 +1130,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1208,9 +1210,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1288,9 +1290,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1368,9 +1370,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1476,21 +1478,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Erling Haaland’s father blames referee for Norway defeat to England - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXBhYUVVTDFFY0tuOERELWw5VnBySXBfUy1rSjF4WnVWVGZScllNMDEyamVuS1JIWTF5MUJZNHc5cVZ1X1U4dUNxUUN3eWdHbzYyZWhGWEo4aHhNVExGSDFocUpQdTRIUXFvbXhJVEo5RDJfeGtkdEpHcUFVZkxWbXU3WFd4a3QzNU9qQ1pB?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 11 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Norway",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Sorpresa en Inglaterra: Rashford se queda fuera de la lista y Trent se mantiene entre los convocados - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGtoMVpxRUVfWTgzWS0ybkZ5dzlDNm4wZE9GTVRWbGhGSUkzaDVYS3VQbUZuNXEwUlJLRkdhR2EyMDhScXIyUFFoZFhzNk4tZGNNazVKdGVxZVNLVjNOUEU3akRuUEp4bXFoMHgwT0tiTWZzSFR5V2x3cjlkNkxPVDZLTWY4NktDWHpVYW0zYlJMT0NtWEFoVnFiOTZyeVFTZFhUY3o5c2EzazRNcU0xN092ODRPWTkzWDhSWUIxTG16QQ?oc=5",
         "domain": "www.si.com",
@@ -1517,6 +1504,18 @@
           "previa"
         ],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
@@ -1535,9 +1534,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1615,9 +1614,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1695,9 +1694,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1775,9 +1774,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1855,9 +1854,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -1935,9 +1934,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -2015,9 +2014,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -2095,9 +2094,9 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
