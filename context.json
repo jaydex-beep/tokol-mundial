@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-08T22:00:35.354356Z",
+    "updatedAt": "2026-11-09T06:21:28.212119Z",
     "source": "Google News RSS",
-    "articleCount": 35,
+    "articleCount": 37,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -176,6 +176,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "TV en vivo | DAZN 1 USA - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4dVc1RDBtLVpYZUxaLS1VQlltNUJVRzRZdG55OUN5ekI0OWMzTjZuV0k3c2tjLURjQmdnUS1Mc2g5eXFTdE5CTEdGN241bXM?oc=5",
+      "domain": "www.dazn.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 06 Dec 2025 16:26:09 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
       "domain": "www.gob.mx",
@@ -213,6 +227,20 @@
       "image": "",
       "matchedTeams": [
         "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "DT de Jamaica se rinde vs México previo a su juego de la Concacaf Nations League: “Entendemos el monstruo que enfrentamos” - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN1FvQnBwN1dGZjlIX245WWRsNDhqVC16OWttYnFWTWpXZXdBd1N5dm1xdl95V09PTnZuZFZUVkp4QTd2bWpnWEZpRmRSeEdyb0RtVlpfUXIyV2lzSC1RM0p0YzlRXzVaZ0VaQnBLMWRYbVhfWXE2Q0dUM3ZvaUlYaXMzMlhUb2k0b052NW54elpmQnhiMkJvOTZzclBERFlwaUx1bmlVQ200b1RUdzFzbkNIcEtyUi1rNWpkb0dVaVhXMzRsbkhoZDVkeGRWRy1Zek5UNE55OTVzT2ZkMVFNUWJORjllSU9KbUpGemYxdWxiZw?oc=5",
+      "domain": "www.tvazteca.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 06 Nov 2026 21:16:19 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -715,6 +743,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "TV en vivo | DAZN 1 USA - DAZN",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4dVc1RDBtLVpYZUxaLS1VQlltNUJVRzRZdG55OUN5ekI0OWMzTjZuV0k3c2tjLURjQmdnUS1Mc2g5eXFTdE5CTEdGN241bXM?oc=5",
+        "domain": "www.dazn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sat, 06 Dec 2025 16:26:09 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "La FIFA reduce la sanción a Nahuel Molina, defensa de Argentina y la Roma, tras la pelea en la final del Mundial de 2026 - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdE5qSVBIMndJa0I5UVk2T3ltdmNNV1p5dWVncTczdmpkb3ptLTdZUFo3THBYLWYtX2xvbi1XeDFOdW9LT3pqcUpuZ01kLXB0TFo2SmpEUFlWcmE1WmhoUkh4ME1mSmV6SnFVanNYeFN4ek5oQVZMeWVTTUdnazlYR0RYRE9PYUhhclFsTWFmMm41MTBMT2tvbW8wekxmLV9oSm91NFg1UFgwcWlYbVI3Qkc2OWlWMXZSbDIzbTZvOXQ1WHlWaW5lLXZzV040SXFhX1QxeEV2V0M1Unh4dkhJYVF1SFRESzFCNnVLVVV2M1pOZUhPbHljdjFZYVVTRF9qSVQ4aA?oc=5",
         "domain": "www.goal.com",
@@ -740,20 +782,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
