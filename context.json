@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-09T06:21:28.212119Z",
+    "updatedAt": "2026-11-09T22:18:12.698995Z",
     "source": "Google News RSS",
-    "articleCount": 37,
+    "articleCount": 40,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -78,6 +78,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "How to live stream Spain vs France: FIFA World Cup 2026, TV channel - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTG93Mmtrc29keE5rOTViM2V5Q3pZekpFS0p5RkFDOGpMM09kN1R1b2FEQnJIUHI2c2xXdEJrMmFwQXFiQ1ZwV1p3RlpzbHNpQnRfWVU3b3hLcGxvT1dPNk9PYndNclVZTDZ4ajZrWW1xbGpsLWZvVzhvNUxkUDhoeWNn?oc=5",
       "domain": "sports.yahoo.com",
@@ -120,20 +135,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWdSbjIzVmoxZkdRcDlLM3dQajM3NWNqUk9wUDVXQUtqZ3JCdGVmV3NtYm9iX25tZ0N1eXRpQmwwendiRG1VdzRMNHlFQ3FFTHh3Y0FmNmIySE1CamNOLTBnbS1SZTl0SEg1djlLVGwxS1NEemZldFMtV3YzUVBlSnVyTDBjV1AwdFRGRUp0YjNiN0NYbkN2NnhEbjNXTzdhZXU2eExoeXhhanlSa282aWFkcGFaV2o5bUtVMGRwLVBsSklm?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Argentina Fan in USA Maxed Out Credit Cards for FIFA World Cup, Will Sell Car to Make Ends Meet - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzFaVExtcjR6TElfTEQ1cS15a1MzUERTdnFtSDdkMk5IQUh2bVotVGlfSEFnWjNydkNVZFl4dV9uSC1lSFJod2RRY1ZENERERzNxbjhfRlJxckIwRE1SdVR4RzR0alRpNjNQZmNNY1ZlYXlHSkZ0NWY5TEdSTWRZc29qcHUydw?oc=5",
       "domain": "sports.yahoo.com",
@@ -143,20 +144,6 @@
       "image": "",
       "matchedTeams": [
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mexico 2026 FIFA World Cup Squad - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82b0VYQmJmTjBCTGRhNUF5T1JvZzYtWldyZDZhZk5JcXBJT2hOTGl1Zm90ZFZfTkM2LWZSR2luc1JSRi16R3pmdGJnZEFKa04xOVI3YUpFZXRoazUzbW4wNFJ4WENPTW4tejJLNnZ2OFZPcUk?oc=5",
-      "domain": "www.espn.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -176,20 +163,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "TV en vivo | DAZN 1 USA - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4dVc1RDBtLVpYZUxaLS1VQlltNUJVRzRZdG55OUN5ekI0OWMzTjZuV0k3c2tjLURjQmdnUS1Mc2g5eXFTdE5CTEdGN241bXM?oc=5",
-      "domain": "www.dazn.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Sat, 06 Dec 2025 16:26:09 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
       "domain": "www.gob.mx",
@@ -201,6 +174,23 @@
         "Mexico"
       ],
       "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+      "domain": "ussoccer.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England",
+        "USA"
+      ],
+      "tags": [
+        "alineación"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -319,6 +309,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -343,18 +350,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -417,6 +412,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -429,21 +441,24 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
+      {
+        "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
@@ -465,20 +480,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Mexico 2026 FIFA World Cup Squad - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82b0VYQmJmTjBCTGRhNUF5T1JvZzYtWldyZDZhZk5JcXBJT2hOTGl1Zm90ZFZfTkM2LWZSR2luc1JSRi16R3pmdGJnZEFKa04xOVI3YUpFZXRoazUzbW4wNFJ4WENPTW4tejJLNnZ2OFZPcUk?oc=5",
-        "domain": "www.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -531,6 +532,23 @@
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
         "domain": "sports.yahoo.com",
@@ -565,20 +583,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWdSbjIzVmoxZkdRcDlLM3dQajM3NWNqUk9wUDVXQUtqZ3JCdGVmV3NtYm9iX25tZ0N1eXRpQmwwendiRG1VdzRMNHlFQ3FFTHh3Y0FmNmIySE1CamNOLTBnbS1SZTl0SEg1djlLVGwxS1NEemZldFMtV3YzUVBlSnVyTDBjV1AwdFRGRUp0YjNiN0NYbkN2NnhEbjNXTzdhZXU2eExoeXhhanlSa282aWFkcGFaV2o5bUtVMGRwLVBsSklm?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -645,6 +649,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -673,18 +694,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -700,6 +709,23 @@
       }
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
+      {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "How To Watch 2026 FIFA World Cup Qualifiers In the USA? Live Streams, Cable & TV Channels - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NXVSN0NMUFJHbTFfSzEzeEs0U3ZYWHRIbVJKN1VLZkJuN3J2YUZYOV9Ya3M5dVMwSGx5MVdqdEo5bmd4QlNNR2x6blkyN2RmYUpWTUJyRlBuc0RnaUQ5TjdHUW5XNGR3R09uXzZ6LVh2ZnZhWTZ0OGtFalBSU2c?oc=5",
@@ -735,20 +761,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TV en vivo | DAZN 1 USA - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4dVc1RDBtLVpYZUxaLS1VQlltNUJVRzRZdG55OUN5ekI0OWMzTjZuV0k3c2tjLURjQmdnUS1Mc2g5eXFTdE5CTEdGN241bXM?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sat, 06 Dec 2025 16:26:09 GMT",
         "image": "",
         "matchedTeams": [
           "USA"
@@ -815,6 +827,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -839,18 +868,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -899,6 +916,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -923,18 +957,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -983,6 +1005,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1007,18 +1046,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1067,6 +1094,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1091,18 +1135,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1151,6 +1183,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1175,18 +1224,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1235,6 +1272,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1259,18 +1313,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1319,6 +1361,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1343,18 +1402,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1403,6 +1450,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1431,18 +1495,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
         "domain": "www.fragomen.com",
@@ -1458,6 +1510,23 @@
       }
     ],
     "4be17c8e1ccfecb0f2a5ef79e045c415": [
+      {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Friends with Virat Kohli, England's FIFA World Cup-bound captain Harry Kane teases RCB with witty post - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEYtaHdQWkpHcWpJWUZvb3d0MXJGdVBjQ1dVQnVFdFBZUE84eU9TU1EyYjhJclEtekxtcUlNQU5SMkZUNFkzX2lMbEJwVE5odVRqYmk3akd3amcyX0hhVE5XQjFzZU9zOFJGa1Y5YW5FeDFpbUJaVVY1WUc4cTR2dlE1UW1RTC1Za1E?oc=5",
@@ -1479,20 +1548,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWdSbjIzVmoxZkdRcDlLM3dQajM3NWNqUk9wUDVXQUtqZ3JCdGVmV3NtYm9iX25tZ0N1eXRpQmwwendiRG1VdzRMNHlFQ3FFTHh3Y0FmNmIySE1CamNOLTBnbS1SZTl0SEg1djlLVGwxS1NEemZldFMtV3YzUVBlSnVyTDBjV1AwdFRGRUp0YjNiN0NYbkN2NnhEbjNXTzdhZXU2eExoeXhhanlSa282aWFkcGFaV2o5bUtVMGRwLVBsSklm?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "England"
@@ -1573,6 +1628,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1597,18 +1669,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1671,6 +1731,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1695,18 +1772,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1741,6 +1806,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1765,18 +1847,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1825,6 +1895,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1849,18 +1936,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1909,6 +1984,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -1933,18 +2025,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -1993,6 +2073,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -2017,18 +2114,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2077,6 +2162,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -2101,18 +2203,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
@@ -2161,6 +2251,23 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
+        "domain": "ussoccer.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 25 Nov 2022 08:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England",
+          "USA"
+        ],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -2185,18 +2292,6 @@
         "matchedTeams": [
           "France"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       },
