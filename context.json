@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-12T00:39:36.669240Z",
+    "updatedAt": "2026-11-12T15:10:02.641052Z",
     "source": "Google News RSS",
     "articleCount": 23,
     "queryCount": 1,
@@ -36,6 +36,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
+      "domain": "www.gob.mx",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 20 Dec 2022 12:27:08 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Revés por lesión para Zinedine Zidane: Marcus Thuram causa baja en la convocatoria de Francia y la ausencia de la estrella del Inter abre la puerta a un talento adolescente - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOZWJVRXNYY0I2Qm93aURsSUkwblAycVljZHI1YmNYa19NeTB2T3dkdHFPeDlsWTVhRTNKbkI5OGdDQjNONG5XUU1rWGx0N1JrdWVmWnhrSlU1eE5XUm1lWV9LeTRoS09WTzFXVmdGOTBvdVVYcUNKMUNLemhjeUdaM3NjRTRfMHY4NTlkV2F0RHJMNzBtU3VweWI5bEZGWUY1VzdXLV80d0V6UGp0LUhNWEhyME56QzJSbHZDUnBBcHFWYi0zQ2pyUzdUc2MyVWN5dkRwT0pVQWlTekpRcVR0dmdIblRnNUVXNmdTUlR1Q19aOWQxV0tnelZEU1NIZGRNcUJwMEZuTGJBa0wybjUtcDJyMmFKbE1wYVdxVWxFWWxuWWhtMkYzTU42Y3JwZXU3RjkwR0Z2X0lBQnM3YVFxdjNOY01rWkZ3Y1NF?oc=5",
       "domain": "www.goal.com",
@@ -66,6 +80,20 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "USA withdraw from U17 World Cup - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzk5c21nTFJ4MkJNamxJTTAwMUdqR3Y1cGluNE0xblJvN0RIWjRPX2NjUDhWcWdOQnRhTDBDSDFPZ1hyU2NtU2NETG83ZVRab3MzWTZBZkVMTFpDUGNjZDdCVFBlWGlvNFNQanNCTS11dzRkRVdoS1hxMVVRTV9GLQ?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 12 Nov 2026 07:44:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Argentina Fan in USA Maxed Out Credit Cards for FIFA World Cup, Will Sell Car to Make Ends Meet - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzFaVExtcjR6TElfTEQ1cS15a1MzUERTdnFtSDdkMk5IQUh2bVotVGlfSEFnWjNydkNVZFl4dV9uSC1lSFJod2RRY1ZENERERzNxbjhfRlJxckIwRE1SdVR4RzR0alRpNjNQZmNNY1ZlYXlHSkZ0NWY5TEdSTWRZc29qcHUydw?oc=5",
       "domain": "sports.yahoo.com",
@@ -75,20 +103,6 @@
       "image": "",
       "matchedTeams": [
         "USA"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
-      "domain": "www.gob.mx",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -322,7 +336,7 @@
         "domain": "www.gob.mx",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 19 Dec 2022 08:00:00 GMT",
+        "seenDate": "Tue, 20 Dec 2022 12:27:08 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -555,6 +569,20 @@
     ],
     "9eeb4876001f5a52ce3c3641bd5f1f2f": [
       {
+        "title": "USA withdraw from U17 World Cup - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzk5c21nTFJ4MkJNamxJTTAwMUdqR3Y1cGluNE0xblJvN0RIWjRPX2NjUDhWcWdOQnRhTDBDSDFPZ1hyU2NtU2NETG83ZVRab3MzWTZBZkVMTFpDUGNjZDdCVFBlWGlvNFNQanNCTS11dzRkRVdoS1hxMVVRTV9GLQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 12 Nov 2026 07:44:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Argentina Fan in USA Maxed Out Credit Cards for FIFA World Cup, Will Sell Car to Make Ends Meet - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzFaVExtcjR6TElfTEQ1cS15a1MzUERTdnFtSDdkMk5IQUh2bVotVGlfSEFnWjNydkNVZFl4dV9uSC1lSFJod2RRY1ZENERERzNxbjhfRlJxckIwRE1SdVR4RzR0alRpNjNQZmNNY1ZlYXlHSkZ0NWY5TEdSTWRZc29qcHUydw?oc=5",
         "domain": "sports.yahoo.com",
@@ -624,20 +652,6 @@
         "tags": [
           "sanción"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
