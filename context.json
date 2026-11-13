@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-13T06:41:11.940375Z",
+    "updatedAt": "2026-11-13T19:38:47.359113Z",
     "source": "Google News RSS",
-    "articleCount": 32,
+    "articleCount": 35,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -75,6 +75,22 @@
         "Mexico"
       ],
       "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Revés por lesión para Zinedine Zidane: Marcus Thuram causa baja en la convocatoria de Francia y la ausencia de la estrella del Inter abre la puerta a un talento adolescente - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOZWJVRXNYY0I2Qm93aURsSUkwblAycVljZHI1YmNYa19NeTB2T3dkdHFPeDlsWTVhRTNKbkI5OGdDQjNONG5XUU1rWGx0N1JrdWVmWnhrSlU1eE5XUm1lWV9LeTRoS09WTzFXVmdGOTBvdVVYcUNKMUNLemhjeUdaM3NjRTRfMHY4NTlkV2F0RHJMNzBtU3VweWI5bEZGWUY1VzdXLV80d0V6UGp0LUhNWEhyME56QzJSbHZDUnBBcHFWYi0zQ2pyUzdUc2MyVWN5dkRwT0pVQWlTekpRcVR0dmdIblRnNUVXNmdTUlR1Q19aOWQxV0tnelZEU1NIZGRNcUJwMEZuTGJBa0wybjUtcDJyMmFKbE1wYVdxVWxFWWxuWWhtMkYzTU42Y3JwZXU3RjkwR0Z2X0lBQnM3YVFxdjNOY01rWkZ3Y1NF?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 10 Nov 2026 16:07:49 GMT",
+      "image": "",
+      "matchedTeams": [
+        "USA"
+      ],
+      "tags": [
+        "lesión o baja"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -196,6 +212,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -249,20 +279,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -283,6 +299,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -336,20 +366,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -501,6 +517,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -513,20 +543,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
@@ -537,6 +553,20 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 07 Nov 2026 07:53:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
@@ -598,20 +628,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -663,6 +679,22 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Revés por lesión para Zinedine Zidane: Marcus Thuram causa baja en la convocatoria de Francia y la ausencia de la estrella del Inter abre la puerta a un talento adolescente - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOZWJVRXNYY0I2Qm93aURsSUkwblAycVljZHI1YmNYa19NeTB2T3dkdHFPeDlsWTVhRTNKbkI5OGdDQjNONG5XUU1rWGx0N1JrdWVmWnhrSlU1eE5XUm1lWV9LeTRoS09WTzFXVmdGOTBvdVVYcUNKMUNLemhjeUdaM3NjRTRfMHY4NTlkV2F0RHJMNzBtU3VweWI5bEZGWUY1VzdXLV80d0V6UGp0LUhNWEhyME56QzJSbHZDUnBBcHFWYi0zQ2pyUzdUc2MyVWN5dkRwT0pVQWlTekpRcVR0dmdIblRnNUVXNmdTUlR1Q19aOWQxV0tnelZEU1NIZGRNcUJwMEZuTGJBa0wybjUtcDJyMmFKbE1wYVdxVWxFWWxuWWhtMkYzTU42Y3JwZXU3RjkwR0Z2X0lBQnM3YVFxdjNOY01rWkZ3Y1NF?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 10 Nov 2026 16:07:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "USA"
+        ],
+        "tags": [
+          "lesión o baja"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Mauricio Pochettino, seleccionador de la selección masculina de Estados Unidos, se perfila como el principal objetivo del Manchester United mientras se acerca la salida de Michael Carrick - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZFdjRmtubkZsUnJmbE8xS0szdzl1Tjd3ZnBodDhYY3VlRWF0ZzhnWURoVENZVjRYV2VIczB0bDdFQUc5aFI2VnktQWNkU3ZCSlRib2Y5c2FCUFNjUDdtdEkyNkFGQ0xTVlFEMFAxZ2FLUWJZWXpaM0FXcE5uY3RON1BqUklSdmZmbkNyYU1WVGVEejQ4Y0tnVFV3NTQ0MV9pYkhqT3N6eUM2cWs2NkVIYnp4dVFuQWxoX3o3MlFYYTNVMXdoYzlZX0U4NDlPMnFiYkdNdzlCUEJmLWVpcGN6eVRrUWcwVGtrbjhRNXpSSUgzWDZQLTl2QWVVWXJrV25sWW8tMWpJT3BBdEtxUEtwY01Cak5pZGEzRkNzVXZ5UGJtSWpLMzhsbEFBellBTjVjU0I0UHVoZzJNVE53c01vdFh6YjdZby1lWUw4MUNoTVV4UUk4RHNwci12bGpxUQ?oc=5",
         "domain": "www.goal.com",
@@ -689,20 +721,6 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 09 Nov 2026 22:08:28 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "sanción"
-        ],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
@@ -713,6 +731,20 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 07 Nov 2026 07:53:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
@@ -774,20 +806,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -808,6 +826,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -861,20 +893,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -895,6 +913,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -948,20 +980,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -982,6 +1000,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1035,20 +1067,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1069,6 +1087,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1122,20 +1154,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1156,6 +1174,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1209,20 +1241,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1243,6 +1261,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1296,20 +1328,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1330,6 +1348,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1383,20 +1415,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1448,6 +1466,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1474,18 +1506,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "U.S. Soccer withdraws from U-17 World Cup in Qatar over safety concerns amid Iran war, sources say - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVF3UE1hYlpncWdjeEk2azNZdWViYXp1VDQ1UjZ1emRrc1hvNUVXbkl3SFI3UWF0TnJ6YWtrOTlDcU1sd0xQNnZURDB2blg1dDRrc2RLZi1qakUtR2U1YTFYZ3MxcnJyVE1tUUk4RmlsRGhQdjRaZzFUNjhtSmFZZUtIYWplZTZpWUZ0R0FCdlg5aWhmQlBqSml6bjhVc29kLVp1bHRvTGZKOExtaFluMUVJS1pRWDF1cGtjTlNRdHBfYTlKZGZPcnFqRzVPUG5IbURCS1owVzJnZ05oODl4ZE5veE4?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
@@ -1496,6 +1516,20 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Sat, 07 Nov 2026 07:53:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
@@ -1557,20 +1591,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1605,6 +1625,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1646,18 +1680,6 @@
         "matchedTeams": [
           "Mexico"
         ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "U.S. Soccer withdraws from U-17 World Cup in Qatar over safety concerns amid Iran war, sources say - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVF3UE1hYlpncWdjeEk2azNZdWViYXp1VDQ1UjZ1emRrc1hvNUVXbkl3SFI3UWF0TnJ6YWtrOTlDcU1sd0xQNnZURDB2blg1dDRrc2RLZi1qakUtR2U1YTFYZ3MxcnJyVE1tUUk4RmlsRGhQdjRaZzFUNjhtSmFZZUtIYWplZTZpWUZ0R0FCdlg5aWhmQlBqSml6bjhVc29kLVp1bHRvTGZKOExtaFluMUVJS1pRWDF1cGtjTlNRdHBfYTlKZGZPcnFqRzVPUG5IbURCS1owVzJnZ05oODl4ZE5veE4?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
-        "image": "",
-        "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1678,6 +1700,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1731,20 +1767,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1765,6 +1787,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1818,20 +1854,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1852,6 +1874,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1905,20 +1941,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1939,6 +1961,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1992,20 +2028,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2026,6 +2048,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -2079,20 +2115,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2113,6 +2135,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "La Roma se niega a liberar a Nahuel Molina para jugar con su selección pese a la reducción de su sanción de la FIFA - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEd5SUZvUllZNkhfYW5ERjAxSWxsVWZxY1RDNEREeG16ZkFwcVR5Vmo2UjBuakpkdHNtdTVwbkhsRWRSQ0lYcDhqMXE5Qkh3c1E2c1BLdWFmSFM0R0Vxbm5HVjUtYmFDNm5lOWdqUkdLRlFVOWVBQjhRMU96ZWVLVDVVMWNuRHRHb2tTVWo0Vm5XQW5QSk5YOFFoemduanpQenNRMmtHeWNEVG5XVnRFUTgxZ3RtUUU4RXg0WTdfOTBhM1h6azFjdXVIemlmVno0WURSenlIS2hZVEdZam1KemY1OG9qajhUczhud21TVVdWU0xEdTR2OGktZDMxcHRo?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:09:14 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -2166,20 +2202,6 @@
         "seenDate": "Wed, 11 Nov 2026 21:08:42 GMT",
         "image": "",
         "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
-        "domain": "www.fragomen.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
