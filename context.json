@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-14T17:58:57.794498Z",
+    "updatedAt": "2026-11-14T22:20:46.175089Z",
     "source": "Google News RSS",
-    "articleCount": 49,
+    "articleCount": 52,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -45,21 +45,6 @@
       "image": "",
       "matchedTeams": [
         "DR Congo"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -147,6 +132,20 @@
       "image": "",
       "matchedTeams": [
         "USA"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Gary Lineker jokes England boss Thomas Tuchel is a ‘German spy’ following World Cup defeat - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRG9pb2FRaE5CRDNHVWlQS1p3SUhjYkxfMjVqNTUyTzBjQkg2eTZFNUhkOUdpaWVJVjhtaGtjVXN1STJ2UkVjR1h3elZPY1BadG4zYUFjWHNFZnlnZjBZck5GeVFxOXNHLWNqLWM3X0xnaTBIUjA2ZTV1RFg3SmhYQURGaWlkVDQ?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -265,10 +264,38 @@
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Sorpresa en Inglaterra: Rashford se queda fuera de la lista y Trent se mantiene entre los convocados - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGtoMVpxRUVfWTgzWS0ybkZ5dzlDNm4wZE9GTVRWbGhGSUkzaDVYS3VQbUZuNXEwUlJLRkdhR2EyMDhScXIyUFFoZFhzNk4tZGNNazVKdGVxZVNLVjNOUEU3akRuUEp4bXFoMHgwT0tiTWZzSFR5V2x3cjlkNkxPVDZLTWY4NktDWHpVYW0zYlJMT0NtWEFoVnFiOTZyeVFTZFhUY3o5c2EzazRNcU0xN092ODRPWTkzWDhSWUIxTG16QQ?oc=5",
+      "domain": "www.si.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 06 Nov 2026 13:03:54 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
     }
   ],
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
@@ -298,18 +325,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -353,6 +368,20 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -381,18 +410,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -435,21 +452,6 @@
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
-      {
-        "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "Mexico vs. Ecuador: Where to watch the 2026 World Cup match tonight, TV channel, start time, free streaming info, and more - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVGNLd2RPNC0yRUxqaVc3amlUM2pRZExzZVM2RDBHNDFYRDlfbGpORDVtYWxCR2ZVWTZfcC1xcWJRWU5UcDYtYzYxQUMweG5vSl9kckZ1NjFUX1lVNUUzdWZkenhPdzY0NngyWU1XOUJ2SGZSTFJzOUYxelY1SVNWeXJ5R2V1cy10TU9ESkcxRjRKaTZnS1hmWDU0V2lHYW5hTFprd3VVbm9JT21SZGIzeWJpSlp1N2RvbVZ5aEhTc3FPOFFMdUM0cEVSNU9tVEhzWXZ2Y0tNNm80aXRKenoyYURmcWRfS2FzX3l4bjlvZG5UMjdQVTRsVXFTVWc4OFpl?oc=5",
@@ -520,6 +522,20 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mexico 2026 FIFA World Cup Squad - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82b0VYQmJmTjBCTGRhNUF5T1JvZzYtWldyZDZhZk5JcXBJT2hOTGl1Zm90ZFZfTkM2LWZSR2luc1JSRi16R3pmdGJnZEFKa04xOVI3YUpFZXRoazUzbW4wNFJ4WENPTW4tejJLNnZ2OFZPcUk?oc=5",
+        "domain": "www.espn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
@@ -555,6 +571,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Gary Lineker jokes England boss Thomas Tuchel is a ‘German spy’ following World Cup defeat - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRG9pb2FRaE5CRDNHVWlQS1p3SUhjYkxfMjVqNTUyTzBjQkg2eTZFNUhkOUdpaWVJVjhtaGtjVXN1STJ2UkVjR1h3elZPY1BadG4zYUFjWHNFZnlnZjBZck5GeVFxOXNHLWNqLWM3X0xnaTBIUjA2ZTV1RFg3SmhYQURGaWlkVDQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Former England referee chief gives ‘no doubt’ verdict to FIFA World Cup ‘rigged’ allegations - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0xBdWdNT1lwNVZ2eDdqd1VnamJWZDZIRmtPcERzbFZDMUZOMUlCNkZnTnAtVHdkR1N2TGJpNEZZSkNEN0RKck9Dal9meUFlc21qd0ZJc05EN3o2cEx6WWRVaXlVWlZDNzFLWWdNeC1IVGlVcHZEYW5tUTAyS0tHYTRVazRNQnF2N01N?oc=5",
         "domain": "sports.yahoo.com",
@@ -569,47 +599,49 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
+        "title": "Sorpresa en Inglaterra: Rashford se queda fuera de la lista y Trent se mantiene entre los convocados - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGtoMVpxRUVfWTgzWS0ybkZ5dzlDNm4wZE9GTVRWbGhGSUkzaDVYS3VQbUZuNXEwUlJLRkdhR2EyMDhScXIyUFFoZFhzNk4tZGNNazVKdGVxZVNLVjNOUEU3akRuUEp4bXFoMHgwT0tiTWZzSFR5V2x3cjlkNkxPVDZLTWY4NktDWHpVYW0zYlJMT0NtWEFoVnFiOTZyeVFTZFhUY3o5c2EzazRNcU0xN092ODRPWTkzWDhSWUIxTG16QQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 06 Nov 2026 13:03:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 09 Nov 2026 22:08:28 GMT",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
-          "sanción"
+          "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
@@ -639,18 +671,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -769,21 +789,35 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 09 Nov 2026 22:08:28 GMT",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [
-          "sanción"
+          "alineación"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
@@ -813,18 +847,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -868,6 +890,20 @@
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -896,18 +932,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -951,6 +975,20 @@
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -979,18 +1017,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1034,6 +1060,20 @@
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1062,18 +1102,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1117,6 +1145,20 @@
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1145,18 +1187,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1200,6 +1230,20 @@
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1228,18 +1272,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1283,6 +1315,20 @@
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1311,18 +1357,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1366,6 +1400,20 @@
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1394,18 +1442,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1466,6 +1502,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Gary Lineker jokes England boss Thomas Tuchel is a ‘German spy’ following World Cup defeat - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRG9pb2FRaE5CRDNHVWlQS1p3SUhjYkxfMjVqNTUyTzBjQkg2eTZFNUhkOUdpaWVJVjhtaGtjVXN1STJ2UkVjR1h3elZPY1BadG4zYUFjWHNFZnlnZjBZck5GeVFxOXNHLWNqLWM3X0xnaTBIUjA2ZTV1RFg3SmhYQURGaWlkVDQ?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Former England referee chief gives ‘no doubt’ verdict to FIFA World Cup ‘rigged’ allegations - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0xBdWdNT1lwNVZ2eDdqd1VnamJWZDZIRmtPcERzbFZDMUZOMUlCNkZnTnAtVHdkR1N2TGJpNEZZSkNEN0RKck9Dal9meUFlc21qd0ZJc05EN3o2cEx6WWRVaXlVWlZDNzFLWWdNeC1IVGlVcHZEYW5tUTAyS0tHYTRVazRNQnF2N01N?oc=5",
         "domain": "sports.yahoo.com",
@@ -1477,6 +1527,34 @@
           "England"
         ],
         "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Sorpresa en Inglaterra: Rashford se queda fuera de la lista y Trent se mantiene entre los convocados - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGtoMVpxRUVfWTgzWS0ybkZ5dzlDNm4wZE9GTVRWbGhGSUkzaDVYS3VQbUZuNXEwUlJLRkdhR2EyMDhScXIyUFFoZFhzNk4tZGNNazVKdGVxZVNLVjNOUEU3akRuUEp4bXFoMHgwT0tiTWZzSFR5V2x3cjlkNkxPVDZLTWY4NktDWHpVYW0zYlJMT0NtWEFoVnFiOTZyeVFTZFhUY3o5c2EzazRNcU0xN092ODRPWTkzWDhSWUIxTG16QQ?oc=5",
+        "domain": "www.si.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 06 Nov 2026 13:03:54 GMT",
+        "image": "",
+        "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1492,47 +1570,23 @@
           "sanción"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
@@ -1562,18 +1616,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1631,6 +1673,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1659,18 +1715,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1702,6 +1746,20 @@
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1730,18 +1788,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1785,6 +1831,20 @@
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1813,18 +1873,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1868,6 +1916,20 @@
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1896,18 +1958,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -1951,6 +2001,20 @@
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -1979,18 +2043,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -2034,6 +2086,20 @@
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -2062,18 +2128,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -2117,6 +2171,20 @@
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
         "domain": "sports.yahoo.com",
@@ -2145,18 +2213,6 @@
         "tags": [
           "alineación"
         ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
