@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-14T22:20:46.175089Z",
+    "updatedAt": "2026-11-15T06:24:50.086346Z",
     "source": "Google News RSS",
-    "articleCount": 52,
+    "articleCount": 57,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -90,22 +90,6 @@
         "Mexico"
       ],
       "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Revés por lesión para Zinedine Zidane: Marcus Thuram causa baja en la convocatoria de Francia y la ausencia de la estrella del Inter abre la puerta a un talento adolescente - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOZWJVRXNYY0I2Qm93aURsSUkwblAycVljZHI1YmNYa19NeTB2T3dkdHFPeDlsWTVhRTNKbkI5OGdDQjNONG5XUU1rWGx0N1JrdWVmWnhrSlU1eE5XUm1lWV9LeTRoS09WTzFXVmdGOTBvdVVYcUNKMUNLemhjeUdaM3NjRTRfMHY4NTlkV2F0RHJMNzBtU3VweWI5bEZGWUY1VzdXLV80d0V6UGp0LUhNWEhyME56QzJSbHZDUnBBcHFWYi0zQ2pyUzdUc2MyVWN5dkRwT0pVQWlTekpRcVR0dmdIblRnNUVXNmdTUlR1Q19aOWQxV0tnelZEU1NIZGRNcUJwMEZuTGJBa0wybjUtcDJyMmFKbE1wYVdxVWxFWWxuWWhtMkYzTU42Y3JwZXU3RjkwR0Z2X0lBQnM3YVFxdjNOY01rWkZ3Y1NF?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 10 Nov 2026 16:07:49 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
-      ],
-      "tags": [
-        "lesión o baja"
-      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -199,6 +183,20 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Mexico 2026 FIFA World Cup Qualifying - Concacaf Squad - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeW9reUptOEVYNU9neVBzaXhFZ2lNZmFzQkpIczNlUnJiZEJsVWtwazZ1aGFSM3Fqc0ZrYlhLbGlZTEJUTm92OG1uNi1BdlpIOTNzMV9hQzdGZ2U4UWNUaGRteVlvRk56U1BhdkNDZjNrV21iVFFydGV2SWJpRUsxMw?oc=5",
+      "domain": "www.espn.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sat, 08 Jun 2019 19:35:32 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -354,12 +352,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -439,12 +437,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -700,12 +698,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -759,22 +757,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Revés por lesión para Zinedine Zidane: Marcus Thuram causa baja en la convocatoria de Francia y la ausencia de la estrella del Inter abre la puerta a un talento adolescente - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOZWJVRXNYY0I2Qm93aURsSUkwblAycVljZHI1YmNYa19NeTB2T3dkdHFPeDlsWTVhRTNKbkI5OGdDQjNONG5XUU1rWGx0N1JrdWVmWnhrSlU1eE5XUm1lWV9LeTRoS09WTzFXVmdGOTBvdVVYcUNKMUNLemhjeUdaM3NjRTRfMHY4NTlkV2F0RHJMNzBtU3VweWI5bEZGWUY1VzdXLV80d0V6UGp0LUhNWEhyME56QzJSbHZDUnBBcHFWYi0zQ2pyUzdUc2MyVWN5dkRwT0pVQWlTekpRcVR0dmdIblRnNUVXNmdTUlR1Q19aOWQxV0tnelZEU1NIZGRNcUJwMEZuTGJBa0wybjUtcDJyMmFKbE1wYVdxVWxFWWxuWWhtMkYzTU42Y3JwZXU3RjkwR0Z2X0lBQnM3YVFxdjNOY01rWkZ3Y1NF?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 10 Nov 2026 16:07:49 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [
-          "lesión o baja"
-        ],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Mauricio Pochettino, seleccionador de la selección masculina de Estados Unidos, se perfila como el principal objetivo del Manchester United mientras se acerca la salida de Michael Carrick - Goal.com",
         "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZFdjRmtubkZsUnJmbE8xS0szdzl1Tjd3ZnBodDhYY3VlRWF0ZzhnWURoVENZVjRYV2VIczB0bDdFQUc5aFI2VnktQWNkU3ZCSlRib2Y5c2FCUFNjUDdtdEkyNkFGQ0xTVlFEMFAxZ2FLUWJZWXpaM0FXcE5uY3RON1BqUklSdmZmbkNyYU1WVGVEejQ4Y0tnVFV3NTQ0MV9pYkhqT3N6eUM2cWs2NkVIYnp4dVFuQWxoX3o3MlFYYTNVMXdoYzlZX0U4NDlPMnFiYkdNdzlCUEJmLWVpcGN6eVRrUWcwVGtrbjhRNXpSSUgzWDZQLTl2QWVVWXJrV25sWW8tMWpJT3BBdEtxUEtwY01Cak5pZGEzRkNzVXZ5UGJtSWpLMzhsbEFBellBTjVjU0I0UHVoZzJNVE53c01vdFh6YjdZby1lWUw4MUNoTVV4UUk4RHNwci12bGpxUQ?oc=5",
         "domain": "www.goal.com",
@@ -799,6 +781,20 @@
         "matchedTeams": [],
         "tags": [
           "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Roma refuse to release Nahuel Molina for international duty despite reduced FIFA suspension - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUJwNjdraTcxMnZHdkdvN3dKTEVYeTBJZjFiRndyMFQyN3VzdGgwQ21qRjhOU09SdVJ2YUsxOXhaSHVGYjZISlZjN3pwZ0JzLXdISFZpZ29pR3hRNTFZdVJjazFDYWtXUURCd2hQemxQdEs2RkpaSUFhaHhfWURKMXZCZ09KZ2tJc3c?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 09 Nov 2026 22:08:28 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "sanción"
         ],
         "discoveredBy": "Google News RSS"
       }
@@ -876,12 +872,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -961,12 +957,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1046,12 +1042,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1131,12 +1127,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1216,12 +1212,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1301,12 +1297,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1386,12 +1382,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1471,12 +1467,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1645,12 +1641,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1817,12 +1813,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1902,12 +1898,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1987,12 +1983,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2072,12 +2068,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2157,12 +2153,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2242,12 +2238,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
