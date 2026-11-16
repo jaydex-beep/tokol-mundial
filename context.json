@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-15T18:49:21.889467Z",
+    "updatedAt": "2026-11-16T06:23:56.967336Z",
     "source": "Google News RSS",
-    "articleCount": 39,
+    "articleCount": 37,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -59,20 +59,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Mauricio Pochettino, seleccionador de la selección masculina de Estados Unidos, se perfila como el principal objetivo del Manchester United mientras se acerca la salida de Michael Carrick - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZFdjRmtubkZsUnJmbE8xS0szdzl1Tjd3ZnBodDhYY3VlRWF0ZzhnWURoVENZVjRYV2VIczB0bDdFQUc5aFI2VnktQWNkU3ZCSlRib2Y5c2FCUFNjUDdtdEkyNkFGQ0xTVlFEMFAxZ2FLUWJZWXpaM0FXcE5uY3RON1BqUklSdmZmbkNyYU1WVGVEejQ4Y0tnVFV3NTQ0MV9pYkhqT3N6eUM2cWs2NkVIYnp4dVFuQWxoX3o3MlFYYTNVMXdoYzlZX0U4NDlPMnFiYkdNdzlCUEJmLWVpcGN6eVRrUWcwVGtrbjhRNXpSSUgzWDZQLTl2QWVVWXJrV25sWW8tMWpJT3BBdEtxUEtwY01Cak5pZGEzRkNzVXZ5UGJtSWpLMzhsbEFBellBTjVjU0I0UHVoZzJNVE53c01vdFh6YjdZby1lWUw4MUNoTVV4UUk4RHNwci12bGpxUQ?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 10 Nov 2026 07:52:40 GMT",
-      "image": "",
-      "matchedTeams": [
-        "USA"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -179,20 +165,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Most World Cups hosted by country: Mexico, Brazil lead full list of FIFA locations since 1930 - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY0c1NUZ0cDZoWElJaXdpSjkzWE80d19BQ01ZUmNDM1R0SmZyQkRuVnR5NlJpa2I1dmU5SGViLWVsQUlpUWVQRkNaTVp6TV9mclB6RFFXVWY1c1VOejNFMllsbXE5WWxZX0RxcGRyQXlXanAzcVRObmhma0FOMGlmbXdNc3QwQQ?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Ecuador 2026 Season FIFA World Cup Scoring Stats - ESPN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3c5WVZYQXF0U1hWMzl3Ri1NWUxROFFVRWNOeWZPQ3hNQ2IxM1lrVHZXc3cyTGNyckxDSEN5OTQtNG41dk5OREViQlMzZDlYNk91UFhPMFg1TE5DWDgzWm1SMXRURnltc2FrYWc5aHQ1N0toTzJYV3cwQm1xNVpSS2d6UQ?oc=5",
       "domain": "www.espn.com",
@@ -281,24 +253,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -364,24 +336,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -460,26 +432,26 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Most World Cups hosted by country: Mexico, Brazil lead full list of FIFA locations since 1930 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY0c1NUZ0cDZoWElJaXdpSjkzWE80d19BQ01ZUmNDM1R0SmZyQkRuVnR5NlJpa2I1dmU5SGViLWVsQUlpUWVQRkNaTVp6TV9mclB6RFFXVWY1c1VOejNFMllsbXE5WWxZX0RxcGRyQXlXanAzcVRObmhma0FOMGlmbXdNc3QwQQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Ecuador 2026 Season FIFA World Cup Scoring Stats - ESPN",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3c5WVZYQXF0U1hWMzl3Ri1NWUxROFFVRWNOeWZPQ3hNQ2IxM1lrVHZXc3cyTGNyckxDSEN5OTQtNG41dk5OREViQlMzZDlYNk91UFhPMFg1TE5DWDgzWm1SMXRURnltc2FrYWc5aHQ1N0toTzJYV3cwQm1xNVpSS2d6UQ?oc=5",
         "domain": "www.espn.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Fri, 16 Jan 2026 15:14:49 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Ecuador to train for 2026 FIFA World Cup at Columbus Crew's facility - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmpZYTZvODNyTHhEZEYyeXBVV3gwRXdjbkRHZFh1QnNISVZ5VWFNSG82N1UyTnlLb1Y2QzhLWlphUHp2VHlUQjBkUUZkUXlNcl9JUVp6OGF4ZElLLUk5TVV6Q0trS3d2S3NpT3JzNEdnbnRoT2pkTHl3TUpVcnk2dnFHWnU?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 06 Feb 2026 08:00:00 GMT",
         "image": "",
         "matchedTeams": [
           "Ecuador"
@@ -620,24 +592,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -705,20 +677,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Mauricio Pochettino, seleccionador de la selección masculina de Estados Unidos, se perfila como el principal objetivo del Manchester United mientras se acerca la salida de Michael Carrick - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZFdjRmtubkZsUnJmbE8xS0szdzl1Tjd3ZnBodDhYY3VlRWF0ZzhnWURoVENZVjRYV2VIczB0bDdFQUc5aFI2VnktQWNkU3ZCSlRib2Y5c2FCUFNjUDdtdEkyNkFGQ0xTVlFEMFAxZ2FLUWJZWXpaM0FXcE5uY3RON1BqUklSdmZmbkNyYU1WVGVEejQ4Y0tnVFV3NTQ0MV9pYkhqT3N6eUM2cWs2NkVIYnp4dVFuQWxoX3o3MlFYYTNVMXdoYzlZX0U4NDlPMnFiYkdNdzlCUEJmLWVpcGN6eVRrUWcwVGtrbjhRNXpSSUgzWDZQLTl2QWVVWXJrV25sWW8tMWpJT3BBdEtxUEtwY01Cak5pZGEzRkNzVXZ5UGJtSWpLMzhsbEFBellBTjVjU0I0UHVoZzJNVE53c01vdFh6YjdZby1lWUw4MUNoTVV4UUk4RHNwci12bGpxUQ?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 10 Nov 2026 07:52:40 GMT",
-        "image": "",
-        "matchedTeams": [
-          "USA"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "How to Watch Czechia vs. Mexico in the 2026 FIFA World Cup for Free - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnpqa0x4QzRQSFFtd0dGM3pIQ3QwekMzUXgxOEFHbS14MnNXUE1aSEFpYkZTb09rUkkxZy1DUEhhNXFfZzd4ZWs1c0hlU2J1dnNsYUJmQ1RNOWk3ZENzRGx5dTlxOWpLcExnWE5aSGxkdFczaUJ3WGJRVHd4TGdUZ0FSaw?oc=5",
         "domain": "sports.yahoo.com",
@@ -739,6 +697,18 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -790,24 +760,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -873,24 +843,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -956,24 +926,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1039,24 +1009,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1122,24 +1092,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1205,24 +1175,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1288,24 +1258,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1371,24 +1341,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1482,12 +1452,12 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
+        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
+        "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1539,24 +1509,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1636,24 +1606,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1705,24 +1675,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1788,24 +1758,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1871,24 +1841,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1954,24 +1924,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2037,24 +2007,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2120,24 +2090,24 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "🏆 FIFA unveil official World Cup 2026 Team of the Tournament - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVVHY1A2TEw1LWlmckNMbFd2d05ubkZpb3kzeFNRekxZOTFndElIM3pOUTU1cmlQaGdDZzE5NUNKb1FpeUo3TnRTZEx1RkV2RHlabEdFSzA0bjBycTFYT184QjdSR1JrdzJjVEpBaDFyV2dEeGtxU2FHNG9SMjNoNkthZklsUQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
         "domain": "corporate.televisaunivision.com",
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
