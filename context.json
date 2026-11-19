@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-18T20:28:20.991016Z",
+    "updatedAt": "2026-11-19T07:20:57.213675Z",
     "source": "Google News RSS",
-    "articleCount": 50,
+    "articleCount": 51,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -64,8 +64,8 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Jude Bellingham shares his one wish for England fans after World Cup semi-final loss - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTQzRXdXLVpEcUV0R2FhTUlZZl9YTWpzVFdSWE9RYy1DNF83NDFNbzVrT2JpTFZGclJGbnNiSEtlNlJjVlZoTENQSFdMMXI5NVduTWZJaDZnUjRPR2lsc1E4Zy1QX2lBb0RvRmNXV25uanNHVlR0dWt5SWw5dXFkUE1BeWd4bUU?oc=5",
+      "title": "Jude Bellingham addresses heated Lionel Messi interaction during England’s World Cup semi-final loss - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjFrVzJwcDdicjRBOGhkMF85QUViZ0prU3hDcVhWbHVhNDdPNElLNjVVa1NUMk42WjJDYXMxREU4aEw2RWlLVl9iX1ZJei1aajFsTmxuS0VmQlJoNVBpTVBYeHB3VmNXM3VXWkx6SUJDVmhNUVluRV9ObkhXYWk3alZTY0xITF9taGtWTG8tNmYwdw?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
@@ -98,6 +98,34 @@
       "language": "Spanish",
       "sourceCountry": "",
       "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Morocco again knocked out of World Cup by France 2-0, this time in the quarterfinals - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVNETmpPUjh2NEtHUm9CZ0VkU3pWM05HUk92T2xLTldsVTV6QkJ1WjZEcE9QM0ZaTXpLT2ZXZjRRNm1hcXNLTFp6ODAxbmZURW5ucV9GT1FxLU1NWnpXZzdXVXJEbVFXalQtaXkwdkhYdjkwOXVJMnFaVjM1amZ0V0NNS01fSjg?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWdSbjIzVmoxZkdRcDlLM3dQajM3NWNqUk9wUDVXQUtqZ3JCdGVmV3NtYm9iX25tZ0N1eXRpQmwwendiRG1VdzRMNHlFQ3FFTHh3Y0FmNmIySE1CamNOLTBnbS1SZTl0SEg1djlLVGwxS1NEemZldFMtV3YzUVBlSnVyTDBjV1AwdFRGRUp0YjNiN0NYbkN2NnhEbjNXTzdhZXU2eExoeXhhanlSa282aWFkcGFaV2o5bUtVMGRwLVBsSklm?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
       "image": "",
       "matchedTeams": [
         "England"
@@ -159,6 +187,21 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -298,7 +341,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -310,6 +353,35 @@
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "Morocco again knocked out of World Cup by France 2-0, this time in the quarterfinals - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVNETmpPUjh2NEtHUm9CZ0VkU3pWM05HUk92T2xLTldsVTV6QkJ1WjZEcE9QM0ZaTXpLT2ZXZjRRNm1hcXNLTFp6ODAxbmZURW5ucV9GT1FxLU1NWnpXZzdXVXJEbVFXalQtaXkwdkhYdjkwOXVJMnFaVjM1amZ0V0NNS01fSjg?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
@@ -364,30 +436,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -527,8 +575,8 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Jude Bellingham shares his one wish for England fans after World Cup semi-final loss - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTQzRXdXLVpEcUV0R2FhTUlZZl9YTWpzVFdSWE9RYy1DNF83NDFNbzVrT2JpTFZGclJGbnNiSEtlNlJjVlZoTENQSFdMMXI5NVduTWZJaDZnUjRPR2lsc1E4Zy1QX2lBb0RvRmNXV25uanNHVlR0dWt5SWw5dXFkUE1BeWd4bUU?oc=5",
+        "title": "Jude Bellingham addresses heated Lionel Messi interaction during England’s World Cup semi-final loss - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjFrVzJwcDdicjRBOGhkMF85QUViZ0prU3hDcVhWbHVhNDdPNElLNjVVa1NUMk42WjJDYXMxREU4aEw2RWlLVl9iX1ZJei1aajFsTmxuS0VmQlJoNVBpTVBYeHB3VmNXM3VXWkx6SUJDVmhNUVluRV9ObkhXYWk3alZTY0xITF9taGtWTG8tNmYwdw?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -555,17 +603,17 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWdSbjIzVmoxZkdRcDlLM3dQajM3NWNqUk9wUDVXQUtqZ3JCdGVmV3NtYm9iX25tZ0N1eXRpQmwwendiRG1VdzRMNHlFQ3FFTHh3Y0FmNmIySE1CamNOLTBnbS1SZTl0SEg1djlLVGwxS1NEemZldFMtV3YzUVBlSnVyTDBjV1AwdFRGRUp0YjNiN0NYbkN2NnhEbjNXTzdhZXU2eExoeXhhanlSa282aWFkcGFaV2o5bUtVMGRwLVBsSklm?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "alineación"
+        "matchedTeams": [
+          "England"
         ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -643,7 +691,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -728,7 +776,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -813,7 +861,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -898,7 +946,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -983,7 +1031,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1068,7 +1116,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1153,7 +1201,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1238,7 +1286,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1323,7 +1371,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1408,7 +1456,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1452,8 +1500,8 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Jude Bellingham shares his one wish for England fans after World Cup semi-final loss - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTQzRXdXLVpEcUV0R2FhTUlZZl9YTWpzVFdSWE9RYy1DNF83NDFNbzVrT2JpTFZGclJGbnNiSEtlNlJjVlZoTENQSFdMMXI5NVduTWZJaDZnUjRPR2lsc1E4Zy1QX2lBb0RvRmNXV25uanNHVlR0dWt5SWw5dXFkUE1BeWd4bUU?oc=5",
+        "title": "Jude Bellingham addresses heated Lionel Messi interaction during England’s World Cup semi-final loss - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjFrVzJwcDdicjRBOGhkMF85QUViZ0prU3hDcVhWbHVhNDdPNElLNjVVa1NUMk42WjJDYXMxREU4aEw2RWlLVl9iX1ZJei1aajFsTmxuS0VmQlJoNVBpTVBYeHB3VmNXM3VXWkx6SUJDVmhNUVluRV9ObkhXYWk3alZTY0xITF9taGtWTG8tNmYwdw?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1480,33 +1528,32 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWdSbjIzVmoxZkdRcDlLM3dQajM3NWNqUk9wUDVXQUtqZ3JCdGVmV3NtYm9iX25tZ0N1eXRpQmwwendiRG1VdzRMNHlFQ3FFTHh3Y0FmNmIySE1CamNOLTBnbS1SZTl0SEg1djlLVGwxS1NEemZldFMtV3YzUVBlSnVyTDBjV1AwdFRGRUp0YjNiN0NYbkN2NnhEbjNXTzdhZXU2eExoeXhhanlSa282aWFkcGFaV2o5bUtVMGRwLVBsSklm?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
-        "tags": [
-          "alineación"
+        "matchedTeams": [
+          "England"
         ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
-        "domain": "www.beinsports.com",
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 20 Jun 2026 07:00:00 GMT",
+        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Belgium"
+          "France",
+          "England"
         ],
-        "tags": [
-          "alineación"
-        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       }
     ],
@@ -1584,7 +1631,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1756,7 +1803,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1841,7 +1888,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -1926,7 +1973,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -2011,7 +2058,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -2096,7 +2143,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
@@ -2181,7 +2228,7 @@
       },
       {
         "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
         "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
