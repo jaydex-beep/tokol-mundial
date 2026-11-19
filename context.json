@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-19T07:20:57.213675Z",
+    "updatedAt": "2026-11-19T20:32:14.480929Z",
     "source": "Google News RSS",
-    "articleCount": 51,
+    "articleCount": 53,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -50,6 +50,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
       "domain": "www.gob.mx",
@@ -64,17 +79,34 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Jude Bellingham addresses heated Lionel Messi interaction during England’s World Cup semi-final loss - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjFrVzJwcDdicjRBOGhkMF85QUViZ0prU3hDcVhWbHVhNDdPNElLNjVVa1NUMk42WjJDYXMxREU4aEw2RWlLVl9iX1ZJei1aajFsTmxuS0VmQlJoNVBpTVBYeHB3VmNXM3VXWkx6SUJDVmhNUVluRV9ObkhXYWk3alZTY0xITF9taGtWTG8tNmYwdw?oc=5",
+      "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
       "domain": "sports.yahoo.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¡La UEFA sanciona a Inglaterra! Multa a la FA y veto suspendido a sus aficionados a domicilio por cánticos discriminatorios en España - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcEd0WFdod1dCbVhSdmZXUVliQzlGY1Y1dUd4bU5aN1dCNmJQMGtsMVdkMXlWeFdQR3MtellXcHExaktYRERfb1RrSnNBOE1GcjJSQnczZWxVVTZJdEtPR1g3V1BXaXByemVuWDlqVGkyRmJnYTFyU3Y0Zks3Ulpud2Uwek5PVW1fSHhCRW84TzJPZVEyQWEyYmhXOTlOUlNremtlQnFWcE1pd3pyTkFwZWkxcVctZkJuUWdXZ1NLSWYyYk0xc3lRY3llbXRxWW94UjJxVVQzVllabUUza2JSa0RJa2V4LXBtWEJBT1ZHbXBGSWM4NFd3N3dfbkljZ0l5bDhiZ0xoNEFNUU94ZklCMjJ0N2k4dw?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 19 Nov 2026 19:44:50 GMT",
       "image": "",
       "matchedTeams": [
         "England"
       ],
-      "tags": [],
+      "tags": [
+        "sanción"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -187,21 +219,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France",
-        "England"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -354,6 +371,21 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Morocco again knocked out of World Cup by France 2-0, this time in the quarterfinals - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVNETmpPUjh2NEtHUm9CZ0VkU3pWM05HUk92T2xLTldsVTV6QkJ1WjZEcE9QM0ZaTXpLT2ZXZjRRNm1hcXNLTFp6ODAxbmZURW5ucV9GT1FxLU1NWnpXZzdXVXJEbVFXalQtaXkwdkhYdjkwOXVJMnFaVjM1amZ0V0NNS01fSjg?oc=5",
         "domain": "sports.yahoo.com",
@@ -363,21 +395,6 @@
         "image": "",
         "matchedTeams": [
           "France"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -443,6 +460,21 @@
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
+      {
+        "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico",
+          "Ecuador"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
@@ -512,20 +544,6 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ecuador 2026 Season FIFA World Cup Scoring Stats - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3c5WVZYQXF0U1hWMzl3Ri1NWUxROFFVRWNOeWZPQ3hNQ2IxM1lrVHZXc3cyTGNyckxDSEN5OTQtNG41dk5OREViQlMzZDlYNk91UFhPMFg1TE5DWDgzWm1SMXRURnltc2FrYWc5aHQ1N0toTzJYV3cwQm1xNVpSS2d6UQ?oc=5",
-        "domain": "www.espn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Fri, 16 Jan 2026 15:14:49 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "5ff7744314f224c18d1604ee9cc19263": [
@@ -575,14 +593,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Jude Bellingham addresses heated Lionel Messi interaction during England’s World Cup semi-final loss - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjFrVzJwcDdicjRBOGhkMF85QUViZ0prU3hDcVhWbHVhNDdPNElLNjVVa1NUMk42WjJDYXMxREU4aEw2RWlLVl9iX1ZJei1aajFsTmxuS0VmQlJoNVBpTVBYeHB3VmNXM3VXWkx6SUJDVmhNUVluRV9ObkhXYWk3alZTY0xITF9taGtWTG8tNmYwdw?oc=5",
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
+          "France",
           "England"
         ],
         "tags": [],
@@ -1500,14 +1519,15 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Jude Bellingham addresses heated Lionel Messi interaction during England’s World Cup semi-final loss - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjFrVzJwcDdicjRBOGhkMF85QUViZ0prU3hDcVhWbHVhNDdPNElLNjVVa1NUMk42WjJDYXMxREU4aEw2RWlLVl9iX1ZJei1aajFsTmxuS0VmQlJoNVBpTVBYeHB3VmNXM3VXWkx6SUJDVmhNUVluRV9ObkhXYWk3alZTY0xITF9taGtWTG8tNmYwdw?oc=5",
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
         "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
+          "France",
           "England"
         ],
         "tags": [],
@@ -1542,18 +1562,19 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
-        "domain": "sports.yahoo.com",
+        "title": "¡La UEFA sanciona a Inglaterra! Multa a la FA y veto suspendido a sus aficionados a domicilio por cánticos discriminatorios en España - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcEd0WFdod1dCbVhSdmZXUVliQzlGY1Y1dUd4bU5aN1dCNmJQMGtsMVdkMXlWeFdQR3MtellXcHExaktYRERfb1RrSnNBOE1GcjJSQnczZWxVVTZJdEtPR1g3V1BXaXByemVuWDlqVGkyRmJnYTFyU3Y0Zks3Ulpud2Uwek5PVW1fSHhCRW84TzJPZVEyQWEyYmhXOTlOUlNremtlQnFWcE1pd3pyTkFwZWkxcVctZkJuUWdXZ1NLSWYyYk0xc3lRY3llbXRxWW94UjJxVVQzVllabUUza2JSa0RJa2V4LXBtWEJBT1ZHbXBGSWM4NFd3N3dfbkljZ0l5bDhiZ0xoNEFNUU94ZklCMjJ0N2k4dw?oc=5",
+        "domain": "www.goal.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "seenDate": "Thu, 19 Nov 2026 19:44:50 GMT",
         "image": "",
         "matchedTeams": [
-          "France",
           "England"
         ],
-        "tags": [],
+        "tags": [
+          "sanción"
+        ],
         "discoveredBy": "Google News RSS"
       }
     ],
