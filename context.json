@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-19T20:32:14.480929Z",
+    "updatedAt": "2026-11-20T07:10:40.672428Z",
     "source": "Google News RSS",
-    "articleCount": 53,
+    "articleCount": 52,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -79,21 +79,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "France",
-        "England"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "¡La UEFA sanciona a Inglaterra! Multa a la FA y veto suspendido a sus aficionados a domicilio por cánticos discriminatorios en España - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcEd0WFdod1dCbVhSdmZXUVliQzlGY1Y1dUd4bU5aN1dCNmJQMGtsMVdkMXlWeFdQR3MtellXcHExaktYRERfb1RrSnNBOE1GcjJSQnczZWxVVTZJdEtPR1g3V1BXaXByemVuWDlqVGkyRmJnYTFyU3Y0Zks3Ulpud2Uwek5PVW1fSHhCRW84TzJPZVEyQWEyYmhXOTlOUlNremtlQnFWcE1pd3pyTkFwZWkxcVctZkJuUWdXZ1NLSWYyYk0xc3lRY3llbXRxWW94UjJxVVQzVllabUUza2JSa0RJa2V4LXBtWEJBT1ZHbXBGSWM4NFd3N3dfbkljZ0l5bDhiZ0xoNEFNUU94ZklCMjJ0N2k4dw?oc=5",
       "domain": "www.goal.com",
@@ -107,6 +92,20 @@
       "tags": [
         "sanción"
       ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "¿Peligra el puesto de Courtois? Lammens da un vuelco a la situación en Bélgica - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONlkweVFHVUxjbUQ2d1EwVUdISVlGMmRrU3BtVUNETDVBWHNoWlE5RVpOYkx1VnhHbWRxZk02YXA4T3cwN3NTYVBZUThDaWhNazN5YXg3cG4yQlc2TkJ5QTNBYWpwUTdseGZZZWJwUmV0LS1lQnRLNGRxMGU3WGt6dl83NjBwWkNvTnltazRTRFNVZXQxT3BXNVZvTHZQMnF5SG40blNucnhxZGtHWm1ObG9mdHhFRGtwVmlVRUVlMldIcEpZWURPRTlrZjA?oc=5",
+      "domain": "www.goal.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Thu, 19 Nov 2026 15:32:30 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
+      ],
+      "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -224,6 +223,21 @@
       "discoveredBy": "Google News RSS"
     },
     {
+      "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France",
+        "England"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
       "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
       "domain": "ussoccer.com",
@@ -238,6 +252,20 @@
       "tags": [
         "alineación"
       ],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Mexico Scores, Stats and Highlights - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JMDlfVmRyY0J4bFo3ckRXZWEwOVlkb05wRS1GZW1vbXZOamg2YXJHS2dQUUxMbmxfYjZ2eS1JcndLUHBrUnlmN3NlSWVoQXVEYndWeXdLX0FtdW9Q?oc=5",
+      "domain": "www.espn.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 23 Mar 2018 09:38:13 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
+      ],
+      "tags": [],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -264,20 +292,6 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
-      "title": "Ecuador to train for 2026 FIFA World Cup at Columbus Crew's facility - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmpZYTZvODNyTHhEZEYyeXBVV3gwRXdjbkRHZFh1QnNISVZ5VWFNSG82N1UyTnlLb1Y2QzhLWlphUHp2VHlUQjBkUUZkUXlNcl9JUVp6OGF4ZElLLUk5TVV6Q0trS3d2S3NpT3JzNEdnbnRoT2pkTHl3TUpVcnk2dnFHWnU?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -371,21 +385,6 @@
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
       {
-        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Morocco again knocked out of World Cup by France 2-0, this time in the quarterfinals - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVNETmpPUjh2NEtHUm9CZ0VkU3pWM05HUk92T2xLTldsVTV6QkJ1WjZEcE9QM0ZaTXpLT2ZXZjRRNm1hcXNLTFp6ODAxbmZURW5ucV9GT1FxLU1NWnpXZzdXVXJEbVFXalQtaXkwdkhYdjkwOXVJMnFaVjM1amZ0V0NNS01fSjg?oc=5",
         "domain": "sports.yahoo.com",
@@ -395,6 +394,21 @@
         "image": "",
         "matchedTeams": [
           "France"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
@@ -593,21 +607,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Former England referee chief gives ‘no doubt’ verdict to FIFA World Cup ‘rigged’ allegations - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0xBdWdNT1lwNVZ2eDdqd1VnamJWZDZIRmtPcERzbFZDMUZOMUlCNkZnTnAtVHdkR1N2TGJpNEZZSkNEN0RKck9Dal9meUFlc21qd0ZJc05EN3o2cEx6WWRVaXlVWlZDNzFLWWdNeC1IVGlVcHZEYW5tUTAyS0tHYTRVazRNQnF2N01N?oc=5",
         "domain": "sports.yahoo.com",
@@ -634,6 +633,21 @@
         ],
         "tags": [],
         "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
       }
     ],
     "658ac8cbf214ca3cc150109b4ddc1e74": [
@@ -651,6 +665,20 @@
         "tags": [
           "alineación"
         ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "¿Peligra el puesto de Courtois? Lammens da un vuelco a la situación en Bélgica - Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONlkweVFHVUxjbUQ2d1EwVUdISVlGMmRrU3BtVUNETDVBWHNoWlE5RVpOYkx1VnhHbWRxZk02YXA4T3cwN3NTYVBZUThDaWhNazN5YXg3cG4yQlc2TkJ5QTNBYWpwUTdseGZZZWJwUmV0LS1lQnRLNGRxMGU3WGt6dl83NjBwWkNvTnltazRTRFNVZXQxT3BXNVZvTHZQMnF5SG40blNucnhxZGtHWm1ObG9mdHhFRGtwVmlVRUVlMldIcEpZWURPRTlrZjA?oc=5",
+        "domain": "www.goal.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 19 Nov 2026 15:32:30 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -703,18 +731,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlIzUW5QVjVGLXNaeTdxZXljb0hXR3EtZHhPNmd3SE9DUU5UQ0pzc0RTem1Vc0xMQ1hnc3FENVdhdE9Sa0trUUhGV3JlTEpQV2FKYzhvdzdJR2sxQ2dITVA5cFFuang3XzJlUmhQWUZTZ29XcWVoVy1WaXJKbmoycDhUWFpVMXV0b1JiM1RXREd5dUFPVy1ZNUhaS1FTWXpnRzVBeHNjRU81S09WUzNtbQ?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1519,21 +1535,6 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "France",
-          "England"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
         "title": "Former England referee chief gives ‘no doubt’ verdict to FIFA World Cup ‘rigged’ allegations - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0xBdWdNT1lwNVZ2eDdqd1VnamJWZDZIRmtPcERzbFZDMUZOMUlCNkZnTnAtVHdkR1N2TGJpNEZZSkNEN0RKck9Dal9meUFlc21qd0ZJc05EN3o2cEx6WWRVaXlVWlZDNzFLWWdNeC1IVGlVcHZEYW5tUTAyS0tHYTRVazRNQnF2N01N?oc=5",
         "domain": "sports.yahoo.com",
@@ -1556,6 +1557,21 @@
         "seenDate": "Sun, 19 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
+          "England"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Most World Cup wins by country: Where England, France, Spain, Argentina rank on FIFA all-time men's list - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXZyRm5DUkxLSUY1TEc4cGVld29mSHBvRTdBeF9pNUhWajRyMVRyaTBZdkN1bUk4dXZjdnY2WXJRT012aDQ2YkYyZEFDYXRLYUtfTERlaHJGaVlPYU1BZF9ZY2lzV1V1a25kcVJpYkVVNENMd0lGUnZjVmx1cWVpX1pB?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France",
           "England"
         ],
         "tags": [],
