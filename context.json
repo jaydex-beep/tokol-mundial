@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-20T20:12:15.403156Z",
+    "updatedAt": "2026-11-21T07:01:49.245507Z",
     "source": "Google News RSS",
-    "articleCount": 46,
+    "articleCount": 55,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -36,21 +36,6 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
-      "domain": "sports.yahoo.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Mexico",
-        "Ecuador"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Mexico, US and Canada take charge of organizing FIFA World Cup 2026 in North America - Gob MX",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F6WFRBRXJsOEJfaENOeTZDMjFmUHJtQnYzYXctaDZ4SWFNTGNaNHo0SWk5TWpsdmg5N0QtUE03REU1YXdzdmNjeGI5SFE0Y1FSOTNIdGVXcTBscTdlRXByYkhhMHBmcVV4LVRUc3J1bzVwZi02dGZwTXFZQTl5MVhjdk1zVUMxRmdQRHpWcXR1aUE1cjFKV3pEb2xxQVNPNEEybmtyQjM2c1ZrWUxRSG9jMA?oc=5",
       "domain": "www.gob.mx",
@@ -62,6 +47,22 @@
         "Mexico"
       ],
       "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "France"
+      ],
+      "tags": [
+        "previa"
+      ],
       "discoveredBy": "Google News RSS"
     },
     {
@@ -81,26 +82,12 @@
       "discoveredBy": "Google News RSS"
     },
     {
-      "title": "¿Peligra el puesto de Courtois? Lammens da un vuelco a la situación en Bélgica - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONlkweVFHVUxjbUQ2d1EwVUdISVlGMmRrU3BtVUNETDVBWHNoWlE5RVpOYkx1VnhHbWRxZk02YXA4T3cwN3NTYVBZUThDaWhNazN5YXg3cG4yQlc2TkJ5QTNBYWpwUTdseGZZZWJwUmV0LS1lQnRLNGRxMGU3WGt6dl83NjBwWkNvTnltazRTRFNVZXQxT3BXNVZvTHZQMnF5SG40blNucnhxZGtHWm1ObG9mdHhFRGtwVmlVRUVlMldIcEpZWURPRTlrZjA?oc=5",
-      "domain": "www.goal.com",
-      "language": "Spanish",
-      "sourceCountry": "",
-      "seenDate": "Thu, 19 Nov 2026 15:32:30 GMT",
-      "image": "",
-      "matchedTeams": [
-        "Belgium"
-      ],
-      "tags": [],
-      "discoveredBy": "Google News RSS"
-    },
-    {
       "title": "Jamaica presume 13 futbolistas en Europa para enfrentar a México: en estos equipos juegan sus convocados - TV Azteca",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTW9WTDZmdDFNMXpmQnc2VG5hQUowc0x3U0NEdWItWU5iU3M1WjFxR290OW93UmNLbTZVcHpUSHdSU3g5TzcweFY2ZTB1c1A2dXN4WXdmcUZKOHFPM0YtR1U3MHVQOVF6MzJhVWVQdF93X2t6NEFodmVIdVhIUjY5VUNLa0hkSDhGYnR2eG9XWTFPSi1aZFlmMjRFczV3U0l0QjB2dHNxLTNvTWVFbEM2SjFGVWRXT0F0bDJIV3JjTTlBY08zZ1E0WmYwSWNmd1c1MFdnTERfdkp2c0ZB?oc=5",
       "domain": "www.tvazteca.com",
       "language": "Spanish",
       "sourceCountry": "",
-      "seenDate": "Thu, 12 Nov 2026 18:19:26 GMT",
+      "seenDate": "Thu, 12 Nov 2026 08:00:00 GMT",
       "image": "",
       "matchedTeams": [
         "Mexico"
@@ -132,6 +119,20 @@
       "image": "",
       "matchedTeams": [
         "France"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Mexico 2026 FIFA World Cup Squad - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82b0VYQmJmTjBCTGRhNUF5T1JvZzYtWldyZDZhZk5JcXBJT2hOTGl1Zm90ZFZfTkM2LWZSR2luc1JSRi16R3pmdGJnZEFKa04xOVI3YUpFZXRoazUzbW4wNFJ4WENPTW4tejJLNnZ2OFZPcUk?oc=5",
+      "domain": "www.espn.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Mexico"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -176,6 +177,20 @@
       "image": "",
       "matchedTeams": [
         "Mexico"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Explore DAZN | DAZN Ecuador - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SejE0V0JsOW5FN1hTblpqbGQ0NUhTX2N2bzVXWmd1WWFmLVZjSkNJY1JRcC1EcVFXU0JMc01kM0VjLVNqM1E?oc=5",
+      "domain": "www.dazn.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Mon, 30 Nov 2020 12:35:35 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Ecuador"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -244,6 +259,36 @@
   "matches": {
     "ce017bea1a26252278053ce759e2416b": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -299,33 +344,25 @@
         "matchedTeams": [],
         "tags": [],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "0b5491529142c9bcc3f88bf45ccb0a7b": [
+      {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Morocco again knocked out of World Cup by France 2-0, this time in the quarterfinals - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVNETmpPUjh2NEtHUm9CZ0VkU3pWM05HUk92T2xLTldsVTV6QkJ1WjZEcE9QM0ZaTXpLT2ZXZjRRNm1hcXNLTFp6ODAxbmZURW5ucV9GT1FxLU1NWnpXZzdXVXJEbVFXalQtaXkwdkhYdjkwOXVJMnFaVjM1amZ0V0NNS01fSjg?oc=5",
@@ -356,6 +393,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -387,48 +438,9 @@
           "alineación"
         ],
         "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ver FIFA+ Online en Directo | DAZN ES - DAZN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXBEYW9OVUhrY0tFZTU3Z1ZVVW8yQUxzM2czSzl6bVQ1TjhPZ21pU3Fvc3hTM25aTE0wa1V2LVo3aW9GQnQtem5DLWpTZDFrYkVQOFg0blpnY3UwelAweUhLb1otX0MtT21TUWJRSTBYRnc3MEhvc1JrSW8tQkREZFd3?oc=5",
-        "domain": "www.dazn.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
       }
     ],
     "f58c55a9da96af562c31b7c5cca40187": [
-      {
-        "title": "What time does Mexico play today vs. Ecuador in World Cup? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazRJSDAzeXlpV2pwZTNTMk1Cdl90cXIyMFF6ZFFjaHZEay1oalc2VWlSUUpxQmV5VFBucDdFSFpVUm9RS1NJOWsyMi1GX0VkSkxMczE0eTVCcEpkSE5DUU45d0w3VkhUcVVBc1ZFeEdIZ3pRYW02MTVOMXRsU1dwX0Nn?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [
-          "Mexico",
-          "Ecuador"
-        ],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
       {
         "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
@@ -450,6 +462,20 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Tue, 20 Dec 2022 12:27:08 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Mexico"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "Mexico 2026 FIFA World Cup Squad - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82b0VYQmJmTjBCTGRhNUF5T1JvZzYtWldyZDZhZk5JcXBJT2hOTGl1Zm90ZFZfTkM2LWZSR2luc1JSRi16R3pmdGJnZEFKa04xOVI3YUpFZXRoazUzbW4wNFJ4WENPTW4tejJLNnZ2OFZPcUk?oc=5",
+        "domain": "www.espn.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Sun, 09 Jun 2019 11:47:45 GMT",
         "image": "",
         "matchedTeams": [
           "Mexico"
@@ -610,17 +636,33 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "¿Peligra el puesto de Courtois? Lammens da un vuelco a la situación en Bélgica - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONlkweVFHVUxjbUQ2d1EwVUdISVlGMmRrU3BtVUNETDVBWHNoWlE5RVpOYkx1VnhHbWRxZk02YXA4T3cwN3NTYVBZUThDaWhNazN5YXg3cG4yQlc2TkJ5QTNBYWpwUTdseGZZZWJwUmV0LS1lQnRLNGRxMGU3WGt6dl83NjBwWkNvTnltazRTRFNVZXQxT3BXNVZvTHZQMnF5SG40blNucnhxZGtHWm1ObG9mdHhFRGtwVmlVRUVlMldIcEpZWURPRTlrZjA?oc=5",
-        "domain": "www.goal.com",
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Thu, 19 Nov 2026 15:32:30 GMT",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Belgium"
+          "France"
         ],
-        "tags": [],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
         "discoveredBy": "Google News RSS"
       },
       {
@@ -659,18 +701,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -696,6 +726,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -730,30 +790,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -762,6 +798,36 @@
     ],
     "a518ac20df8f5c732b881e213ae0c230": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -813,30 +879,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -845,6 +887,36 @@
     ],
     "852b4baf0be4b9eef2a30596a8d39249": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -896,30 +968,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -928,6 +976,36 @@
     ],
     "c17fe2e46190d7ab6af01504ff240e82": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -979,30 +1057,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1011,6 +1065,36 @@
     ],
     "fb270a3dac2b682c861bd674a5ff4a04": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1062,30 +1146,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1094,6 +1154,36 @@
     ],
     "3e161b2448ed76d6b0c0f5bda6fd5bf2": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1145,30 +1235,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1177,6 +1243,36 @@
     ],
     "88e032a2b2e5042d26db3f0da1df924a": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1228,30 +1324,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1260,6 +1332,36 @@
     ],
     "9c7073ae2c29ee4881bb695f92168c68": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1311,30 +1413,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1343,6 +1421,36 @@
     ],
     "537c0997cd899394f47f16545b7068b2": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1394,30 +1502,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1502,23 +1586,53 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
-        "domain": "www.beinsports.com",
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Sat, 20 Jun 2026 07:00:00 GMT",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [
-          "Belgium"
+          "France"
         ],
         "tags": [
-          "alineación"
+          "previa"
         ],
         "discoveredBy": "Google News RSS"
       }
     ],
     "67ae5751c401a98409b8566ae4897069": [
+      {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
       {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
@@ -1571,30 +1685,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1617,6 +1707,36 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1656,30 +1776,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 24 Sep 2025 06:12:23 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Messi, Dembele and more: Watch all long-range goals at World Cup 2026 - FIFA",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVdJdmZidWlzaHBZclZXLUMzYUIxREJvM0Y3VThjcmtBWG5YTGwtcVc1TlVjaU5vT2JHWXctbG02OFRyMWN2cFFIUkd4dTk5U1ZvUzdiUWZOazZheDJ6U2h4bnZZWHMzT3BtYjJsRHUyNHQySXZTVERmS2xJUW1TOHFpWVIwdzJJVjduZ2RVNHFpeXduRm1zWWtQckFSUFFKSDRZ?oc=5",
-        "domain": "www.fifa.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1688,6 +1784,36 @@
     ],
     "8756200e539155e571557c4f2e0d7f05": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1739,30 +1865,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1771,6 +1873,36 @@
     ],
     "54697f453437ab26276d773be1d72e9b": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1822,30 +1954,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1854,6 +1962,36 @@
     ],
     "def55b09ef3d6854e3c01e74b5c63415": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1905,30 +2043,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -1937,6 +2051,36 @@
     ],
     "4f3d72fba877939d36a5315618184093": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -1988,30 +2132,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2020,6 +2140,36 @@
     ],
     "4930db8e83436874d09e59bd0e29c1a5": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -2071,30 +2221,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -2103,6 +2229,36 @@
     ],
     "5a34afe2de99513ba48360b983cfe80c": [
       {
+        "title": "France vs Spain Odds & Predictions: Mbappé, Yamal Lead Historic World Cup Semifinal Battle - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXRRTDlDaU1YY1VOSWJuQ3RUdHpKbVUybVRhXzkwaWFDUXhjQTQ0aUM0cy1aenRpdFRUazVGWktIWkRIUnlJZlZERDBDZ2RJQzJ2anBaZkx0WFNDVnQ4T3RTOWd3cUZ0T1gzWG5Ma1JzUVYxZEtCblBKY2VOblVTN0lUNWx4TVFP?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "France"
+        ],
+        "tags": [
+          "previa"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
+        "title": "2026 World Cup predicted lineups: Final and third-place match XIs - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzFQNmVhN0t6RG5odUU0cWk0UEx0QWdvVTRNRUhHQm56enliRktBWWVianphZ3oxYlZrRkM5MnBCTjMxcjE0Ml9XMTdCcHJNUjdvaTVfOE1rOW41U3lUNU1mU0lMTFBVb1RJOUNrNmlWT3VReGNuMFJDTnc4a2J5eXZqclVMQlA3?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [],
+        "tags": [
+          "alineación"
+        ],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "Belgium Possible Lineup to Face Iran in the FIFA World Cup - beIN SPORTS",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVI3YUctQWdmdldNVlZDV2dHSHl1NGxfYnRQVU5BN3FMR1hYR3dHdE4xbm9KTUVPRlhlMGJIVkcwb2NXbkwxeUs2Ujl2REh4d2VwdDN3cTM1Y2VZNHhkVWFva2h3QWs3R0M5OWVSNHJPdkV5THcxRE5DMjZrNVR2b19TSnhtekhZWldpSmhxbFVacDltSm9FSTh1N0lxWGhjWTdHY3RpRVV6N2xaZlNPcTJmYm1EYW9xQzMwU0tZeHRZQjdRRjUtX2h1SHFaemVXeWwwSw?oc=5",
         "domain": "www.beinsports.com",
@@ -2154,30 +2310,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "TelevisaUnivision Announces FIFA World Cup 2026 Radio Coverage Across Select Network Stations in Partnership with Fútbol de Primera - TelevisaUnivision",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM3J0bDYyMllISzBuOFNwdnFyZFcxRlZVejdBQUtoMHM3UzRZNzk3LVM4SjczOUE5enRsdU9YNEV2N0tfYm5YSWVSS2NKbHdyaWhyZVZURTBVUmdjMDRUNjJNcTFRNHZPWlhyUFNvWnNtVGNXbVpBUnJxUXFxRUl5X2ZYQ3hESnlDR1JFZjBscFlySUVoQ1ZaLWVIUEZzd0NxQURiTWNZSDNqRWh1RVFnLXREM05LVUN5ZC1UUURqaGV5VjlIck9wOHRiLTBYU3hvTHY1cTQzWl83NkJncWRWdkRUVlk0ZVVZQ2lsTUVsVVFaMjJPNWRBOHJmclFTV1Q4OExDbl9IX0VTQ0hqWGNiTlpGdXNaT1Iz0gGeAkFVX3lxTE9WTm9RSWE3N19nYlNMOGdDdXdXZ3Z5N0FmcXRmSDg0dkpUSm85dUkzQVY5ZVhBQVJ0dzk1aUpkaGIwdlEwNGprRVFnQ1FPbFZhc3d1QmNLby1HVHNzS2Z6Ykw3RHR0ZkVPdUQyMTdLMTBIS2dQTzh1UWRPbnFiUDdMSmw2aGJPUTV5NVhXUm4yX3B4UlByMVNJUmhIdE8zOWQ0WmtiR0d1UXd0YlFkSnRCZEEzZWdsV2FQamx5UE5XczBETV9YTm5BYmRqclkyNkFJS3c5Mm1WSXhtb1JzYTlsQzBPYXlCZDNEU0lCNXh1QmsxdFU1MDEycGdDemtiX0s5VFVHN05fLTdjTGhYcGFOUk9XSUVmU1VNRnYwd0E?oc=5",
-        "domain": "corporate.televisaunivision.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "World Cup winners list: Which countries have taken sport's ultimate crown? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzhnVTVGa2MzeDhNcTUtV0JkN2hLcVpuTG1YWWZ0OTdZZ2FTazNwYXhRWXFTT2o0blZQTGtrdGkxV2tRZEk1cnhYUW1temlhc1V4bVQyQjZvWnRZUXJBdEtzSHgzbVJSbXZqYTBBM1hQRS1MbkZXNFM2THE4ekFDRFY1NzFFZE93?oc=5",
-        "domain": "sports.yahoo.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 15 Jul 2026 07:00:00 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
