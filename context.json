@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updatedAt": "2026-11-22T19:35:06.121654Z",
+    "updatedAt": "2026-11-23T07:32:39.263329Z",
     "source": "Google News RSS",
-    "articleCount": 38,
+    "articleCount": 33,
     "queryCount": 1,
     "warning": "Las noticias son menciones públicas encontradas en internet. No confirman por sí solas rumores, lesiones o alineaciones."
   },
@@ -165,6 +165,20 @@
       "image": "",
       "matchedTeams": [
         "Ecuador"
+      ],
+      "tags": [],
+      "discoveredBy": "Google News RSS"
+    },
+    {
+      "title": "Has Belgium ever won the World Cup? Red Devils' FIFA history explained - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOU1jOXVuWFo4ampTOGNPMl9CcFVjYlo3ZTNHaEpzbnlwanV0Z0RfYlFrOU1xOG1lX1RsRXgzMXYtZlZhSjZHcU15NGdNMFluYURESmpScXNwYWVKRDBWeElVQ2RGdXBRZkM2ajJ6MmdsRFNjeFJIXzRZenBmc1lkdA?oc=5",
+      "domain": "sports.yahoo.com",
+      "language": "Spanish",
+      "sourceCountry": "",
+      "seenDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "image": "",
+      "matchedTeams": [
+        "Belgium"
       ],
       "tags": [],
       "discoveredBy": "Google News RSS"
@@ -540,6 +554,20 @@
         "discoveredBy": "Google News RSS"
       },
       {
+        "title": "Has Belgium ever won the World Cup? Red Devils' FIFA history explained - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOU1jOXVuWFo4ampTOGNPMl9CcFVjYlo3ZTNHaEpzbnlwanV0Z0RfYlFrOU1xOG1lX1RsRXgzMXYtZlZhSjZHcU15NGdNMFluYURESmpScXNwYWVKRDBWeElVQ2RGdXBRZkM2ajJ6MmdsRFNjeFJIXzRZenBmc1lkdA?oc=5",
+        "domain": "sports.yahoo.com",
+        "language": "Spanish",
+        "sourceCountry": "",
+        "seenDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "image": "",
+        "matchedTeams": [
+          "Belgium"
+        ],
+        "tags": [],
+        "discoveredBy": "Google News RSS"
+      },
+      {
         "title": "FIFA World Cup 2022: USA vs. England - Lineup, Schedule & TV Channels - US Soccer",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFFBR1NwWXZjOVBmMW5XaWpLOEt1aXk5amx0Q0MtclpnNHpvQ3Z4SlNsUldYUUFDV2h3T25IU0M0am9TY183ZHEyZEZxOEF4VnBNOWhHVW1KT1lkaGJnVVZEV3pRQWFScGVKcU1CNF9Ydmo2TzdYQ01DNVNrbHBmWElDRV9uZXZreXRfTFJ3dy1zUHNnSkJKMjRoQmJQWkpJdkFCZXY2ekMyZVNjcDZ2TnZuaXByM0xBWUFuSTlR?oc=5",
         "domain": "ussoccer.com",
@@ -587,18 +615,6 @@
         "language": "Spanish",
         "sourceCountry": "",
         "seenDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "image": "",
-        "matchedTeams": [],
-        "tags": [],
-        "discoveredBy": "Google News RSS"
-      },
-      {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
-        "language": "Spanish",
-        "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
         "image": "",
         "matchedTeams": [],
         "tags": [],
@@ -676,14 +692,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -759,14 +777,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -842,14 +862,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -925,14 +947,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1008,14 +1032,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1091,14 +1117,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1174,14 +1202,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1257,14 +1287,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1340,14 +1372,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1512,14 +1546,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1680,14 +1716,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1763,14 +1801,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1846,14 +1886,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -1929,14 +1971,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2012,14 +2056,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
@@ -2095,14 +2141,16 @@
         "discoveredBy": "Google News RSS"
       },
       {
-        "title": "Ranking FIFA: Marruecos hace historia y Egipto retrocede - Goal.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3l6TVR5ckh2QVM5M1hGQVlCeUE1WURndTBPaVBUR3BWUGJqT2hiRFJVSzFVdUJhYlBNTld2eVZIcDhELUxYN3NwdTlKUDNLUDFVeG5hazFNVjNiVUJDTHhqNzhXSFVFT3l1al9sOEFfRzd6YTdya0JveGtOVnRFa2NiTGpaQ19NTjdVdWlEMTFnYlpBemp5RWFTUDFVSHJueW5FZzBRcUh1R2Ni?oc=5",
-        "domain": "www.goal.com",
+        "title": "FIFA Mexico 2026 World Cup Entry Requirements: Visa and Immigration Guide - Fragomen",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGJsTnhMeDE2UVBYRGpJZnFMQUFiVlRpeHFrRWNVLXNTWDdzQTZWWXBDSmZEMlJlNzZ2enFkcU12azVzanUzT3h1eHRkSDdzT25GRTdwUko4b0k3Qi1TTjNYT3VoNWZ5UzN4NEdFck1IdV84RVMzOU8xa0N0d3RlYW9PRWpSNXRjNm5YUVZCWVd3ZkF3QVVnN1ZMMEZOSURuZlJpd01xYzZTR0lJTHlRSA?oc=5",
+        "domain": "www.fragomen.com",
         "language": "Spanish",
         "sourceCountry": "",
-        "seenDate": "Wed, 18 Nov 2026 13:29:29 GMT",
+        "seenDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "image": "",
-        "matchedTeams": [],
+        "matchedTeams": [
+          "Mexico"
+        ],
         "tags": [],
         "discoveredBy": "Google News RSS"
       }
